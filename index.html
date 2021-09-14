@@ -1,0 +1,56 @@
+<style>
+  html,
+  body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: stretch;
+    align-content: stretch;
+  }
+</style>
+<div id="mynetwork"></div>
+<script src="https://visjs.github.io/vis-network/standalone/umd/vis-network.min.js"></script>
+<script>
+  (async () => {
+    var nodes = await fetch("nodes.json").then((e) => e.json());
+    var edges = await fetch("edges.json").then((e) => e.json());
+    var network = null;
+    var container = document.getElementById("mynetwork");
+    var data = {
+      nodes: nodes,
+      edges: edges,
+    };
+    var options = {
+      nodes: {
+        shape: "dot",
+        scaling: {
+          min: 10,
+          max: 60,
+        },
+        font: {
+          size: 36,
+          face: "Tahoma",
+        },
+      },
+      edges: {
+        width: 0.15,
+        color: { inherit: "from" },
+        smooth: false,
+      },
+      physics: {
+        enabled: false,
+        stabilization: false,
+        barnesHut: {
+          gravitationalConstant: -80000,
+          springConstant: 0.1,
+          springLength: 20,
+        },
+      },
+      interaction: {
+        tooltipDelay: 200,
+        hideEdgesOnDrag: true,
+      },
+    };
+    network = new vis.Network(container, data, options);
+  })();
+</script>
