@@ -76,16 +76,16 @@ for (const stopId of Array.from(stopMap.keys())) {
 fs.writeFileSync(
   "nodes.json",
   JSON.stringify(
-    Array.from(nodeMap).map((e) => ({
+    Array.from(nodeMap.values()).map((e) => ({
       borderWidth: 0,
       borderWidthSelected: 1,
-      id: e[0],
-      value: new Set(e[1].routes?.map((e) => e.split("+")[0])).size,
-      label: e[1].name.zh,
+      id: e.id,
+      value: new Set(e.routes.map((e) => e.split("+")[0])).size,
+      label: e.name.zh,
       shape: "hexagon",
-      title: Array.from(new Set(e[1].routes?.map((e) => e.split("+")[0]))).join(","),
-      x: (e[1].location.lng - 114) * 100000,
-      y: (e[1].location.lat - 22) * 100000 * -1,
+      title: Array.from(new Set(e.routes.map((e) => e.split("+")[0]))).join(","),
+      x: (e.location.lng - 114) * 100000,
+      y: (e.location.lat - 22) * 100000 * -1,
     })),
     null,
     2
@@ -95,7 +95,7 @@ fs.writeFileSync(
 fs.writeFileSync(
   "edges.json",
   JSON.stringify(
-    Array.from(edgeMap).map((e) => ({
+    Array.from(edgeMap.values()).map((e) => ({
       arrows: {
         to: {
           enabled: true,
@@ -108,12 +108,12 @@ fs.writeFileSync(
           max: 8,
         },
       },
-      from: e[1].from,
-      to: e[1].to,
-      value: e[1].routes.length,
-      title: Array.from(new Set(e[1].routes?.map((e) => e.split("+")[0]))).join(","),
-      label: `${e[1].distance | 0}`,
-      color: { kmb: "red", ctb: "#d9d100", nlb: "orange", nwfb: "purple" }[e[1].operator],
+      from: e.from,
+      to: e.to,
+      value: e.routes.length,
+      title: Array.from(new Set(e.routes.map((e) => e.split("+")[0]))).join(","),
+      label: `${e.distance | 0}`,
+      color: { kmb: "red", ctb: "#d9d100", nlb: "orange", nwfb: "purple" }[e.operator],
     })),
     null,
     2
@@ -122,12 +122,12 @@ fs.writeFileSync(
 
 // console.log(
 //   // busiest paths
-//   Array.from(edgeMap)
+//   Array.from(edgeMap.values())
 //     .map((e) => ({
-//       from: stopMap.get(e[1].from).name.zh,
-//       to: stopMap.get(e[1].to).name.zh,
-//       count: Array.from(new Set(e[1].routes.map((e) => e.split("+")[0]))).length,
-//       routes: Array.from(new Set(e[1].routes.map((e) => e.split("+")[0]))).join(","),
+//       from: stopMap.get(e.from).name.zh,
+//       to: stopMap.get(e.to).name.zh,
+//       count: Array.from(new Set(e.routes.map((e) => e.split("+")[0]))).length,
+//       routes: Array.from(new Set(e.routes.map((e) => e.split("+")[0]))).join(","),
 //     }))
 //     .sort((a, b) => b.count - a.count)
 //     .slice(0, 10)
@@ -135,12 +135,12 @@ fs.writeFileSync(
 
 // console.log(
 //   // longest paths
-//   Array.from(edgeMap)
+//   Array.from(edgeMap.values())
 //     .map((e) => ({
-//       from: stopMap.get(e[1].from).name.zh,
-//       to: stopMap.get(e[1].to).name.zh,
-//       distance: e[1].distance,
-//       routes: Array.from(new Set(e[1].routes.map((e) => e.split("+")[0]))).join(","),
+//       from: stopMap.get(e.from).name.zh,
+//       to: stopMap.get(e.to).name.zh,
+//       distance: e.distance,
+//       routes: Array.from(new Set(e.routes.map((e) => e.split("+")[0]))).join(","),
 //     }))
 //     .sort((a, b) => b.distance - a.distance)
 //     .slice(0, 10)
@@ -148,12 +148,12 @@ fs.writeFileSync(
 
 // console.log(
 //   // shortest paths
-//   Array.from(edgeMap)
+//   Array.from(edgeMap.values())
 //     .map((e) => ({
-//       from: stopMap.get(e[1].from).name.zh,
-//       to: stopMap.get(e[1].to).name.zh,
-//       distance: e[1].distance,
-//       routes: Array.from(new Set(e[1].routes.map((e) => e.split("+")[0]))).join(","),
+//       from: stopMap.get(e.from).name.zh,
+//       to: stopMap.get(e.to).name.zh,
+//       distance: e.distance,
+//       routes: Array.from(new Set(e.routes.map((e) => e.split("+")[0]))).join(","),
 //     }))
 //     .filter((e) => !(e.from === e.to || e.from.match(/(轉車|總站)/) || e.to.match(/(轉車|總站)/)))
 //     .sort((a, b) => a.distance - b.distance)
