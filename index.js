@@ -23,7 +23,6 @@ const { routeList, stopList } = await fetch(
 const routeMap = new Map(Object.entries(routeList));
 const stopMap = new Map(Object.entries(stopList));
 const nodeMap = new Map();
-
 const edgeMap = new Map();
 for (const [routeId, { stops }] of Object.entries(routeList)) {
   for (const [operator, stopIdList] of Object.entries(stops)) {
@@ -67,11 +66,12 @@ console.log(
 );
 
 console.log("No route to these bus stops:");
-for (const stopId of Array.from(stopMap.keys())) {
-  if (!nodeMap.has(stopId)) {
-    console.log(stopId, stopMap.get(stopId).name.zh);
-  }
-}
+console.log(
+  Array.from(stopMap.keys())
+    .filter((e) => !nodeMap.has(e))
+    .map((e) => `${e} ${stopMap.get(e).name.zh}`)
+    .join("\n")
+);
 
 fs.writeFileSync(
   "nodes.json",
