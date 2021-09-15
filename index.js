@@ -18,6 +18,7 @@ const getDistance = (a, b) => {
 const { routeList, stopList } = await fetch(
   "https://hkbus.github.io/hk-bus-crawling/routeFareList.min.json"
 ).then((r) => r.json());
+// const { routeList, stopList } = JSON.parse(fs.readFileSync("routeFareList.min.json", "utf-8"));
 
 const routeMap = new Map(Object.entries(routeList));
 const stopMap = new Map(Object.entries(stopList));
@@ -36,15 +37,12 @@ for (const [routeId, { stops }] of Object.entries(routeList)) {
           to,
           distance: getDistance(stopMap.get(from).location, stopMap.get(to).location),
           routes: [routeId],
+          operator,
         });
       } else {
-        const { from, to, distance, routes } = edgeMap.get(key);
-        edgeMap.set(key, {
-          from,
-          to,
-          distance,
-          routes: routes.concat(routeId),
-        });
+        const edg = edgeMap.get(key);
+        edg.routes = edg.routes.concat(routeId);
+        edgeMap.set(key, edg);
       }
       const fromNode = nodeMap.get(from);
       if (!fromNode.next) fromNode.next = new Set();
@@ -55,14 +53,17 @@ for (const [routeId, { stops }] of Object.entries(routeList)) {
     }
   }
 }
+console.log(nodeMap.size, "nodes", edgeMap.size, "edges");
 
 fs.writeFileSync(
   "nodes.json",
   JSON.stringify(
     Array.from(nodeMap).map((e) => ({
       id: e[0],
-      value: new Set(e[1].routes?.map((e) => e.split("-")[0])).size,
+      value: new Set(e[1].routes?.map((e) => e.split("+")[0])).size,
       label: e[1].name.zh,
+      shape: "hexagon",
+      title: Array.from(new Set(e[1].routes?.map((e) => e.split("+")[0]))).join(","),
       x: (e[1].location.lng - 114) * 100000,
       y: (e[1].location.lat - 22) * 100000 * -1,
     })),
@@ -75,10 +76,17 @@ fs.writeFileSync(
   "edges.json",
   JSON.stringify(
     Array.from(edgeMap).map((e) => ({
+      arrows: {
+        to: {
+          enabled: true,
+        },
+      },
       from: e[1].from,
       to: e[1].to,
       value: e[1].routes.length,
-      length: e[1].distance,
+      title: Array.from(new Set(e[1].routes?.map((e) => e.split("+")[0]))).join(","),
+      label: `${e[1].distance | 0}`,
+      color: { kmb: "red", ctb: "#666600", nlb: "orange", nwfb: "purple" }[e[1].operator],
     })),
     null,
     2
@@ -89,8 +97,8 @@ fs.writeFileSync(
 //   .map((e) => ({
 //     from: stopMap.get(e[1].from).name.zh,
 //     to: stopMap.get(e[1].to).name.zh,
-//     count: Array.from(new Set(e[1].routes.map((e) => e.split("-")[0]))).length,
-//     routes: Array.from(new Set(e[1].routes.map((e) => e.split("-")[0]))).join(","),
+//     count: Array.from(new Set(e[1].routes.map((e) => e.split("+")[0]))).length,
+//     routes: Array.from(new Set(e[1].routes.map((e) => e.split("+")[0]))).join(","),
 //   }))
 //   .sort((a, b) => b.count - a.count)
 //   .slice(0, 5);

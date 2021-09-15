@@ -7,6 +7,9 @@
     align-items: stretch;
     align-content: stretch;
   }
+  * {
+    outline: none;
+  }
 </style>
 <div id="mynetwork"></div>
 <script src="https://visjs.github.io/vis-network/standalone/umd/vis-network.min.js"></script>
@@ -28,27 +31,21 @@
           max: 60,
         },
         font: {
-          size: 36,
-          face: "Tahoma",
+          size: 24,
         },
       },
       edges: {
-        width: 0.15,
-        color: { inherit: "from" },
         smooth: false,
       },
       physics: {
         enabled: false,
-        stabilization: false,
-        barnesHut: {
-          gravitationalConstant: -80000,
-          springConstant: 0.1,
-          springLength: 20,
-        },
       },
       interaction: {
         tooltipDelay: 200,
         hideEdgesOnDrag: true,
+        hideEdgesOnZoom: true,
+        hideNodesOnDrag: false,
+        zoomSpeed: 2,
       },
     };
     network = new vis.Network(container, data, options);
