@@ -59,6 +59,8 @@ fs.writeFileSync(
   "nodes.json",
   JSON.stringify(
     Array.from(nodeMap).map((e) => ({
+      borderWidth: 0,
+      borderWidthSelected: 1,
       id: e[0],
       value: new Set(e[1].routes?.map((e) => e.split("+")[0])).size,
       label: e[1].name.zh,
@@ -79,6 +81,13 @@ fs.writeFileSync(
       arrows: {
         to: {
           enabled: true,
+          scaleFactor: 0.5,
+        },
+      },
+      scaling: {
+        label: {
+          min: 8,
+          max: 8,
         },
       },
       from: e[1].from,
@@ -86,20 +95,49 @@ fs.writeFileSync(
       value: e[1].routes.length,
       title: Array.from(new Set(e[1].routes?.map((e) => e.split("+")[0]))).join(","),
       label: `${e[1].distance | 0}`,
-      color: { kmb: "red", ctb: "#666600", nlb: "orange", nwfb: "purple" }[e[1].operator],
+      color: { kmb: "red", ctb: "#d9d100", nlb: "orange", nwfb: "purple" }[e[1].operator],
     })),
     null,
     2
   )
 );
 
-// const busiestPaths = Array.from(edgeMap)
-//   .map((e) => ({
-//     from: stopMap.get(e[1].from).name.zh,
-//     to: stopMap.get(e[1].to).name.zh,
-//     count: Array.from(new Set(e[1].routes.map((e) => e.split("+")[0]))).length,
-//     routes: Array.from(new Set(e[1].routes.map((e) => e.split("+")[0]))).join(","),
-//   }))
-//   .sort((a, b) => b.count - a.count)
-//   .slice(0, 5);
-// console.log(busiestPaths);
+// console.log(
+//   // busiest paths
+//   Array.from(edgeMap)
+//     .map((e) => ({
+//       from: stopMap.get(e[1].from).name.zh,
+//       to: stopMap.get(e[1].to).name.zh,
+//       count: Array.from(new Set(e[1].routes.map((e) => e.split("+")[0]))).length,
+//       routes: Array.from(new Set(e[1].routes.map((e) => e.split("+")[0]))).join(","),
+//     }))
+//     .sort((a, b) => b.count - a.count)
+//     .slice(0, 10)
+// );
+
+// console.log(
+//   // longest paths
+//   Array.from(edgeMap)
+//     .map((e) => ({
+//       from: stopMap.get(e[1].from).name.zh,
+//       to: stopMap.get(e[1].to).name.zh,
+//       distance: e[1].distance,
+//       routes: Array.from(new Set(e[1].routes.map((e) => e.split("+")[0]))).join(","),
+//     }))
+//     .sort((a, b) => b.distance - a.distance)
+//     .slice(0, 10)
+// );
+
+// console.log(
+//   // shortest paths
+//   Array.from(edgeMap)
+//     .map((e) => ({
+//       from: stopMap.get(e[1].from).name.zh,
+//       to: stopMap.get(e[1].to).name.zh,
+//       distance: e[1].distance,
+//       routes: Array.from(new Set(e[1].routes.map((e) => e.split("+")[0]))).join(","),
+//     }))
+//     .filter((e) => !(e.from === e.to || e.from.match(/(轉車|總站)/) || e.to.match(/(轉車|總站)/)))
+//     .sort((a, b) => a.distance - b.distance)
+//     .slice(0, 10)
+// );
