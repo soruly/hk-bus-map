@@ -22,7 +22,7 @@ const { routeList, stopList } = await fetch(
 
 const routeMap = new Map(Object.entries(routeList));
 const stopMap = new Map(Object.entries(stopList));
-const nodeMap = stopMap;
+const nodeMap = new Map();
 
 const edgeMap = new Map();
 for (const [routeId, { stops }] of Object.entries(routeList)) {
@@ -44,16 +44,34 @@ for (const [routeId, { stops }] of Object.entries(routeList)) {
         edg.routes = edg.routes.concat(routeId);
         edgeMap.set(key, edg);
       }
+      if (!nodeMap.has(from)) {
+        nodeMap.set(from, Object.assign(stopMap.get(from), { id: from, routes: [] }));
+      }
+      if (!nodeMap.has(to)) {
+        nodeMap.set(to, Object.assign(stopMap.get(to), { id: to, routes: [] }));
+      }
       const fromNode = nodeMap.get(from);
-      if (!fromNode.next) fromNode.next = new Set();
-      fromNode.next.add(to);
-      if (!fromNode.routes) fromNode.routes = [];
       fromNode.routes = fromNode.routes.concat(routeId);
       nodeMap.set(from, fromNode);
+
+      const toNode = nodeMap.get(to);
+      toNode.routes = toNode.routes.concat(routeId);
+      nodeMap.set(to, toNode);
     }
   }
 }
-console.log(nodeMap.size, "nodes", edgeMap.size, "edges");
+console.log(
+  `${nodeMap.size}/${stopMap.size} nodes (${stopMap.size - nodeMap.size} disconnected), ${
+    edgeMap.size
+  } edges`
+);
+
+console.log("No route to these bus stops:");
+for (const stopId of Array.from(stopMap.keys())) {
+  if (!nodeMap.has(stopId)) {
+    console.log(stopId, stopMap.get(stopId).name.zh);
+  }
+}
 
 fs.writeFileSync(
   "nodes.json",
