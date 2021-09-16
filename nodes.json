@@ -27315,17 +27315,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "60",
-    "value": 3,
-    "label": "昂坪市集",
-    "shape": "hexagon",
-    "title": "2,21,23",
-    "x": -9601.89999999983,
-    "y": -25546.10000000004
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "270",
     "value": 3,
     "label": "昂坪",
@@ -28950,6 +28939,17 @@
     "title": "21,5,92,96R",
     "x": 20471.299999999814,
     "y": -33585.70000000008
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "60",
+    "value": 2,
+    "label": "昂坪市集",
+    "shape": "hexagon",
+    "title": "21,23",
+    "x": -9601.89999999983,
+    "y": -25546.10000000004
   },
   {
     "borderWidth": 0,
