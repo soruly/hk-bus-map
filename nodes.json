@@ -909,8 +909,8 @@
     "label": "中遠酒店, 堅彌地城海旁",
     "shape": "hexagon",
     "title": "1,113,18P,18X,43M,5B,88X,904,971,N8X",
-    "x": 13174.101053000697,
-    "y": -28547.195209100097
+    "x": 13174.773052999455,
+    "y": -28548.464209099933
   },
   {
     "borderWidth": 0,
@@ -920,8 +920,8 @@
     "label": "山市街, 堅彌地城海旁",
     "shape": "hexagon",
     "title": "1,113,18P,18X,43M,5B,88X,904,971,N8X",
-    "x": 13037.988053000048,
-    "y": -28433.86520910016
+    "x": 13037.010053000131,
+    "y": -28433.065209100052
   },
   {
     "borderWidth": 0,
@@ -35742,10 +35742,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "0269A1F9D98C737E",
-    "value": 14,
+    "value": 13,
     "label": "屯門公路轉車站 (B7)",
     "shape": "hexagon",
-    "title": "258D,258X,259D,259X,263,263A,263C,59M,59X,60M,60X,61X,63X,67X",
+    "title": "258D,258X,259D,259X,263,263A,59M,59X,60M,60X,61X,63X,67X",
     "x": 1924.2000000005532,
     "y": -35796.300000000156
   },
@@ -36688,10 +36688,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "64312A5DFF11636C",
-    "value": 10,
+    "value": 9,
     "label": "豐景園",
     "shape": "hexagon",
-    "title": "259D,263,263A,263C,60M,60X,61X,62X,961,N260",
+    "title": "259D,263,263A,60M,60X,61X,62X,961,N260",
     "x": -2717.8000000006364,
     "y": -38400.89999999989
   },
@@ -36699,10 +36699,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "CB2A65E69B2B71BE",
-    "value": 13,
+    "value": 12,
     "label": "翠寧花園",
     "shape": "hexagon",
-    "title": "259D,260C,263,263A,263C,60M,60X,61A,61M,61X,62X,961,N260",
+    "title": "259D,260C,263,263A,60M,60X,61A,61M,61X,62X,961,N260",
     "x": -2558.7999999999056,
     "y": -38392.19999999983
   },
@@ -38811,10 +38811,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "5FDA47671B5557B3",
-    "value": 5,
+    "value": 4,
     "label": "城門隧道轉車站 (B5)",
     "shape": "hexagon",
-    "title": "263,263A,263C,269D,868",
+    "title": "263,263A,269D,868",
     "x": 13751.000000000602,
     "y": -38135.79999999987
   },
@@ -38822,10 +38822,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "47FF0EDCD6926932",
-    "value": 6,
+    "value": 5,
     "label": "屯門公路轉車站 (B5)",
     "shape": "hexagon",
-    "title": "263,263A,263C,60M,60X,61X",
+    "title": "263,263A,60M,60X,61X",
     "x": 1887.2000000001776,
     "y": -35835.60000000006
   },
@@ -38833,10 +38833,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "59081A58EA5BC728",
-    "value": 5,
+    "value": 4,
     "label": "友愛邨",
     "shape": "hexagon",
-    "title": "263,263A,263C,60M,N260",
+    "title": "263,263A,60M,N260",
     "x": -2488.800000000424,
     "y": -38783.89999999996
   },
@@ -38844,10 +38844,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "5D14B75687F60509",
-    "value": 5,
+    "value": 4,
     "label": "屯門公園",
     "shape": "hexagon",
-    "title": "263,263A,263C,60M,961",
+    "title": "263,263A,60M,961",
     "x": -2487.299999999948,
     "y": -39212.200000000055
   },
@@ -38855,10 +38855,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "79D68EE7C6CBAB9D",
-    "value": 5,
+    "value": 4,
     "label": "屯門站總站",
     "shape": "hexagon",
-    "title": "263,263A,263C,60M,961",
+    "title": "263,263A,60M,961",
     "x": -2621.8000000000075,
     "y": -39508.100000000115
   },
@@ -38932,10 +38932,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "5C2A974134634635",
-    "value": 13,
+    "value": 14,
     "label": "科學園(第一期)",
     "shape": "hexagon",
-    "title": "263A,271B,272A,272K,272P,274,274P,73D,74D,74P,82C,82D,900",
+    "title": "263A,263C,271B,272A,272K,272P,274,274P,73D,74D,74P,82C,82D,900",
     "x": 21158.900000000358,
     "y": -42427.199999999844
   },
@@ -38943,10 +38943,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "A0D379E172F5BC93",
-    "value": 15,
+    "value": 16,
     "label": "香港生物科技研究院",
     "shape": "hexagon",
-    "title": "263A,271B,272A,272K,272P,272S,274,274P,43P,73D,74D,74P,82C,82D,900",
+    "title": "263A,263C,271B,272A,272K,272P,272S,274,274P,43P,73D,74D,74P,82C,82D,900",
     "x": 21417.900000000147,
     "y": -42266.4000000001
   },
@@ -38954,10 +38954,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "853CD1316EB5227B",
-    "value": 15,
+    "value": 16,
     "label": "水上活動中心",
     "shape": "hexagon",
-    "title": "263A,271B,272A,272K,272P,272S,274,274P,43P,73D,74D,74P,82C,82D,900",
+    "title": "263A,263C,271B,272A,272K,272P,272S,274,274P,43P,73D,74D,74P,82C,82D,900",
     "x": 21427.099999999657,
     "y": -41866.20000000012
   },
@@ -38965,10 +38965,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "BE6EC9708F5FB613",
-    "value": 15,
+    "value": 16,
     "label": "馬料水公眾碼頭",
     "shape": "hexagon",
-    "title": "263A,271B,272A,272K,272P,272S,274,274P,43P,73D,74D,74P,82C,82D,900",
+    "title": "263A,263C,271B,272A,272K,272P,272S,274,274P,43P,73D,74D,74P,82C,82D,900",
     "x": 21394.499999999538,
     "y": -41602.69999999997
   },
@@ -39042,10 +39042,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "739A5DDE0CF1970C",
-    "value": 15,
+    "value": 16,
     "label": "馬料水公眾碼頭",
     "shape": "hexagon",
-    "title": "263A,271B,272A,272K,272P,272S,274P,43P,43S,73D,74D,74P,82C,82D,900",
+    "title": "263A,263C,271B,272A,272K,272P,272S,274P,43P,43S,73D,74D,74P,82C,82D,900",
     "x": 21377.80000000049,
     "y": -41590.80000000017
   },
@@ -39053,10 +39053,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "9E95343C77BB85E2",
-    "value": 15,
+    "value": 16,
     "label": "水上活動中心",
     "shape": "hexagon",
-    "title": "263A,271B,272A,272K,272P,272S,274P,43P,43S,73D,74D,74P,82C,82D,900",
+    "title": "263A,263C,271B,272A,272K,272P,272S,274P,43P,43S,73D,74D,74P,82C,82D,900",
     "x": 21425.000000000695,
     "y": -42002.30000000005
   },
@@ -39064,10 +39064,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "F808AF482CCA028E",
-    "value": 15,
+    "value": 16,
     "label": "香港生物科技研究院",
     "shape": "hexagon",
-    "title": "263A,271B,272A,272K,272P,272S,274P,43P,43S,73D,74D,74P,82C,82D,900",
+    "title": "263A,263C,271B,272A,272K,272P,272S,274P,43P,43S,73D,74D,74P,82C,82D,900",
     "x": 21392.500000000324,
     "y": -42251.80000000002
   },
@@ -39206,24 +39206,123 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "5FA8B50329B85F1A",
-    "value": 4,
-    "label": "廣福街市",
+    "id": "12E4BAFA2B73435B",
+    "value": 21,
+    "label": "廣福邨",
     "shape": "hexagon",
-    "title": "263C,73D,73P,73X",
-    "x": 17468.900000000074,
-    "y": -44872.499999999956
+    "title": "263C,265S,274P,275R,307,307P,63R,72A,73A,74A,74B,74C,74D,74P,74X,75P,907C,N307,R307,R94,T74",
+    "x": 17347.399999999878,
+    "y": -44659.89999999991
   },
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "53C49B85EBFF8AAE",
-    "value": 7,
-    "label": "宏福苑",
+    "id": "74648B92E0E80E2E",
+    "value": 8,
+    "label": "白石角變電站",
     "shape": "hexagon",
-    "title": "263C,71K,71S,73D,73P,73X,75X",
-    "x": 17485.999999999534,
-    "y": -44741.19999999999
+    "title": "263C,271B,272P,274,274P,73D,74D,74P",
+    "x": 20137.200000000634,
+    "y": -43489.29999999989
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "4DD5EC5516B360D7",
+    "value": 8,
+    "label": "天賦海灣",
+    "shape": "hexagon",
+    "title": "263C,271B,272P,274,274P,73D,74D,74P",
+    "x": 20155.800000000567,
+    "y": -43149.199999999866
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "33ABA49F0E91A247",
+    "value": 11,
+    "label": "雲滙",
+    "shape": "hexagon",
+    "title": "263C,271B,272A,272P,274,274P,73D,74D,74P,82D,900",
+    "x": 20332.29999999975,
+    "y": -42980.500000000175
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "B34F59A0270AEDA4",
+    "value": 11,
+    "label": "創新路",
+    "shape": "hexagon",
+    "title": "263C,271B,272A,272P,274,274P,73D,74D,74P,82D,900",
+    "x": 20498.100000000362,
+    "y": -42864.90000000001
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "B464BD6334A93FA1",
+    "value": 2,
+    "label": "科研路",
+    "shape": "hexagon",
+    "title": "263C,900",
+    "x": 20844.999999999913,
+    "y": -42644.20000000016
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "DADEC4FDAD7C58B3",
+    "value": 9,
+    "label": "科學園(第一期)",
+    "shape": "hexagon",
+    "title": "263C,272A,272P,274P,73D,74D,74P,82D,900",
+    "x": 21143.200000000208,
+    "y": -42424.70000000011
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "E8F5E085BAEFE100",
+    "value": 9,
+    "label": "科研路",
+    "shape": "hexagon",
+    "title": "263C,272A,272P,274P,73D,74D,74P,82D,900",
+    "x": 20802.700000000128,
+    "y": -42662.80000000009
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "79FD1B44D37205B8",
+    "value": 10,
+    "label": "雲滙",
+    "shape": "hexagon",
+    "title": "263C,271B,272A,272P,274P,73D,74D,74P,82D,900",
+    "x": 20333.800000000225,
+    "y": -42956.09999999996
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "369A5601F8A63B5E",
+    "value": 7,
+    "label": "白石角",
+    "shape": "hexagon",
+    "title": "263C,271B,272P,274P,73D,74D,74P",
+    "x": 20151.199999999393,
+    "y": -43149.199999999866
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "A339426A8F633D63",
+    "value": 7,
+    "label": "白石角變電站",
+    "shape": "hexagon",
+    "title": "263C,271B,272P,274P,73D,74D,74P",
+    "x": 20081.19999999991,
+    "y": -43389.49999999997
   },
   {
     "borderWidth": 0,
@@ -39250,83 +39349,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "FDDA176977136CD9",
-    "value": 8,
-    "label": "大埔寶鄉橋",
-    "shape": "hexagon",
-    "title": "263C,265S,274P,73,73A,74D,75K,N73",
-    "x": 16702.200000000288,
-    "y": -44996.09999999983
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "6716018C3EE42733",
-    "value": 21,
-    "label": "大埔安祥路",
-    "shape": "hexagon",
-    "title": "263C,264R,271R,271S,272E,272P,272X,274X,307,64K,64P,72,72X,74A,74B,74X,872,872X,907C,N271,N307",
-    "x": 16723.799999999756,
-    "y": -45177.899999999834
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "27222F0DE22582ED",
-    "value": 17,
-    "label": "大埔中心總站",
-    "shape": "hexagon",
-    "title": "263C,271,271R,271S,272P,307P,65K,71K,73X,74K,75X,872,872X,907C,N271,R307,R94",
-    "x": 16895.999999999844,
-    "y": -45289.59999999991
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "32C1F605CAAD7861",
-    "value": 9,
-    "label": "怡雅苑",
-    "shape": "hexagon",
-    "title": "263C,265S,274P,72A,73,73P,74E,74K,75K",
-    "x": 17361.40000000006,
-    "y": -45588.499999999854
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "DAC33107054B9FED",
-    "value": 10,
-    "label": "魚角",
-    "shape": "hexagon",
-    "title": "263C,274P,275R,72A,73,73P,74E,74F,74K,75K",
-    "x": 17744.29999999967,
-    "y": -45809.399999999914
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "4705F639E370A9AD",
-    "value": 5,
-    "label": "大埔大發街",
-    "shape": "hexagon",
-    "title": "263C,274P,72A,74F,75K",
-    "x": 18130.99999999963,
-    "y": -45861.500000000175
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "CAB927254C5D8892",
-    "value": 5,
-    "label": "大埔大昌街",
-    "shape": "hexagon",
-    "title": "263C,265S,274P,72A,74F",
-    "x": 18686.09999999933,
-    "y": -45716.600000000086
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "8581908CE476D2CF",
     "value": 2,
     "label": "大埔墟站巴士總站",
@@ -39345,6 +39367,17 @@
     "title": "264R,64K,64P,74K,907B",
     "x": 16700.600000000064,
     "y": -44990.29999999991
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "6716018C3EE42733",
+    "value": 20,
+    "label": "大埔安祥路",
+    "shape": "hexagon",
+    "title": "264R,271R,271S,272E,272P,272X,274X,307,64K,64P,72,72X,74A,74B,74X,872,872X,907C,N271,N307",
+    "x": 16723.799999999756,
+    "y": -45177.899999999834
   },
   {
     "borderWidth": 0,
@@ -40416,17 +40449,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "12E4BAFA2B73435B",
-    "value": 20,
-    "label": "廣福邨",
-    "shape": "hexagon",
-    "title": "265S,274P,275R,307,307P,63R,72A,73A,74A,74B,74C,74D,74P,74X,75P,907C,N307,R307,R94,T74",
-    "x": 17347.399999999878,
-    "y": -44659.89999999991
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "A264A7BA921EEE6E",
     "value": 12,
     "label": "聚星樓",
@@ -40504,6 +40526,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "FDDA176977136CD9",
+    "value": 7,
+    "label": "大埔寶鄉橋",
+    "shape": "hexagon",
+    "title": "265S,274P,73,73A,74D,75K,N73",
+    "x": 16702.200000000288,
+    "y": -44996.09999999983
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "446E33686D9C02E0",
     "value": 7,
     "label": "榮暉花園",
@@ -40533,6 +40566,28 @@
     "title": "265S,274P,72A,73,74C,75K",
     "x": 17075.199999999313,
     "y": -45633.000000000124
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "32C1F605CAAD7861",
+    "value": 8,
+    "label": "怡雅苑",
+    "shape": "hexagon",
+    "title": "265S,274P,72A,73,73P,74E,74K,75K",
+    "x": 17361.40000000006,
+    "y": -45588.499999999854
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "CAB927254C5D8892",
+    "value": 4,
+    "label": "大埔大昌街",
+    "shape": "hexagon",
+    "title": "265S,274P,72A,74F",
+    "x": 18686.09999999933,
+    "y": -45716.600000000086
   },
   {
     "borderWidth": 0,
@@ -42660,79 +42715,13 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "79FD1B44D37205B8",
-    "value": 9,
-    "label": "雲滙",
+    "id": "27222F0DE22582ED",
+    "value": 16,
+    "label": "大埔中心總站",
     "shape": "hexagon",
-    "title": "271B,272A,272P,274P,73D,74D,74P,82D,900",
-    "x": 20333.800000000225,
-    "y": -42956.09999999996
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "369A5601F8A63B5E",
-    "value": 6,
-    "label": "白石角",
-    "shape": "hexagon",
-    "title": "271B,272P,274P,73D,74D,74P",
-    "x": 20151.199999999393,
-    "y": -43149.199999999866
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "A339426A8F633D63",
-    "value": 6,
-    "label": "白石角變電站",
-    "shape": "hexagon",
-    "title": "271B,272P,274P,73D,74D,74P",
-    "x": 20081.19999999991,
-    "y": -43389.49999999997
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "74648B92E0E80E2E",
-    "value": 7,
-    "label": "白石角變電站",
-    "shape": "hexagon",
-    "title": "271B,272P,274,274P,73D,74D,74P",
-    "x": 20137.200000000634,
-    "y": -43489.29999999989
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "4DD5EC5516B360D7",
-    "value": 7,
-    "label": "天賦海灣",
-    "shape": "hexagon",
-    "title": "271B,272P,274,274P,73D,74D,74P",
-    "x": 20155.800000000567,
-    "y": -43149.199999999866
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "33ABA49F0E91A247",
-    "value": 10,
-    "label": "雲滙",
-    "shape": "hexagon",
-    "title": "271B,272A,272P,274,274P,73D,74D,74P,82D,900",
-    "x": 20332.29999999975,
-    "y": -42980.500000000175
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "B34F59A0270AEDA4",
-    "value": 10,
-    "label": "創新路",
-    "shape": "hexagon",
-    "title": "271B,272A,272P,274,274P,73D,74D,74P,82D,900",
-    "x": 20498.100000000362,
-    "y": -42864.90000000001
+    "title": "271,271R,271S,272P,307P,65K,71K,73X,74K,75X,872,872X,907C,N271,R307,R94",
+    "x": 16895.999999999844,
+    "y": -45289.59999999991
   },
   {
     "borderWidth": 0,
@@ -42942,28 +42931,6 @@
     "title": "272A",
     "x": 21066.50000000059,
     "y": -41267.79999999997
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "DADEC4FDAD7C58B3",
-    "value": 8,
-    "label": "科學園(第一期)",
-    "shape": "hexagon",
-    "title": "272A,272P,274P,73D,74D,74P,82D,900",
-    "x": 21143.200000000208,
-    "y": -42424.70000000011
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "E8F5E085BAEFE100",
-    "value": 8,
-    "label": "科研路",
-    "shape": "hexagon",
-    "title": "272A,272P,274P,73D,74D,74P,82D,900",
-    "x": 20802.700000000128,
-    "y": -42662.80000000009
   },
   {
     "borderWidth": 0,
@@ -43800,6 +43767,28 @@
     "title": "274P,87K",
     "x": 23073.10000000058,
     "y": -41808.69999999999
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "DAC33107054B9FED",
+    "value": 9,
+    "label": "魚角",
+    "shape": "hexagon",
+    "title": "274P,275R,72A,73,73P,74E,74F,74K,75K",
+    "x": 17744.29999999967,
+    "y": -45809.399999999914
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "4705F639E370A9AD",
+    "value": 4,
+    "label": "大埔大發街",
+    "shape": "hexagon",
+    "title": "274P,72A,74F,75K",
+    "x": 18130.99999999963,
+    "y": -45861.500000000175
   },
   {
     "borderWidth": 0,
@@ -69269,6 +69258,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "53C49B85EBFF8AAE",
+    "value": 6,
+    "label": "宏福苑",
+    "shape": "hexagon",
+    "title": "71K,71S,73D,73P,73X,75X",
+    "x": 17485.999999999534,
+    "y": -44741.19999999999
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "D81F71DD9C66DB40",
     "value": 1,
     "label": "大埔鄉事會街",
@@ -70398,6 +70398,17 @@
     "title": "73A",
     "x": 19429.39999999993,
     "y": -39638.30000000002
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "5FA8B50329B85F1A",
+    "value": 3,
+    "label": "廣福街市",
+    "shape": "hexagon",
+    "title": "73D,73P,73X",
+    "x": 17468.900000000074,
+    "y": -44872.499999999956
   },
   {
     "borderWidth": 0,
@@ -77196,17 +77207,6 @@
     "title": "900",
     "x": 20198.60000000051,
     "y": -43136.79999999991
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "B464BD6334A93FA1",
-    "value": 1,
-    "label": "科研路",
-    "shape": "hexagon",
-    "title": "900",
-    "x": 20844.999999999913,
-    "y": -42644.20000000016
   },
   {
     "borderWidth": 0,
