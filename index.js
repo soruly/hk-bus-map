@@ -76,17 +76,19 @@ console.log(
 fs.writeFileSync(
   "nodes.json",
   JSON.stringify(
-    Array.from(nodeMap.values()).map((e) => ({
-      borderWidth: 0,
-      borderWidthSelected: 1,
-      id: e.id,
-      value: new Set(e.routes.map((e) => e.split("+")[0])).size,
-      label: e.name.zh,
-      shape: "hexagon",
-      title: Array.from(new Set(e.routes.map((e) => e.split("+")[0]))).join(","),
-      x: (e.location.lng - 114) * 100000,
-      y: (e.location.lat - 22) * 100000 * -1,
-    })),
+    Array.from(nodeMap.values())
+      .map((e) => ({
+        borderWidth: 0,
+        borderWidthSelected: 1,
+        id: e.id,
+        value: new Set(e.routes.map((e) => e.split("+")[0])).size,
+        label: e.name.zh,
+        shape: "hexagon",
+        title: Array.from(new Set(e.routes.map((e) => e.split("+")[0]))).join(","),
+        x: (e.location.lng - 114) * 100000,
+        y: (e.location.lat - 22) * 100000 * -1,
+      }))
+      .sort((a, b) => (a.id > b.id ? 1 : -1)),
     null,
     2
   )
@@ -95,26 +97,28 @@ fs.writeFileSync(
 fs.writeFileSync(
   "edges.json",
   JSON.stringify(
-    Array.from(edgeMap.values()).map((e) => ({
-      arrows: {
-        to: {
-          enabled: true,
-          scaleFactor: 0.5,
+    Array.from(edgeMap.values())
+      .map((e) => ({
+        arrows: {
+          to: {
+            enabled: true,
+            scaleFactor: 0.5,
+          },
         },
-      },
-      scaling: {
-        label: {
-          min: 8,
-          max: 8,
+        scaling: {
+          label: {
+            min: 8,
+            max: 8,
+          },
         },
-      },
-      from: e.from,
-      to: e.to,
-      value: e.routes.length,
-      title: Array.from(new Set(e.routes.map((e) => e.split("+")[0]))).join(","),
-      label: `${e.distance | 0}`,
-      color: { kmb: "red", ctb: "#d9d100", nlb: "orange", nwfb: "purple" }[e.operator],
-    })),
+        from: e.from,
+        to: e.to,
+        value: e.routes.length,
+        title: Array.from(new Set(e.routes.map((e) => e.split("+")[0]))).join(","),
+        label: `${e.distance | 0}`,
+        color: { kmb: "red", ctb: "#d9d100", nlb: "orange", nwfb: "purple" }[e.operator],
+      }))
+      .sort((a, b) => (a.from > b.from ? 1 : -1)),
     null,
     2
   )
