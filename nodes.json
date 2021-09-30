@@ -28163,10 +28163,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "09A5D5C90F15C08C",
-    "value": 1,
+    "value": 2,
     "label": "龍鼓灘",
     "shape": "hexagon",
-    "title": "56S",
+    "title": "52S,56S",
     "x": -7968.800000000442,
     "y": -38905.499999999905
   },
@@ -35973,10 +35973,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "212BFF5737D0116C",
-    "value": 1,
+    "value": 2,
     "label": "屯門公路轉車站 (A9)",
     "shape": "hexagon",
-    "title": "252",
+    "title": "252,52S",
     "x": 1614.8999999998637,
     "y": -36228.79999999995
   },
@@ -48633,17 +48633,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "49DE796465D435E9",
-    "value": 5,
-    "label": "太古廣場",
-    "shape": "hexagon",
-    "title": "934,934A,935,936,936A",
-    "x": 16522.10000000025,
-    "y": -27798.699999999953
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "49E03B954D8DA204",
     "value": 4,
     "label": "崇基學院",
@@ -55904,17 +55893,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "63CD3F953DC19E11",
-    "value": 3,
-    "label": "太古廣場",
-    "shape": "hexagon",
-    "title": "900,960,961",
-    "x": 16521.000000000186,
-    "y": -27798.699999999953
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "63DF37D89C356A04",
     "value": 7,
     "label": "天悅邨",
@@ -61152,10 +61130,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "76441824D4E31948",
-    "value": 1,
+    "value": 2,
     "label": "龍鼓灘",
     "shape": "hexagon",
-    "title": "56S",
+    "title": "52S,56S",
     "x": -7968.800000000442,
     "y": -38905.499999999905
   },
@@ -83668,6 +83646,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "CAC48CE541F0E887",
+    "value": 5,
+    "label": "太古廣場",
+    "shape": "hexagon",
+    "title": "934,934A,935,936,936A",
+    "x": 16521.000000000186,
+    "y": -27798.699999999953
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "CACE8456C1A48D50",
     "value": 2,
     "label": "粉嶺公路轉車站",
@@ -85050,6 +85039,17 @@
     "title": "673,936,936A,968,N368,P968",
     "x": 18044.70000000009,
     "y": -27892.299999999894
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "D0937674DF369B23",
+    "value": 1,
+    "label": "屯門公路轉車站",
+    "shape": "hexagon",
+    "title": "52S",
+    "x": 1910.5999999993628,
+    "y": -35849.19999999982
   },
   {
     "borderWidth": 0,
@@ -86667,6 +86667,17 @@
     "title": "373,603,603A,603P,673,961P,961S,N368,N373,N673",
     "x": 15990.999999999643,
     "y": -28070.299999999905
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "D6001B758148778A",
+    "value": 1,
+    "label": "曾咀",
+    "shape": "hexagon",
+    "title": "52S",
+    "x": -7863.100000000145,
+    "y": -41938.59999999994
   },
   {
     "borderWidth": 0,
@@ -97414,6 +97425,17 @@
     "title": "270B,270D,272E,286C,286P,286X",
     "x": 16322.39999999996,
     "y": -35835.499999999956
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "FD91979BDA3DE7D8",
+    "value": 3,
+    "label": "太古廣場",
+    "shape": "hexagon",
+    "title": "900,960,961",
+    "x": 16522.10000000025,
+    "y": -27798.699999999953
   },
   {
     "borderWidth": 0,
