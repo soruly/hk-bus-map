@@ -13592,8 +13592,8 @@
     "label": "華翠街, 域多利道",
     "shape": "hexagon",
     "title": "107P,30X,347,43M,49X,971",
-    "x": 13698.922052999762,
-    "y": -25430.425209099994
+    "x": 13665.391053000065,
+    "y": -25457.146209100047
   },
   {
     "borderWidth": 0,
@@ -30132,10 +30132,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "0EB21C27E769261B",
-    "value": 15,
+    "value": 10,
     "label": "沙田坳道 (D1)",
     "shape": "hexagon",
-    "title": "234D,290,290A,290B,290X,33,33B,38,38P,40,40A,40P,42C,N290,X42C",
+    "title": "290,290A,290B,290X,33,33B,38,38P,40P,N290",
     "x": 19536.999999999694,
     "y": -34147.0000000001
   },
@@ -39499,17 +39499,6 @@
     "title": "1,1A,203C,6",
     "x": 17190.399999999783,
     "y": -30001.800000000145
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "295",
-    "value": 1,
-    "label": "白芒",
-    "shape": "hexagon",
-    "title": "36",
-    "x": -3263.800000000572,
-    "y": -29842.40000000007
   },
   {
     "borderWidth": 0,
@@ -56587,10 +56576,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "62A1C8EFAC876BDB",
-    "value": 11,
+    "value": 10,
     "label": "沙田坳道 (D2)",
     "shape": "hexagon",
-    "title": "214,214P,268A,268C,268P,269C,269S,2F,3C,69C,N214",
+    "title": "214,214P,234D,2F,3C,40,40A,42C,N214,X42C",
     "x": 19536.999999999694,
     "y": -34147.0000000001
   },
@@ -62868,10 +62857,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "7917BB962CCB11C0",
-    "value": 4,
+    "value": 7,
     "label": "沙田坳道 (C3)",
     "shape": "hexagon",
-    "title": "113,74S,75X,84M",
+    "title": "268A,268C,268P,269C,269S,69C,74S",
     "x": 19452.20000000063,
     "y": -34148.10000000017
   },
@@ -71129,10 +71118,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "99440967B8390837",
-    "value": 2,
+    "value": 4,
     "label": "沙田坳道 (C1)",
     "shape": "hexagon",
-    "title": "89,89B",
+    "title": "74A,80,89,89B",
     "x": 19430.099999999584,
     "y": -34148.10000000017
   },
@@ -76145,10 +76134,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "AA2D8DCDD78651B0",
-    "value": 2,
+    "value": 3,
     "label": "沙田坳道 (C2)",
     "shape": "hexagon",
-    "title": "74A,80",
+    "title": "113,75X,84M",
     "x": 19439.90000000042,
     "y": -34147.899999999965
   },
