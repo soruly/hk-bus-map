@@ -39536,6 +39536,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "295",
+    "value": 1,
+    "label": "白芒",
+    "shape": "hexagon",
+    "title": "36",
+    "x": -3263.800000000572,
+    "y": -29842.40000000007
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "2969EE1DAEAD252A",
     "value": 4,
     "label": "港運城",
@@ -42177,10 +42188,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "321",
-    "value": 3,
+    "value": 2,
     "label": "東涌纜車站",
     "shape": "hexagon",
-    "title": "11R,36,37H",
+    "title": "11R,37H",
     "x": -6126.700000000084,
     "y": -28930.099999999824
   },
@@ -62681,10 +62692,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "78",
-    "value": 19,
+    "value": 20,
     "label": "東涌纜車站",
     "shape": "hexagon",
-    "title": "11,11A,23,34,34S,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
+    "title": "11,11A,23,34,34S,36,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
     "x": -6126.700000000084,
     "y": -28930.099999999824
   },
@@ -71146,17 +71157,6 @@
     "title": "10,208,270A,270C,271,271B,271P,281B,281X,7,72X,81C,887,N271,N281,R270,R271",
     "x": 17828.79999999949,
     "y": -32306.399999999867
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "99",
-    "value": 1,
-    "label": "白芒",
-    "shape": "hexagon",
-    "title": "36",
-    "x": -3257.6000000005934,
-    "y": -29827.399999999925
   },
   {
     "borderWidth": 0,
