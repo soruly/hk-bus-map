@@ -31705,10 +31705,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "12DC09C113E1C873",
-    "value": 2,
+    "value": 3,
     "label": "聯和墟總站",
     "shape": "hexagon",
-    "title": "270D,978A",
+    "title": "270C,270D,978A",
     "x": 14362.500000000011,
     "y": -50034.60000000004
   },
@@ -32024,10 +32024,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "1380D71251D0CBF9",
-    "value": 5,
+    "value": 12,
     "label": "海聯廣場",
     "shape": "hexagon",
-    "title": "261,279A,279B,279X,978A",
+    "title": "261,270C,270D,277X,278K,279A,279B,279X,73B,978A,N373,N673",
     "x": 14272.499999999865,
     "y": -50048.900000000176
   },
@@ -43354,10 +43354,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "3507E8093162DCE7",
-    "value": 2,
+    "value": 1,
     "label": "聯和墟總站",
     "shape": "hexagon",
-    "title": "270C,278A",
+    "title": "278A",
     "x": 14362.500000000011,
     "y": -50034.60000000004
   },
@@ -62830,17 +62830,6 @@
     "title": "A33,A34,E33,E33P,NA33",
     "x": -3799.7000000004277,
     "y": -37809.19999999987
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "7865415D769A231E",
-    "value": 7,
-    "label": "海聯廣場",
-    "shape": "hexagon",
-    "title": "270C,270D,277X,278K,73B,N373,N673",
-    "x": 14272.499999999865,
-    "y": -50048.900000000176
   },
   {
     "borderWidth": 0,
@@ -82657,10 +82646,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "C1BF4509359B0895",
-    "value": 3,
+    "value": 5,
     "label": "屯門市中心總站",
     "shape": "hexagon",
-    "title": "259R,N260,R260",
+    "title": "259R,961,961P,N260,R260",
     "x": -2444.4000000002575,
     "y": -39150.89999999992
   },
@@ -89758,17 +89747,6 @@
     "title": "85A,86",
     "x": 20148.500000000524,
     "y": -38132.29999999983
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "DC6FFA2599F0880E",
-    "value": 2,
-    "label": "屯門市中心總站",
-    "shape": "hexagon",
-    "title": "961,961P",
-    "x": -2443.599999999435,
-    "y": -39143.999999999935
   },
   {
     "borderWidth": 0,
