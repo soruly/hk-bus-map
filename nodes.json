@@ -66838,6 +66838,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "20014650",
+    "value": 1,
+    "label": "青山公路　－　古洞段,　近　沙爾德聖保祿女修會聖保祿樂靜院",
+    "shape": "hexagon",
+    "title": "51B",
+    "x": 10716.354846955766,
+    "y": -50309.138439353876
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "201",
     "value": 1,
     "label": "鍾屋村輕鐵站",
@@ -72834,10 +72845,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "321",
-    "value": 3,
+    "value": 2,
     "label": "東涌纜車站",
     "shape": "hexagon",
-    "title": "11R,36,37H",
+    "title": "11R,37H",
     "x": -6126.700000000084,
     "y": -28930.099999999824
   },
@@ -93327,10 +93338,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "78",
-    "value": 19,
+    "value": 20,
     "label": "東涌纜車站",
     "shape": "hexagon",
-    "title": "11,11A,23,34,34S,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
+    "title": "11,11A,23,34,34S,36,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
     "x": -6126.700000000084,
     "y": -28930.099999999824
   },
