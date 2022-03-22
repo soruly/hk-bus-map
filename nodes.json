@@ -52912,28 +52912,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20007028",
-    "value": 3,
-    "label": "觀塘道,近牛頭角站",
-    "shape": "hexagon",
-    "title": "102,102B,102S",
-    "x": 21963.755045989332,
-    "y": -31511.394462407337
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20007032",
-    "value": 2,
-    "label": "觀塘道近,牛頭角下邨貴輝樓",
-    "shape": "hexagon",
-    "title": "102,102S",
-    "x": 21449.488749986755,
-    "y": -32011.81703265803
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20007034",
     "value": 2,
     "label": "觀塘道,近嘉域大廈",
@@ -66603,6 +66581,28 @@
     "title": "51B",
     "x": 10716.354846955766,
     "y": -50309.138439353876
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20014914",
+    "value": 2,
+    "label": "觀塘道近,牛頭角下邨貴輝樓",
+    "shape": "hexagon",
+    "title": "102,102S",
+    "x": 21453.61375074799,
+    "y": -31975.470293055252
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20014915",
+    "value": 3,
+    "label": "觀塘道,近牛頭角站",
+    "shape": "hexagon",
+    "title": "102,102B,102S",
+    "x": 21899.47287183571,
+    "y": -31535.47375298409
   },
   {
     "borderWidth": 0,
@@ -101550,6 +101550,17 @@
     "title": "10,208,270A,270C,271,271B,271P,281B,281X,7,72X,81C,887,N271,N281,R270,R271",
     "x": 17828.79999999949,
     "y": -32306.399999999867
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "99",
+    "value": 1,
+    "label": "白芒",
+    "shape": "hexagon",
+    "title": "36",
+    "x": -3242.000000000189,
+    "y": -29796.400000000034
   },
   {
     "borderWidth": 0,
