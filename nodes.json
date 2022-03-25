@@ -41528,10 +41528,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20001200",
-    "value": 5,
+    "value": 6,
     "label": "南盛街小巴站",
     "shape": "hexagon",
-    "title": "21A,21K,25A,25K,28K",
+    "title": "20S,21A,21K,25A,25K,28K",
     "x": 16575.083880498198,
     "y": -44806.66079278351
   },
@@ -47897,10 +47897,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20003029",
-    "value": 6,
+    "value": 7,
     "label": "鄉事會街,大埔綜合大樓",
     "shape": "hexagon",
-    "title": "20A,20B,20C,20K,20R,28K",
+    "title": "20A,20B,20C,20K,20R,20S,28K",
     "x": 16672.24393398925,
     "y": -44654.052534548326
   },
@@ -53430,10 +53430,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20007228",
-    "value": 4,
+    "value": 5,
     "label": "運頭街,大埔綜合大樓",
     "shape": "hexagon",
-    "title": "20E,20K,20P,28K",
+    "title": "20E,20K,20P,20S,28K",
     "x": 16708.191823289555,
     "y": -44608.9024814583
   },
@@ -62153,10 +62153,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20012291",
-    "value": 1,
+    "value": 2,
     "label": "大窩西支路, 圍頭村外",
     "shape": "hexagon",
-    "title": "58S",
+    "title": "21K,58S",
     "x": 14855.871042591672,
     "y": -46379.46330289715
   },
@@ -66460,17 +66460,6 @@
     "title": "101M",
     "x": 25031.572580338947,
     "y": -35373.23326077484
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20013330",
-    "value": 1,
-    "label": "運頭街, 大埔墟街市",
-    "shape": "hexagon",
-    "title": "20S",
-    "x": 16809.029750461945,
-    "y": -44677.511192235645
   },
   {
     "borderWidth": 0,
@@ -101572,17 +101561,6 @@
     "title": "10,208,270A,270C,271,271B,271P,281B,281X,7,72X,81C,887,N271,N281,R270,R271",
     "x": 17828.79999999949,
     "y": -32306.399999999867
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "99",
-    "value": 1,
-    "label": "白芒",
-    "shape": "hexagon",
-    "title": "36",
-    "x": -3242.000000000189,
-    "y": -29796.400000000034
   },
   {
     "borderWidth": 0,
