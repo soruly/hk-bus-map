@@ -7989,10 +7989,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001754",
-    "value": 7,
+    "value": 6,
     "label": "煜明苑, 銀澳路",
     "shape": "hexagon",
-    "title": "694,798,A29,E22A,E22S,N29,NA29",
+    "title": "798,A29,E22A,E22S,N29,NA29",
     "x": 26673.31805299966,
     "y": -31450.559209099894
   },
@@ -16300,6 +16300,17 @@
     "title": "82M,82S,8P,N118,N8P",
     "x": 24923.738053000478,
     "y": -26333.051209099878
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "002581",
+    "value": 7,
+    "label": "青年廣場, 柴灣道",
+    "shape": "hexagon",
+    "title": "106,606,682,780,82,8H,8X",
+    "x": 23584.85605300018,
+    "y": -26339.528209100037
   },
   {
     "borderWidth": 0,
@@ -72614,10 +72625,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "321",
-    "value": 2,
+    "value": 3,
     "label": "東涌纜車站",
     "shape": "hexagon",
-    "title": "11R,37H",
+    "title": "11R,36,37H",
     "x": -6126.700000000084,
     "y": -28930.099999999824
   },
@@ -93096,10 +93107,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "78",
-    "value": 20,
+    "value": 19,
     "label": "東涌纜車站",
     "shape": "hexagon",
-    "title": "11,11A,23,34,34S,36,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
+    "title": "11,11A,23,34,34S,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
     "x": -6126.700000000084,
     "y": -28930.099999999824
   },
