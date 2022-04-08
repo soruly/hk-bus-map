@@ -53463,10 +53463,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20007228",
-    "value": 4,
+    "value": 5,
     "label": "運頭街,大埔綜合大樓",
     "shape": "hexagon",
-    "title": "20E,20K,20P,28K",
+    "title": "20E,20K,20P,20S,28K",
     "x": 16708.191823289555,
     "y": -44608.9024814583
   },
@@ -62230,10 +62230,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20012291",
-    "value": 1,
+    "value": 2,
     "label": "大窩西支路, 圍頭村外",
     "shape": "hexagon",
-    "title": "58S",
+    "title": "21K,58S",
     "x": 14855.871042591672,
     "y": -46379.46330289715
   },
@@ -66559,17 +66559,6 @@
     "title": "101M",
     "x": 25031.572580338947,
     "y": -35373.23326077484
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20013330",
-    "value": 1,
-    "label": "運頭街, 大埔墟街市",
-    "shape": "hexagon",
-    "title": "20S",
-    "x": 16809.029750461945,
-    "y": -44677.511192235645
   },
   {
     "borderWidth": 0,
@@ -76727,17 +76716,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "295",
-    "value": 1,
-    "label": "白芒",
-    "shape": "hexagon",
-    "title": "36",
-    "x": -3242.000000000189,
-    "y": -29796.400000000034
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "2969EE1DAEAD252A",
     "value": 4,
     "label": "港運城",
@@ -79390,10 +79368,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "321",
-    "value": 2,
+    "value": 3,
     "label": "東涌纜車站",
     "shape": "hexagon",
-    "title": "11R,37H",
+    "title": "11R,36,37H",
     "x": -6126.700000000084,
     "y": -28930.099999999824
   },
@@ -99861,10 +99839,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "78",
-    "value": 20,
+    "value": 19,
     "label": "東涌纜車站",
     "shape": "hexagon",
-    "title": "11,11A,23,34,34S,36,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
+    "title": "11,11A,23,34,34S,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
     "x": -6126.700000000084,
     "y": -28930.099999999824
   },
