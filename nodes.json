@@ -73209,7 +73209,7 @@
     "borderWidthSelected": 1,
     "id": "20014882",
     "value": 1,
-    "label": "轩尼诗道, 近One Hennessy",
+    "label": "軒尼詩道, 近One Hennessy",
     "shape": "hexagon",
     "title": "10",
     "x": 16900.992393495075,
@@ -73220,7 +73220,7 @@
     "borderWidthSelected": 1,
     "id": "20014883",
     "value": 1,
-    "label": "轩尼诗道, 近友谊大厦",
+    "label": "軒尼詩道, 近友誼大廈",
     "shape": "hexagon",
     "title": "10",
     "x": 17893.007397653095,
@@ -76690,17 +76690,6 @@
     "title": "1,1A,203C,6",
     "x": 17190.399999999783,
     "y": -30001.800000000145
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "295",
-    "value": 1,
-    "label": "白芒",
-    "shape": "hexagon",
-    "title": "36",
-    "x": -3242.000000000189,
-    "y": -29796.400000000034
   },
   {
     "borderWidth": 0,
