@@ -71524,6 +71524,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "20014650",
+    "value": 1,
+    "label": "青山公路　－　古洞段,　近　沙爾德聖保祿女修會聖保祿樂靜院",
+    "shape": "hexagon",
+    "title": "51B",
+    "x": 10716.354846955766,
+    "y": -50309.138439353876
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "20014651",
     "value": 1,
     "label": "太子道西, 近蘭苑",
@@ -76690,6 +76701,17 @@
     "title": "1,1A,203C,6",
     "x": 17190.399999999783,
     "y": -30001.800000000145
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "295",
+    "value": 1,
+    "label": "白芒",
+    "shape": "hexagon",
+    "title": "36",
+    "x": -3242.000000000189,
+    "y": -29796.400000000034
   },
   {
     "borderWidth": 0,
