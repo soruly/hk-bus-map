@@ -44376,6 +44376,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "20001783",
+    "value": 1,
+    "label": "荔景山路, 近荔景郵政局",
+    "shape": "hexagon",
+    "title": "413",
+    "x": 12671.410699583419,
+    "y": -34604.15852511396
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "20001792",
     "value": 1,
     "label": "美荔道近唐乃勤初中書院",
@@ -44421,10 +44432,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20001814",
-    "value": 2,
+    "value": 3,
     "label": "荔景山路,近荔景邨嶺南鍾榮光博士紀念中學",
     "shape": "hexagon",
-    "title": "91,91A",
+    "title": "413,91,91A",
     "x": 12773.117758013086,
     "y": -35246.2624000708
   },
@@ -45455,10 +45466,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20002102",
-    "value": 1,
+    "value": 2,
     "label": "瑪嘉列醫院",
     "shape": "hexagon",
-    "title": "313",
+    "title": "313,413",
     "x": 13463.694865345133,
     "y": -34182.656871170635
   },
@@ -57389,17 +57400,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20009413",
-    "value": 1,
-    "label": "荔景山路, 嶺南鐘榮光中學外",
-    "shape": "hexagon",
-    "title": "413",
-    "x": 12808.746099473467,
-    "y": -35323.74419989317
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20009416",
     "value": 1,
     "label": "青敬路, 聖保祿村對面",
@@ -57407,6 +57407,17 @@
     "title": "413",
     "x": 10653.054714204301,
     "y": -35723.62070605308
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20009418",
+    "value": 1,
+    "label": "青衣碼頭總站",
+    "shape": "hexagon",
+    "title": "413",
+    "x": 10860.121250154009,
+    "y": -35320.64337569132
   },
   {
     "borderWidth": 0,
@@ -57532,33 +57543,11 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20009602",
-    "value": 1,
-    "label": "荔景山路, 近荔景郵政局",
-    "shape": "hexagon",
-    "title": "413",
-    "x": 12660.956382752885,
-    "y": -34595.279618899964
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20009604",
-    "value": 1,
-    "label": "青衣碼頭總站",
-    "shape": "hexagon",
-    "title": "413",
-    "x": 10843.759775163164,
-    "y": -35308.36410507057
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20009634",
-    "value": 2,
+    "value": 1,
     "label": "瑪嘉烈醫院Ｋ座",
     "shape": "hexagon",
-    "title": "413,90A",
+    "title": "90A",
     "x": 13450.59871673584,
     "y": -34187.92815230667
   },
