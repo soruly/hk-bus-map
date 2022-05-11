@@ -55662,17 +55662,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20008083",
-    "value": 1,
-    "label": "景嶺路,彩明苑彩富閣",
-    "shape": "hexagon",
-    "title": "108A",
-    "x": 25320.446491242878,
-    "y": -30812.916807350277
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20008085",
     "value": 3,
     "label": "烏溪沙站巴士總站",
@@ -76767,17 +76756,6 @@
     "title": "1,1A,203C,6",
     "x": 17190.399999999783,
     "y": -30001.800000000145
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "295",
-    "value": 1,
-    "label": "白芒",
-    "shape": "hexagon",
-    "title": "36",
-    "x": -3242.000000000189,
-    "y": -29796.400000000034
   },
   {
     "borderWidth": 0,
@@ -99883,10 +99861,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "78",
-    "value": 20,
+    "value": 19,
     "label": "東涌纜車站",
     "shape": "hexagon",
-    "title": "11,11A,23,34,34S,36,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
+    "title": "11,11A,23,34,34S,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
     "x": -6126.700000000084,
     "y": -28930.099999999824
   },
