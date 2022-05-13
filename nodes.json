@@ -3688,10 +3688,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001349",
-    "value": 4,
+    "value": 3,
     "label": "怡景道",
     "shape": "hexagon",
-    "title": "23B,25A,41A,81A",
+    "title": "23B,41A,81A",
     "x": 19362.006052999448,
     "y": -28117.660209100137
   },
@@ -16129,10 +16129,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002565",
-    "value": 12,
+    "value": 11,
     "label": "香港會議展覽中心, 菲林明道",
     "shape": "hexagon",
-    "title": "15B,25A,2A,2X,40,40M,8,8P,907B,907C,930A,N8",
+    "title": "15B,2A,2X,40,40M,8,8P,907B,907C,930A,N8",
     "x": 17420.326053000677,
     "y": -28116.453209100102
   },
@@ -23598,10 +23598,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003415",
-    "value": 11,
-    "label": "灣仔北",
+    "value": 10,
+    "label": "會展站",
     "shape": "hexagon",
-    "title": "25A,2A,2X,40,8,8P,905,905A,930,930A,N8",
+    "title": "2A,2X,40,8,8P,905,905A,930,930A,N8",
     "x": 17729.665052999622,
     "y": -28275.617209099833
   },
@@ -29885,17 +29885,6 @@
     "title": "287D,40E,40S,40X,85X,86K,86S,87D,N86",
     "x": 23984.500000000255,
     "y": -42578.59999999987
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "0D55B945DD66938B",
-    "value": 2,
-    "label": "灣仔北總站",
-    "shape": "hexagon",
-    "title": "978,978A",
-    "x": 17780.299999999726,
-    "y": -28268.999999999876
   },
   {
     "borderWidth": 0,
@@ -47505,8 +47494,8 @@
     "label": "環保大道, 首都對面",
     "shape": "hexagon",
     "title": "115",
-    "x": 27254.08091765331,
-    "y": -29744.555747105394
+    "x": 27253.514528277377,
+    "y": -29744.49428488022
   },
   {
     "borderWidth": 0,
@@ -62197,10 +62186,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20012291",
-    "value": 1,
+    "value": 2,
     "label": "大窩西支路, 圍頭村外",
     "shape": "hexagon",
-    "title": "58S",
+    "title": "21K,58S",
     "x": 14855.871042591672,
     "y": -46379.46330289715
   },
@@ -71705,8 +71694,8 @@
     "label": "太子道東, 譽.港灣對面",
     "shape": "hexagon",
     "title": "105,105S",
-    "x": 19729.113578796387,
-    "y": -33253.10829425234
+    "x": 19724.956154824726,
+    "y": -33266.25773421377
   },
   {
     "borderWidth": 0,
@@ -85208,17 +85197,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "457F233C4DBA7889",
-    "value": 1,
-    "label": "灣仔北總站",
-    "shape": "hexagon",
-    "title": "P960",
-    "x": 17780.299999999726,
-    "y": -28268.999999999876
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "457F82CA73DB77ED",
     "value": 4,
     "label": "西九龍站",
@@ -87074,17 +87052,6 @@
     "title": "11D,11K,75X,85,85A,85B,891",
     "x": 18711.700000000063,
     "y": -32985.8999999999
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "4BC2395E731A9C1A",
-    "value": 1,
-    "label": "灣仔北總站",
-    "shape": "hexagon",
-    "title": "960",
-    "x": 17780.299999999726,
-    "y": -28268.999999999876
   },
   {
     "borderWidth": 0,
@@ -89087,17 +89054,6 @@
     "title": "73,74K",
     "x": 18035.000000000422,
     "y": -45920.10000000002
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "51E0BEA44467E191",
-    "value": 2,
-    "label": "灣仔北總站",
-    "shape": "hexagon",
-    "title": "978A,978B",
-    "x": 17780.299999999726,
-    "y": -28268.999999999876
   },
   {
     "borderWidth": 0,
@@ -99872,10 +99828,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "78",
-    "value": 19,
+    "value": 20,
     "label": "東涌纜車站",
     "shape": "hexagon",
-    "title": "11,11A,23,34,34S,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
+    "title": "11,11A,23,34,34S,36,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
     "x": -6126.700000000084,
     "y": -28930.099999999824
   },
@@ -110872,10 +110828,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "A1C7FEBDB364A6D5",
-    "value": 7,
+    "value": 3,
     "label": "灣仔碼頭",
     "shape": "hexagon",
-    "title": "168R,178R,603R,960,978,978A,P960",
+    "title": "168R,178R,603R",
     "x": 17540.300000000287,
     "y": -28176.399999999903
   },
@@ -118164,17 +118120,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "BB7192AFD97C9DCB",
-    "value": 2,
-    "label": "灣仔碼頭",
-    "shape": "hexagon",
-    "title": "905,905A",
-    "x": 17576.90000000025,
-    "y": -28181.59999999992
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "BB78072EA5359090",
     "value": 1,
     "label": "青嶼幹線轉車站",
@@ -122356,10 +122301,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "CBA136AB43EA83F6",
-    "value": 2,
+    "value": 1,
     "label": "灣仔北總站",
     "shape": "hexagon",
-    "title": "905,905A",
+    "title": "905",
     "x": 17780.299999999726,
     "y": -28268.999999999876
   },
@@ -124105,10 +124050,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "D27B34CA3854232D",
-    "value": 3,
+    "value": 2,
     "label": "香港會議展覽中心",
     "shape": "hexagon",
-    "title": "900,960,961",
+    "title": "900,961",
     "x": 17415.3000000004,
     "y": -28138.699999999873
   },
