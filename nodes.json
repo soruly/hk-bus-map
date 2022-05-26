@@ -69929,17 +69929,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20014288",
-    "value": 1,
-    "label": "廣東道, 近 Grand Austin 第２座",
-    "shape": "hexagon",
-    "title": "3",
-    "x": 16778.147187871185,
-    "y": -30336.76916250556
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20014289",
     "value": 1,
     "label": "渡船街, 近 文苑樓",
@@ -76734,6 +76723,17 @@
     "title": "1,1A,203C,6",
     "x": 17190.399999999783,
     "y": -30001.800000000145
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "295",
+    "value": 1,
+    "label": "白芒",
+    "shape": "hexagon",
+    "title": "36",
+    "x": -3242.000000000189,
+    "y": -29796.400000000034
   },
   {
     "borderWidth": 0,
@@ -99817,10 +99817,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "78",
-    "value": 19,
+    "value": 20,
     "label": "東涌纜車站",
     "shape": "hexagon",
-    "title": "11,11A,23,34,34S,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
+    "title": "11,11A,23,34,34S,36,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
     "x": -6126.700000000084,
     "y": -28930.099999999824
   },
