@@ -10761,10 +10761,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002027",
-    "value": 5,
+    "value": 4,
     "label": "富安花園",
     "shape": "hexagon",
-    "title": "680B,681P,682,682A,981P",
+    "title": "680B,681P,682A,981P",
     "x": 22402.729053000316,
     "y": -40552.73720910009
   },
@@ -10926,10 +10926,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002042",
-    "value": 4,
+    "value": 3,
     "label": "頌安邨, 西沙路",
     "shape": "hexagon",
-    "title": "681P,682,682A,981P",
+    "title": "681P,682A,981P",
     "x": 22718.70205299962,
     "y": -42077.46420910006
   },
@@ -10937,10 +10937,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002043",
-    "value": 4,
+    "value": 3,
     "label": "錦鞍苑, 西沙路",
     "shape": "hexagon",
-    "title": "681P,682,682A,981P",
+    "title": "681P,682A,981P",
     "x": 22645.986052999946,
     "y": -41893.31120910005
   },
@@ -10948,10 +10948,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002044",
-    "value": 4,
+    "value": 3,
     "label": "德信中學, 寧泰路",
     "shape": "hexagon",
-    "title": "681P,682,682A,981P",
+    "title": "681P,682A,981P",
     "x": 22157.22905300055,
     "y": -41060.31320910013
   },
@@ -10959,10 +10959,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002045",
-    "value": 4,
+    "value": 3,
     "label": "錦泰苑, 寧泰路",
     "shape": "hexagon",
-    "title": "681P,682,682A,981P",
+    "title": "681P,682A,981P",
     "x": 22019.15405299957,
     "y": -40799.11020909996
   },
@@ -11883,10 +11883,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002155",
-    "value": 4,
+    "value": 3,
     "label": "保泰街",
     "shape": "hexagon",
-    "title": "681P,682,682A,981P",
+    "title": "681P,682A,981P",
     "x": 22365.663053000164,
     "y": -41423.44420910007
   },
@@ -23004,10 +23004,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003348",
-    "value": 5,
+    "value": 4,
     "label": "欣安邨, 恆輝街",
     "shape": "hexagon",
-    "title": "680B,681P,682,682A,981P",
+    "title": "680B,681P,682A,981P",
     "x": 22693.46705299995,
     "y": -41497.836209099856
   },
@@ -38404,12 +38404,12 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20000366",
-    "value": 4,
+    "value": 1,
     "label": "瑪麗醫院, K翼外",
     "shape": "hexagon",
-    "title": "54,54M,54S,63",
-    "x": 13109.959009831584,
-    "y": -27099.134842657335
+    "title": "63",
+    "x": 13103.25055434589,
+    "y": -27091.727968321065
   },
   {
     "borderWidth": 0,
@@ -47747,8 +47747,8 @@
     "label": "摩星嶺道與域多利道交界",
     "shape": "hexagon",
     "title": "54",
-    "x": 11844.369448191117,
-    "y": -27447.13023768668
+    "x": 11843.910668211776,
+    "y": -27446.337491983286
   },
   {
     "borderWidth": 0,
@@ -49870,8 +49870,8 @@
     "label": "摩星嶺道聖加勒女書院對面",
     "shape": "hexagon",
     "title": "54",
-    "x": 12246.139791439247,
-    "y": -27261.238475442085
+    "x": 12245.705595017853,
+    "y": -27262.912684259532
   },
   {
     "borderWidth": 0,
@@ -73412,6 +73412,28 @@
     "title": "89B",
     "x": 23245.22137642049,
     "y": -31702.628007083433
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20015805",
+    "value": 2,
+    "label": "瑪麗醫院",
+    "shape": "hexagon",
+    "title": "54,54S",
+    "x": 13091.58545908673,
+    "y": -27029.910018804414
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20015806",
+    "value": 1,
+    "label": "瑪麗醫院",
+    "shape": "hexagon",
+    "title": "54M",
+    "x": 13096.980200640473,
+    "y": -27042.66627325147
   },
   {
     "borderWidth": 0,
