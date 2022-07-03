@@ -30307,6 +30307,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "0ECA7118ADB9577B",
+    "value": 1,
+    "label": "會議道",
+    "shape": "hexagon",
+    "title": "961",
+    "x": 17488.500000000327,
+    "y": -28239.10000000005
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "0ED8503933F861D8",
     "value": 4,
     "label": "爹核士街",
@@ -81083,6 +81094,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "295",
+    "value": 1,
+    "label": "白芒",
+    "shape": "hexagon",
+    "title": "36",
+    "x": -3242.000000000189,
+    "y": -29796.400000000034
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "2969EE1DAEAD252A",
     "value": 4,
     "label": "港運城",
@@ -84042,6 +84064,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "32744B2FF962A824",
+    "value": 4,
+    "label": "香港會議展覽中心",
+    "shape": "hexagon",
+    "title": "905,905P,914P,914X",
+    "x": 17350.10000000017,
+    "y": -28062.399999999954
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "327E4BC13954EA86",
     "value": 7,
     "label": "臨華街遊樂場",
@@ -86414,6 +86447,17 @@
     "title": "93A",
     "x": 25976,
     "y": -32375.70000000005
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "3B254E7FFFCC0A2F",
+    "value": 1,
+    "label": "灣仔會展巴士總站",
+    "shape": "hexagon",
+    "title": "961",
+    "x": 17423.20000000035,
+    "y": -28421.300000000116
   },
   {
     "borderWidth": 0,
@@ -90913,6 +90957,17 @@
     "title": "11C,11X,13D,13M,13X,14D,290A,601,601P,613,613A,95,N213,N216,N290",
     "x": 23041.60000000053,
     "y": -32180.100000000068
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "4A182203F1AD6C2E",
+    "value": 3,
+    "label": "灣仔訓練池",
+    "shape": "hexagon",
+    "title": "104,905,905P",
+    "x": 17619.79999999994,
+    "y": -28077.8999999999
   },
   {
     "borderWidth": 0,
@@ -104129,10 +104184,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "78",
-    "value": 19,
+    "value": 20,
     "label": "東涌纜車站",
     "shape": "hexagon",
-    "title": "11,11A,23,34,34S,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
+    "title": "11,11A,23,34,34S,36,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
     "x": -6126.700000000084,
     "y": -28930.099999999824
   },
@@ -109958,6 +110013,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "8FC6D695940F0933",
+    "value": 2,
+    "label": "會展站巴士總站",
+    "shape": "hexagon",
+    "title": "905,905A",
+    "x": 17533.000000000244,
+    "y": -28171.999999999996
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "8FD9863802F38CDB",
     "value": 1,
     "label": "旺角(柏景灣)總站",
@@ -111461,6 +111527,17 @@
     "title": "289R,299X,99,99R",
     "x": 27629.199999999797,
     "y": -40565.39999999984
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "94DD695443E28D10",
+    "value": 4,
+    "label": "中信大廈",
+    "shape": "hexagon",
+    "title": "905,905P,914P,914X",
+    "x": 16748.49999999992,
+    "y": -28105.59999999995
   },
   {
     "borderWidth": 0,
@@ -118699,6 +118776,17 @@
     "title": "178R,261X,270A,270B,270S,273A,273D,277P,278X,279X,678,76K,978,978B,N373,N73,T270,T277,W3",
     "x": 13324.00000000007,
     "y": -49209.300000000054
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "ADC51A7EEEE43D6F",
+    "value": 2,
+    "label": "會展站巴士總站",
+    "shape": "hexagon",
+    "title": "960,P960",
+    "x": 17565.99999999935,
+    "y": -28169.00000000011
   },
   {
     "borderWidth": 0,
@@ -128368,6 +128456,17 @@
     "title": "284,289R,299X,83K,86K,89X",
     "x": 19578.599999999824,
     "y": -38222.00000000002
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "D27B34CA3854232D",
+    "value": 2,
+    "label": "香港會議展覽中心",
+    "shape": "hexagon",
+    "title": "900,961",
+    "x": 17415.3000000004,
+    "y": -28138.699999999873
   },
   {
     "borderWidth": 0,
