@@ -47186,8 +47186,8 @@
     "label": "重華路, 東港城第3座外",
     "shape": "hexagon",
     "title": "102,102B,102S,11,113,11M",
-    "x": 26592.506150431916,
-    "y": -31697.348308777506
+    "x": 26558.632943164186,
+    "y": -31717.26564162718
   },
   {
     "borderWidth": 0,
@@ -98354,10 +98354,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "635D6769D9C2C20F",
-    "value": 2,
+    "value": 3,
     "label": "博覽道",
     "shape": "hexagon",
-    "title": "105R,111R",
+    "title": "105R,111R,168R",
     "x": 17230.0000000007,
     "y": -28286.59999999985
   },
@@ -104184,10 +104184,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "78",
-    "value": 19,
+    "value": 20,
     "label": "東涌纜車站",
     "shape": "hexagon",
-    "title": "11,11A,23,34,34S,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
+    "title": "11,11A,23,34,34S,36,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
     "x": -6126.700000000084,
     "y": -28930.099999999824
   },
@@ -115206,10 +115206,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "A1C7FEBDB364A6D5",
-    "value": 3,
+    "value": 2,
     "label": "灣仔碼頭",
     "shape": "hexagon",
-    "title": "168R,178R,603R",
+    "title": "178R,603R",
     "x": 17540.300000000287,
     "y": -28176.399999999903
   },
@@ -131442,10 +131442,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "DCE0DAF77EBA1E21",
-    "value": 4,
+    "value": 3,
     "label": "入境事務大樓",
     "shape": "hexagon",
-    "title": "104,168R,178R,603R",
+    "title": "104,178R,603R",
     "x": 17279.000000000622,
     "y": -27953.899999999976
   },
@@ -138356,6 +138356,17 @@
     "title": "170,N170",
     "x": 15356.199999999375,
     "y": -24978.19999999997
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "F6E65ED7BA637652",
+    "value": 3,
+    "label": "會展站巴士總站",
+    "shape": "hexagon",
+    "title": "978,978A,978B",
+    "x": 17560.000000000287,
+    "y": -28168.00000000015
   },
   {
     "borderWidth": 0,
