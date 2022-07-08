@@ -54639,17 +54639,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20007659",
-    "value": 1,
-    "label": "西九文化區藝術公園停車灣",
-    "shape": "hexagon",
-    "title": "74S",
-    "x": 15621.17636203908,
-    "y": -30096.636156786262
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20007669",
     "value": 2,
     "label": "安茵街, 近恆泰樓",
@@ -68521,17 +68510,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20014024",
-    "value": 1,
-    "label": "博物館道，近M+博物館",
-    "shape": "hexagon",
-    "title": "74S",
-    "x": 15887.251496316423,
-    "y": -30191.30844415585
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20014056",
     "value": 2,
     "label": "康利道, 樂意園對面",
@@ -77784,10 +77762,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20016267",
-    "value": 2,
+    "value": 3,
     "label": "博物館道，近西九文化區藝術公園 ",
     "shape": "hexagon",
-    "title": "77M,CX1",
+    "title": "74S,77M,CX1",
     "x": 15733.0844358313,
     "y": -30092.523786525406
   },
@@ -104206,10 +104184,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "78",
-    "value": 20,
+    "value": 19,
     "label": "東涌纜車站",
     "shape": "hexagon",
-    "title": "11,11A,23,34,34S,36,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
+    "title": "11,11A,23,34,34S,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
     "x": -6126.700000000084,
     "y": -28930.099999999824
   },
