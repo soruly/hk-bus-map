@@ -22367,7 +22367,7 @@
     "borderWidthSelected": 1,
     "id": "003267",
     "value": 1,
-    "label": "建生邨, 青田路",
+    "label": "建生邨樂生樓, 青田路",
     "shape": "hexagon",
     "title": "B3A",
     "x": -3114.955946999487,
@@ -77768,6 +77768,17 @@
     "title": "74S,77M,CX1",
     "x": 15733.0844358313,
     "y": -30092.523786525406
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20016300",
+    "value": 2,
+    "label": "忠孝街, 近何文田站",
+    "shape": "hexagon",
+    "title": "8,8S",
+    "x": 18224.405757538876,
+    "y": -31048.26638777354
   },
   {
     "borderWidth": 0,
