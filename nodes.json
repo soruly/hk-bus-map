@@ -25402,10 +25402,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003590",
-    "value": 2,
+    "value": 3,
     "label": "觀塘碼頭",
     "shape": "hexagon",
-    "title": "55,797",
+    "title": "55,78X,797",
     "x": 22147.382052999375,
     "y": -30769.6182091
   },
@@ -108513,6 +108513,17 @@
     "title": "54,64K,65R,68,68E,68F,76K,77K,A36,E36,E36P,N269,N368,NA36",
     "x": 4589.199999999493,
     "y": -44393.49999999998
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "876D631AB4D87514",
+    "value": 1,
+    "label": "葵翠邨",
+    "shape": "hexagon",
+    "title": "59A",
+    "x": 12859.19999999976,
+    "y": -35657.799999999894
   },
   {
     "borderWidth": 0,
