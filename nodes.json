@@ -3160,10 +3160,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001299",
-    "value": 21,
+    "value": 22,
     "label": "南安里, 筲箕灣道",
     "shape": "hexagon",
-    "title": "106,106P,14,606,682,682A,682B,682P,682X,694,720X,77,81,81A,82,82S,85,8H,99,N8,N8X",
+    "title": "106,106P,14,606,682,682A,682B,682P,682X,694,720X,77,81,81A,82,82S,85,8H,976A,99,N8,N8X",
     "x": 22690.650053000638,
     "y": -27784.98820910009
   },
@@ -4029,10 +4029,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001380",
-    "value": 9,
+    "value": 8,
     "label": "南康街, 筲箕灣道",
     "shape": "hexagon",
-    "title": "18X,2,2X,608,720,85,85A,976A,A12",
+    "title": "18X,2,2X,608,720,85,85A,A12",
     "x": 22627.158052999617,
     "y": -27888.257209099975
   },
@@ -81534,6 +81534,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "295",
+    "value": 1,
+    "label": "白芒",
+    "shape": "hexagon",
+    "title": "36",
+    "x": -3242.000000000189,
+    "y": -29796.400000000034
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "2952FAAF93CC4638",
     "value": 1,
     "label": "華明邨耀明樓",
@@ -102555,17 +102566,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "704C764F674E500D",
-    "value": 4,
-    "label": "大洞",
-    "shape": "hexagon",
-    "title": "289R,299X,99,99R",
-    "x": 26353.00000000029,
-    "y": -42420.90000000012
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "7055FEADC58CB1F1",
     "value": 2,
     "label": "黃埔花園總站",
@@ -104668,10 +104668,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "78",
-    "value": 19,
+    "value": 20,
     "label": "東涌纜車站",
     "shape": "hexagon",
-    "title": "11,11A,23,34,34S,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
+    "title": "11,11A,23,34,34S,36,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
     "x": -6126.700000000084,
     "y": -28930.099999999824
   },
@@ -105079,8 +105079,8 @@
     "label": "田寮",
     "shape": "hexagon",
     "title": "289R,299X,99,99R",
-    "x": 26306.70000000066,
-    "y": -42478.90000000005
+    "x": 26250.000000000284,
+    "y": -42559.999999999935
   },
   {
     "borderWidth": 0,
@@ -126228,10 +126228,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "C7FC5050194509AE",
-    "value": 8,
+    "value": 9,
     "label": "荃灣眾安街",
     "shape": "hexagon",
-    "title": "260C,58M,58P,61M,67A,67M,N252,N260",
+    "title": "260C,32P,58M,58P,61M,67A,67M,N252,N260",
     "x": 11910.299999999552,
     "y": -37134
   },
