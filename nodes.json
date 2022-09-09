@@ -4249,10 +4249,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001402",
-    "value": 6,
+    "value": 7,
     "label": "北京道, 廣東道",
     "shape": "hexagon",
-    "title": "110,20A,973,E21X,H1,H2",
+    "title": "110,20A,973,E21X,H1,H1S,H2",
     "x": 16936.782052999886,
     "y": -29574.360209100094
   },
@@ -6207,10 +6207,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001587",
-    "value": 7,
+    "value": 8,
     "label": "尖東站, 梳士巴利道",
     "shape": "hexagon",
-    "title": "110,796P,973,A21,E21X,H1,NA20",
+    "title": "110,796P,973,A21,E21X,H1,H1S,NA20",
     "x": 17460.77305299991,
     "y": -29521.550209100056
   },
@@ -6229,10 +6229,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001589",
-    "value": 7,
+    "value": 8,
     "label": "尖東站, 梳士巴利道",
     "shape": "hexagon",
-    "title": "117R,796P,973,A21,H1,N796,NA20",
+    "title": "117R,796P,973,A21,H1,H1S,N796,NA20",
     "x": 17402.893052999956,
     "y": -29475.169209100117
   },
@@ -22729,10 +22729,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003301",
-    "value": 3,
+    "value": 4,
     "label": "星光大道, 梳士巴利道",
     "shape": "hexagon",
-    "title": "796X,H1,NA20",
+    "title": "796X,H1,H1S,NA20",
     "x": 17699.772052999662,
     "y": -29628.093209100116
   },
@@ -47890,8 +47890,8 @@
     "label": "梨木道寧峰苑對出的停車灣",
     "shape": "hexagon",
     "title": "403A,403X",
-    "x": 13860.876595235539,
-    "y": -37212.50535461742
+    "x": 13854.582148022131,
+    "y": -37203.41740907998
   },
   {
     "borderWidth": 0,
@@ -78021,17 +78021,6 @@
     "title": "44",
     "x": -3213.0271196336935,
     "y": -38711.66428946431
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20016201",
-    "value": 1,
-    "label": "寶順路,將軍澳游泳池對面",
-    "shape": "hexagon",
-    "title": "108A",
-    "x": 26115.721464159946,
-    "y": -31695.4322256894
   },
   {
     "borderWidth": 0,
@@ -133032,6 +133021,17 @@
     "title": "606,606A",
     "x": 22020.799999999952,
     "y": -27901.59999999986
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "E121F366E450943D",
+    "value": 1,
+    "label": "觀塘站",
+    "shape": "hexagon",
+    "title": "89B",
+    "x": 22801.699999999415,
+    "y": -31211.000000000055
   },
   {
     "borderWidth": 0,
