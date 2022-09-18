@@ -27371,10 +27371,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "0246D8407B61118D",
-    "value": 1,
+    "value": 2,
     "label": "寶林總站",
     "shape": "hexagon",
-    "title": "690",
+    "title": "690,690P",
     "x": 25740.199999999903,
     "y": -32324.5
   },
@@ -31898,17 +31898,6 @@
     "title": "234B,234C,234D,48P,53,N252",
     "x": 9750.999999999976,
     "y": -36827.1
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "12332D6FD6163ED9",
-    "value": 1,
-    "label": "寶林總站",
-    "shape": "hexagon",
-    "title": "98P",
-    "x": 25754.600000000493,
-    "y": -32353.000000000164
   },
   {
     "borderWidth": 0,
@@ -88652,10 +88641,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "4117D6530A6543E4",
-    "value": 2,
+    "value": 1,
     "label": "觀塘站 (S6)",
     "shape": "hexagon",
-    "title": "5R,W2",
+    "title": "W2",
     "x": 22782.70000000049,
     "y": -31158.500000000087
   },
@@ -107682,10 +107671,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "83BB162ED5F1355F",
-    "value": 6,
+    "value": 7,
     "label": "牛頭角站 (A1)",
     "shape": "hexagon",
-    "title": "11B,11C,11D,15A,671,671X",
+    "title": "11B,11C,11D,15A,5R,671,671X",
     "x": 21967.300000000025,
     "y": -31472.600000000028
   },
@@ -126503,10 +126492,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "C8DFFC6DB50F5F86",
-    "value": 3,
+    "value": 2,
     "label": "寶林總站",
     "shape": "hexagon",
-    "title": "93K,93P,98P",
+    "title": "93K,93P",
     "x": 25724.99999999991,
     "y": -32341.80000000002
   },
@@ -134107,7 +134096,7 @@
     "value": 1,
     "label": "寶林總站",
     "shape": "hexagon",
-    "title": "690P",
+    "title": "98P",
     "x": 25749.299999999665,
     "y": -32313.500000000062
   },
