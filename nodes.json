@@ -37011,8 +37011,8 @@
     "label": "卑路乍街, 近北街",
     "shape": "hexagon",
     "title": "12,13,54",
-    "x": 12936.632263077285,
-    "y": -28275.59561269517
+    "x": 12881.111024114489,
+    "y": -28264.208618995566
   },
   {
     "borderWidth": 0,
@@ -38119,7 +38119,7 @@
     "borderWidthSelected": 1,
     "id": "20000289",
     "value": 1,
-    "label": "卑路乍街, 聯邦新樓外",
+    "label": "卑路乍街, 聯友新樓外",
     "shape": "hexagon",
     "title": "54",
     "x": 12777.505711095217,
@@ -43311,7 +43311,7 @@
     "borderWidthSelected": 1,
     "id": "20001406",
     "value": 1,
-    "label": "過境穿梭巴士新田總站",
+    "label": "落馬洲(新田)公共運輸交匯處 ",
     "shape": "hexagon",
     "title": "78",
     "x": 8196.13426966299,
@@ -50123,8 +50123,8 @@
     "label": "域多利道, 麗景大廈外",
     "shape": "hexagon",
     "title": "54",
-    "x": 12051.750017421626,
-    "y": -28098.312417414563
+    "x": 12123.047998741753,
+    "y": -28133.337394788072
   },
   {
     "borderWidth": 0,
@@ -50450,11 +50450,11 @@
     "borderWidthSelected": 1,
     "id": "20003569",
     "value": 2,
-    "label": "羅便臣道66號",
+    "label": "羅便臣道60號",
     "shape": "hexagon",
     "title": "56A,56B",
-    "x": 14973.416272066232,
-    "y": -28105.384263690426
+    "x": 15045.687165046218,
+    "y": -28067.339036250516
   },
   {
     "borderWidth": 0,
@@ -53419,10 +53419,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20007102",
-    "value": 1,
-    "label": "錦田公路, 近高埔村",
+    "value": 2,
+    "label": "錦田公路, 近高埔村 ",
     "shape": "hexagon",
-    "title": "608",
+    "title": "608,78",
     "x": 5632.895713523567,
     "y": -44034.61279481888
   },
@@ -53430,10 +53430,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20007107",
-    "value": 1,
+    "value": 2,
     "label": "錦田公路, 近高埔村",
     "shape": "hexagon",
-    "title": "608",
+    "title": "608,78",
     "x": 5629.0318242588455,
     "y": -44009.32466329657
   },
@@ -61229,10 +61229,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20012060",
-    "value": 4,
+    "value": 3,
     "label": "裕民坊公共運輸交匯處",
     "shape": "hexagon",
-    "title": "22A,22M,62S,63",
+    "title": "22A,62S,63",
     "x": 22509.16513876575,
     "y": -31439.264248694344
   },
@@ -65738,28 +65738,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20013001",
-    "value": 1,
-    "label": "香港兒童醫院",
-    "shape": "hexagon",
-    "title": "86",
-    "x": 20878.44014167928,
-    "y": -31624.957174036437
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20013002",
-    "value": 1,
-    "label": "啟德橋，近承豐道",
-    "shape": "hexagon",
-    "title": "86",
-    "x": 20573.204755785922,
-    "y": -31458.708778272994
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20013003",
     "value": 1,
     "label": "愛蝶灣第10座外",
@@ -68121,6 +68099,17 @@
     "title": "22A,22M",
     "x": 22362.001377095454,
     "y": -31560.161210919447
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20013829",
+    "value": 1,
+    "label": "樂華小巴總站",
+    "shape": "hexagon",
+    "title": "22M",
+    "x": 21973.769289401447,
+    "y": -32047.1497674955
   },
   {
     "borderWidth": 0,
@@ -78483,6 +78472,72 @@
     "title": "106,12,89A,89C",
     "x": 23212.474839554885,
     "y": -32101.830170047306
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20017290",
+    "value": 1,
+    "label": "裕民坊公共運輸交匯處",
+    "shape": "hexagon",
+    "title": "22M",
+    "x": 22458.586916266653,
+    "y": -31427.05523050502
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20017488",
+    "value": 1,
+    "label": "錦田公路近蒙養公立學校 ",
+    "shape": "hexagon",
+    "title": "78",
+    "x": 6140.134278030018,
+    "y": -43996.54388768965
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20017489",
+    "value": 1,
+    "label": "青山公路 - 潭尾段近沙埔村 ",
+    "shape": "hexagon",
+    "title": "78",
+    "x": 4964.978008025866,
+    "y": -45169.67531768792
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20017521",
+    "value": 1,
+    "label": "承豐道,近郵輪碼頭",
+    "shape": "hexagon",
+    "title": "86",
+    "x": 21066.84174000861,
+    "y": -30907.720176013954
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20017522",
+    "value": 1,
+    "label": "承豐道,維港一號對面",
+    "shape": "hexagon",
+    "title": "86",
+    "x": 20761.392025323745,
+    "y": -31185.929326787587
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20017523",
+    "value": 1,
+    "label": "承豐道,近啟德橋",
+    "shape": "hexagon",
+    "title": "86",
+    "x": 20573.277907108433,
+    "y": -31354.868995842367
   },
   {
     "borderWidth": 0,
@@ -105020,10 +105075,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "78",
-    "value": 19,
+    "value": 20,
     "label": "東涌纜車站",
     "shape": "hexagon",
-    "title": "11,11A,23,34,34S,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
+    "title": "11,11A,23,34,34S,36,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
     "x": -6126.700000000084,
     "y": -28930.099999999824
   },
