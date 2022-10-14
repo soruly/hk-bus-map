@@ -27547,10 +27547,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "032C7D86DF9ED3AC",
-    "value": 1,
+    "value": 7,
     "label": "紅磡海底隧道收費廣場",
     "shape": "hexagon",
-    "title": "104",
+    "title": "101,111,111P,N121,N182,N368,N373",
     "x": 18080.70000000015,
     "y": -30268.500000000033
   },
@@ -28471,10 +28471,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "06C9926B2E2B304F",
-    "value": 8,
+    "value": 6,
     "label": "紅磡海底隧道收費廣場",
     "shape": "hexagon",
-    "title": "108,118,118P,N118,R934,R936,R948,R968",
+    "title": "108,118,R934,R936,R948,R968",
     "x": 18090.70000000048,
     "y": -30307.699999999826
   },
@@ -70514,7 +70514,7 @@
     "borderWidthSelected": 1,
     "id": "20014336",
     "value": 3,
-    "label": "忠孝街, 近 香港公開大學賽馬會校園　銀禧學院",
+    "label": "忠孝街, 近 香港都會大學賽馬會校園　銀禧學院",
     "shape": "hexagon",
     "title": "8,8M,8S",
     "x": 17859.394409302353,
@@ -83756,6 +83756,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "2DA0A957F4311156",
+    "value": 1,
+    "label": "地錦路",
+    "shape": "hexagon",
+    "title": "203C",
+    "x": 17482.099999999435,
+    "y": -33207.09999999991
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "2DA1D06B46A56276",
     "value": 1,
     "label": "運頭塘總站",
@@ -93404,10 +93415,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "4D3CBBDB95447F2E",
-    "value": 10,
+    "value": 6,
     "label": "紅磡海底隧道收費廣場",
     "shape": "hexagon",
-    "title": "101,111,111P,N121,N182,N368,N373,R307,R673,R678",
+    "title": "112,116,N122,R307,R673,R678",
     "x": 18084.500000000502,
     "y": -30282.59999999996
   },
@@ -100197,6 +100208,17 @@
     "title": "102,102P,106,106A,106P",
     "x": 18092.199999999535,
     "y": -30321.599999999904
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "641CFD3CA2D064DD",
+    "value": 1,
+    "label": "協同中學",
+    "shape": "hexagon",
+    "title": "203C",
+    "x": 17247.299999999654,
+    "y": -33116.80000000017
   },
   {
     "borderWidth": 0,
@@ -110531,10 +110553,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "89D32777124F4039",
-    "value": 13,
+    "value": 12,
     "label": "尖東站",
     "shape": "hexagon",
-    "title": "117R,203C,242X,26,26X,35A,35X,36X,41A,98D,98P,N241,N41X",
+    "title": "117R,242X,26,26X,35A,35X,36X,41A,98D,98P,N241,N41X",
     "x": 17453.999999999327,
     "y": -29482.799999999897
   },
@@ -115316,10 +115338,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "9CAF2FDA35EEF9E2",
-    "value": 10,
+    "value": 11,
     "label": "尖東站",
     "shape": "hexagon",
-    "title": "208,260X,268B,269B,271S,280X,81C,87E,9,N271",
+    "title": "203C,208,260X,268B,269B,271S,280X,81C,87E,9,N271",
     "x": 17458.799999999996,
     "y": -29485.00000000003
   },
@@ -126869,7 +126891,7 @@
     "value": 4,
     "label": "紅磡海底隧道收費廣場",
     "shape": "hexagon",
-    "title": "110,112,116,N122",
+    "title": "110,118,118P,N118",
     "x": 18087.300000000538,
     "y": -30295.80000000003
   },
@@ -134748,6 +134770,17 @@
     "title": "11,14,26,28,5,5A,5P,93K",
     "x": 18608.700000000055,
     "y": -31221.899999999892
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "E3825DF066FCABC4",
+    "value": 1,
+    "label": "紅磡海底隧道收費廣場",
+    "shape": "hexagon",
+    "title": "104",
+    "x": 18077.900000000114,
+    "y": -30260.099999999922
   },
   {
     "borderWidth": 0,
