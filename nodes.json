@@ -82678,6 +82678,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "295",
+    "value": 1,
+    "label": "白芒",
+    "shape": "hexagon",
+    "title": "36",
+    "x": -3242.000000000189,
+    "y": -29796.400000000034
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "2952FAAF93CC4638",
     "value": 1,
     "label": "華明邨耀明樓",
@@ -122575,17 +122586,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "B54D51EE30AD97B1",
-    "value": 7,
-    "label": "綠楊新邨",
-    "shape": "hexagon",
-    "title": "32H,36,39A,43P,43X,934A,N36",
-    "x": 12148.29999999978,
-    "y": -37194.999999999825
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "B550EC84B77440F8",
     "value": 4,
     "label": "將軍澳站",
@@ -123566,10 +123566,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "B8E2647E9C5019C9",
-    "value": 12,
+    "value": 13,
     "label": "世界花園",
     "shape": "hexagon",
-    "title": "170,182,182X,281M,81C,85,85B,87B,89B,N170,N182,N281",
+    "title": "170,182,182X,281M,80,81C,85,85B,87B,89B,N170,N182,N281",
     "x": 18051.599999999722,
     "y": -36622.20000000005
   },
@@ -128340,10 +128340,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "CAF9395414DBD090",
-    "value": 2,
+    "value": 8,
     "label": "綠楊新邨",
     "shape": "hexagon",
-    "title": "49X,R934",
+    "title": "32H,36,43P,43X,49X,934A,N36,R934",
     "x": 12103.60000000037,
     "y": -37159.19999999997
   },
