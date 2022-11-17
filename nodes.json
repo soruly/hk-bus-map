@@ -106136,7 +106136,7 @@
     "shape": "hexagon",
     "title": "214,214P,215R,216R,603R,88,N213,N214",
     "x": 23066.699999999684,
-    "y": -32447.200000000008
+    "y": -32436.999999999825
   },
   {
     "borderWidth": 0,
@@ -107121,10 +107121,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "66E32661C4298EEF",
-    "value": 3,
+    "value": 1,
     "label": "耀安邨耀謙樓",
     "shape": "hexagon",
-    "title": "274P,87K,97",
+    "title": "87K",
     "x": 23073.10000000058,
     "y": -41808.69999999999
   },
@@ -111840,10 +111840,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "78",
-    "value": 19,
+    "value": 20,
     "label": "東涌纜車站",
     "shape": "hexagon",
-    "title": "11,11A,23,34,34S,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
+    "title": "11,11A,23,34,34S,36,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
     "x": -6126.700000000084,
     "y": -28930.099999999824
   },
@@ -113698,6 +113698,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "7FD05121B0A4A750",
+    "value": 2,
+    "label": "耀安邨耀謙樓",
+    "shape": "hexagon",
+    "title": "274P,97",
+    "x": 23073.10000000058,
+    "y": -41808.69999999999
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "7FDBE1ABD7231657",
     "value": 2,
     "label": "富安巴士總站",
@@ -114172,11 +114183,11 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "81783E042C83CEC3",
-    "value": 6,
+    "value": 4,
     "label": "仁達樓",
     "shape": "hexagon",
-    "title": "213D,214,214P,290X,88,N214",
-    "x": 23597.10000000064,
+    "title": "214,214P,88,N214",
+    "x": 23588.399999999863,
     "y": -31888.000000000004
   },
   {
@@ -120111,6 +120122,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "97BEC62C0E27AB8A",
+    "value": 2,
+    "label": "仁達樓",
+    "shape": "hexagon",
+    "title": "213D,290X",
+    "x": 23602.20000000055,
+    "y": -31891.099999999995
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "97C341CA98FD0C0E",
     "value": 1,
     "label": "八鄉警署",
@@ -125446,17 +125468,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "A9F790C55AB9D4E9",
-    "value": 6,
-    "label": "元朗廣場 (N2)",
-    "shape": "hexagon",
-    "title": "A36,E36,E36S,N30,NA36,X36",
-    "x": 2387.199999999723,
-    "y": -44468.09999999992
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "A9F94ED7238542F5",
     "value": 4,
     "label": "八鄉東邊路",
@@ -127141,10 +127152,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "B02B0B9F73E50D93",
-    "value": 7,
+    "value": 4,
     "label": "元朗廣場 (N3)",
     "shape": "hexagon",
-    "title": "276,276C,276P,N269,P968,R269,R968",
+    "title": "N269,P968,R269,R968",
     "x": 2399.2000000006897,
     "y": -44467.79999999997
   },
@@ -146727,6 +146738,17 @@
     "title": "203C",
     "x": 17315.499999999418,
     "y": -31838.099999999868
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "F87A56BD0A2640ED",
+    "value": 9,
+    "label": "元朗廣場 (N2)",
+    "shape": "hexagon",
+    "title": "276,276C,276P,A36,E36,E36S,N30,NA36,X36",
+    "x": 2387.199999999723,
+    "y": -44468.09999999992
   },
   {
     "borderWidth": 0,
