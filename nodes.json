@@ -26942,10 +26942,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003781",
-    "value": 4,
+    "value": 6,
     "label": "耀東邨耀明樓, 耀興道",
     "shape": "hexagon",
-    "title": "77,82S,99,N8",
+    "title": "110,606,77,82S,99,N8",
     "x": 22460.934052999448,
     "y": -27583.5762090999
   },
@@ -96989,6 +96989,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "455FC1E8B39E3D16",
+    "value": 1,
+    "label": "耀明樓",
+    "shape": "hexagon",
+    "title": "110",
+    "x": 22464.300000000036,
+    "y": -27581.19999999984
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "45628FA7B8D7C5D2",
     "value": 10,
     "label": "大埔安祥路",
@@ -141645,6 +141656,17 @@
     "title": "281A,281B,81C,87D,N281,R287",
     "x": 20175.10000000016,
     "y": -38837.49999999999
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "E71AA0E0F0D0377A",
+    "value": 1,
+    "label": "耀明樓",
+    "shape": "hexagon",
+    "title": "606",
+    "x": 22455.200000000274,
+    "y": -27589.499999999844
   },
   {
     "borderWidth": 0,
