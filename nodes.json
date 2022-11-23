@@ -45939,10 +45939,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20002125",
-    "value": 4,
+    "value": 3,
     "label": "安蔭邨巴士總站",
     "shape": "hexagon",
-    "title": "403A,403X,406,410",
+    "title": "403A,403X,406",
     "x": 14174.541167888321,
     "y": -37037.384008757355
   },
