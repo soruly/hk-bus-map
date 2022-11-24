@@ -90577,10 +90577,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "307AF4D72FFE9B6E",
-    "value": 2,
+    "value": 3,
     "label": "聯和墟總站",
     "shape": "hexagon",
-    "title": "270C,79K",
+    "title": "270C,278A,79K",
     "x": 14362.500000000011,
     "y": -50034.60000000004
   },
@@ -92332,17 +92332,6 @@
     "title": "251A,251C,64K,E36P",
     "x": 6903.400000000203,
     "y": -43659.1
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "3507E8093162DCE7",
-    "value": 1,
-    "label": "聯和墟總站",
-    "shape": "hexagon",
-    "title": "278A",
-    "x": 14362.500000000011,
-    "y": -50034.60000000004
   },
   {
     "borderWidth": 0,
@@ -111774,10 +111763,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "78",
-    "value": 19,
+    "value": 20,
     "label": "東涌纜車站",
     "shape": "hexagon",
-    "title": "11,11A,23,34,34S,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
+    "title": "11,11A,23,34,34S,36,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
     "x": -6126.700000000084,
     "y": -28930.099999999824
   },
