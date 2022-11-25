@@ -85626,17 +85626,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "216B33DC77219B73",
-    "value": 2,
-    "label": "虎地",
-    "shape": "hexagon",
-    "title": "N260,R260",
-    "x": -1966.6999999998325,
-    "y": -41328.40000000009
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "217E82F6FF3F89E3",
     "value": 1,
     "label": "逢吉鄉",
@@ -110585,6 +110574,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "73E530058FD534D3",
+    "value": 1,
+    "label": "荃灣鹹田街",
+    "shape": "hexagon",
+    "title": "43B",
+    "x": 11735.199999999679,
+    "y": -36948.20000000014
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "73E85E88E124EF2C",
     "value": 10,
     "label": "聖安當女書院",
@@ -111763,10 +111763,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "78",
-    "value": 20,
+    "value": 19,
     "label": "東涌纜車站",
     "shape": "hexagon",
-    "title": "11,11A,23,34,34S,36,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
+    "title": "11,11A,23,34,34S,37,37H,37M,37S,38,38X,39M,3M,3R,A35,B6,N35,N37,N38",
     "x": -6126.700000000084,
     "y": -28930.099999999824
   },
@@ -130727,10 +130727,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "BDD49A91FF705B42",
-    "value": 5,
+    "value": 7,
     "label": "虎地",
     "shape": "hexagon",
-    "title": "258A,63X,68A,960P,960X",
+    "title": "258A,63X,68A,960P,960X,N260,R260",
     "x": -1956.400000000258,
     "y": -41342.30000000016
   },
