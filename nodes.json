@@ -58,10 +58,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001003",
-    "value": 14,
+    "value": 16,
     "label": "山市街, 卑路乍街",
     "shape": "hexagon",
-    "title": "1,10,101,101X,104,18,18P,18X,43M,47P,5X,88X,971,A10",
+    "title": "1,10,101,101X,104,18,18P,18X,43M,47P,5B,5X,88X,971,A10,N8X",
     "x": 13063.421053000468,
     "y": -28363.227209100118
   },
@@ -861,10 +861,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001082",
-    "value": 4,
+    "value": 2,
     "label": "堅尼地城游泳池, 堅彌地城海旁",
     "shape": "hexagon",
-    "title": "113,5B,904,N8X",
+    "title": "113,904",
     "x": 13174.773052999455,
     "y": -28548.464209099933
   },
@@ -872,10 +872,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001083",
-    "value": 4,
+    "value": 2,
     "label": "山市街, 堅彌地城海旁",
     "shape": "hexagon",
-    "title": "113,5B,904,N8X",
+    "title": "113,904",
     "x": 13037.010053000131,
     "y": -28433.065209100052
   },
@@ -1917,10 +1917,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001183",
-    "value": 9,
+    "value": 11,
     "label": "西祥街",
     "shape": "hexagon",
-    "title": "1,18,18P,18X,43M,47P,5X,88X,971",
+    "title": "1,18,18P,18X,43M,47P,5B,5X,88X,971,N8X",
     "x": 13168.09205300018,
     "y": -28506.58920910014
   },
@@ -24631,6 +24631,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "003519",
+    "value": 2,
+    "label": "啟德郵輪碼頭",
+    "shape": "hexagon",
+    "title": "22,22M",
+    "x": 21319.488052999703,
+    "y": -30634.596209100095
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "003520",
     "value": 2,
     "label": "承豐道",
@@ -25248,10 +25259,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003587",
-    "value": 1,
+    "value": 2,
     "label": "啟德站, 沐安街",
     "shape": "hexagon",
-    "title": "22M",
+    "title": "22M,22X",
     "x": 20109.55305299973,
     "y": -32981.99220910014
   },
@@ -26941,6 +26952,28 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "003782",
+    "value": 1,
+    "label": "維港1號",
+    "shape": "hexagon",
+    "title": "22X",
+    "x": 20742.197053000666,
+    "y": -31263.37520909992
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003783",
+    "value": 1,
+    "label": "清水灣半島",
+    "shape": "hexagon",
+    "title": "790",
+    "x": 26665.773052999954,
+    "y": -30877.322209099846
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "003784",
     "value": 1,
     "label": "麥花臣遊樂場, 染布房街",
@@ -26948,6 +26981,50 @@
     "title": "H1W",
     "x": 17333.96705299981,
     "y": -31838.83320910006
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003785",
+    "value": 2,
+    "label": "日出康城晉海, 環澳路",
+    "shape": "hexagon",
+    "title": "790,795",
+    "x": 27238.837052999545,
+    "y": -29194.44320910003
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003786",
+    "value": 2,
+    "label": "日出康城晉海, 環澳路",
+    "shape": "hexagon",
+    "title": "790,795",
+    "x": 27264.469053000084,
+    "y": -29212.01320910001
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003787",
+    "value": 2,
+    "label": "藍田交匯處",
+    "shape": "hexagon",
+    "title": "790,795",
+    "x": 23134.284053000443,
+    "y": -30066.952209099894
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003788",
+    "value": 2,
+    "label": "偉樂街, 偉業街",
+    "shape": "hexagon",
+    "title": "790,795",
+    "x": 22530.761052999536,
+    "y": -30523.928209100148
   },
   {
     "borderWidth": 0,
@@ -57644,7 +57721,7 @@
     "borderWidthSelected": 1,
     "id": "20009634",
     "value": 1,
-    "label": "瑪嘉烈醫院Ｋ座",
+    "label": "葵涌醫院",
     "shape": "hexagon",
     "title": "90A",
     "x": 13450.59871673584,
@@ -88541,17 +88618,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "295",
-    "value": 1,
-    "label": "白芒",
-    "shape": "hexagon",
-    "title": "36",
-    "x": -3242.000000000189,
-    "y": -29796.400000000034
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "2952FAAF93CC4638",
     "value": 1,
     "label": "華明邨耀明樓",
@@ -117742,17 +117808,6 @@
     "title": "77K",
     "x": 9822.400000000187,
     "y": -45184.79999999983
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "9023D76FFC026362",
-    "value": 1,
-    "label": "元朗(德業街)",
-    "shape": "hexagon",
-    "title": "968X",
-    "x": 3097.200000000555,
-    "y": -45124.500000000015
   },
   {
     "borderWidth": 0,
