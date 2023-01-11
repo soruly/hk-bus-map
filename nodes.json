@@ -28823,10 +28823,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "07EEE519D04FFE28",
-    "value": 3,
+    "value": 4,
     "label": "粉嶺站 (C1)",
     "shape": "hexagon",
-    "title": "78K,N78,T270",
+    "title": "78K,79K,N78,T270",
     "x": 13919.19999999942,
     "y": -49184.89999999984
   },
@@ -88662,6 +88662,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "295",
+    "value": 1,
+    "label": "白芒",
+    "shape": "hexagon",
+    "title": "36",
+    "x": -3242.000000000189,
+    "y": -29796.400000000034
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "2952FAAF93CC4638",
     "value": 1,
     "label": "華明邨耀明樓",
@@ -90082,10 +90093,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "2EF9764BE18FC290",
-    "value": 25,
+    "value": 24,
     "label": "藍田站",
     "shape": "hexagon",
-    "title": "15A,16M,33,33B,38,38P,40A,601,601P,606,606A,606X,619,619X,621,641,671,671X,690,6P,74S,N619,N691,W2,X42C",
+    "title": "15A,16M,33,33B,38,38P,40A,601,601P,606,606A,606X,619,619X,621,641,671,671X,690,6P,74S,N619,N691,X42C",
     "x": 23412.799999999836,
     "y": -30535.400000000125
   },
@@ -95830,17 +95841,6 @@
     "title": "1,11,11A,2,23,N1",
     "x": -10939.999999999372,
     "y": -22832.80000000012
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "4117D6530A6543E4",
-    "value": 1,
-    "label": "觀塘站 (S6)",
-    "shape": "hexagon",
-    "title": "W2",
-    "x": 22782.70000000049,
-    "y": -31158.500000000087
   },
   {
     "borderWidth": 0,
@@ -108649,17 +108649,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "6C63F68A87C437DE",
-    "value": 1,
-    "label": "粉嶺站 (C2)",
-    "shape": "hexagon",
-    "title": "79K",
-    "x": 14030.49999999979,
-    "y": -49161.7999999999
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "6C6B36F7550907CE",
     "value": 10,
     "label": "藍田站",
@@ -116174,10 +116163,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "8864CF7D3E4B1EF6",
-    "value": 3,
+    "value": 2,
     "label": "佐敦志和街",
     "shape": "hexagon",
-    "title": "11,14,W2",
+    "title": "11,14",
     "x": 17249.900000000194,
     "y": -30588.6000000001
   },
@@ -126260,17 +126249,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "AC8828CF13B8AA49",
-    "value": 1,
-    "label": "西九龍站",
-    "shape": "hexagon",
-    "title": "W2",
-    "x": 16661.999999999465,
-    "y": -30401.399999999867
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "AC90B7B4927E1D60",
     "value": 1,
     "label": "康寧道遊樂場",
@@ -130936,10 +130914,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "BE27F066CF40DF7D",
-    "value": 9,
+    "value": 8,
     "label": "九龍灣國際展貿中心 (K1)",
     "shape": "hexagon",
-    "title": "101X,14X,215X,219X,296D,98D,98P,W2,X6C",
+    "title": "101X,14X,215X,219X,296D,98D,98P,X6C",
     "x": 20380.600000000017,
     "y": -32281.1999999999
   },
