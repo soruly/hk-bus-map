@@ -1173,8 +1173,8 @@
     "label": "富林苑, 薄扶林道",
     "shape": "hexagon",
     "title": "37B,37X,3A,4,40,40M,40P,4X,7,71,71P,90B,91,93,93A,93C,970,970X,973",
-    "x": 13131.470052999815,
-    "y": -28002.034209099947
+    "x": 13126.545052999461,
+    "y": -27983.506209099927
   },
   {
     "borderWidth": 0,
@@ -54672,6 +54672,193 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "20007558",
+    "value": 1,
+    "label": "港珠澳大橋香港口岸公共運輸交匯處地面",
+    "shape": "hexagon",
+    "title": "901",
+    "x": -4894.87385815579,
+    "y": -31613.639619182977
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20007559",
+    "value": 1,
+    "label": "航膳東路, 赤鱲角消防局對面",
+    "shape": "hexagon",
+    "title": "901",
+    "x": -6680.875773903949,
+    "y": -30025.290479611398
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20007560",
+    "value": 1,
+    "label": "航膳東路, 國泰空廚對面",
+    "shape": "hexagon",
+    "title": "901",
+    "x": -6497.758064949721,
+    "y": -30198.95109240487
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20007561",
+    "value": 1,
+    "label": "觀景路, 國泰城外",
+    "shape": "hexagon",
+    "title": "901",
+    "x": -6664.880585935862,
+    "y": -29755.30081204667
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20007562",
+    "value": 1,
+    "label": "觀景路, 飛機燃料庫對面",
+    "shape": "hexagon",
+    "title": "901",
+    "x": -6779.582884630031,
+    "y": -29307.212464193453
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20007563",
+    "value": 1,
+    "label": "惠東路, 海堤灣畔對面",
+    "shape": "hexagon",
+    "title": "901",
+    "x": -5652.851039978657,
+    "y": -29254.688249093164
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20007564",
+    "value": 1,
+    "label": "文東路, 藍天海岸外",
+    "shape": "hexagon",
+    "title": "901",
+    "x": -5406.098627544508,
+    "y": -29090.684758903506
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20007565",
+    "value": 1,
+    "label": "文東路, 映灣園三期第十一座外",
+    "shape": "hexagon",
+    "title": "901",
+    "x": -5097.592962441411,
+    "y": -29139.885789944132
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20007566",
+    "value": 1,
+    "label": "文東路, 映灣園二期第八座外",
+    "shape": "hexagon",
+    "title": "901",
+    "x": -4999.660238334513,
+    "y": -29187.88498985805
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20007567",
+    "value": 1,
+    "label": "文東路, 映灣園一期第二座外",
+    "shape": "hexagon",
+    "title": "901",
+    "x": -4812.629045908068,
+    "y": -29347.986446580166
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20007568",
+    "value": 1,
+    "label": "迎東路, 昇薈外",
+    "shape": "hexagon",
+    "title": "901",
+    "x": -4810.092156220946,
+    "y": -29581.88175529024
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20007569",
+    "value": 1,
+    "label": "迎東路, 迎東邨外",
+    "shape": "hexagon",
+    "title": "901",
+    "x": -4666.672998949651,
+    "y": -29710.314001568604
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20007570",
+    "value": 1,
+    "label": "迎東路, 昇薈對面",
+    "shape": "hexagon",
+    "title": "901",
+    "x": -4793.56457694422,
+    "y": -29562.940458241017
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20007571",
+    "value": 1,
+    "label": "迎禧路, 映灣園一期外",
+    "shape": "hexagon",
+    "title": "901",
+    "x": -4998.117283420811,
+    "y": -29434.421761636997
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20007572",
+    "value": 1,
+    "label": "觀景路, 飛機燃料庫外",
+    "shape": "hexagon",
+    "title": "901",
+    "x": -6797.084796086494,
+    "y": -29327.053313965123
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20007573",
+    "value": 1,
+    "label": "航展道, 亞洲國際博覽館巴士總站外",
+    "shape": "hexagon",
+    "title": "901",
+    "x": -5981.479428314174,
+    "y": -31933.577560764803
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20007574",
+    "value": 1,
+    "label": "港珠澳大橋香港口岸旅檢大樓一樓",
+    "shape": "hexagon",
+    "title": "901",
+    "x": -4974.645426190705,
+    "y": -31728.216290622768
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "20007576",
     "value": 1,
     "label": "荔枝坑, 大埔公路",
@@ -66554,11 +66741,11 @@
     "borderWidthSelected": 1,
     "id": "20013195",
     "value": 1,
-    "label": "卑路乍街, 近嘉明大廈",
+    "label": "卑路乍街, 近隆基大樓",
     "shape": "hexagon",
     "title": "12",
-    "x": 12889.044731856813,
-    "y": -28267.09703556425
+    "x": 12944.07964538351,
+    "y": -28276.39336534773
   },
   {
     "borderWidth": 0,
@@ -88651,6 +88838,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "295",
+    "value": 1,
+    "label": "白芒",
+    "shape": "hexagon",
+    "title": "36",
+    "x": -3242.000000000189,
+    "y": -29796.400000000034
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "2952FAAF93CC4638",
     "value": 1,
     "label": "華明邨耀明樓",
@@ -107264,10 +107462,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "6723518D536070AB",
-    "value": 8,
+    "value": 10,
     "label": "朗屏邨悅屏樓",
     "shape": "hexagon",
-    "title": "268B,268C,268P,68A,69,76K,968A,968X",
+    "title": "268B,268C,268P,268X,68A,68X,69,76K,968A,968X",
     "x": 2297.09999999983,
     "y": -44778.60000000007
   },
@@ -118847,10 +119045,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "93933C15FFC9F4CC",
-    "value": 5,
+    "value": 7,
     "label": "尚豪庭",
     "shape": "hexagon",
-    "title": "268A,269D,69,968A,E36A",
+    "title": "268A,268X,269D,68X,69,968A,E36A",
     "x": 3096.10000000049,
     "y": -44923.89999999986
   },
@@ -130023,10 +130221,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "BA60686E2E81F573",
-    "value": 3,
+    "value": 5,
     "label": "德業街",
     "shape": "hexagon",
-    "title": "268A,269D,968A",
+    "title": "268A,268X,269D,68X,968A",
     "x": 3052.0999999993137,
     "y": -45160.20000000011
   },
@@ -136825,8 +137023,8 @@
     "label": "秀雅道遊樂場",
     "shape": "hexagon",
     "title": "13M,1A,601,601P,93A",
-    "x": 22732.399999999587,
-    "y": -32047.10000000013
+    "x": 22825.10000000002,
+    "y": -32022.200000000114
   },
   {
     "borderWidth": 0,
@@ -139449,6 +139647,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "DDAAE7806271F21A",
+    "value": 1,
+    "label": "葵盛葵葉街",
+    "shape": "hexagon",
+    "title": "38",
+    "x": 12757.000000000573,
+    "y": -36516.69999999996
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "DDC689F8C5161065",
     "value": 3,
     "label": "大埔仔坳",
@@ -141430,10 +141639,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "E5CD4F98F31F239C",
-    "value": 4,
+    "value": 6,
     "label": "宏富苑",
     "shape": "hexagon",
-    "title": "268B,268C,968A,968X",
+    "title": "268B,268C,268X,68X,968A,968X",
     "x": 2848.60000000009,
     "y": -45056.900000000154
   },
@@ -148789,10 +148998,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "FF39B95C2931B8A1",
-    "value": 1,
+    "value": 3,
     "label": "朗屏站",
     "shape": "hexagon",
-    "title": "968X",
+    "title": "268X,68X,968X",
     "x": 2724.000000000615,
     "y": -44935.99999999986
   },
