@@ -89069,17 +89069,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "295",
-    "value": 1,
-    "label": "白芒",
-    "shape": "hexagon",
-    "title": "36",
-    "x": -3242.000000000189,
-    "y": -29796.400000000034
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "2952FAAF93CC4638",
     "value": 1,
     "label": "華明邨耀明樓",
@@ -89714,17 +89703,6 @@
     "title": "252X,261X,52X,53,61M",
     "x": -1945.499999999356,
     "y": -38451.50000000004
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "2BD35970A9125DB3",
-    "value": 1,
-    "label": "和合石(橋頭路)",
-    "shape": "hexagon",
-    "title": "76S",
-    "x": 15233.00000000063,
-    "y": -48118.79999999995
   },
   {
     "borderWidth": 0,
@@ -108485,10 +108463,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "6A01E709D806A5D6",
-    "value": 3,
+    "value": 4,
     "label": "頌明苑",
     "shape": "hexagon",
-    "title": "297,97,98B",
+    "title": "297,97,98B,98D",
     "x": 26215.700000000197,
     "y": -31801.799999999857
   },
@@ -121014,10 +120992,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "991E47DBD416B908",
-    "value": 12,
+    "value": 13,
     "label": "東隧轉車站 (L2)",
     "shape": "hexagon",
-    "title": "307,307P,373,678,680,680X,681,681P,690,N307,N680,N691",
+    "title": "307,307P,373,673,678,680,680X,681,681P,690,N307,N680,N691",
     "x": 23274.10000000043,
     "y": -30097.200000000157
   },
@@ -138053,10 +138031,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "D678B3364437D16B",
-    "value": 19,
+    "value": 18,
     "label": "東隧轉車站 (L1)",
     "shape": "hexagon",
-    "title": "601,601P,603,603A,603P,606,606A,606X,613,613A,619,619X,621,641,671,671X,673,N603,N619",
+    "title": "601,601P,603,603A,603P,606,606A,606X,613,613A,619,619X,621,641,671,671X,N603,N619",
     "x": 23292.49999999945,
     "y": -30106.999999999927
   },
