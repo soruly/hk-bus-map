@@ -75661,10 +75661,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20015409",
-    "value": 9,
+    "value": 8,
     "label": "福康街, 近金寶樓",
     "shape": "hexagon",
-    "title": "36,37,38,73,73A,74,74A,75,76",
+    "title": "36,37,38,73A,74,74A,75,76",
     "x": 2857.482433319092,
     "y": -44510.435991838196
   },
@@ -75848,10 +75848,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20015426",
-    "value": 5,
+    "value": 4,
     "label": "擊壤路, 近擊壤路五人足球場",
     "shape": "hexagon",
-    "title": "36,37,73,73A,75",
+    "title": "36,37,73A,75",
     "x": 2508.5270404844096,
     "y": -44546.87754255744
   },
@@ -80940,28 +80940,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20016663",
-    "value": 1,
-    "label": "大樹下東路, 近大旗嶺休憩處",
-    "shape": "hexagon",
-    "title": "73",
-    "x": 3178.6029481708056,
-    "y": -43220.8313451838
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20016664",
-    "value": 1,
-    "label": "大樹下東路, 近天后古廟",
-    "shape": "hexagon",
-    "title": "73",
-    "x": 3381.712980102236,
-    "y": -42887.194630507256
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20016665",
     "value": 2,
     "label": "大樹下東路, 近塘頭埔村",
@@ -81029,34 +81007,12 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20016671",
-    "value": 2,
+    "value": 1,
     "label": "大樹下東路, 近塘頭埔村",
     "shape": "hexagon",
-    "title": "73,73A",
+    "title": "73A",
     "x": 3715.7438162239487,
     "y": -42548.721794706165
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20016672",
-    "value": 1,
-    "label": "大樹下東路, 近天后古廟",
-    "shape": "hexagon",
-    "title": "73",
-    "x": 3400.9892128906927,
-    "y": -42854.84154270556
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20016673",
-    "value": 1,
-    "label": "大樹下東路, 近大旗嶺休憩處",
-    "shape": "hexagon",
-    "title": "73",
-    "x": 3172.235082220709,
-    "y": -43224.95656354341
   },
   {
     "borderWidth": 0,
@@ -89065,17 +89021,6 @@
     "title": "1,1A,203C,6",
     "x": 17190.399999999783,
     "y": -30001.800000000145
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "295",
-    "value": 1,
-    "label": "白芒",
-    "shape": "hexagon",
-    "title": "36",
-    "x": -3242.000000000189,
-    "y": -29796.400000000034
   },
   {
     "borderWidth": 0,
