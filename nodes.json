@@ -54475,10 +54475,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20007408",
-    "value": 2,
+    "value": 1,
     "label": "美利道, 美利道多層停車場大廈外",
     "shape": "hexagon",
-    "title": "28,9",
+    "title": "28",
     "x": 16186.340723761816,
     "y": -28016.138048372242
   },
@@ -79763,6 +79763,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "20016201",
+    "value": 1,
+    "label": "寶順路,將軍澳游泳池對面",
+    "shape": "hexagon",
+    "title": "108A",
+    "x": 26115.721464159946,
+    "y": -31695.4322256894
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "20016234",
     "value": 4,
     "label": "秀明道, 秀雅樓外",
@@ -89021,6 +89032,17 @@
     "title": "1,1A,203C,6",
     "x": 17190.399999999783,
     "y": -30001.800000000145
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "295",
+    "value": 1,
+    "label": "白芒",
+    "shape": "hexagon",
+    "title": "36",
+    "x": -3242.000000000189,
+    "y": -29796.400000000034
   },
   {
     "borderWidth": 0,
@@ -118868,17 +118890,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "91F728BB4F9CE96B",
-    "value": 1,
-    "label": "機場風鈴徑",
-    "shape": "hexagon",
-    "title": "S1",
-    "x": -6532.699999999636,
-    "y": -29886.60000000003
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "92",
     "value": 1,
     "label": "石門甲村",
@@ -142899,17 +142910,6 @@
     "title": "278A,278X,46P,46S,46X,73D,73P,73X",
     "x": 13432.000000000244,
     "y": -37059.80000000011
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "E91E51EDD4E4A64B",
-    "value": 1,
-    "label": "機場風鈴徑",
-    "shape": "hexagon",
-    "title": "S1",
-    "x": -6647.599999999443,
-    "y": -29557.7999999999
   },
   {
     "borderWidth": 0,
