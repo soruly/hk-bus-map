@@ -38449,7 +38449,7 @@
     "borderWidthSelected": 1,
     "id": "20000284",
     "value": 3,
-    "label": "民光街, 7號碼頭外",
+    "label": "中環碼頭",
     "shape": "hexagon",
     "title": "22S,22X,54",
     "x": 16013.544902625654,
@@ -85769,6 +85769,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "20018280",
+    "value": 1,
+    "label": "啟田道, 近藍田(西區)社區中心",
+    "shape": "hexagon",
+    "title": "87",
+    "x": 23399.783670903675,
+    "y": -30886.777960383326
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "201",
     "value": 1,
     "label": "鍾屋村輕鐵站",
@@ -89076,17 +89087,6 @@
     "title": "1,1A,203C,6",
     "x": 17190.399999999783,
     "y": -30001.800000000145
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "295",
-    "value": 1,
-    "label": "白芒",
-    "shape": "hexagon",
-    "title": "36",
-    "x": -3242.000000000189,
-    "y": -29796.400000000034
   },
   {
     "borderWidth": 0,
@@ -110801,17 +110801,6 @@
     "title": "259R,59A,59M,59R,59X,N260",
     "x": -3338.200000000313,
     "y": -37312.000000000015
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "7234BEA4242461F7",
-    "value": 1,
-    "label": "火炭(山尾街)總站",
-    "shape": "hexagon",
-    "title": "85",
-    "x": 19429.499999999676,
-    "y": -39645.200000000004
   },
   {
     "borderWidth": 0,
