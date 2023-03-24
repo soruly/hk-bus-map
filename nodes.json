@@ -79807,17 +79807,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20016201",
-    "value": 1,
-    "label": "寶順路,將軍澳游泳池對面",
-    "shape": "hexagon",
-    "title": "108A",
-    "x": 26115.721464159946,
-    "y": -31695.4322256894
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20016234",
     "value": 4,
     "label": "秀明道, 秀雅樓外",
@@ -86904,7 +86893,7 @@
     "borderWidthSelected": 1,
     "id": "236DC08C08327ADB",
     "value": 4,
-    "label": "流水响",
+    "label": "流水響",
     "shape": "hexagon",
     "title": "277A,78K,79K,N78",
     "x": 16181.29999999951,
