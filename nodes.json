@@ -13598,6 +13598,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "002319",
+    "value": 1,
+    "label": "興華(一)邨停車場, 環翠道",
+    "shape": "hexagon",
+    "title": "81",
+    "x": 23456.021053000597,
+    "y": -26321.8072091
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "002320",
     "value": 7,
     "label": "華翠街, 域多利道",
@@ -16272,10 +16283,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002581",
-    "value": 1,
+    "value": 11,
     "label": "青年廣場, 柴灣道",
     "shape": "hexagon",
-    "title": "976A",
+    "title": "106,606,606X,682,694,780,81,82,8H,8X,976A",
     "x": 23584.85605300018,
     "y": -26339.528209100037
   },
@@ -39626,7 +39637,7 @@
     "borderWidthSelected": 1,
     "id": "20000554",
     "value": 1,
-    "label": "德民街23A號",
+    "label": "德民街21號",
     "shape": "hexagon",
     "title": "13",
     "x": 18791.8705053022,
@@ -89076,6 +89087,17 @@
     "title": "1,1A,203C,6",
     "x": 17190.399999999783,
     "y": -30001.800000000145
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "295",
+    "value": 1,
+    "label": "白芒",
+    "shape": "hexagon",
+    "title": "36",
+    "x": -3242.000000000189,
+    "y": -29796.400000000034
   },
   {
     "borderWidth": 0,
