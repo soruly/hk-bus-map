@@ -4759,8 +4759,8 @@
     "label": "四美街, 彩虹道",
     "shape": "hexagon",
     "title": "101R,111,111P,111R,113,116,671,N121",
-    "x": 20174.97705300002,
-    "y": -33812.88720910014
+    "x": 20173.849053000482,
+    "y": -33813.43320909984
   },
   {
     "borderWidth": 0,
@@ -7388,8 +7388,8 @@
     "label": "四美街, 彩虹道",
     "shape": "hexagon",
     "title": "111,116,N121",
-    "x": 20174.654052999584,
-    "y": -33793.7222091
+    "x": 20177.474052999856,
+    "y": -33792.44520909985
   },
   {
     "borderWidth": 0,
@@ -27311,6 +27311,72 @@
     "title": "E22",
     "x": 23652.470052999775,
     "y": -30860.867209100106
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003801",
+    "value": 1,
+    "label": "黃大仙上邨普善樓, 黃大仙道",
+    "shape": "hexagon",
+    "title": "A23",
+    "x": 19090.400052999714,
+    "y": -34309.1352091001
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003803",
+    "value": 1,
+    "label": "黃大仙祠, 黃大仙道",
+    "shape": "hexagon",
+    "title": "A23",
+    "x": 19399.728052999875,
+    "y": -34360.10720910012
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003804",
+    "value": 1,
+    "label": "石硤尾消防局, 南昌街",
+    "shape": "hexagon",
+    "title": "A23",
+    "x": 16783.074052999324,
+    "y": -33859.542209100015
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003805",
+    "value": 1,
+    "label": "白田邨瑞田樓, 南昌街",
+    "shape": "hexagon",
+    "title": "A23",
+    "x": 16905.80605300056,
+    "y": -33585.08820909982
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003806",
+    "value": 1,
+    "label": "福華街, 南昌街",
+    "shape": "hexagon",
+    "title": "A23",
+    "x": 16423.343053000393,
+    "y": -33046.5062091001
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003807",
+    "value": 1,
+    "label": "石硤尾消防局, 南昌街",
+    "shape": "hexagon",
+    "title": "A23",
+    "x": 16668.980052999417,
+    "y": -33873.01620910002
   },
   {
     "borderWidth": 0,
