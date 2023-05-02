@@ -33168,10 +33168,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "143D7489C808BD46",
-    "value": 7,
+    "value": 8,
     "label": "青衣街市",
     "shape": "hexagon",
-    "title": "249M,279S,41A,41M,44,49M,N243",
+    "title": "249M,279S,41A,41M,43,44,49M,N243",
     "x": 10683.600000000126,
     "y": -35420.29999999983
   },
@@ -80050,10 +80050,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20016438",
-    "value": 4,
+    "value": 5,
     "label": "茜發道, 近藍田站",
     "shape": "hexagon",
-    "title": "23B,23C,23M,23S",
+    "title": "23B,23C,23M,23P,23S",
     "x": 23116.89381542692,
     "y": -30723.469355210043
   },
@@ -85897,6 +85897,17 @@
     "title": "75M",
     "x": 15378.804814503155,
     "y": -33020.36847022798
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20018379",
+    "value": 1,
+    "label": "高嶺道8號對面",
+    "shape": "hexagon",
+    "title": "23P",
+    "x": 22977.17927795162,
+    "y": -30364.39700916347
   },
   {
     "borderWidth": 0,
@@ -120783,10 +120794,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "972145F4BB2B535F",
-    "value": 9,
+    "value": 10,
     "label": "美孚轉車站 (D1)",
     "shape": "hexagon",
-    "title": "230X,234X,238X,242X,30X,42A,60X,63X,69X",
+    "title": "230X,234X,238X,242X,30X,42A,44,60X,63X,69X",
     "x": 14054.699999999797,
     "y": -33746.00000000001
   },
