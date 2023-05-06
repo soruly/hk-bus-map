@@ -27108,7 +27108,7 @@
     "borderWidthSelected": 1,
     "id": "003774",
     "value": 1,
-    "label": "壁峰路, 馬會道",
+    "label": "璧峰路, 馬會道",
     "shape": "hexagon",
     "title": "56A",
     "x": 13983.884053000394,
@@ -27903,8 +27903,8 @@
     "label": "帝逸酒店",
     "shape": "hexagon",
     "title": "680,82K,85X,89C,N680",
-    "x": 20855.400000000656,
-    "y": -38392.19999999983
+    "x": 20893.999999999836,
+    "y": -38365.9999999999
   },
   {
     "borderWidth": 0,
@@ -79818,17 +79818,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20016201",
-    "value": 1,
-    "label": "寶順路,將軍澳游泳池對面",
-    "shape": "hexagon",
-    "title": "108A",
-    "x": 26115.721464159946,
-    "y": -31695.4322256894
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20016234",
     "value": 4,
     "label": "秀明道, 秀雅樓外",
@@ -102691,7 +102680,7 @@
     "value": 1,
     "label": "樂富總站",
     "shape": "hexagon",
-    "title": "84M",
+    "title": "103",
     "x": 18774.50000000067,
     "y": -33917.80000000004
   },
@@ -116108,10 +116097,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "8569ED53DDB3A570",
-    "value": 1,
+    "value": 2,
     "label": "樂富總站",
     "shape": "hexagon",
-    "title": "7M",
+    "title": "7M,84M",
     "x": 18775.100000000577,
     "y": -33914.59999999995
   },
@@ -125172,10 +125161,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "A6C169DA579FC45B",
-    "value": 5,
+    "value": 6,
     "label": "慧景軒",
     "shape": "hexagon",
-    "title": "276B,69C,E37C,N269,NA37",
+    "title": "276B,69C,E37,E37C,N269,NA37",
     "x": 501.6999999995164,
     "y": -46572.79999999986
   },
@@ -130368,8 +130357,8 @@
     "label": "第一城寶城街",
     "shape": "hexagon",
     "title": "680,82K,83K,85X,89C,90,N680",
-    "x": 20608.000000000004,
-    "y": -38618.40000000001
+    "x": 20596.00000000046,
+    "y": -38635.99999999998
   },
   {
     "borderWidth": 0,
@@ -143548,17 +143537,6 @@
     "title": "237A,37,37M,38,38P",
     "x": 12363.899999999718,
     "y": -36501.70000000017
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "EA4A37322CB0EBE8",
-    "value": 1,
-    "label": "樂富總站",
-    "shape": "hexagon",
-    "title": "103",
-    "x": 18774.99999999941,
-    "y": -33909.99999999984
   },
   {
     "borderWidth": 0,
