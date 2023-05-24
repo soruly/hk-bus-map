@@ -37282,10 +37282,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20000012",
-    "value": 7,
-    "label": "薄扶林道, 近香港大學賽馬會第一舍堂村何東夫人紀念堂",
+    "value": 8,
+    "label": "薄扶林道, 近香港大學站C出口",
     "shape": "hexagon",
-    "title": "13,22,22S,22X,28,28M,28S",
+    "title": "13,22,22S,22X,28,28M,28S,55",
     "x": 13357.716043275048,
     "y": -28422.912554158942
   },
@@ -48833,7 +48833,7 @@
     "borderWidthSelected": 1,
     "id": "20003083",
     "value": 2,
-    "label": "中環站 (干諾道中), 近砵甸乍街 ",
+    "label": "干諾道中, 近砵甸乍街",
     "shape": "hexagon",
     "title": "54,55",
     "x": 15721.505038804651,
@@ -63193,17 +63193,6 @@
     "title": "16B,68",
     "x": 21644.249385882118,
     "y": -33357.11396902496
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20012373",
-    "value": 1,
-    "label": "薄扶林道, 近香港大學站C1出口 ",
-    "shape": "hexagon",
-    "title": "55",
-    "x": 13430.37292684528,
-    "y": -28443.776091006257
   },
   {
     "borderWidth": 0,
@@ -133520,6 +133509,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "C44684E01A99DE4F",
+    "value": 2,
+    "label": "東九龍總區警察總部",
+    "shape": "hexagon",
+    "title": "108,5A",
+    "x": 20185.700000000394,
+    "y": -33450.69999999986
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "C44D3424473B96F6",
     "value": 1,
     "label": "港運城",
@@ -134148,10 +134148,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "C71093B5185DF735",
-    "value": 4,
+    "value": 3,
     "label": "東九龍總區警察總部",
     "shape": "hexagon",
-    "title": "108,24,5A,5M",
+    "title": "108,5A,5M",
     "x": 20193.600000000344,
     "y": -33423.700000000164
   },
