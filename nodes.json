@@ -24324,10 +24324,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003485",
-    "value": 4,
+    "value": 3,
     "label": "星堤, 掃管笏路",
     "shape": "hexagon",
-    "title": "952C,952P,962E,N952",
+    "title": "952C,962E,N952",
     "x": -48.94194700000298,
     "y": -37554.06220909982
   },
@@ -27245,6 +27245,17 @@
     "title": "22,22D,22M",
     "x": 20979.377052999836,
     "y": -30990.38520910007
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003793",
+    "value": 2,
+    "label": "管翠路18號, 掃管笏路",
+    "shape": "hexagon",
+    "title": "952P,962",
+    "x": 23.074053000016193,
+    "y": -37347.15720909989
   },
   {
     "borderWidth": 0,
@@ -31342,10 +31353,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "0F9DE5E3F13FBABA",
-    "value": 7,
+    "value": 6,
     "label": "星堤",
     "shape": "hexagon",
-    "title": "252,252X,261B,261X,52X,N252,R261",
+    "title": "252X,261B,261X,52X,N252,R261",
     "x": -46.299999999632746,
     "y": -37559.29999999985
   },
@@ -108517,6 +108528,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "68DD31B1EF55AF1A",
+    "value": 2,
+    "label": "管翠路18號",
+    "shape": "hexagon",
+    "title": "252,61P",
+    "x": 39.99999999990678,
+    "y": -37360.10000000007
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "68DE9CB8E6AE046C",
     "value": 3,
     "label": "宏福花園",
@@ -141826,10 +141848,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "E368E68412AB685C",
-    "value": 5,
+    "value": 6,
     "label": "荃灣大河道",
     "shape": "hexagon",
-    "title": "43P,43X,46S,48X,N48",
+    "title": "43P,43X,46S,48X,61P,N48",
     "x": 11580.200000000219,
     "y": -37216.40000000015
   },
