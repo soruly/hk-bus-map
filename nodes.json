@@ -115216,17 +115216,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "822B02BAED2961FC",
-    "value": 1,
-    "label": "元朗（西）總站",
-    "shape": "hexagon",
-    "title": "77K",
-    "x": 2495.999999999299,
-    "y": -44550.399999999965
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "8233DD25DE47FDF0",
     "value": 3,
     "label": "嘉龍村",
