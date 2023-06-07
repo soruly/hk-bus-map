@@ -22971,10 +22971,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003339",
-    "value": 1,
+    "value": 2,
     "label": "中環 (天星碼頭)",
     "shape": "hexagon",
-    "title": "15C",
+    "title": "15C,25",
     "x": 16143.99805300053,
     "y": -28612.51720910012
   },
@@ -98507,6 +98507,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "471442D7E30D26EB",
+    "value": 4,
+    "label": "日出康城首都",
+    "shape": "hexagon",
+    "title": "290E,290X,98S,N290",
+    "x": 27270.500000000196,
+    "y": -29665.69999999997
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "471AB47F0E2C6E89",
     "value": 4,
     "label": "景湖居",
@@ -129974,6 +129985,17 @@
     "title": "88X",
     "x": 19028.799999999534,
     "y": -39915.399999999936
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "B75CD6E70417E21B",
+    "value": 4,
+    "label": "日出康城領都",
+    "shape": "hexagon",
+    "title": "290E,290X,98S,N290",
+    "x": 27337.599999999897,
+    "y": -29422.399999999983
   },
   {
     "borderWidth": 0,
