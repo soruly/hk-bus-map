@@ -116383,10 +116383,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "8660BDF2C013FAC2",
-    "value": 3,
+    "value": 4,
     "label": "屯門市中心總站",
     "shape": "hexagon",
-    "title": "260B,61S,868",
+    "title": "260B,60R,61S,868",
     "x": -2419.1999999999325,
     "y": -39119.09999999992
   },
@@ -119991,10 +119991,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "9456587A2D10A6CA",
-    "value": 1,
+    "value": 2,
     "label": "博康邨",
     "shape": "hexagon",
-    "title": "89B",
+    "title": "287X,89B",
     "x": 19505.2000000004,
     "y": -37726.80000000008
   },
@@ -121526,6 +121526,17 @@
     "title": "213A",
     "x": 23478.299999999308,
     "y": -31996.699999999833
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "99B88A5EA74FBF7F",
+    "value": 1,
+    "label": "九巴屯門廠",
+    "shape": "hexagon",
+    "title": "60R",
+    "x": -2910.300000000632,
+    "y": -39658.400000000074
   },
   {
     "borderWidth": 0,
@@ -128021,10 +128032,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "B0007A6CF106CA4B",
-    "value": 2,
+    "value": 1,
     "label": "博康巴士總站",
     "shape": "hexagon",
-    "title": "249X,287X",
+    "title": "249X",
     "x": 19584.700000000055,
     "y": -37744.19999999985
   },
