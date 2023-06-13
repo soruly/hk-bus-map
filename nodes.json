@@ -29002,7 +29002,7 @@
     "value": 3,
     "label": "機場(地面運輸中心)巴士總站",
     "shape": "hexagon",
-    "title": "A33,A33X,A34",
+    "title": "A33,A33X,NA33",
     "x": -6270.700000000317,
     "y": -31389.599999999973
   },
@@ -36149,10 +36149,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "1C7EDE6D51378E58",
-    "value": 2,
+    "value": 4,
     "label": "機場(地面運輸中心)總站",
     "shape": "hexagon",
-    "title": "A47X,NA47",
+    "title": "A43,A43P,N42A,NA43",
     "x": -6276.499999999885,
     "y": -31403.900000000107
   },
@@ -87189,10 +87189,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "23C2E672FA95C807",
-    "value": 9,
+    "value": 2,
     "label": "機場(地面運輸中心)巴士總站",
     "shape": "hexagon",
-    "title": "A31,A32,A38,E33,E33P,E36,E36S,E37,E42",
+    "title": "E36,E36S",
     "x": -6202.999999999292,
     "y": -31297.99999999996
   },
@@ -88438,6 +88438,17 @@
     "title": "148R,43A,43D,948,948E,948X,N241,N41X,R241",
     "x": 9620.599999999513,
     "y": -35730.900000000074
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "26AEBA11CA6347CC",
+    "value": 2,
+    "label": "翠麗花園",
+    "shape": "hexagon",
+    "title": "70K,79K",
+    "x": 12766.000000000588,
+    "y": -50740.499999999854
   },
   {
     "borderWidth": 0,
@@ -105361,10 +105372,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "5E1FA939586B3FD1",
-    "value": 4,
+    "value": 3,
     "label": "機場(地面運輸中心)巴士總站",
     "shape": "hexagon",
-    "title": "A31,A38,N31,NA31",
+    "title": "A31,A38,NA31",
     "x": -6221.399999999732,
     "y": -31336.999999999905
   },
@@ -113808,6 +113819,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "7CB61EFB024D9025",
+    "value": 2,
+    "label": "機場(地面運輸中心)巴士總站",
+    "shape": "hexagon",
+    "title": "E33,E33P",
+    "x": -6221.399999999732,
+    "y": -31336.999999999905
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "7CC71E7933DD9625",
     "value": 3,
     "label": "喇沙書院",
@@ -116372,10 +116394,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "86218AD69549D7B2",
-    "value": 4,
+    "value": 5,
     "label": "機場(地面運輸中心)巴士總站",
     "shape": "hexagon",
-    "title": "A43,A43P,N42A,NA43",
+    "title": "A34,A47X,N31,N64,NA47",
     "x": -6276.499999999885,
     "y": -31403.900000000107
   },
@@ -119793,10 +119815,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "93A608CBFD9D5128",
-    "value": 4,
+    "value": 2,
     "label": "機場(地面運輸中心)巴士總站",
     "shape": "hexagon",
-    "title": "A37,N64,NA33,NA37",
+    "title": "A37,NA37",
     "x": -6266.3000000000575,
     "y": -31375.699999999895
   },
@@ -137597,6 +137619,17 @@
     "title": "234X,238X,296P,2A,2X,30X,33A,36B,37,86C,N122,N241",
     "x": 15295.399999999405,
     "y": -33774.400000000074
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "D3564BFD1FE1DB08",
+    "value": 1,
+    "label": "機場(地面運輸中心)巴士總站",
+    "shape": "hexagon",
+    "title": "E37",
+    "x": -6221.399999999732,
+    "y": -31336.999999999905
   },
   {
     "borderWidth": 0,
