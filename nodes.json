@@ -29956,10 +29956,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "0ACB63B00DEE1B37",
-    "value": 4,
+    "value": 5,
     "label": "觀塘轉車站 - 創紀之城 (B6)",
     "shape": "hexagon",
-    "title": "83X,89C,89D,89X",
+    "title": "83X,88X,89C,89D,89X",
     "x": 22168.200000000128,
     "y": -31398.300000000036
   },
@@ -109562,6 +109562,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "6CDDE907B1651091",
+    "value": 1,
+    "label": "藍田(北)",
+    "shape": "hexagon",
+    "title": "40A",
+    "x": 23733.000000000004,
+    "y": -30947.70000000011
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "6CEE063506576EDB",
     "value": 4,
     "label": "和樂邨",
@@ -112638,6 +112649,17 @@
     "title": "251A,64K,64S,E36P",
     "x": 9204.699999999377,
     "y": -42985.60000000009
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "77C767D0C7AE0D82",
+    "value": 3,
+    "label": "藍田(北)",
+    "shape": "hexagon",
+    "title": "38,38P,88X",
+    "x": 23728.199999999335,
+    "y": -30946.39999999984
   },
   {
     "borderWidth": 0,
@@ -119232,10 +119254,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "91AED9CBCE81500D",
-    "value": 5,
+    "value": 6,
     "label": "九龍灣站",
     "shape": "hexagon",
-    "title": "80X,83X,89C,89D,89X",
+    "title": "80X,83X,88X,89C,89D,89X",
     "x": 21398.49999999939,
     "y": -32527.999999999935
   },
@@ -136216,10 +136238,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "CEA9610F9443BD8D",
-    "value": 10,
+    "value": 11,
     "label": "牛頭角下邨",
     "shape": "hexagon",
-    "title": "11B,17,671,671X,80,80X,83X,89C,89D,89X",
+    "title": "11B,17,671,671X,80,80X,83X,88X,89C,89D,89X",
     "x": 21442.1999999999,
     "y": -32026.19999999996
   },
@@ -148415,10 +148437,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "F97399CFEEB9219B",
-    "value": 2,
+    "value": 3,
     "label": "德福花園",
     "shape": "hexagon",
-    "title": "80X,89X",
+    "title": "80X,88X,89X",
     "x": 21426.300000000254,
     "y": -32227.900000000176
   },
