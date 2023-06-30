@@ -37337,10 +37337,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20000012",
-    "value": 8,
-    "label": "薄扶林道, 近香港大學站C出口",
+    "value": 7,
+    "label": "薄扶林道, 近香港大學賽馬會第一舍堂村何東夫人紀念堂",
     "shape": "hexagon",
-    "title": "13,22,22S,22X,28,28M,28S,55",
+    "title": "13,22,22S,22X,28,28M,28S",
     "x": 13357.716043275048,
     "y": -28422.912554158942
   },
@@ -48888,7 +48888,7 @@
     "borderWidthSelected": 1,
     "id": "20003083",
     "value": 2,
-    "label": "干諾道中, 近砵甸乍街",
+    "label": "中環站 (干諾道中), 近砵甸乍街 ",
     "shape": "hexagon",
     "title": "54,55",
     "x": 15721.505038804651,
@@ -59297,8 +59297,8 @@
     "label": "瑪麗醫院",
     "shape": "hexagon",
     "title": "55",
-    "x": 13102.341390010963,
-    "y": -27078.219578759643
+    "x": 13072.630757598346,
+    "y": -27044.98294587836
   },
   {
     "borderWidth": 0,
@@ -63248,6 +63248,17 @@
     "title": "16B,68",
     "x": 21644.249385882118,
     "y": -33357.11396902496
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20012373",
+    "value": 1,
+    "label": "薄扶林道, 近香港大學站C1出口 ",
+    "shape": "hexagon",
+    "title": "55",
+    "x": 13430.37292684528,
+    "y": -28443.776091006257
   },
   {
     "borderWidth": 0,
@@ -90313,10 +90324,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "2D10E16919B5A96E",
-    "value": 4,
+    "value": 5,
     "label": "八鄉石崗橋",
     "shape": "hexagon",
-    "title": "251B,251M,54,77K",
+    "title": "251B,251M,254R,54,77K",
     "x": 7904.399999999612,
     "y": -44058.30000000002
   },
@@ -95269,17 +95280,6 @@
     "title": "893,93A,96,98A",
     "x": 25035.499999999898,
     "y": -32152.400000000016
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "3CEFE1F7CC598005",
-    "value": 1,
-    "label": "大圍站總站",
-    "shape": "hexagon",
-    "title": "46R",
-    "x": 18036.999999999636,
-    "y": -37307.3999999999
   },
   {
     "borderWidth": 0,
@@ -107627,10 +107627,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "65B07713A0DDFF22",
-    "value": 2,
+    "value": 3,
     "label": "元朗 形點",
     "shape": "hexagon",
-    "title": "53,68R",
+    "title": "254R,53,68R",
     "x": 3644.5000000000505,
     "y": -44506.499999999956
   },
@@ -108991,10 +108991,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "6A46C83B59AAB8E0",
-    "value": 1,
+    "value": 2,
     "label": "大圍站總站",
     "shape": "hexagon",
-    "title": "72A",
+    "title": "46R,72A",
     "x": 18013.20000000004,
     "y": -37292.80000000017
   },
@@ -109002,10 +109002,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "6A4B371546D489BF",
-    "value": 15,
+    "value": 16,
     "label": "形點 I",
     "shape": "hexagon",
-    "title": "264R,268B,54,64K,65R,68,68E,68F,68M,76K,77K,869,B9,N269,N368",
+    "title": "254R,264R,268B,54,64K,65R,68,68E,68F,68M,76K,77K,869,B9,N269,N368",
     "x": 3598.399999999913,
     "y": -44432.40000000017
   },
@@ -130672,10 +130672,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "B930AD84BC1A8655",
-    "value": 3,
+    "value": 4,
     "label": "八鄉石崗橋",
     "shape": "hexagon",
-    "title": "251B,54,77K",
+    "title": "251B,254R,54,77K",
     "x": 7760.199999999884,
     "y": -44053.69999999991
   },
