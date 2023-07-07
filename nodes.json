@@ -36105,10 +36105,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "1C6EAAF5F48167F9",
-    "value": 8,
+    "value": 9,
     "label": "科學園(第一期)",
     "shape": "hexagon",
-    "title": "263A,263C,274,274P,64X,65X,82C,82D",
+    "title": "263A,263C,272A,274,274P,64X,65X,82C,82D",
     "x": 21158.900000000358,
     "y": -42427.199999999844
   },
@@ -36298,6 +36298,17 @@
     "title": "80,80A,80P,81S,85B,87B,N281",
     "x": 17390.79999999973,
     "y": -36403.20000000017
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "1D1571E9D1588FBE",
+    "value": 1,
+    "label": "香港生物科技研究院",
+    "shape": "hexagon",
+    "title": "272A",
+    "x": 21417.900000000147,
+    "y": -42266.4000000001
   },
   {
     "borderWidth": 0,
@@ -92589,6 +92600,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "3313B37BF82AFF18",
+    "value": 1,
+    "label": "雲滙",
+    "shape": "hexagon",
+    "title": "272A",
+    "x": 20333.800000000225,
+    "y": -42956.09999999996
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "33173A78A66E9FB9",
     "value": 1,
     "label": "青田遊樂場",
@@ -92832,10 +92854,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "33ABA49F0E91A247",
-    "value": 16,
+    "value": 15,
     "label": "雲滙",
     "shape": "hexagon",
-    "title": "263C,271B,272A,272P,272X,274,274P,64X,65X,73D,74D,74P,82D,900,96,R271",
+    "title": "263C,271B,272P,272X,274,274P,64X,65X,73D,74D,74P,82D,900,96,R271",
     "x": 20332.29999999975,
     "y": -42980.500000000175
   },
@@ -94481,6 +94503,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "39E7051B17D302DA",
+    "value": 1,
+    "label": "科研路",
+    "shape": "hexagon",
+    "title": "272A",
+    "x": 20844.999999999913,
+    "y": -42644.20000000016
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "39F712E839F52A9B",
     "value": 1,
     "label": "豫苑",
@@ -94609,6 +94642,17 @@
     "title": "234X,238X,270B,270D,272E,286C,30X,35A,42A,45,60X,69X",
     "x": 15597.099999999387,
     "y": -33575.79999999984
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "3A7AC3A5F9530786",
+    "value": 1,
+    "label": "創新路",
+    "shape": "hexagon",
+    "title": "272A",
+    "x": 20498.100000000362,
+    "y": -42864.90000000001
   },
   {
     "borderWidth": 0,
@@ -95984,6 +96028,17 @@
     "title": "240X,249X,270B,271X,272E,272P,272R,280X,281E,286C,286X,287D,287R,287X,38B,900",
     "x": 16276.000000000578,
     "y": -36027.500000000146
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "3F24CFF9046300D9",
+    "value": 1,
+    "label": "雲滙",
+    "shape": "hexagon",
+    "title": "272A",
+    "x": 20332.29999999975,
+    "y": -42980.500000000175
   },
   {
     "borderWidth": 0,
@@ -104480,6 +104535,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "5B39CC28607910E4",
+    "value": 1,
+    "label": "馬料水公眾碼頭",
+    "shape": "hexagon",
+    "title": "272A",
+    "x": 21394.499999999538,
+    "y": -41602.69999999997
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "5B3C373DE4DCAE6F",
     "value": 1,
     "label": "怡和街",
@@ -104756,10 +104822,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "5C2A974134634635",
-    "value": 11,
+    "value": 10,
     "label": "科學園(第一期)",
     "shape": "hexagon",
-    "title": "271B,272A,272K,272P,272X,73D,74D,74P,900,96,R271",
+    "title": "271B,272K,272P,272X,73D,74D,74P,900,96,R271",
     "x": 21158.900000000358,
     "y": -42427.199999999844
   },
@@ -107028,6 +107094,17 @@
     "title": "57M",
     "x": -3413.7000000001194,
     "y": -40149.39999999996
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "64101F297D3C1C55",
+    "value": 1,
+    "label": "水上活動中心",
+    "shape": "hexagon",
+    "title": "272A",
+    "x": 21427.099999999657,
+    "y": -41866.20000000012
   },
   {
     "borderWidth": 0,
@@ -113226,10 +113303,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "79FD1B44D37205B8",
-    "value": 14,
+    "value": 13,
     "label": "雲滙",
     "shape": "hexagon",
-    "title": "263C,271B,271R,272A,272P,272R,272X,274P,73D,74D,74P,82D,900,96",
+    "title": "263C,271B,271R,272P,272R,272X,274P,73D,74D,74P,82D,900,96",
     "x": 20333.800000000225,
     "y": -42956.09999999996
   },
@@ -116229,10 +116306,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "853CD1316EB5227B",
-    "value": 19,
+    "value": 18,
     "label": "水上活動中心",
     "shape": "hexagon",
-    "title": "263A,263C,271B,272A,272K,272P,272S,272X,274,274P,43P,73D,74D,74P,82C,82D,900,96,R271",
+    "title": "263A,263C,271B,272K,272P,272S,272X,274,274P,43P,73D,74D,74P,82C,82D,900,96,R271",
     "x": 21427.099999999657,
     "y": -41866.20000000012
   },
@@ -123588,10 +123665,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "A0D379E172F5BC93",
-    "value": 19,
+    "value": 18,
     "label": "香港生物科技研究院",
     "shape": "hexagon",
-    "title": "263A,263C,271B,272A,272K,272P,272S,272X,274,274P,43P,73D,74D,74P,82C,82D,900,96,R271",
+    "title": "263A,263C,271B,272K,272P,272S,272X,274,274P,43P,73D,74D,74P,82C,82D,900,96,R271",
     "x": 21417.900000000147,
     "y": -42266.4000000001
   },
@@ -129000,10 +129077,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "B34F59A0270AEDA4",
-    "value": 16,
+    "value": 15,
     "label": "創新路",
     "shape": "hexagon",
-    "title": "263C,271B,272A,272P,272X,274,274P,64X,65X,73D,74D,74P,82D,900,96,R271",
+    "title": "263C,271B,272P,272X,274,274P,64X,65X,73D,74D,74P,82D,900,96,R271",
     "x": 20498.100000000362,
     "y": -42864.90000000001
   },
@@ -129792,10 +129869,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "B644204AEDE7A031",
-    "value": 14,
+    "value": 13,
     "label": "科研路",
     "shape": "hexagon",
-    "title": "271B,272A,272P,272X,274,274P,64X,65X,73D,74D,74P,82D,96,R271",
+    "title": "271B,272P,272X,274,274P,64X,65X,73D,74D,74P,82D,96,R271",
     "x": 20844.999999999913,
     "y": -42644.20000000016
   },
@@ -132047,10 +132124,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "BE6EC9708F5FB613",
-    "value": 19,
+    "value": 18,
     "label": "馬料水公眾碼頭",
     "shape": "hexagon",
-    "title": "263A,263C,271B,272A,272K,272P,272S,272X,274,274P,43P,73D,74D,74P,82C,82D,900,96,R271",
+    "title": "263A,263C,271B,272K,272P,272S,272X,274,274P,43P,73D,74D,74P,82C,82D,900,96,R271",
     "x": 21394.499999999538,
     "y": -41602.69999999997
   },
