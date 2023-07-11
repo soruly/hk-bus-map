@@ -147226,6 +147226,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "F5727C4B7EEBA1B3",
+    "value": 1,
+    "label": "銀田花園",
+    "shape": "hexagon",
+    "title": "268C",
+    "x": 2211.300000000449,
+    "y": -43950.50000000005
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "F573BDBB62023031",
     "value": 1,
     "label": "承豐道",
