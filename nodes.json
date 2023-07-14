@@ -87540,17 +87540,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "2467F89DA6BF9E14",
-    "value": 1,
-    "label": "山水樓",
-    "shape": "hexagon",
-    "title": "E36",
-    "x": 1994.2999999997824,
-    "y": -44621.400000000125
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "246B32CF201C6A7A",
     "value": 2,
     "label": "慈雲山(中)巴士總站",
@@ -106593,10 +106582,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "621C6671C9A2EDD0",
-    "value": 1,
+    "value": 2,
     "label": "山水樓",
     "shape": "hexagon",
-    "title": "E36S",
+    "title": "E36,E36S",
     "x": 1994.2999999997824,
     "y": -44621.400000000125
   },
