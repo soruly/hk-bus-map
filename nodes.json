@@ -28856,10 +28856,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "064E5D9FE6973F23",
-    "value": 5,
+    "value": 4,
     "label": "營盤街",
     "shape": "hexagon",
-    "title": "2B,2F,36B,72,86A",
+    "title": "2B,2F,72,86A",
     "x": 16075.499999999465,
     "y": -33415.40000000016
   },
@@ -30198,10 +30198,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "0BADB28A19C2E0BE",
-    "value": 13,
+    "value": 14,
     "label": "貿易廣場",
     "shape": "hexagon",
-    "title": "102,102P,102R,171,171A,171P,31B,35A,36A,904,905,905A,N171",
+    "title": "102,102P,102R,171,171A,171P,31B,35A,36A,36B,904,905,905A,N171",
     "x": 15431.100000000697,
     "y": -33673.99999999989
   },
@@ -86011,6 +86011,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "20018445",
+    "value": 1,
+    "label": "和泰街, 近聯盛街",
+    "shape": "hexagon",
+    "title": "52K",
+    "x": 14207.256234564626,
+    "y": -49951.564556981866
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "201",
     "value": 1,
     "label": "鍾屋村輕鐵站",
@@ -98107,17 +98118,6 @@
     "title": "275R",
     "x": 24179.10000000063,
     "y": -50591.40000000007
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "4598D2B448AC5399",
-    "value": 1,
-    "label": "深水埗福華街",
-    "shape": "hexagon",
-    "title": "36B",
-    "x": 16159.799999999792,
-    "y": -33258.70000000002
   },
   {
     "borderWidth": 0,
@@ -130946,17 +130946,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "B9A04F7E534EA8E0",
-    "value": 1,
-    "label": "元州商場",
-    "shape": "hexagon",
-    "title": "36B",
-    "x": 15615.499999999827,
-    "y": -33770.79999999992
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "B9B0524C596DAE6F",
     "value": 2,
     "label": "何文田(愛民邨)巴士總站",
@@ -143234,10 +143223,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "E766002A5624AFB6",
-    "value": 5,
+    "value": 4,
     "label": "永隆街",
     "shape": "hexagon",
-    "title": "2B,2F,36B,72,86A",
+    "title": "2B,2F,72,86A",
     "x": 15781.800000000601,
     "y": -33640.09999999986
   },
@@ -144290,10 +144279,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "EB9E9B5EEE20114C",
-    "value": 3,
+    "value": 4,
     "label": "麗閣邨",
     "shape": "hexagon",
-    "title": "31B,35A,36A",
+    "title": "31B,35A,36A,36B",
     "x": 15822.300000000667,
     "y": -33384.30000000016
   },
