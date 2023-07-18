@@ -27425,6 +27425,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "003813",
+    "value": 1,
+    "label": "藍田綜合大樓, 德田街",
+    "shape": "hexagon",
+    "title": "E22",
+    "x": 23737.280052999664,
+    "y": -30978.738209099887
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "003D1263A14908F6",
     "value": 3,
     "label": "荃灣富華街",
