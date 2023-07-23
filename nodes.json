@@ -23774,10 +23774,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003430",
-    "value": 1,
+    "value": 2,
     "label": "屯門市廣場, 屯喜路",
     "shape": "hexagon",
-    "title": "N969",
+    "title": "150R,N969",
     "x": -2303.620947000695,
     "y": -39272.30520910001
   },
@@ -93119,7 +93119,7 @@
     "borderWidthSelected": 1,
     "id": "34BC6DF4457C3BED",
     "value": 3,
-    "label": "牛池灣轉車站 - 彩虹站 (K4)",
+    "label": "牛池灣轉車站 - 彩虹站 (K5)",
     "shape": "hexagon",
     "title": "29M,42,88",
     "x": 20999.00000000048,
@@ -137430,8 +137430,8 @@
     "label": "觀塘碼頭",
     "shape": "hexagon",
     "title": "40P",
-    "x": 22167.399999999303,
-    "y": -30749.700000000146
+    "x": 22180.00000000018,
+    "y": -30800.400000000038
   },
   {
     "borderWidth": 0,
@@ -145742,10 +145742,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "F05E718C02104BAC",
-    "value": 4,
+    "value": 5,
     "label": "朗屏邨總站",
     "shape": "hexagon",
-    "title": "269D,276C,968X,P968",
+    "title": "269D,276C,69,968X,P968",
     "x": 2289.3999999993753,
     "y": -45054.400000000074
   },
