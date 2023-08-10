@@ -90840,6 +90840,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "2CF4CFA22192E30A",
+    "value": 4,
+    "label": "下高埔村",
+    "shape": "hexagon",
+    "title": "A36,E36,E36P,NA36",
+    "x": 5270.4000000005635,
+    "y": -44191.29999999996
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "2CFA2F3EA6304C56",
     "value": 1,
     "label": "彩虹轉車站 - 彩虹總站 (N4)",
@@ -91254,6 +91265,17 @@
     "title": "42M,43A,43D",
     "x": 9753.89999999976,
     "y": -35447.20000000012
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "2E73B26A07205432",
+    "value": 4,
+    "label": "楊屋村",
+    "shape": "hexagon",
+    "title": "A36,E36,E36P,NA36",
+    "x": 4238.700000000506,
+    "y": -44425.999999999985
   },
   {
     "borderWidth": 0,
@@ -94306,10 +94328,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "36DC37F6A54BA5E0",
-    "value": 14,
+    "value": 9,
     "label": "東成里",
     "shape": "hexagon",
-    "title": "54,64K,68,68E,68F,76K,77K,A36,E36,E36P,N269,N368,NA36,X36",
+    "title": "54,64K,68,68E,68F,76K,77K,N269,N368",
     "x": 4375.100000000031,
     "y": -44440.70000000018
   },
@@ -94691,10 +94713,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "389B25932AD10BA3",
-    "value": 5,
+    "value": 4,
     "label": "愛達樓",
     "shape": "hexagon",
-    "title": "213A,213B,213D,213M,290X",
+    "title": "213A,213D,213M,290X",
     "x": 23259.299999999428,
     "y": -32184.20000000002
   },
@@ -96044,10 +96066,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "3D5F826FD00C0529",
-    "value": 12,
+    "value": 8,
     "label": "凹頭",
     "shape": "hexagon",
-    "title": "268M,54,64K,65R,68E,77K,A36,E36,E36P,N269,N368,NA36",
+    "title": "268M,54,64K,65R,68E,77K,N269,N368",
     "x": 5007.500000000675,
     "y": -44318.49999999997
   },
@@ -97342,10 +97364,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "41C9D989B8B874FF",
-    "value": 12,
+    "value": 7,
     "label": "高埔村",
     "shape": "hexagon",
-    "title": "268M,54,64K,68E,77K,A36,E36,E36P,N269,N368,NA36,X36",
+    "title": "268M,54,64K,68E,77K,N269,N368",
     "x": 5628.799999999501,
     "y": -44042.99999999992
   },
@@ -97650,10 +97672,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "4283F5F48ABBEBD2",
-    "value": 3,
+    "value": 1,
     "label": "太和總站",
     "shape": "hexagon",
-    "title": "271S,273C,273P",
+    "title": "273C",
     "x": 16112.900000000252,
     "y": -45077.500000000015
   },
@@ -98723,6 +98745,17 @@
     "title": "33A,43",
     "x": 13179.200000000435,
     "y": -36251.89999999989
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "45B57C063BB57D07",
+    "value": 4,
+    "label": "凹頭",
+    "shape": "hexagon",
+    "title": "A36,E36,E36P,NA36",
+    "x": 5007.500000000675,
+    "y": -44318.49999999997
   },
   {
     "borderWidth": 0,
@@ -107539,10 +107572,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "6386333EDAC64C96",
-    "value": 14,
+    "value": 10,
     "label": "楊屋村",
     "shape": "hexagon",
-    "title": "54,64K,65R,68,68E,68F,76K,77K,A36,E36,E36P,N269,N368,NA36",
+    "title": "54,64K,65R,68,68E,68F,76K,77K,N269,N368",
     "x": 4238.700000000506,
     "y": -44425.999999999985
   },
@@ -109459,6 +109492,17 @@
     "title": "32,36B,37,44,46",
     "x": 16570.000000000106,
     "y": -32441.70000000004
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "69CFE96E38AD1D50",
+    "value": 4,
+    "label": "東成里",
+    "shape": "hexagon",
+    "title": "A36,E36,E36P,NA36",
+    "x": 4589.199999999493,
+    "y": -44393.49999999998
   },
   {
     "borderWidth": 0,
@@ -112429,6 +112473,17 @@
     "title": "907C",
     "x": 16444.500000000062,
     "y": -27843.700000000026
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "7469F3B24F889F1B",
+    "value": 5,
+    "label": "下高埔村",
+    "shape": "hexagon",
+    "title": "A36,E36,E36P,NA36,X36",
+    "x": 5160.800000000165,
+    "y": -44249.599999999846
   },
   {
     "borderWidth": 0,
@@ -117483,10 +117538,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "876CF2E8C375F78B",
-    "value": 14,
+    "value": 10,
     "label": "東成里",
     "shape": "hexagon",
-    "title": "54,64K,65R,68,68E,68F,76K,77K,A36,E36,E36P,N269,N368,NA36",
+    "title": "54,64K,65R,68,68E,68F,76K,77K,N269,N368",
     "x": 4589.199999999493,
     "y": -44393.49999999998
   },
@@ -117830,6 +117885,17 @@
     "title": "282,81K,82K",
     "x": 18753.999999999847,
     "y": -36974.500000000175
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "88B9BE4ED93A3292",
+    "value": 5,
+    "label": "凹頭",
+    "shape": "hexagon",
+    "title": "A36,E36,E36P,NA36,X36",
+    "x": 4856.800000000305,
+    "y": -44415.89999999991
   },
   {
     "borderWidth": 0,
@@ -118985,6 +119051,17 @@
     "title": "917",
     "x": 9333.39999999987,
     "y": -43933.90000000004
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "8DBA8FDF35CE7CC0",
+    "value": 5,
+    "label": "高埔村",
+    "shape": "hexagon",
+    "title": "A36,E36,E36P,NA36,X36",
+    "x": 5628.799999999501,
+    "y": -44042.99999999992
   },
   {
     "borderWidth": 0,
@@ -123367,6 +123444,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "9DD0D04123E70E56",
+    "value": 4,
+    "label": "高埔村",
+    "shape": "hexagon",
+    "title": "A36,E36,E36P,NA36",
+    "x": 5625.79999999997,
+    "y": -44017.6000000001
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "9DD63D93684C27D6",
     "value": 2,
     "label": "大埔頭總站",
@@ -123940,10 +124028,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "9FD5C5940A1D7212",
-    "value": 4,
+    "value": 6,
     "label": "太和總站",
     "shape": "hexagon",
-    "title": "271R,272R,74A,T74",
+    "title": "271R,272R,273P,71K,74A,T74",
     "x": 16079.000000000577,
     "y": -45116.900000000016
   },
@@ -127251,10 +127339,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "AA52228890817D12",
-    "value": 12,
+    "value": 11,
     "label": "善達樓",
     "shape": "hexagon",
-    "title": "11X,213B,213M,213S,213X,215R,216R,603R,613,613A,N213,R215",
+    "title": "11X,213M,213S,213X,215R,216R,603R,613,613A,N213,R215",
     "x": 23555.00000000035,
     "y": -32028.29999999999
   },
@@ -130803,17 +130891,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "B78076CC8F628B2B",
-    "value": 1,
-    "label": "太和總站",
-    "shape": "hexagon",
-    "title": "71K",
-    "x": 16107.800000000338,
-    "y": -45082.19999999987
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "B78CDC6E85060BE4",
     "value": 1,
     "label": "金麗苑",
@@ -132080,10 +132157,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "BBDFF2D05E37EE61",
-    "value": 8,
+    "value": 9,
     "label": "觀塘定富街",
     "shape": "hexagon",
-    "title": "274X,296C,6P,74D,74E,74F,74P,74X",
+    "title": "213B,274X,296C,6P,74D,74E,74F,74P,74X",
     "x": 21549.10000000001,
     "y": -31677.200000000026
   },
@@ -133092,10 +133169,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "BFCFEBF6F5C35402",
-    "value": 12,
+    "value": 8,
     "label": "高埔村",
     "shape": "hexagon",
-    "title": "268M,54,64K,65R,68E,77K,A36,E36,E36P,N269,N368,NA36",
+    "title": "268M,54,64K,65R,68E,77K,N269,N368",
     "x": 5625.79999999997,
     "y": -44017.6000000001
   },
@@ -134730,6 +134807,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "C59B16415222709D",
+    "value": 5,
+    "label": "東成里",
+    "shape": "hexagon",
+    "title": "A36,E36,E36P,NA36,X36",
+    "x": 4375.100000000031,
+    "y": -44440.70000000018
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "C5AA13924C99532A",
     "value": 3,
     "label": "西洋菜里",
@@ -134819,10 +134907,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "C65C38558F2F978B",
-    "value": 2,
+    "value": 1,
     "label": "太和總站",
     "shape": "hexagon",
-    "title": "272E,72",
+    "title": "272E",
     "x": 16094.200000000568,
     "y": -45099.89999999995
   },
@@ -137448,10 +137536,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "D05C7D74301D47C5",
-    "value": 12,
+    "value": 7,
     "label": "下高埔村",
     "shape": "hexagon",
-    "title": "268M,54,64K,68E,77K,A36,E36,E36P,N269,N368,NA36,X36",
+    "title": "268M,54,64K,68E,77K,N269,N368",
     "x": 5160.800000000165,
     "y": -44249.599999999846
   },
@@ -147953,10 +148041,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "F5FA7ED5D5A6860D",
-    "value": 12,
+    "value": 7,
     "label": "凹頭",
     "shape": "hexagon",
-    "title": "268M,54,64K,68E,77K,A36,E36,E36P,N269,N368,NA36,X36",
+    "title": "268M,54,64K,68E,77K,N269,N368",
     "x": 4856.800000000305,
     "y": -44415.89999999991
   },
@@ -148987,10 +149075,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "F8B3A5C8D0D3CED7",
-    "value": 12,
+    "value": 8,
     "label": "下高埔村",
     "shape": "hexagon",
-    "title": "268M,54,64K,65R,68E,77K,A36,E36,E36P,N269,N368,NA36",
+    "title": "268M,54,64K,65R,68E,77K,N269,N368",
     "x": 5270.4000000005635,
     "y": -44191.29999999996
   },
@@ -150472,10 +150560,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "FDFA7692A141612F",
-    "value": 6,
+    "value": 7,
     "label": "觀塘轉車站 - 創紀之城 (B10)",
     "shape": "hexagon",
-    "title": "11X,14,15,15X,671,671X",
+    "title": "11X,14,15,15X,213B,671,671X",
     "x": 22260.699999999644,
     "y": -31372.100000000104
   },
