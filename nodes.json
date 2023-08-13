@@ -97694,10 +97694,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "4283F5F48ABBEBD2",
-    "value": 3,
+    "value": 2,
     "label": "太和總站",
     "shape": "hexagon",
-    "title": "272E,72,74A",
+    "title": "272E,72",
     "x": 16112.900000000252,
     "y": -45077.500000000015
   },
@@ -131980,6 +131980,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "BAEB7946459B9F10",
+    "value": 1,
+    "label": "太和總站",
+    "shape": "hexagon",
+    "title": "74R",
+    "x": 16134.300000000223,
+    "y": -45031.39999999988
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "BAEBBB4F688A59D4",
     "value": 1,
     "label": "天富總站",
@@ -149892,7 +149903,7 @@
     "value": 1,
     "label": "太和總站",
     "shape": "hexagon",
-    "title": "74R",
+    "title": "74A",
     "x": 16134.300000000223,
     "y": -45031.39999999988
   },
