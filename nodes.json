@@ -50428,7 +50428,7 @@
     "borderWidthSelected": 1,
     "id": "20003470",
     "value": 1,
-    "label": "德輔道西, 均益大廈二期外 (非限制區)",
+    "label": "德輔道西, 均益大廈二期外 (巴士站前)",
     "shape": "hexagon",
     "title": "12",
     "x": 13791.379153541073,
@@ -87881,6 +87881,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "2412E319B88EBF96",
+    "value": 1,
+    "label": "香港生物科技研究院",
+    "shape": "hexagon",
+    "title": "A47X",
+    "x": 21417.900000000147,
+    "y": -42266.4000000001
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "241A8AC2A2889D05",
     "value": 1,
     "label": "白田巴士總站",
@@ -87888,6 +87899,17 @@
     "title": "104",
     "x": 16589.799999999854,
     "y": -33604.899999999914
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "241AA85186E2C93E",
+    "value": 1,
+    "label": "科學園(第一期)",
+    "shape": "hexagon",
+    "title": "A47X",
+    "x": 21158.900000000358,
+    "y": -42427.199999999844
   },
   {
     "borderWidth": 0,
@@ -94998,6 +95020,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "3945D5C71A298168",
+    "value": 1,
+    "label": "白石角變電站",
+    "shape": "hexagon",
+    "title": "A47X",
+    "x": 20137.200000000634,
+    "y": -43489.29999999989
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "395175EBEEC636B7",
     "value": 3,
     "label": "大窩口站",
@@ -97957,6 +97990,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "437CE05BCFE6248C",
+    "value": 1,
+    "label": "創新路",
+    "shape": "hexagon",
+    "title": "A47X",
+    "x": 20469.3000000006,
+    "y": -42890.09999999998
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "437D60C455A624E6",
     "value": 12,
     "label": "瀝源邨",
@@ -99977,6 +100021,17 @@
     "title": "103",
     "x": 16010.599999999897,
     "y": -27874.600000000173
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "4A0ECA0D5AA4CB7E",
+    "value": 1,
+    "label": "雲滙",
+    "shape": "hexagon",
+    "title": "A47X",
+    "x": 20332.29999999975,
+    "y": -42980.500000000175
   },
   {
     "borderWidth": 0,
@@ -108942,6 +108997,17 @@
     "title": "103,7,75X,85,85A,85B",
     "x": 18469.000000000335,
     "y": -33934.899999999856
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "67CE6F9B4ACB8421",
+    "value": 1,
+    "label": "頌雅路",
+    "shape": "hexagon",
+    "title": "A47X",
+    "x": 17241.699999999582,
+    "y": -45712.999999999935
   },
   {
     "borderWidth": 0,
@@ -119671,6 +119737,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "907CF3142C0E02BB",
+    "value": 1,
+    "label": "水上活動中心",
+    "shape": "hexagon",
+    "title": "A47X",
+    "x": 21427.099999999657,
+    "y": -41866.20000000012
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "90901971846A40E7",
     "value": 1,
     "label": "彩虹轉車站 - 彩虹總站 (N5)",
@@ -125215,6 +125292,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "A3D85C5591D7F0CA",
+    "value": 1,
+    "label": "科研路",
+    "shape": "hexagon",
+    "title": "A47X",
+    "x": 20844.999999999913,
+    "y": -42644.20000000016
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "A3F6D2CA9135A988",
     "value": 7,
     "label": "荔灣道",
@@ -125816,6 +125904,17 @@
     "title": "279X,68E",
     "x": 9700.599999999326,
     "y": -34771.39999999999
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "A5FDDA13C2C7A953",
+    "value": 1,
+    "label": "馬料水公眾碼頭",
+    "shape": "hexagon",
+    "title": "A47X",
+    "x": 21394.499999999538,
+    "y": -41602.69999999997
   },
   {
     "borderWidth": 0,
@@ -127449,10 +127548,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "AAC64BCDD5B55A86",
-    "value": 25,
+    "value": 26,
     "label": "國泰城",
     "shape": "hexagon",
-    "title": "A33X,A36,A41,A43,E32,E33,E33P,E36,E36P,E36S,E37,E41,E42,N30,N31,NA31,NA33,NA36,NA37,NA40,NA41,NA43,NA47,S64,S64X",
+    "title": "A33X,A36,A41,A43,A47X,E32,E33,E33P,E36,E36P,E36S,E37,E41,E42,N30,N31,NA31,NA33,NA36,NA37,NA40,NA41,NA43,NA47,S64,S64X",
     "x": -6664.3999999996595,
     "y": -29768.699999999983
   },
@@ -130172,6 +130271,17 @@
     "title": "8P",
     "x": 17113.3999999995,
     "y": -29526.999999999858
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "B4E25ABB1C5DE439",
+    "value": 1,
+    "label": "天賦海灣",
+    "shape": "hexagon",
+    "title": "A47X",
+    "x": 20155.800000000567,
+    "y": -43149.199999999866
   },
   {
     "borderWidth": 0,
@@ -140567,6 +140677,17 @@
     "title": "251B,54,77K,E36P",
     "x": 6329.300000000159,
     "y": -44014.10000000006
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "DAB252A4BC687441",
+    "value": 2,
+    "label": "富亨邨亨裕樓",
+    "shape": "hexagon",
+    "title": "A47X,NA47",
+    "x": 17270.399999999598,
+    "y": -45931.399999999914
   },
   {
     "borderWidth": 0,
