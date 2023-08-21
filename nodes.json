@@ -27392,6 +27392,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "003819",
+    "value": 1,
+    "label": "邁亞美海灣, 湖翠路",
+    "shape": "hexagon",
+    "title": "962G",
+    "x": -3024.894947000689,
+    "y": -37279.818209099954
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "003820",
     "value": 1,
     "label": "成業街休憩公園, 茶果嶺道",
@@ -86848,10 +86859,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "21466046C6868AA7",
-    "value": 19,
+    "value": 20,
     "label": "機場(地面運輸中心)巴士總站",
     "shape": "hexagon",
-    "title": "A31,A33,A33X,A34,A36,A37,A38,A41,A41P,A43P,A47X,E33,E33P,E36,E36P,E36S,E37,E42,N31",
+    "title": "A31,A33,A33X,A34,A36,A37,A38,A41,A41P,A43,A43P,A47X,E33,E33P,E36,E36P,E36S,E37,E42,N31",
     "x": -6247.399999999459,
     "y": -31260.400000000034
   },
@@ -132948,6 +132959,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "BED3E96AAC2B3B3D",
+    "value": 4,
+    "label": "消防及救護學院",
+    "shape": "hexagon",
+    "title": "290B,290E,290X,298F",
+    "x": 27464.00000000051,
+    "y": -30510.10000000005
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "BEEBDDB542A7E709",
     "value": 18,
     "label": "香港科學館",
@@ -147189,6 +147211,17 @@
     "title": "275R",
     "x": 24222.699999999975,
     "y": -48905.20000000009
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "F3209DBC2E7E5C1A",
+    "value": 2,
+    "label": "消防及救護學院",
+    "shape": "hexagon",
+    "title": "290B,290E",
+    "x": 27467.5000000002,
+    "y": -30529.399999999994
   },
   {
     "borderWidth": 0,
