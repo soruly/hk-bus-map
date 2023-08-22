@@ -59275,8 +59275,8 @@
     "label": "瑪麗醫院",
     "shape": "hexagon",
     "title": "55",
-    "x": 13072.630757598346,
-    "y": -27044.98294587836
+    "x": 13058.514942521526,
+    "y": -27048.388242633693
   },
   {
     "borderWidth": 0,
@@ -79621,10 +79621,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20016089",
-    "value": 1,
+    "value": 3,
     "label": "英皇道近惠安苑",
     "shape": "hexagon",
-    "title": "65A",
+    "title": "32,32A,65A",
     "x": 21308.934688569538,
     "y": -28476.312965091565
   },
@@ -86502,6 +86502,72 @@
     "title": "313",
     "x": 11586.731672288408,
     "y": -37184.23828887474
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20018742",
+    "value": 2,
+    "label": "基利路,近南豐新邨第 3 座",
+    "shape": "hexagon",
+    "title": "32,32A",
+    "x": 21368.656376068884,
+    "y": -28240.935576209835
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20018743",
+    "value": 2,
+    "label": "英皇道,近仁孚工業大廈",
+    "shape": "hexagon",
+    "title": "32,32A",
+    "x": 21504.820667003343,
+    "y": -28536.50548340276
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20018744",
+    "value": 1,
+    "label": "英皇道,近太古小學",
+    "shape": "hexagon",
+    "title": "32",
+    "x": 21480.663048505732,
+    "y": -28459.052328341273
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20018745",
+    "value": 1,
+    "label": "康安街,近康怡花園 Q 座",
+    "shape": "hexagon",
+    "title": "32A",
+    "x": 21546.677592033346,
+    "y": -28383.723737443488
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20018746",
+    "value": 1,
+    "label": "英皇道,近海山樓",
+    "shape": "hexagon",
+    "title": "33",
+    "x": 21227.99821908217,
+    "y": -28465.272650780804
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20018747",
+    "value": 1,
+    "label": "英皇道,近太古坊",
+    "shape": "hexagon",
+    "title": "33",
+    "x": 21020.63473329281,
+    "y": -28720.99135744186
   },
   {
     "borderWidth": 0,
