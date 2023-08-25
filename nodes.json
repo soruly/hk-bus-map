@@ -2203,10 +2203,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001211",
-    "value": 8,
+    "value": 7,
     "label": "賽西湖大廈, 寶馬山道",
     "shape": "hexagon",
-    "title": "23B,25,25A,27,81A,85,85A,85P",
+    "title": "23B,25,25A,27,81A,85A,85P",
     "x": 19968.48005299938,
     "y": -28545.81820909985
   },
