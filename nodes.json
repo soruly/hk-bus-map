@@ -107726,10 +107726,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "638851B5496C1765",
-    "value": 3,
+    "value": 4,
     "label": "大埔公眾泳池",
     "shape": "hexagon",
-    "title": "E41,N42A,X47",
+    "title": "E41,N42A,NA47,X47",
     "x": 16411.899999999947,
     "y": -45467.80000000013
   },
