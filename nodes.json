@@ -8803,10 +8803,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001829",
-    "value": 4,
+    "value": 5,
     "label": "彩虹邨, 太子道東",
     "shape": "hexagon",
-    "title": "101,797,A22,N796",
+    "title": "101,793,797,A22,N796",
     "x": 20407.52505299963,
     "y": -33534.452209099894
   },
@@ -25874,17 +25874,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "003642",
-    "value": 1,
-    "label": "消防及救護學院, 百勝角路",
-    "shape": "hexagon",
-    "title": "793",
-    "x": 27468.266053000436,
-    "y": -30557.792209100044
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "003643",
     "value": 1,
     "label": "朗邊, 青山公路",
@@ -26750,6 +26739,17 @@
     "title": "X962",
     "x": -2969.348947000583,
     "y": -38167.18620910002
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003751",
+    "value": 1,
+    "label": "消防及救護學院, 百勝角路",
+    "shape": "hexagon",
+    "title": "793",
+    "x": 27472.74005299971,
+    "y": -30558.10720910017
   },
   {
     "borderWidth": 0,
@@ -137960,6 +137960,17 @@
     "title": "93A,T277",
     "x": 22589.800000000083,
     "y": -30830.500000000073
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "D0F6D267978B38E3",
+    "value": 2,
+    "label": "洪元路洪福邨",
+    "shape": "hexagon",
+    "title": "960P,960X",
+    "x": -340.7999999993194,
+    "y": -43714.999999999905
   },
   {
     "borderWidth": 0,
