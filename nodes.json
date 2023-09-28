@@ -37567,17 +37567,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20000086",
-    "value": 1,
-    "label": "卑路乍街68號",
-    "shape": "hexagon",
-    "title": "13",
-    "x": 12867.218255998125,
-    "y": -28261.877197829934
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20000088",
     "value": 2,
     "label": "士美菲路, 近文光閣",
@@ -38657,10 +38646,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20000289",
-    "value": 1,
+    "value": 2,
     "label": "卑路乍街68號",
     "shape": "hexagon",
-    "title": "54",
+    "title": "13,54",
     "x": 12865.07248878621,
     "y": -28262.745867873917
   },
