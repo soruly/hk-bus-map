@@ -27348,6 +27348,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "003817",
+    "value": 1,
+    "label": "順欣花園, 馬會道",
+    "shape": "hexagon",
+    "title": "B7",
+    "x": 13299.784052999541,
+    "y": -50172.14920910007
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "003818",
     "value": 2,
     "label": "天平邨天明樓, 馬會道",
@@ -108188,10 +108199,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "650809D260BC7C6E",
-    "value": 3,
+    "value": 4,
     "label": "北區公園北門",
     "shape": "hexagon",
-    "title": "373,73B,79K",
+    "title": "373,73B,78B,79K",
     "x": 13511.90000000031,
     "y": -49958.90000000003
   },
@@ -112572,6 +112583,17 @@
     "title": "104,117",
     "x": 17041.6000000003,
     "y": -31484.999999999985
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "743B5D03681D9220",
+    "value": 2,
+    "label": "山麗苑",
+    "shape": "hexagon",
+    "title": "278A,78B",
+    "x": 16060.299999999472,
+    "y": -50369.39999999994
   },
   {
     "borderWidth": 0,
@@ -120734,6 +120756,17 @@
     "title": "203C,203S",
     "x": 17561.70000000026,
     "y": -33586.999999999985
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "9381998EA6DC33CA",
+    "value": 4,
+    "label": "山麗苑",
+    "shape": "hexagon",
+    "title": "278A,78A,78B,N78",
+    "x": 16060.299999999472,
+    "y": -50369.39999999994
   },
   {
     "borderWidth": 0,
@@ -133450,6 +133483,17 @@
     "title": "945",
     "x": 20287.399999999423,
     "y": -29161.200000000066
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "BFEDCC774FD671CB",
+    "value": 1,
+    "label": "山麗苑",
+    "shape": "hexagon",
+    "title": "78A",
+    "x": 16060.299999999472,
+    "y": -50369.39999999994
   },
   {
     "borderWidth": 0,
@@ -151000,10 +151044,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "FEC59562CBC99F5E",
-    "value": 3,
+    "value": 4,
     "label": "粉嶺法院大樓",
     "shape": "hexagon",
-    "title": "373,73B,79K",
+    "title": "373,73B,78B,79K",
     "x": 13987.000000000193,
     "y": -49548.89999999992
   },
