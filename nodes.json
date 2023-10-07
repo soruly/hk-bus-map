@@ -13598,6 +13598,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "002319",
+    "value": 1,
+    "label": "興華(一)邨停車場, 環翠道",
+    "shape": "hexagon",
+    "title": "81",
+    "x": 23456.021053000597,
+    "y": -26321.8072091
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "002320",
     "value": 7,
     "label": "華翠街, 域多利道",
@@ -16272,10 +16283,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002581",
-    "value": 1,
+    "value": 11,
     "label": "青年廣場, 柴灣道",
     "shape": "hexagon",
-    "title": "976A",
+    "title": "106,606,606X,682,694,780,81,82,8H,8X,976A",
     "x": 23584.85605300018,
     "y": -26339.528209100037
   },
@@ -23884,10 +23895,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003445",
-    "value": 3,
+    "value": 4,
     "label": "半島酒店",
     "shape": "hexagon",
-    "title": "H1,H1S,H2",
+    "title": "20R,H1,H1S,H2",
     "x": 17121.211053000705,
     "y": -29532.90820910013
   },
@@ -60173,12 +60184,12 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20011318",
-    "value": 8,
+    "value": 7,
     "label": "石排灣邨公共運輸交匯處",
     "shape": "hexagon",
-    "title": "35M,4A,4B,4C,4M,4S,N4A,N4C",
-    "x": 15725.180080363543,
-    "y": -24999.147875013605
+    "title": "35M,4A,4B,4C,4M,N4A,N4C",
+    "x": 15738.252063221125,
+    "y": -24980.516831287503
   },
   {
     "borderWidth": 0,
@@ -65552,10 +65563,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20012937",
-    "value": 1,
+    "value": 2,
     "label": "漁光道, 近漁暉苑景暉閣",
     "shape": "hexagon",
-    "title": "52",
+    "title": "4S,52",
     "x": 15720.28398513936,
     "y": -25008.672593959604
   },
