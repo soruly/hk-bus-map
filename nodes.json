@@ -28008,6 +28008,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "032E4C7E0B1B7298",
+    "value": 1,
+    "label": "禾寮坑路",
+    "shape": "hexagon",
+    "title": "285A",
+    "x": 19625.70000000028,
+    "y": -39686.999999999985
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "0333C7A4008A8DE3",
     "value": 2,
     "label": "聖羅撒書院",
