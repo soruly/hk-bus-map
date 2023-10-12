@@ -13196,8 +13196,8 @@
     "label": "美國會所, 大潭道",
     "shape": "hexagon",
     "title": "14",
-    "x": 21743.19205300037,
-    "y": -22757.34920910004
+    "x": 21744.399053000052,
+    "y": -22760.452209099923
   },
   {
     "borderWidth": 0,
@@ -13251,8 +13251,8 @@
     "label": "大潭郊野公園, 大潭道",
     "shape": "hexagon",
     "title": "14",
-    "x": 22141.70205299979,
-    "y": -23957.883209099862
+    "x": 22141.999052999494,
+    "y": -23959.09120909998
   },
   {
     "borderWidth": 0,
@@ -13273,8 +13273,8 @@
     "label": "龜背灣, 大潭道",
     "shape": "hexagon",
     "title": "14",
-    "x": 22299.117052999405,
-    "y": -23539.2072090999
+    "x": 22298.762053000588,
+    "y": -23541.757209099855
   },
   {
     "borderWidth": 0,
@@ -13284,8 +13284,8 @@
     "label": "大潭水塘 (北), 大潭道",
     "shape": "hexagon",
     "title": "14",
-    "x": 22116.928053000607,
-    "y": -24657.25120909994
+    "x": 22117.04505299963,
+    "y": -24654.58020909992
   },
   {
     "borderWidth": 0,
@@ -96868,17 +96868,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "3FB2109BF5E57DDB",
-    "value": 1,
-    "label": "東盛苑",
-    "shape": "hexagon",
-    "title": "110",
-    "x": 22649.800000000654,
-    "y": -27599.80000000013
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "3FB80081AB2FF6FB",
     "value": 7,
     "label": "亞皆老街球場",
@@ -96930,17 +96919,6 @@
     "title": "263C,264R,265S,271,271B,271P,272E,272X,274P,307,64K,64X,65X,71K,72,72A,72X,73,73A,73X,74B,74D,74X,75K,N307,R271",
     "x": 16993.200000000284,
     "y": -44739.39999999992
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "3FD67C010BBA54DA",
-    "value": 1,
-    "label": "耀東邨",
-    "shape": "hexagon",
-    "title": "110",
-    "x": 22289.299999999912,
-    "y": -27796.499999999825
   },
   {
     "borderWidth": 0,
@@ -98569,17 +98547,6 @@
     "title": "108,936,936A,961",
     "x": 18887.300000000097,
     "y": -27961.20000000002
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "455FC1E8B39E3D16",
-    "value": 1,
-    "label": "耀明樓",
-    "shape": "hexagon",
-    "title": "110",
-    "x": 22464.300000000036,
-    "y": -27581.19999999984
   },
   {
     "borderWidth": 0,
@@ -101539,17 +101506,6 @@
     "title": "38S",
     "x": 11843.100000000106,
     "y": -35856.89999999992
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "4FC7150518C5234A",
-    "value": 1,
-    "label": "筲箕灣廣場",
-    "shape": "hexagon",
-    "title": "110",
-    "x": 22624.500000000582,
-    "y": -27723.200000000146
   },
   {
     "borderWidth": 0,
@@ -126261,10 +126217,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "A6C169DA579FC45B",
-    "value": 8,
+    "value": 9,
     "label": "慧景軒",
     "shape": "hexagon",
-    "title": "265S,269B,276B,69C,E37,E37C,N269,NA37",
+    "title": "264R,265S,269B,276B,69C,E37,E37C,N269,NA37",
     "x": 501.6999999995164,
     "y": -46572.79999999986
   },
@@ -129391,17 +129347,6 @@
     "title": "671",
     "x": 15059.700000000475,
     "y": -24407.30000000002
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "B1171B2BB00E5894",
-    "value": 1,
-    "label": "耀貴樓",
-    "shape": "hexagon",
-    "title": "110",
-    "x": 22568.300000000363,
-    "y": -27564.200000000128
   },
   {
     "borderWidth": 0,
@@ -136787,17 +136732,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "CC79602DDE23374F",
-    "value": 1,
-    "label": "耀華樓",
-    "shape": "hexagon",
-    "title": "110",
-    "x": 22101.700000000335,
-    "y": -27929.699999999968
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "CC811B604DD883AE",
     "value": 4,
     "label": "德福花園",
@@ -142078,17 +142012,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "DFF959D9A2B5E03E",
-    "value": 1,
-    "label": "筲箕灣廣場",
-    "shape": "hexagon",
-    "title": "110",
-    "x": 22593.500000000688,
-    "y": -27742.999999999894
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "DIH",
     "value": 2,
     "label": "鑽石山",
@@ -146511,17 +146434,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "F01C5503A89517B4",
-    "value": 1,
-    "label": "耀東商場",
-    "shape": "hexagon",
-    "title": "110",
-    "x": 22374.200000000143,
-    "y": -27703.100000000093
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "F01D5D94B03AA8A2",
     "value": 5,
     "label": "大圍轉車站 - 積運街",
@@ -148333,17 +148245,6 @@
     "title": "252X,261X,52X,53,59R,61M,N252",
     "x": -603.4999999997126,
     "y": -37120.90000000004
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "F627BC7B0387FA39",
-    "value": 1,
-    "label": "耀興樓",
-    "shape": "hexagon",
-    "title": "110",
-    "x": 22422.699999999906,
-    "y": -27644.400000000147
   },
   {
     "borderWidth": 0,
