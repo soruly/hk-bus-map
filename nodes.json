@@ -69095,7 +69095,7 @@
     "borderWidthSelected": 1,
     "id": "20014023",
     "value": 1,
-    "label": "雅翔道，九龍站E出口外         ",
+    "label": "雅翔道，九龍站E出口外",
     "shape": "hexagon",
     "title": "CX1",
     "x": 16032.909132169949,
@@ -70717,6 +70717,17 @@
     "title": "3",
     "x": 16946.858151278833,
     "y": -29540.997379264056
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20014313",
+    "value": 1,
+    "label": "匯民道，柯士甸站D出口外",
+    "shape": "hexagon",
+    "title": "CX1",
+    "x": 16668.53425704318,
+    "y": -30349.011445792938
   },
   {
     "borderWidth": 0,
@@ -79732,7 +79743,7 @@
     "borderWidthSelected": 1,
     "id": "20016267",
     "value": 4,
-    "label": "博物館道，近西九文化區藝術公園 ",
+    "label": "博物館道，藝術公園外",
     "shape": "hexagon",
     "title": "26,74S,77M,CX1",
     "x": 15733.0844358313,
@@ -86524,6 +86535,61 @@
     "title": "2,2A",
     "x": 18719.8855763441,
     "y": -31405.724734062802
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20018841",
+    "value": 1,
+    "label": "文化道，近M+博物館",
+    "shape": "hexagon",
+    "title": "CX1",
+    "x": 15854.930877685547,
+    "y": -30148.245569246512
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20018842",
+    "value": 1,
+    "label": "博物館道，香港故宮文化博物館外",
+    "shape": "hexagon",
+    "title": "CX1",
+    "x": 15611.9227409377,
+    "y": -30125.669532493048
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20018843",
+    "value": 1,
+    "label": "西九文化區管理局項目辦公室",
+    "shape": "hexagon",
+    "title": "CX1",
+    "x": 15734.23147201538,
+    "y": -30300.599412863605
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20018844",
+    "value": 1,
+    "label": "西九文化區西閘",
+    "shape": "hexagon",
+    "title": "CX1",
+    "x": 15815.770626069536,
+    "y": -30422.215672009046
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20018875",
+    "value": 1,
+    "label": "九龍站B出口",
+    "shape": "hexagon",
+    "title": "CX1",
+    "x": 16232.585906983843,
+    "y": -30447.69428437455
   },
   {
     "borderWidth": 0,
