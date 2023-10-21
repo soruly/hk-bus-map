@@ -27315,6 +27315,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "003821",
+    "value": 1,
+    "label": "上水站 (B2出口), 新運路",
+    "shape": "hexagon",
+    "title": "B7X",
+    "x": 12884.544053000012,
+    "y": -50080.57320909991
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "003D1263A14908F6",
     "value": 3,
     "label": "荃灣富華街",
