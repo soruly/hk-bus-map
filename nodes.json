@@ -27326,6 +27326,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "003822",
+    "value": 1,
+    "label": "青富苑, 青衣路",
+    "shape": "hexagon",
+    "title": "948B",
+    "x": 10705.924053000615,
+    "y": -34183.36320909994
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "003D1263A14908F6",
     "value": 3,
     "label": "荃灣富華街",
