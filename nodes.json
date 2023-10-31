@@ -86627,6 +86627,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "20018907",
+    "value": 1,
+    "label": "安明街，碩門邨外",
+    "shape": "hexagon",
+    "title": "811A",
+    "x": 20881.92701339864,
+    "y": -38743.03695580465
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "201",
     "value": 1,
     "label": "鍾屋村輕鐵站",
