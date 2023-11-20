@@ -33092,7 +33092,7 @@
     "borderWidthSelected": 1,
     "id": "14157BA5C06B0B6B",
     "value": 13,
-    "label": "形點 I",
+    "label": "元點",
     "shape": "hexagon",
     "title": "168R,268A,268B,268C,268P,268X,269D,269R,276,276P,68X,B1,B9",
     "x": 3446.9000000001415,
@@ -87118,6 +87118,17 @@
     "title": "268A,69,E36A",
     "x": 3108.100000000036,
     "y": -44961.40000000004
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "21DA1E33BF580B96",
+    "value": 5,
+    "label": "元點",
+    "shape": "hexagon",
+    "title": "68E,68F,968,968X,P968",
+    "x": 3340.199999999527,
+    "y": -44452.00000000007
   },
   {
     "borderWidth": 0,
