@@ -773,10 +773,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001074",
-    "value": 27,
+    "value": 26,
     "label": "海富中心, 夏慤道",
     "shape": "hexagon",
-    "title": "111,2,260,302,307,307A,511,601,601P,629,641,680,680B,680P,681P,690,690S,720,720A,720P,722,780,780P,788,967X,N691,X15",
+    "title": "2,260,302,307,307A,511,601,601P,629,641,680,680B,680P,681P,690,690S,720,720A,720P,722,780,780P,788,967X,N691,X15",
     "x": 16514.437053000107,
     "y": -27952.308209099996
   },
@@ -14941,10 +14941,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002459",
-    "value": 7,
+    "value": 6,
     "label": "盧押道",
     "shape": "hexagon",
-    "title": "111,601,679,680,680B,680P,967X",
+    "title": "601,679,680,680B,680P,967X",
     "x": 17162.29005299965,
     "y": -27843.08220909999
   },
@@ -28360,17 +28360,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "0482E6668E3937DF",
-    "value": 2,
-    "label": "NOVO LAND",
-    "shape": "hexagon",
-    "title": "A34,NA33",
-    "x": -2964.500000000214,
-    "y": -41198.69999999999
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "048A87496B30B946",
     "value": 4,
     "label": "柯布連道",
@@ -35770,17 +35759,6 @@
     "title": "107P",
     "x": 13041.200000000685,
     "y": -26196.099999999944
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "1B48082288E30100",
-    "value": 3,
-    "label": "NOVO LAND",
-    "shape": "hexagon",
-    "title": "A34,NA33,X33",
-    "x": -2972.0999999995,
-    "y": -41211.5
   },
   {
     "borderWidth": 0,
@@ -86892,10 +86870,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "210978D525EEDF4F",
-    "value": 4,
+    "value": 7,
     "label": "紅橋 (K5)",
     "shape": "hexagon",
-    "title": "A36,E36A,E37C,E43",
+    "title": "A36,E36A,E37C,E43,N30,NA36,NA37",
     "x": -2249.899999999627,
     "y": -40199.09999999989
   },
@@ -90550,17 +90528,6 @@
     "title": "2A,6D",
     "x": 15086.499999999603,
     "y": -33934.899999999856
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "2B0F088D932881AC",
-    "value": 1,
-    "label": "機場博覽館巴士總站",
-    "shape": "hexagon",
-    "title": "A43P",
-    "x": -5950.300000000652,
-    "y": -31960.300000000076
   },
   {
     "borderWidth": 0,
@@ -120123,10 +120090,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "90CFA838B3C95AE0",
-    "value": 2,
+    "value": 5,
     "label": "NOVO LAND",
     "shape": "hexagon",
-    "title": "67A,R260",
+    "title": "67A,A34,NA33,R260,X33",
     "x": -2972.0999999995,
     "y": -41211.5
   },
@@ -120932,17 +120899,6 @@
     "title": "E41,N42A",
     "x": 16682.600000000035,
     "y": -45296.7000000001
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "9394FF939973FB49",
-    "value": 3,
-    "label": "紅橋 (K5)",
-    "shape": "hexagon",
-    "title": "N30,NA36,NA37",
-    "x": -2249.899999999627,
-    "y": -40199.09999999989
   },
   {
     "borderWidth": 0,
@@ -133697,10 +133653,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "C054428621712B5C",
-    "value": 1,
+    "value": 3,
     "label": "NOVO LAND",
     "shape": "hexagon",
-    "title": "67A",
+    "title": "67A,A34,NA33",
     "x": -2964.500000000214,
     "y": -41198.69999999999
   },
@@ -139450,10 +139406,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "D5252DAD51812506",
-    "value": 10,
+    "value": 11,
     "label": "石圍角邨石荷樓",
     "shape": "hexagon",
-    "title": "134R,234C,236R,32H,32M,40P,43P,43X,936R,N36",
+    "title": "134R,234C,236R,32H,32M,36R,40P,43P,43X,936R,N36",
     "x": 12283.700000000408,
     "y": -37451.30000000003
   },
