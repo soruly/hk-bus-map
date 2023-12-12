@@ -117428,10 +117428,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "86201D4BB45ED201",
-    "value": 17,
+    "value": 18,
     "label": "國泰城",
     "shape": "hexagon",
-    "title": "A47X,E32,E33,E33P,E36,E36P,E37,E41,N30,N42,N42A,NA31,NA32,NA40,NA41,NA43,NA47",
+    "title": "A33X,A47X,E32,E33,E33P,E36,E36P,E37,E41,N30,N42,N42A,NA31,NA32,NA40,NA41,NA43,NA47",
     "x": -6709.800000000143,
     "y": -29760.800000000032
   },
