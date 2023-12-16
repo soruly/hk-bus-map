@@ -1,5 +1,4 @@
-import fs from "fs";
-import fetch from "node-fetch";
+import fs from "node:fs/promises";
 
 const getDistance = (a, b) => {
   const R = 6371e3; // metres
@@ -18,7 +17,7 @@ const getDistance = (a, b) => {
 const { routeList, stopList } = await fetch(
   "https://hkbus.github.io/hk-bus-crawling/routeFareList.min.json"
 ).then((r) => r.json());
-// const { routeList, stopList } = JSON.parse(fs.readFileSync("routeFareList.min.json", "utf-8"));
+// const { routeList, stopList } = JSON.parse(await fs.readFile("routeFareList.min.json", "utf-8"));
 
 const routeMap = new Map(Object.entries(routeList));
 const stopMap = new Map(Object.entries(stopList));
@@ -73,7 +72,7 @@ console.log(
     .join("\n")
 );
 
-fs.writeFileSync(
+await fs.writeFile(
   "nodes.json",
   JSON.stringify(
     Array.from(nodeMap.values())
@@ -94,7 +93,7 @@ fs.writeFileSync(
   )
 );
 
-fs.writeFileSync(
+await fs.writeFile(
   "edges.json",
   JSON.stringify(
     Array.from(edgeMap.values())
