@@ -6889,10 +6889,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001660",
-    "value": 3,
+    "value": 2,
     "label": "樂雅苑, 振華道",
     "shape": "hexagon",
-    "title": "619,A26,N619",
+    "title": "619,N619",
     "x": 22091.779052999525,
     "y": -32276.0312090999
   },
@@ -7802,10 +7802,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001743",
-    "value": 3,
+    "value": 2,
     "label": "順利邨利康樓, 順清街",
     "shape": "hexagon",
-    "title": "A26,E22P,N26",
+    "title": "E22P,N26",
     "x": 22576.251053000364,
     "y": -33065.75420910001
   },
@@ -17134,8 +17134,8 @@
     "label": "寶達邨, 寶琳路",
     "shape": "hexagon",
     "title": "N691",
-    "x": 23600.2820530004,
-    "y": -31854.29720909987
+    "x": 23607.54805300047,
+    "y": -31856.96320909983
   },
   {
     "borderWidth": 0,
@@ -27344,6 +27344,28 @@
     "title": "948B",
     "x": 10705.924053000615,
     "y": -34183.36320909994
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003823",
+    "value": 1,
+    "label": "順利消防局, 利安道",
+    "shape": "hexagon",
+    "title": "A26",
+    "x": 22257.05105300051,
+    "y": -33208.338209099966
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003824",
+    "value": 1,
+    "label": "順利邨利恒樓, 利安道",
+    "shape": "hexagon",
+    "title": "A26",
+    "x": 22436.198053000568,
+    "y": -33305.661209099926
   },
   {
     "borderWidth": 0,
@@ -115063,10 +115085,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "7DD772B7D55C54B2",
-    "value": 6,
+    "value": 5,
     "label": "美孚轉車站 (B1)",
     "shape": "hexagon",
-    "title": "265B,58X,63X,67X,68X,69X",
+    "title": "265B,58X,63X,68X,69X",
     "x": 14133.999999999958,
     "y": -33645.90000000014
   },
@@ -121366,10 +121388,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "950140C36BBC6369",
-    "value": 5,
+    "value": 4,
     "label": "美孚轉車站 (B2)",
     "shape": "hexagon",
-    "title": "58X,59X,60X,66X,67X",
+    "title": "59X,60X,66X,67X",
     "x": 14146.70000000058,
     "y": -33645.39999999998
   },
