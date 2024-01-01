@@ -80005,17 +80005,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20016478",
-    "value": 1,
-    "label": "錦上路站公共運輸交匯處\t",
-    "shape": "hexagon",
-    "title": "72",
-    "x": 6485.076557642344,
-    "y": -43468.39254889829
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20016480",
     "value": 2,
     "label": "八鄉路, 近八鄉路休憇處",
@@ -85198,10 +85187,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20017688",
-    "value": 4,
+    "value": 3,
     "label": "錦上路站公共運輸交匯處\t",
     "shape": "hexagon",
-    "title": "602,71,71A,72",
+    "title": "602,71A,72",
     "x": 6467.695478553992,
     "y": -43452.65057964234
   },
@@ -96330,10 +96319,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "3D8A0FB3051B32EC",
-    "value": 2,
+    "value": 1,
     "label": "大埔工業邨",
     "shape": "hexagon",
-    "title": "274P,96",
+    "title": "274P",
     "x": 18777.000000000044,
     "y": -45766.19999999991
   },
