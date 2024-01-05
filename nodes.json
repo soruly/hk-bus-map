@@ -29713,17 +29713,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "0A24CC239F39F33E",
-    "value": 3,
-    "label": "新蒲崗四美街",
-    "shape": "hexagon",
-    "title": "74A,74B,74X",
-    "x": 20165.599999999984,
-    "y": -33766.299999999916
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "0A3466DCC6F4196C",
     "value": 6,
     "label": "香港體育館",
@@ -30435,17 +30424,6 @@
     "title": "251C,264R,265S,54,64K,64X,68,68F,77K",
     "x": 3537.599999999941,
     "y": -44661.59999999988
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "0C99872CC5846EEE",
-    "value": 1,
-    "label": "新蒲崗四美街",
-    "shape": "hexagon",
-    "title": "89B",
-    "x": 20145.99999999973,
-    "y": -33768.20000000009
   },
   {
     "borderWidth": 0,
@@ -95944,17 +95922,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "3CF6C88065281406",
-    "value": 1,
-    "label": "新蒲崗四美街",
-    "shape": "hexagon",
-    "title": "85M",
-    "x": 20159.09999999934,
-    "y": -33767.59999999983
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "3D01A5479C31FB05",
     "value": 3,
     "label": "葵涌葵泰路",
@@ -116800,17 +116767,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "846488D96E25F4D3",
-    "value": 3,
-    "label": "新蒲崗四美街",
-    "shape": "hexagon",
-    "title": "268C,269C,69C",
-    "x": 20136.39999999981,
-    "y": -33778.39999999992
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "846872B8B3E76E7D",
     "value": 3,
     "label": "屯門公路轉車站 (A10)",
@@ -126634,17 +126590,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "A7BA13A9AA331D97",
-    "value": 1,
-    "label": "新蒲崗四美街",
-    "shape": "hexagon",
-    "title": "277P",
-    "x": 20143.799999999603,
-    "y": -33772.00000000009
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "A7C1A969F48B62C0",
     "value": 10,
     "label": "北區運動場",
@@ -128126,17 +128071,6 @@
     "title": "80,80A,80P,81S,85B,87B,A42,N281",
     "x": 17501.799999999435,
     "y": -36526.69999999993
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "AC2CA1BC15ABD1C7",
-    "value": 1,
-    "label": "承景街",
-    "shape": "hexagon",
-    "title": "5R",
-    "x": 20904.899999999318,
-    "y": -31005.49999999984
   },
   {
     "borderWidth": 0,
@@ -132464,17 +132398,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "BC137465F7BC4A8F",
-    "value": 1,
-    "label": "新蒲崗四美街",
-    "shape": "hexagon",
-    "title": "82X",
-    "x": 20154.200000000343,
-    "y": -33775.69999999999
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "BC139F292AC087EA",
     "value": 1,
     "label": "顯徑巴士總站",
@@ -133274,17 +133197,6 @@
     "title": "2F,3D,N3D",
     "x": 20824.700000000008,
     "y": -34201.09999999994
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "BF424F7F22F8EED9",
-    "value": 1,
-    "label": "新蒲崗四美街",
-    "shape": "hexagon",
-    "title": "29M",
-    "x": 20149.999999999578,
-    "y": -33771.79999999989
   },
   {
     "borderWidth": 0,
@@ -143223,10 +143135,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "E41318CD5899D680",
-    "value": 3,
+    "value": 4,
     "label": "新蒲崗四美街",
     "shape": "hexagon",
-    "title": "15A,21,5",
+    "title": "15A,21,29M,5",
     "x": 20182.699999999444,
     "y": -33782.10000000017
   },
