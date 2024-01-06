@@ -41891,10 +41891,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20001118",
-    "value": 3,
+    "value": 1,
     "label": "新蒲崗公共運輸總站",
     "shape": "hexagon",
-    "title": "1A,1S,805S",
+    "title": "805S",
     "x": 20152.10809334036,
     "y": -33795.60669876795
   },
@@ -73828,8 +73828,8 @@
     "label": "碧雲道, 近康雅苑杏雅閣",
     "shape": "hexagon",
     "title": "24,24M,76A,87",
-    "x": 23820.644627997466,
-    "y": -30466.333599316185
+    "x": 23820.555238181383,
+    "y": -30450.374650813574
   },
   {
     "borderWidth": 0,
@@ -86436,6 +86436,17 @@
     "title": "54",
     "x": 13057.923316956987,
     "y": -27073.48605053426
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20019105",
+    "value": 2,
+    "label": "鑽石山(彩虹道)公共運輸交匯處",
+    "shape": "hexagon",
+    "title": "1A,1S",
+    "x": 20293.85268688202,
+    "y": -33781.03800097883
   },
   {
     "borderWidth": 0,
@@ -132981,17 +132992,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "BE7FCE464060FF91",
-    "value": 1,
-    "label": "九龍站巴士總站",
-    "shape": "hexagon",
-    "title": "261B",
-    "x": 16298.500000000615,
-    "y": -30500.100000000075
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "BE81792B3E788D41",
     "value": 3,
     "label": "窩美",
@@ -145841,10 +145841,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "EDE9E3D28B42969D",
-    "value": 1,
+    "value": 2,
     "label": "九龍站巴士總站",
     "shape": "hexagon",
-    "title": "296D",
+    "title": "261B,296D",
     "x": 16273.400000000038,
     "y": -30505.099999999886
   },
