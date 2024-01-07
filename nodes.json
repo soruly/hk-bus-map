@@ -7318,10 +7318,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001699",
-    "value": 3,
+    "value": 4,
     "label": "四美街, 彩虹道",
     "shape": "hexagon",
-    "title": "111,116,N121",
+    "title": "111,116,797,N121",
     "x": 20177.474052999856,
     "y": -33792.44520909985
   },
@@ -22405,17 +22405,6 @@
     "title": "E23,E23A",
     "x": 20068.45805299946,
     "y": -34722.809209100094
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "003284",
-    "value": 1,
-    "label": "新蒲崗",
-    "shape": "hexagon",
-    "title": "797",
-    "x": 20138.077052999393,
-    "y": -33763.18920910002
   },
   {
     "borderWidth": 0,
@@ -87057,10 +87046,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "2223D64E9ED2E1A7",
-    "value": 6,
+    "value": 7,
     "label": "帝逸酒店",
     "shape": "hexagon",
-    "title": "680,85X,89C,980A,N680,R680",
+    "title": "680,85X,89C,980A,N680,R283,R680",
     "x": 20910.200000000146,
     "y": -38387.39999999987
   },
@@ -95632,6 +95621,17 @@
     "title": "106,106P",
     "x": 23143.299999999555,
     "y": -27405.299999999854
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "3C34422AC69920E7",
+    "value": 1,
+    "label": "啟翔苑",
+    "shape": "hexagon",
+    "title": "74A",
+    "x": 20307.800000000498,
+    "y": -33785.10000000006
   },
   {
     "borderWidth": 0,
@@ -107923,6 +107923,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "645CC2C9E1C90E69",
+    "value": 1,
+    "label": "啟翔苑",
+    "shape": "hexagon",
+    "title": "89B",
+    "x": 20292.299999999843,
+    "y": -33783.19999999988
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "645D996BAD54FBBC",
     "value": 4,
     "label": "荃灣建明街",
@@ -109607,10 +109618,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "69E4C417312C10C0",
-    "value": 9,
+    "value": 10,
     "label": "小瀝源",
     "shape": "hexagon",
-    "title": "281A,281E,49X,82P,82X,83X,89S,90,980A",
+    "title": "281A,281E,49X,82P,82X,83X,89S,90,980A,R283",
     "x": 21197.100000000544,
     "y": -38311.50000000001
   },
@@ -116558,6 +116569,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "8373F7DDB88D19C4",
+    "value": 2,
+    "label": "啟翔苑",
+    "shape": "hexagon",
+    "title": "269C,69C",
+    "x": 20310.70000000028,
+    "y": -33798.79999999993
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "8374DD78C287D9A7",
     "value": 10,
     "label": "石圍角邨石葵樓",
@@ -117709,6 +117731,17 @@
     "title": "272K,87S",
     "x": 21027.39999999983,
     "y": -41292.29999999992
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "878E5C4AF6C4B0D4",
+    "value": 1,
+    "label": "大欖隧道轉車站 (A6)",
+    "shape": "hexagon",
+    "title": "269D",
+    "x": 6437.900000000241,
+    "y": -42068.49999999988
   },
   {
     "borderWidth": 0,
@@ -134016,10 +134049,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "C1E1199805BCC92D",
-    "value": 17,
+    "value": 18,
     "label": "帝堡城",
     "shape": "hexagon",
-    "title": "240X,281A,281E,49X,82C,82P,82X,83K,83S,83X,85A,86,89S,90,980A,N182,N283",
+    "title": "240X,281A,281E,49X,82C,82P,82X,83K,83S,83X,85A,86,89S,90,980A,N182,N283,R283",
     "x": 21512.099999999635,
     "y": -38283.79999999996
   },
@@ -143509,10 +143542,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "E5421509D8FC00AF",
-    "value": 3,
+    "value": 4,
     "label": "碩門邨巴士總站",
     "shape": "hexagon",
-    "title": "281B,38B,82P",
+    "title": "281B,38B,82P,R283",
     "x": 20857.999999999778,
     "y": -38749.89999999983
   },
@@ -144395,6 +144428,17 @@
     "title": "290B,290E,290X",
     "x": 11062.40000000014,
     "y": -36808.600000000166
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "E8B52C5A78E48365",
+    "value": 1,
+    "label": "啟翔苑",
+    "shape": "hexagon",
+    "title": "268C",
+    "x": 20295.199999999626,
+    "y": -33796.1
   },
   {
     "borderWidth": 0,
@@ -150280,6 +150324,17 @@
     "title": "91,91M",
     "x": 26262.80000000065,
     "y": -33059.59999999999
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "FC343F5E57B07FBE",
+    "value": 2,
+    "label": "啟翔苑",
+    "shape": "hexagon",
+    "title": "74B,74X",
+    "x": 20320.900000000107,
+    "y": -33787.99999999984
   },
   {
     "borderWidth": 0,
