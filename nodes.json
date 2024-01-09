@@ -31781,6 +31781,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "10A25AF26C9972AC",
+    "value": 1,
+    "label": "新蒲崗四美街",
+    "shape": "hexagon",
+    "title": "277P",
+    "x": -11400000,
+    "y": 2200000
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "10A4866322CBC823",
     "value": 1,
     "label": "柯布連道",
