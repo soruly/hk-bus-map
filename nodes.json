@@ -31782,12 +31782,12 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "10A25AF26C9972AC",
-    "value": 1,
+    "value": 3,
     "label": "新蒲崗四美街",
     "shape": "hexagon",
-    "title": "277P",
-    "x": -11400000,
-    "y": 2200000
+    "title": "277P,82X,85M",
+    "x": 20202.299999999697,
+    "y": -33782.000000000065
   },
   {
     "borderWidth": 0,
@@ -86462,6 +86462,28 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "20019138",
+    "value": 1,
+    "label": "石排街, 石籬邨石歡樓外",
+    "shape": "hexagon",
+    "title": "410",
+    "x": 14151.191711427202,
+    "y": -36884.61147637625
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20019139",
+    "value": 1,
+    "label": "大白田街, 石籬天主教中學對面",
+    "shape": "hexagon",
+    "title": "410",
+    "x": 14006.352424621582,
+    "y": -37151.49792452586
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "201",
     "value": 1,
     "label": "鍾屋村輕鐵站",
@@ -88974,7 +88996,7 @@
     "value": 1,
     "label": "屯門市中心總站",
     "shape": "hexagon",
-    "title": "868",
+    "title": "261X",
     "x": -2413.3000000006177,
     "y": -39194.79999999993
   },
@@ -132776,7 +132798,7 @@
     "value": 1,
     "label": "屯門市中心總站",
     "shape": "hexagon",
-    "title": "261X",
+    "title": "868",
     "x": -2413.3000000006177,
     "y": -39194.79999999993
   },
