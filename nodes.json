@@ -116987,17 +116987,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "84711D0C2EEEF336",
-    "value": 5,
-    "label": "葵涌道荔景邨",
-    "shape": "hexagon",
-    "title": "237A,33A,36A,38A,38B",
-    "x": 12608.899999999323,
-    "y": -35169.9
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "8474FF2FADBE1F8D",
     "value": 1,
     "label": "三聖邨",
@@ -128962,17 +128951,6 @@
     "title": "251A,64K,E36P",
     "x": 9126.600000000451,
     "y": -42973.59999999983
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "AEF88DA61C0553EE",
-    "value": 12,
-    "label": "葵涌道荔景邨",
-    "shape": "hexagon",
-    "title": "240X,272P,290,290A,290B,290E,290X,40,40A,N260,N269,N290",
-    "x": 12604.600000000231,
-    "y": -35156.39999999998
   },
   {
     "borderWidth": 0,
