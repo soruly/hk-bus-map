@@ -3417,8 +3417,8 @@
     "label": "電照街",
     "shape": "hexagon",
     "title": "606,606A,608,682,682A,682B,694S,81A,85,85A",
-    "x": 20312.743053000304,
-    "y": -29295.602209100125
+    "x": 20283.216052999363,
+    "y": -29267.95620909992
   },
   {
     "borderWidth": 0,
@@ -134423,10 +134423,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "C2AA10A9751D3692",
-    "value": 3,
+    "value": 4,
     "label": "德福花園",
     "shape": "hexagon",
-    "title": "11C,3D,N3D",
+    "title": "11C,13P,16,1A",
     "x": 21426.90000000016,
     "y": -32212.79999999993
   },
@@ -136931,10 +136931,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "CC811B604DD883AE",
-    "value": 4,
+    "value": 2,
     "label": "德福花園",
     "shape": "hexagon",
-    "title": "11D,13P,16,1A",
+    "title": "3D,N3D",
     "x": 21427.1999999994,
     "y": -32208.800000000083
   },
