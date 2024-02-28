@@ -17669,10 +17669,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002761",
-    "value": 1,
+    "value": 2,
     "label": "花園道山頂纜車站",
     "shape": "hexagon",
-    "title": "15C",
+    "title": "15,15C",
     "x": 15959.65405300035,
     "y": -27779.194209099955
   },
@@ -54457,8 +54457,8 @@
     "label": "安秀道，安泰邨服務設施大樓外",
     "shape": "hexagon",
     "title": "89A,89B",
-    "x": 23074.4724413654,
-    "y": -32523.392474130476
+    "x": 23071.14601135396,
+    "y": -32552.206920896155
   },
   {
     "borderWidth": 0,
@@ -93657,10 +93657,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "3418D6822E151335",
-    "value": 2,
+    "value": 1,
     "label": "沙田站巴士總站",
     "shape": "hexagon",
-    "title": "263,90R",
+    "title": "263",
     "x": 18781.199999999386,
     "y": -38359.00000000017
   },
@@ -105081,17 +105081,6 @@
     "title": "32H,38",
     "x": 13026.200000000188,
     "y": -36387.699999999866
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "5A8E12780960ED97",
-    "value": 1,
-    "label": "九巴沙田車廠",
-    "shape": "hexagon",
-    "title": "90R",
-    "x": 20731.000000000677,
-    "y": -38259.000000000044
   },
   {
     "borderWidth": 0,
@@ -122697,10 +122686,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "99B9CAA698C36C5E",
-    "value": 10,
+    "value": 9,
     "label": "沙田站巴士總站",
     "shape": "hexagon",
-    "title": "170,70S,85K,86K,888,88X,89X,90R,N86,W3",
+    "title": "170,70S,85K,86K,888,88X,89X,N86,W3",
     "x": 18801.79999999996,
     "y": -38310.20000000009
   },
@@ -149917,17 +149906,6 @@
     "title": "111,111P,115",
     "x": 16946.50000000024,
     "y": -27782.6000000001
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "FA12CD84E4A4B73A",
-    "value": 1,
-    "label": "九巴沙田車廠",
-    "shape": "hexagon",
-    "title": "90R",
-    "x": 20606.39999999978,
-    "y": -38379.60000000003
   },
   {
     "borderWidth": 0,
