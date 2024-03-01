@@ -16734,10 +16734,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002657",
-    "value": 12,
+    "value": 13,
     "label": "國泰城 (東), 東岸路",
     "shape": "hexagon",
-    "title": "E11,E11A,E21,E21D,E22,E22A,E23,E23A,N11,N21,N21A,S56",
+    "title": "E11,E11A,E21,E21D,E22,E22A,E23,E23A,N11,N21,N21A,S1,S56",
     "x": -6531.297946999359,
     "y": -29872.710209100005
   },
@@ -26359,10 +26359,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003706",
-    "value": 5,
+    "value": 7,
     "label": "德朗邨停車場, 承啟道",
     "shape": "hexagon",
-    "title": "20,20A,22M,608,A25",
+    "title": "20,20A,22M,608,78C,78X,A25",
     "x": 20427.19105299966,
     "y": -32795.24920910006
   },
@@ -26381,10 +26381,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003709",
-    "value": 1,
+    "value": 3,
     "label": "稅務中心, 協調道",
     "shape": "hexagon",
-    "title": "A25",
+    "title": "78C,78X,A25",
     "x": 19916.78305300013,
     "y": -33266.09820909994
   },
@@ -27052,10 +27052,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003795",
-    "value": 5,
+    "value": 7,
     "label": "東九龍總區警察總部, 協調道",
     "shape": "hexagon",
-    "title": "20,20A,22,A25,N20",
+    "title": "20,20A,22,78C,78X,A25,N20",
     "x": 20188.119053000264,
     "y": -33450.905209100056
   },
@@ -27091,6 +27091,17 @@
     "title": "B7",
     "x": 13000.177053000072,
     "y": -50464.57320909994
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003799",
+    "value": 1,
+    "label": "機場風鈴徑, 觀景路",
+    "shape": "hexagon",
+    "title": "S1",
+    "x": -6645.139946999734,
+    "y": -29553.463209100173
   },
   {
     "borderWidth": 0,
@@ -27173,10 +27184,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003808",
-    "value": 5,
+    "value": 7,
     "label": "東九龍總區警察總部, 協調道",
     "shape": "hexagon",
-    "title": "20,20A,22,22M,A25",
+    "title": "20,20A,22,22M,78C,78X,A25",
     "x": 20190.745053000115,
     "y": -33423.895209099894
   },
@@ -78366,6 +78377,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "20015986",
+    "value": 1,
+    "label": "興寧路, 近新都會廣場",
+    "shape": "hexagon",
+    "title": "89M",
+    "x": 12727.920693420458,
+    "y": -35681.518885298756
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "20015987",
     "value": 1,
     "label": "葵盛圍, 近高盛臺第一座",
@@ -124611,10 +124633,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "A0BB7387E8F22C49",
-    "value": 3,
+    "value": 4,
     "label": "穗禾路",
     "shape": "hexagon",
-    "title": "280X,80M,81K",
+    "title": "280X,80M,81K,88X",
     "x": 19174.90000000015,
     "y": -39683.70000000014
   },
@@ -129655,17 +129677,6 @@
     "title": "234C,32H,32M,36,40P,43P,43X,N36",
     "x": 12457.000000000562,
     "y": -37611.80000000017
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "B18F49819CAF37B7",
-    "value": 3,
-    "label": "觀塘碼頭",
-    "shape": "hexagon",
-    "title": "33,40,T277",
-    "x": 22150.299999999846,
-    "y": -30770.100000000155
   },
   {
     "borderWidth": 0,
@@ -141881,10 +141892,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "DEAC83FBE72FE09C",
-    "value": 3,
+    "value": 4,
     "label": "豐利工業中心",
     "shape": "hexagon",
-    "title": "280X,80M,81K",
+    "title": "280X,80M,81K,88X",
     "x": 19195.299999999803,
     "y": -39694.00000000007
   },
@@ -141964,17 +141975,6 @@
     "title": "134R,234C,236R,278A,278X,32,36R,40E,40P,40X,43S,46P,46X,47A,47X,48X,73D,73F,73P,73X,936,936R,N36,N48",
     "x": 13512.900000000627,
     "y": -38016.70000000001
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "DF04BD4B98EB6153",
-    "value": 2,
-    "label": "觀塘碼頭",
-    "shape": "hexagon",
-    "title": "33,T277",
-    "x": 22150.299999999846,
-    "y": -30770.100000000155
   },
   {
     "borderWidth": 0,
@@ -144840,10 +144840,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "E9B13F8E482054DC",
-    "value": 2,
+    "value": 3,
     "label": "穗禾苑巴士總站",
     "shape": "hexagon",
-    "title": "280X,80M",
+    "title": "280X,80M,88X",
     "x": 19447.80000000037,
     "y": -39283
   },
