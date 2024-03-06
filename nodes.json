@@ -57125,17 +57125,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20008512",
-    "value": 1,
-    "label": "協調道小巴總站",
-    "shape": "hexagon",
-    "title": "82",
-    "x": 19911.503791810504,
-    "y": -33249.13864956223
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20008513",
     "value": 1,
     "label": "七寶街, 近六合工業大廈",
@@ -57171,7 +57160,7 @@
     "borderWidthSelected": 1,
     "id": "20008521",
     "value": 1,
-    "label": "協調道小巴總站",
+    "label": "協調道小巴站",
     "shape": "hexagon",
     "title": "82",
     "x": 19913.554595014204,
@@ -57209,17 +57198,6 @@
     "title": "82,83M",
     "x": 21469.062566758625,
     "y": -33166.5201630301
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20008528",
-    "value": 1,
-    "label": "協調道, 近工業貿易大樓",
-    "shape": "hexagon",
-    "title": "82",
-    "x": 19794.2912578597,
-    "y": -33217.13334798417
   },
   {
     "borderWidth": 0,
@@ -57577,10 +57555,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20009238",
-    "value": 2,
+    "value": 1,
     "label": "協調道, 近工業貿易大樓",
     "shape": "hexagon",
-    "title": "82,88",
+    "title": "88",
     "x": 19799.789786341647,
     "y": -33198.77368447308
   },
@@ -86645,6 +86623,17 @@
     "title": "24",
     "x": 17345.970869065754,
     "y": -46130.25719982673
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20019303",
+    "value": 1,
+    "label": "啟德",
+    "shape": "hexagon",
+    "title": "82",
+    "x": 19778.466224671833,
+    "y": -33069.51104518703
   },
   {
     "borderWidth": 0,
