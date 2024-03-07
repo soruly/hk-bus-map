@@ -16833,10 +16833,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002672",
-    "value": 6,
+    "value": 5,
     "label": "機場博覽館, 航展路",
     "shape": "hexagon",
-    "title": "A23,A26,A28,A29,S1,X1",
+    "title": "A26,A28,A29,S1,X1",
     "x": -5952.67594700033,
     "y": -31938.299209100052
   },
@@ -120595,17 +120595,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "91F728BB4F9CE96B",
-    "value": 1,
-    "label": "機場風鈴徑",
-    "shape": "hexagon",
-    "title": "S1",
-    "x": -6532.699999999636,
-    "y": -29886.60000000003
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "92",
     "value": 1,
     "label": "石門甲村",
@@ -144824,17 +144813,6 @@
     "title": "278A,278X,46P,46X,73D,73F,73P,73X",
     "x": 13432.000000000244,
     "y": -37059.80000000011
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "E91E51EDD4E4A64B",
-    "value": 1,
-    "label": "機場風鈴徑",
-    "shape": "hexagon",
-    "title": "S1",
-    "x": -6647.599999999443,
-    "y": -29557.7999999999
   },
   {
     "borderWidth": 0,
