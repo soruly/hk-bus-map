@@ -16734,10 +16734,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002657",
-    "value": 13,
+    "value": 12,
     "label": "國泰城 (東), 東岸路",
     "shape": "hexagon",
-    "title": "E11,E11A,E21,E21D,E22,E22A,E23,E23A,N11,N21,N21A,S1,S56",
+    "title": "E11,E11A,E21,E21D,E22,E22A,E23,E23A,N11,N21,N21A,S56",
     "x": -6531.297946999359,
     "y": -29872.710209100005
   },
@@ -16834,7 +16834,7 @@
     "borderWidthSelected": 1,
     "id": "002672",
     "value": 5,
-    "label": "機場博覽館, 航展路",
+    "label": "機場博覽館, 航展道",
     "shape": "hexagon",
     "title": "A26,A28,A29,S1,X1",
     "x": -5952.67594700033,
@@ -27080,17 +27080,6 @@
     "title": "B7",
     "x": 13000.177053000072,
     "y": -50464.57320909994
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "003799",
-    "value": 1,
-    "label": "機場風鈴徑, 觀景路",
-    "shape": "hexagon",
-    "title": "S1",
-    "x": -6645.139946999734,
-    "y": -29553.463209100173
   },
   {
     "borderWidth": 0,
@@ -117538,10 +117527,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "86201D4BB45ED201",
-    "value": 18,
+    "value": 20,
     "label": "國泰城",
     "shape": "hexagon",
-    "title": "A33X,A47X,E32,E33,E33P,E36,E36P,E37,E41,N30,N42,N42A,NA31,NA32,NA40,NA41,NA43,NA47",
+    "title": "A33X,A47X,E32,E33,E33P,E36,E36P,E37,E41,N30,N42,N42A,NA31,NA32,NA40,NA41,NA43,NA47,S64,S64X",
     "x": -6709.800000000143,
     "y": -29760.800000000032
   },
