@@ -6163,10 +6163,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001589",
-    "value": 8,
+    "value": 7,
     "label": "尖東站, 梳士巴利道",
     "shape": "hexagon",
-    "title": "20R,790,796P,973,A21,H1,N796,NA20",
+    "title": "790,796P,973,A21,H1,N796,NA20",
     "x": 17402.893052999956,
     "y": -29475.169209100117
   },
@@ -138851,6 +138851,17 @@
     "title": "115,11X,5D",
     "x": 18998.70000000021,
     "y": -30750.300000000054
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "D31420E8C08168FC",
+    "value": 1,
+    "label": "博研路",
+    "shape": "hexagon",
+    "title": "272A",
+    "x": 20252.6000000006,
+    "y": -42783.99999999998
   },
   {
     "borderWidth": 0,
