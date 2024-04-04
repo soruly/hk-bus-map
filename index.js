@@ -15,7 +15,7 @@ const getDistance = (a, b) => {
 };
 
 const { routeList, stopList } = await fetch(
-  "https://hkbus.github.io/hk-bus-crawling/routeFareList.min.json"
+  "https://hkbus.github.io/hk-bus-crawling/routeFareList.min.json",
 ).then((r) => r.json());
 // const { routeList, stopList } = JSON.parse(await fs.readFile("routeFareList.min.json", "utf-8"));
 
@@ -61,7 +61,7 @@ for (const [routeId, { stops }] of Object.entries(routeList)) {
 console.log(
   `${nodeMap.size}/${stopMap.size} nodes (${stopMap.size - nodeMap.size} disconnected), ${
     edgeMap.size
-  } edges`
+  } edges`,
 );
 
 console.log("No route to these bus stops:");
@@ -69,7 +69,7 @@ console.log(
   Array.from(stopMap.keys())
     .filter((e) => !nodeMap.has(e))
     .map((e) => `${e} ${stopMap.get(e).name.zh}`)
-    .join("\n")
+    .join("\n"),
 );
 
 await fs.writeFile(
@@ -89,8 +89,8 @@ await fs.writeFile(
       }))
       .sort((a, b) => (a.id > b.id ? 1 : -1)),
     null,
-    2
-  )
+    2,
+  ),
 );
 
 await fs.writeFile(
@@ -119,8 +119,8 @@ await fs.writeFile(
       }))
       .sort((a, b) => (a.from > b.from ? 1 : -1)),
     null,
-    2
-  )
+    2,
+  ),
 );
 
 // console.log(
