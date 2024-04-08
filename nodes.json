@@ -11949,10 +11949,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002164",
-    "value": 4,
+    "value": 5,
     "label": "崇文街, 香港仔水塘道",
     "shape": "hexagon",
-    "title": "7,70P,76,971",
+    "title": "595,7,70P,76,971",
     "x": 15592.867053000247,
     "y": -24966.620209099943
   },
@@ -11960,10 +11960,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002165",
-    "value": 4,
+    "value": 5,
     "label": "漁光村白沙樓, 香港仔水塘道",
     "shape": "hexagon",
-    "title": "7,70P,76,971",
+    "title": "595,7,70P,76,971",
     "x": 15661.98205299969,
     "y": -25149.3752091001
   },
@@ -11971,10 +11971,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002166",
-    "value": 7,
+    "value": 8,
     "label": "鴨脷洲邨",
     "shape": "hexagon",
-    "title": "90,91,91A,93,95C,95P,N171",
+    "title": "595,90,91,91A,93,95C,95P,N171",
     "x": 15097.708052999791,
     "y": -24437.680209100065
   },
@@ -12026,10 +12026,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002171",
-    "value": 9,
+    "value": 7,
     "label": "鴨脷洲邨, 鴨脷洲橋道",
     "shape": "hexagon",
-    "title": "592,595,671,90B,95C,A10,N90,NA10,X970",
+    "title": "592,671,90B,A10,N90,NA10,X970",
     "x": 15065.8860530001,
     "y": -24405.047209100063
   },
@@ -12389,10 +12389,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002203",
-    "value": 2,
+    "value": 3,
     "label": "利景街, 利南道",
     "shape": "hexagon",
-    "title": "671,671X",
+    "title": "671,671X,95C",
     "x": 15239.993052999524,
     "y": -23835.794209099957
   },
@@ -12400,10 +12400,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002204",
-    "value": 2,
+    "value": 3,
     "label": "怡南路, 利南道",
     "shape": "hexagon",
-    "title": "671,671X",
+    "title": "671,671X,95C",
     "x": 14836.660052999661,
     "y": -24125.048209100085
   },
@@ -12411,10 +12411,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002205",
-    "value": 2,
+    "value": 3,
     "label": "污水處理廠, 利南道",
     "shape": "hexagon",
-    "title": "671,671X",
+    "title": "671,671X,95C",
     "x": 14975.594052999952,
     "y": -23964.18520910011
   },
@@ -12433,10 +12433,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002207",
-    "value": 1,
+    "value": 2,
     "label": "污水處理廠, 利南道",
     "shape": "hexagon",
-    "title": "671",
+    "title": "671,95C",
     "x": 14981.12505300071,
     "y": -23967.07720909994
   },
@@ -12444,10 +12444,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002208",
-    "value": 1,
+    "value": 2,
     "label": "新海怡廣場, 利南道",
     "shape": "hexagon",
-    "title": "671",
+    "title": "671,95C",
     "x": 15218.617053000116,
     "y": -23874.385209100168
   },
@@ -12510,10 +12510,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002215",
-    "value": 3,
+    "value": 4,
     "label": "洛陽街",
     "shape": "hexagon",
-    "title": "94A,95C,N72",
+    "title": "595,94A,95C,N72",
     "x": 15530.381053000041,
     "y": -24922.53720910007
   },
@@ -14039,10 +14039,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002365",
-    "value": 4,
+    "value": 5,
     "label": "漁光村海鷗樓, 漁光道",
     "shape": "hexagon",
-    "title": "7,70P,76,971",
+    "title": "595,7,70P,76,971",
     "x": 15786.263053000483,
     "y": -25192.975209100154
   },
@@ -14050,10 +14050,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002366",
-    "value": 4,
+    "value": 5,
     "label": "扶康會康復中心, 漁光道",
     "shape": "hexagon",
-    "title": "7,70P,76,971",
+    "title": "595,7,70P,76,971",
     "x": 15891.285053000103,
     "y": -24993.765209099904
   },
@@ -14061,10 +14061,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002367",
-    "value": 4,
+    "value": 5,
     "label": "石排灣邨, 漁光道",
     "shape": "hexagon",
-    "title": "7,70P,76,971",
+    "title": "595,7,70P,76,971",
     "x": 15774.788052999611,
     "y": -24823.176209099885
   },
@@ -14072,10 +14072,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002368",
-    "value": 4,
+    "value": 5,
     "label": "漁暉苑日暉閣, 漁光道",
     "shape": "hexagon",
-    "title": "7,70P,76,971",
+    "title": "595,7,70P,76,971",
     "x": 15676.88605299935,
     "y": -24878.645209100014
   },
@@ -19351,6 +19351,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "002938",
+    "value": 1,
+    "label": "漁暉苑景暉閣, 漁光道",
+    "shape": "hexagon",
+    "title": "595",
+    "x": 15715.298053000026,
+    "y": -25006.148209099876
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "002939",
     "value": 2,
     "label": "石澳",
@@ -19534,6 +19545,17 @@
     "title": "9,X9",
     "x": 24354.178052999487,
     "y": -22142.58020910016
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "002956",
+    "value": 1,
+    "label": "鴨脷洲 (利景街)",
+    "shape": "hexagon",
+    "title": "95C",
+    "x": 15319.133053000656,
+    "y": -23809.499209099984
   },
   {
     "borderWidth": 0,
@@ -28217,17 +28239,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "0390D5DEEEC05A7B",
-    "value": 1,
-    "label": "大圍站總站",
-    "shape": "hexagon",
-    "title": "80K",
-    "x": 18029.099999999686,
-    "y": -37303.40000000005
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "0393E099E78BEB94",
     "value": 9,
     "label": "葵康苑",
@@ -33768,6 +33779,17 @@
     "title": "261X,270A,270B,270S,273A,276C,277P,279X,678,78B,N273,N373,N73,T270,W3",
     "x": 14275.600000000566,
     "y": -48523.09999999989
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "14C3BF43DC0878D1",
+    "value": 3,
+    "label": "大圍站總站 (G2)",
+    "shape": "hexagon",
+    "title": "46S,46X,88K",
+    "x": 18036.999999999636,
+    "y": -37307.3999999999
   },
   {
     "borderWidth": 0,
@@ -96538,6 +96560,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "3CEFE1F7CC598005",
+    "value": 2,
+    "label": "大圍站總站 (G6)",
+    "shape": "hexagon",
+    "title": "80K,82D",
+    "x": 18004.700000000186,
+    "y": -37286.29999999989
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "3CF1CD8C227AB562",
     "value": 2,
     "label": "北海中心",
@@ -108132,6 +108165,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "62E74F8E7357BC2D",
+    "value": 1,
+    "label": "大圍站總站 (G4)",
+    "shape": "hexagon",
+    "title": "88",
+    "x": 18036.999999999636,
+    "y": -37307.3999999999
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "62F395D60229C8F5",
     "value": 9,
     "label": "秀茂坪曉光街",
@@ -111010,6 +111054,17 @@
     "title": "203E,36B,46",
     "x": 16885.70000000027,
     "y": -31605.70000000007
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "6C9B7DDF24725CA9",
+    "value": 1,
+    "label": "大圍站總站 (G8)",
+    "shape": "hexagon",
+    "title": "72A",
+    "x": 18004.700000000186,
+    "y": -37286.29999999989
   },
   {
     "borderWidth": 0,
@@ -119552,11 +119607,11 @@
     "borderWidthSelected": 1,
     "id": "8C7CF1C55484A294",
     "value": 2,
-    "label": "大圍站總站",
+    "label": "大圍站總站 (G7)",
     "shape": "hexagon",
     "title": "249X,46R",
-    "x": 18021.299999999486,
-    "y": -37297.60000000013
+    "x": 18004.700000000186,
+    "y": -37286.29999999989
   },
   {
     "borderWidth": 0,
@@ -124067,6 +124122,17 @@
     "title": "40X,72,85,86,N271,N48,N73",
     "x": 19644.49999999971,
     "y": -38754.399999999834
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "9D42555312E18AE9",
+    "value": 2,
+    "label": "大圍站總站 (G1)",
+    "shape": "hexagon",
+    "title": "80K,82B",
+    "x": 18036.999999999636,
+    "y": -37307.3999999999
   },
   {
     "borderWidth": 0,
@@ -137982,6 +138048,17 @@
     "title": "A37,E36A,E37C,N30,NA37,X36",
     "x": 189.8999999994544,
     "y": -44651.800000000105
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "CEE44B3D4CC3E847",
+    "value": 1,
+    "label": "大圍站總站 (G3)",
+    "shape": "hexagon",
+    "title": "281",
+    "x": 18036.999999999636,
+    "y": -37307.3999999999
   },
   {
     "borderWidth": 0,
