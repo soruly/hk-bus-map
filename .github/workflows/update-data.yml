@@ -27,7 +27,7 @@ jobs:
     - run: npm ci
     - run: npm run build --if-present
     - name: Update resources
-      uses: test-room-7/action-update-file@v1
+      uses: test-room-7/action-update-file@v2
       with:
           file-path: |
             edges.json
