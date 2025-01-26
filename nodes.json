@@ -89553,6 +89553,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "20020986",
+    "value": 1,
+    "label": "沙頭角公路, 擔水坑",
+    "shape": "hexagon",
+    "title": "55K",
+    "x": 21894.000000000346,
+    "y": -54497.99999999989
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "201",
     "value": 1,
     "label": "鍾屋村輕鐵站",
