@@ -71449,7 +71449,7 @@
     "borderWidthSelected": 1,
     "id": "20014338",
     "value": 3,
-    "label": "忠孝街, 近愛民邨 新民樓",
+    "label": "忠孝街, 近愛民邨新民樓",
     "shape": "hexagon",
     "title": "8,8M,8S",
     "x": 17860.0000000003,
@@ -114821,10 +114821,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "6F4C27D4E845432E",
-    "value": 2,
+    "value": 3,
     "label": "灣仔金紫荊廣場",
     "shape": "hexagon",
-    "title": "PN18,PN20",
+    "title": "PB2,PN18,PN20",
     "x": 17396.99999999971,
     "y": -28426.999999999935
   },
@@ -153239,6 +153239,17 @@
     "title": "108",
     "x": 19593.000000000415,
     "y": -28473.999999999935
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "F77B2A9037BF71ED",
+    "value": 1,
+    "label": "金紫荊廣場",
+    "shape": "hexagon",
+    "title": "PB6",
+    "x": 17400.00000000066,
+    "y": -28436.999999999913
   },
   {
     "borderWidth": 0,
