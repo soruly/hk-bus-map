@@ -50613,17 +50613,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20003266",
-    "value": 1,
-    "label": "寶琳路, 寶達邨對面",
-    "shape": "hexagon",
-    "title": "12",
-    "x": 23623.000000000615,
-    "y": -31860
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20003273",
     "value": 3,
     "label": "田灣街, 近嘉和街",
