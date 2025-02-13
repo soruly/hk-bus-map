@@ -28691,10 +28691,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "032C7D86DF9ED3AC",
-    "value": 7,
+    "value": 8,
     "label": "紅隧轉車站 (A3)",
     "shape": "hexagon",
-    "title": "101,111,111P,N121,N182,N368,N373",
+    "title": "101,111,111P,N121,N182,N368,N373,SP10",
     "x": 18080.999999999392,
     "y": -30268.999999999836
   },
@@ -40581,17 +40581,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20000456",
-    "value": 1,
-    "label": "上海街566號外",
-    "shape": "hexagon",
-    "title": "12S",
-    "x": 16841.999999999756,
-    "y": -31801.000000000102
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20000458",
     "value": 2,
     "label": "上海街388號外",
@@ -41781,23 +41770,12 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20000724",
-    "value": 2,
+    "value": 4,
     "label": "佛光街, 何文田邨雅文樓外",
     "shape": "hexagon",
-    "title": "27M,27MS",
+    "title": "27M,27MS,8M,8S",
     "x": 18152.00000000061,
     "y": -31516.99999999984
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20000725",
-    "value": 1,
-    "label": "佛光街, 冠暉苑高暉閣外",
-    "shape": "hexagon",
-    "title": "27MS",
-    "x": 18189.999999999884,
-    "y": -31381.999999999978
   },
   {
     "borderWidth": 0,
@@ -53903,10 +53881,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20006076",
-    "value": 1,
-    "label": "何文田廣場",
+    "value": 2,
+    "label": "常富街, 何文田廣場對面",
     "shape": "hexagon",
-    "title": "28MS",
+    "title": "28MS,8S",
     "x": 18151.000000000295,
     "y": -31657.99999999983
   },
@@ -53914,10 +53892,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20006077",
-    "value": 2,
-    "label": "何文田廣場",
+    "value": 3,
+    "label": "常富街, 何文田廣場外",
     "shape": "hexagon",
-    "title": "27MS,28MS",
+    "title": "27MS,28MS,8S",
     "x": 18161.999999999523,
     "y": -31651.000000000095
   },
@@ -55399,10 +55377,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20007352",
-    "value": 4,
+    "value": 5,
     "label": "佛光街, 房屋委員會總部外",
     "shape": "hexagon",
-    "title": "27MS,28MS,8,8M",
+    "title": "27M,27MS,28MS,8,8M",
     "x": 18117.999999999767,
     "y": -31574.000000000167
   },
@@ -56675,10 +56653,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20007740",
-    "value": 1,
+    "value": 2,
     "label": "佛光街, 冠暉苑高暉閣外",
     "shape": "hexagon",
-    "title": "27M",
+    "title": "27M,27MS",
     "x": 18188.999999999567,
     "y": -31381.999999999978
   },
@@ -58023,17 +58001,6 @@
     "title": "28M",
     "x": 18363.99999999969,
     "y": -31982.99999999996
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20008387",
-    "value": 1,
-    "label": "佛光街, 房署大樓",
-    "shape": "hexagon",
-    "title": "27M",
-    "x": 18113.99999999992,
-    "y": -31567.00000000008
   },
   {
     "borderWidth": 0,
@@ -71139,17 +71106,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20014304",
-    "value": 1,
-    "label": "上海街, 近 朗豪坊",
-    "shape": "hexagon",
-    "title": "3",
-    "x": 16845.00000000071,
-    "y": -31782.00000000011
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20014305",
     "value": 1,
     "label": "上海街, 近 上海街／山東街休憩處",
@@ -71382,10 +71338,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20014334",
-    "value": 3,
+    "value": 1,
     "label": "佛光街, 近何文田邨雅文樓",
     "shape": "hexagon",
-    "title": "8,8M,8S",
+    "title": "8",
     "x": 18158.999999999993,
     "y": -31516.99999999984
   },
@@ -71498,28 +71454,6 @@
     "title": "8,8S",
     "x": 17426.000000000386,
     "y": -29470.999999999847
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20014346",
-    "value": 1,
-    "label": "常富街, 近One Homantin Tower 1",
-    "shape": "hexagon",
-    "title": "8S",
-    "x": 18139.999999999643,
-    "y": -31653.000000000022
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20014347",
-    "value": 1,
-    "label": "常富街, 近何文田邨何文田廣場",
-    "shape": "hexagon",
-    "title": "8S",
-    "x": 18170.999999999538,
-    "y": -31653.99999999998
   },
   {
     "borderWidth": 0,
@@ -89549,6 +89483,17 @@
     "title": "55K",
     "x": 21894.000000000346,
     "y": -54496.99999999993
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20021026",
+    "value": 2,
+    "label": "上海街, 朗豪坊外",
+    "shape": "hexagon",
+    "title": "12S,3",
+    "x": 16830.00000000021,
+    "y": -31867.00000000009
   },
   {
     "borderWidth": 0,
@@ -114788,10 +114733,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "6F4C27D4E845432E",
-    "value": 3,
+    "value": 2,
     "label": "灣仔金紫荊廣場",
     "shape": "hexagon",
-    "title": "PB2,PN18,PN20",
+    "title": "PN18,PN20",
     "x": 17396.99999999971,
     "y": -28426.999999999935
   },
