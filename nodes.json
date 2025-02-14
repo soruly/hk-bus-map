@@ -41770,10 +41770,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20000724",
-    "value": 4,
+    "value": 5,
     "label": "佛光街, 何文田邨雅文樓外",
     "shape": "hexagon",
-    "title": "27M,27MS,8M,8S",
+    "title": "27M,27MS,8,8M,8S",
     "x": 18152.00000000061,
     "y": -31516.99999999984
   },
@@ -71333,17 +71333,6 @@
     "title": "8,8M",
     "x": 18307.000000000073,
     "y": -31935.000000000004
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20014334",
-    "value": 1,
-    "label": "佛光街, 近何文田邨雅文樓",
-    "shape": "hexagon",
-    "title": "8",
-    "x": 18158.999999999993,
-    "y": -31516.99999999984
   },
   {
     "borderWidth": 0,
