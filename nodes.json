@@ -9925,10 +9925,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001944",
-    "value": 3,
+    "value": 2,
     "label": "馬鞍山公園, 鞍駿街",
     "shape": "hexagon",
-    "title": "581,681,X581",
+    "title": "581,681",
     "x": 23153.99999999954,
     "y": -42606.99999999993
   },
@@ -28092,17 +28092,6 @@
     "title": "22D,22M",
     "x": 20109.999999999673,
     "y": -32973.00000000014
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "003882",
-    "value": 1,
-    "label": "西沙GO PARK",
-    "shape": "hexagon",
-    "title": "X581",
-    "x": 26557.999999999993,
-    "y": -42789.000000000146
   },
   {
     "borderWidth": 0,
