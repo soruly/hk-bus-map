@@ -96319,10 +96319,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "330",
-    "value": 2,
+    "value": 3,
     "label": "裕雅商場",
     "shape": "hexagon",
-    "title": "37A,37M",
+    "title": "36M,37A,37M",
     "x": -5326.999999999771,
     "y": -29542.999999999964
   },
@@ -96363,10 +96363,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "331",
-    "value": 1,
+    "value": 2,
     "label": "裕雅苑",
     "shape": "hexagon",
-    "title": "37A",
+    "title": "36M,37A",
     "x": -5151.999999999645,
     "y": -29655.99999999995
   },
@@ -96644,6 +96644,17 @@
     "title": "102",
     "x": 20617.00000000002,
     "y": -29217.999999999833
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "339",
+    "value": 1,
+    "label": "欣澳站",
+    "shape": "hexagon",
+    "title": "36M",
+    "x": 2855.999999999881,
+    "y": -33277.99999999996
   },
   {
     "borderWidth": 0,
