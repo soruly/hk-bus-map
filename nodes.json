@@ -10201,7 +10201,7 @@
     "borderWidthSelected": 1,
     "id": "001972",
     "value": 7,
-    "label": "大欖隧道收費廣場",
+    "label": "大欖隧道巴士轉乘站",
     "shape": "hexagon",
     "title": "967,967X,969,969A,969C,976,976A",
     "x": 6350.999999999374,
@@ -10212,7 +10212,7 @@
     "borderWidthSelected": 1,
     "id": "001973",
     "value": 6,
-    "label": "大欖隧道收費廣場",
+    "label": "大欖隧道巴士轉乘站",
     "shape": "hexagon",
     "title": "967,969,969N,969P,976,976A",
     "x": 6437.999999999988,
@@ -28092,6 +28092,28 @@
     "title": "22D,22M",
     "x": 20109.999999999673,
     "y": -32973.00000000014
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003884",
+    "value": 1,
+    "label": "承豐道公園, 承豐道",
+    "shape": "hexagon",
+    "title": "22D",
+    "x": 19975.99999999977,
+    "y": -32022.99999999987
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003885",
+    "value": 1,
+    "label": "承豐道公園, 承豐道",
+    "shape": "hexagon",
+    "title": "22D",
+    "x": 19944.99999999988,
+    "y": -32066.999999999978
   },
   {
     "borderWidth": 0,
