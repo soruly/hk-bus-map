@@ -16800,10 +16800,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002657",
-    "value": 12,
+    "value": 13,
     "label": "國泰城 (東), 東岸路",
     "shape": "hexagon",
-    "title": "E11,E11A,E21,E21D,E22,E22A,E23,E23A,N11,N21,N21A,S56",
+    "title": "E11,E11A,E21,E21D,E22,E22A,E23,E23A,N11,N21,N21A,S1,S56",
     "x": -6530.999999999665,
     "y": -29872.999999999905
   },
@@ -28086,10 +28086,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003884",
-    "value": 1,
+    "value": 2,
     "label": "承豐道公園, 承豐道",
     "shape": "hexagon",
-    "title": "22D",
+    "title": "20A,22D",
     "x": 19975.99999999977,
     "y": -32022.99999999987
   },
@@ -28097,10 +28097,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003885",
-    "value": 1,
+    "value": 2,
     "label": "承豐道公園, 承豐道",
     "shape": "hexagon",
-    "title": "22D",
+    "title": "20A,22D",
     "x": 19944.99999999988,
     "y": -32066.999999999978
   },
@@ -38507,8 +38507,8 @@
     "label": "禮頓道, 雲翠大廈外",
     "shape": "hexagon",
     "title": "56A",
-    "x": 18556.999999999847,
-    "y": -27738.000000000084
+    "x": 18439.999999999658,
+    "y": -27758.000000000036
   },
   {
     "borderWidth": 0,
@@ -39750,8 +39750,8 @@
     "label": "卑路乍街144-148號",
     "shape": "hexagon",
     "title": "23M,54",
-    "x": 12704.9999999997,
-    "y": -28234.00000000014
+    "x": 12684.00000000014,
+    "y": -28217.00000000007
   },
   {
     "borderWidth": 0,
@@ -61537,10 +61537,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20011727",
-    "value": 3,
+    "value": 2,
     "label": "海洋公園 (水上樂園)",
     "shape": "hexagon",
-    "title": "29A,29X,59S",
+    "title": "29A,59S",
     "x": 16706.999999999538,
     "y": -23610.000000000044
   },
@@ -65596,10 +65596,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20012869",
-    "value": 4,
+    "value": 3,
     "label": "黃竹坑道, 近甄沾記大廈",
     "shape": "hexagon",
-    "title": "29,29A,29X,52",
+    "title": "29,29A,52",
     "x": 16373.000000000104,
     "y": -24852.99999999988
   },
@@ -66058,10 +66058,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20012948",
-    "value": 6,
+    "value": 5,
     "label": "鴨脷洲橋道, 近鴨脷洲邨利福樓低座",
     "shape": "hexagon",
-    "title": "27A,29,29A,29X,37,N27",
+    "title": "27A,29,29A,37,N27",
     "x": 15073.999999999898,
     "y": -24421.999999999854
   },
@@ -76673,10 +76673,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20015516",
-    "value": 3,
+    "value": 2,
     "label": "深灣道, 近南濤閣",
     "shape": "hexagon",
-    "title": "29,29A,29X",
+    "title": "29,29A",
     "x": 16562.999999999305,
     "y": -24467.99999999989
   },
@@ -76706,10 +76706,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20015542",
-    "value": 2,
+    "value": 1,
     "label": "黃竹坑道, 近貴寶工業大廈",
     "shape": "hexagon",
-    "title": "29A,29X",
+    "title": "29A",
     "x": 16604.999999999847,
     "y": -24831.000000000004
   },
@@ -87915,10 +87915,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20020100",
-    "value": 2,
+    "value": 3,
     "label": "皇后大道東100號",
     "shape": "hexagon",
-    "title": "56,56A",
+    "title": "56,56A,56B",
     "x": 16993.999999999687,
     "y": -27627.999999999985
   },
@@ -89466,12 +89466,34 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20021184",
-    "value": 1,
+    "value": 2,
     "label": "般咸道, 近高街",
     "shape": "hexagon",
-    "title": "56",
+    "title": "56,56B",
     "x": 14588.000000000535,
     "y": -28479.0000000001
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20021289",
+    "value": 1,
+    "label": "英皇道, 近新都城大廈",
+    "shape": "hexagon",
+    "title": "56",
+    "x": 19920.999999999367,
+    "y": -29080.000000000084
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20021290",
+    "value": 1,
+    "label": "羅便臣道, 慧豪閣外",
+    "shape": "hexagon",
+    "title": "56",
+    "x": 15068.999999999733,
+    "y": -27961.000000000167
   },
   {
     "borderWidth": 0,
@@ -94675,6 +94697,17 @@
     "title": "260R,58X,N260",
     "x": -3293.9999999996417,
     "y": -40951.000000000095
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "2F7B146C55B013F8",
+    "value": 1,
+    "label": "將軍澳華人永遠墳場",
+    "shape": "hexagon",
+    "title": "14S",
+    "x": 24532.99999999956,
+    "y": -29220.000000000113
   },
   {
     "borderWidth": 0,
@@ -140286,10 +140319,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "CB4BB0008A87E4FC",
-    "value": 16,
+    "value": 17,
     "label": "油塘邨",
     "shape": "hexagon",
-    "title": "14B,14D,215R,259D,33,33B,603,603A,603P,613,62P,62X,6E,74,889,88X",
+    "title": "14B,14D,14S,215R,259D,33,33B,603,603A,603P,613,62P,62X,6E,74,889,88X",
     "x": 23923.000000000626,
     "y": -29814.000000000007
   },
@@ -146265,6 +146298,17 @@
     "title": "108",
     "x": 19043.999999999527,
     "y": -27813.000000000087
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "E0EEA7891A0FCD50",
+    "value": 1,
+    "label": "油塘(落客站)",
+    "shape": "hexagon",
+    "title": "14S",
+    "x": 24033.000000000015,
+    "y": -29524.999999999935
   },
   {
     "borderWidth": 0,
