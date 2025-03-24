@@ -110860,6 +110860,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "6258E0091BFF52C3",
+    "value": 2,
+    "label": "元朗喜利徑 (N7)",
+    "shape": "hexagon",
+    "title": "268X,968X",
+    "x": 2561.0000000000355,
+    "y": -44465.9999999999
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "62742CFBA2BE9854",
     "value": 7,
     "label": "葵涌交滙處",
