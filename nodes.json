@@ -28057,8 +28057,8 @@
     "label": "啟德體育園, 宋皇臺道",
     "shape": "hexagon",
     "title": "A25S,SP10,SP11,SP12,SP2,SP9",
-    "x": 19285.999999999603,
-    "y": -32329.000000000007
+    "x": 19374.999999999432,
+    "y": -32310.999999999978
   },
   {
     "borderWidth": 0,
@@ -28145,8 +28145,8 @@
     "label": "承豐道公園, 承豐道",
     "shape": "hexagon",
     "title": "20A,22D",
-    "x": 19944.99999999988,
-    "y": -32066.999999999978
+    "x": 19956.000000000528,
+    "y": -32029.99999999996
   },
   {
     "borderWidth": 0,
@@ -29494,10 +29494,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "05EE261A65F9B7ED",
-    "value": 5,
+    "value": 3,
     "label": "沙田市中心總站",
     "shape": "hexagon",
-    "title": "47A,47X,48X,81K,N48",
+    "title": "80K,88K,N48",
     "x": 18816.99999999995,
     "y": -38215.9999999999
   },
@@ -37238,10 +37238,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "1C23A54B97165DAB",
-    "value": 1,
+    "value": 4,
     "label": "沙田市中心總站",
     "shape": "hexagon",
-    "title": "299X",
+    "title": "47A,47X,48X,81K",
     "x": 18836.0000000003,
     "y": -38237.00000000017
   },
@@ -44257,7 +44257,7 @@
     "borderWidthSelected": 1,
     "id": "20001323",
     "value": 2,
-    "label": "石排頭路, 近馬錦明慈善基金馬可賓紀念中學家長資源中心",
+    "label": "石排頭路, 近馬錦明慈善基金馬可賓紀念中學",
     "shape": "hexagon",
     "title": "40,45",
     "x": -2604.999999999791,
@@ -90719,6 +90719,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "2132577767F0056D",
+    "value": 1,
+    "label": "沙田市中心總站",
+    "shape": "hexagon",
+    "title": "299X",
+    "x": 18828.999999999498,
+    "y": -38237.00000000017
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "213CF009551C7C39",
     "value": 1,
     "label": "天逸邨逸洋樓",
@@ -121509,10 +121520,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "84BAF05C529889BB",
-    "value": 3,
+    "value": 1,
     "label": "沙田市中心總站",
     "shape": "hexagon",
-    "title": "289R,80K,88K",
+    "title": "289R",
     "x": 18828.0000000006,
     "y": -38228.00000000015
   },
