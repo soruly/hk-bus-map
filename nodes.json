@@ -28151,6 +28151,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "003889",
+    "value": 2,
+    "label": "黃竹坑道",
+    "shape": "hexagon",
+    "title": "40R,70R",
+    "x": 16675.999999999647,
+    "y": -24865.00000000014
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "003D1263A14908F6",
     "value": 3,
     "label": "荃灣富華街",
