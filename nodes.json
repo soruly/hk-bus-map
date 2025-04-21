@@ -73253,7 +73253,7 @@
     "borderWidthSelected": 1,
     "id": "20014773",
     "value": 1,
-    "label": "寶康路, 將軍澳村對面",
+    "label": "將軍澳村",
     "shape": "hexagon",
     "title": "17A",
     "x": 25056.999999999618,
@@ -125255,17 +125255,6 @@
     "title": "16,16X",
     "x": 24108.99999999998,
     "y": -30242.000000000146
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "92B3E07F00FBB305",
-    "value": 4,
-    "label": "銅鑼灣村",
-    "shape": "hexagon",
-    "title": "80K,85,88,88K",
-    "x": 18081.99999999971,
-    "y": -37725.00000000001
   },
   {
     "borderWidth": 0,
