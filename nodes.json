@@ -25852,17 +25852,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "003640",
-    "value": 2,
-    "label": "銅鑼灣村, 大埔公路",
-    "shape": "hexagon",
-    "title": "798P,989",
-    "x": 18059.999999999833,
-    "y": -37721.00000000016
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "003641",
     "value": 2,
     "label": "美林邨, 大埔公路",
@@ -154548,6 +154537,17 @@
     "title": "680,680P,680X,681,980X,N680",
     "x": 23066.00000000003,
     "y": -41811.999999999825
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "F87373F646004131",
+    "value": 1,
+    "label": "尖沙咀碼頭 海港城",
+    "shape": "hexagon",
+    "title": "HK1",
+    "x": 16934.999999999432,
+    "y": -29449.99999999993
   },
   {
     "borderWidth": 0,
