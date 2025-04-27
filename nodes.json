@@ -90400,6 +90400,50 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "20021580",
+    "value": 1,
+    "label": "上水小巴總站",
+    "shape": "hexagon",
+    "title": "508",
+    "x": 12828.000000000373,
+    "y": -50213.00000000011
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20021581",
+    "value": 1,
+    "label": "古洞北福利服務綜合大樓總站",
+    "shape": "hexagon",
+    "title": "508",
+    "x": 9628.999999999622,
+    "y": -50517.99999999993
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20021582",
+    "value": 1,
+    "label": "寶石湖路北行線東慶學校外巴士停車處",
+    "shape": "hexagon",
+    "title": "508",
+    "x": 12346.999999999753,
+    "y": -50166.00000000011
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20021583",
+    "value": 1,
+    "label": "新豐路97-103號近石湖墟郵政局",
+    "shape": "hexagon",
+    "title": "508",
+    "x": 12678.999999999975,
+    "y": -50366.99999999996
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "201",
     "value": 1,
     "label": "鍾屋村輕鐵站",
