@@ -140198,10 +140198,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "C6DEF1AF70EC3375",
-    "value": 4,
+    "value": 3,
     "label": "龍馬路",
     "shape": "hexagon",
-    "title": "278A,78A,78B,N78",
+    "title": "78A,78B,N78",
     "x": 15452.999999999407,
     "y": -50484.00000000015
   },
