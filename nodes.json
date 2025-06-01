@@ -29153,10 +29153,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "045FB4EAE4FE52D6",
-    "value": 1,
+    "value": 2,
     "label": "南昌站 (V WALK)",
     "shape": "hexagon",
-    "title": "PB2B",
+    "title": "PB2B,PBM2",
     "x": 15367.999999999427,
     "y": -32800.999999999905
   },
@@ -29324,6 +29324,17 @@
     "title": "14D,14H,23,23M,26M,619,619X,N619",
     "x": 22881.99999999989,
     "y": -32435.999999999865
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "0513406BAC1F8881",
+    "value": 1,
+    "label": "香港兒童醫院 (KA111)",
+    "shape": "hexagon",
+    "title": "X6C",
+    "x": 20987.99999999983,
+    "y": -31579.99999999994
   },
   {
     "borderWidth": 0,
@@ -29747,10 +29758,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "06CC6423AA236B72",
-    "value": 1,
+    "value": 2,
     "label": "將軍澳(唐俊街)",
     "shape": "hexagon",
-    "title": "PBD1",
+    "title": "PBD1,PBM1",
     "x": 26143.000000000426,
     "y": -30300.000000000084
   },
@@ -98573,17 +98584,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "36A5F6842C55126E",
-    "value": 1,
-    "label": "香港兒童醫院(落客站) (KA530)",
-    "shape": "hexagon",
-    "title": "X6C",
-    "x": 20951.99999999977,
-    "y": -31578.999999999978
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "36A84C685395B7C9",
     "value": 2,
     "label": "沙田市中心 (ST750)",
@@ -100043,6 +100043,17 @@
     "title": "680,680X,87P,89D,97,980X,X89D",
     "x": 23859.000000000207,
     "y": -42388.00000000005
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "3C6231BF9A77F8B4",
+    "value": 1,
+    "label": "海栢花園",
+    "shape": "hexagon",
+    "title": "PBM3",
+    "x": 23144.00000000063,
+    "y": -42501.99999999999
   },
   {
     "borderWidth": 0,
@@ -101830,10 +101841,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "41D38FB36417339B",
-    "value": 1,
+    "value": 4,
     "label": "MegaBox",
     "shape": "hexagon",
-    "title": "PB3A",
+    "title": "PB3A,PBM1,PBM2,PBM3",
     "x": 20775.999999999327,
     "y": -32019.00000000002
   },
@@ -103436,10 +103447,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "464CFC70CF3895AD",
-    "value": 2,
+    "value": 1,
     "label": "落路下村 (FT960)",
     "shape": "hexagon",
-    "title": "88K,A46",
+    "title": "88K",
     "x": 20150.999999999898,
     "y": -40138.99999999993
   },
@@ -105125,6 +105136,17 @@
     "title": "32H,38,47X",
     "x": 12263.000000000091,
     "y": -36328.99999999992
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "4C61A1E387593CAF",
+    "value": 1,
+    "label": "鑽石山(鳳德道)",
+    "shape": "hexagon",
+    "title": "PBM3",
+    "x": 20274.000000000568,
+    "y": -34147.0000000001
   },
   {
     "borderWidth": 0,
@@ -119847,6 +119869,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "7EFB60ED247B4316",
+    "value": 1,
+    "label": "聯和墟總站 (ND968)",
+    "shape": "hexagon",
+    "title": "277X",
+    "x": 14363.000000000171,
+    "y": -50035.000000000095
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "7EFC43457A826032",
     "value": 2,
     "label": "梨木樹巴士總站 (TW904)",
@@ -123731,10 +123764,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "8C90768E30E981C6",
-    "value": 2,
+    "value": 3,
     "label": "沙田大會堂",
     "shape": "hexagon",
-    "title": "PB1A,PB2B",
+    "title": "PB1A,PB2B,PBM3",
     "x": 19119.999999999494,
     "y": -38202.00000000007
   },
@@ -144575,6 +144608,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "D585080E071B999E",
+    "value": 1,
+    "label": "聯和墟總站 (ND964)",
+    "shape": "hexagon",
+    "title": "278A",
+    "x": 14363.000000000171,
+    "y": -50035.000000000095
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "D5918A3A6192208D",
     "value": 4,
     "label": "軍地 (ND548)",
@@ -145280,10 +145324,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "D807FB5CE82945A2",
-    "value": 1,
+    "value": 2,
     "label": "旺角MOKO",
     "shape": "hexagon",
-    "title": "PN17",
+    "title": "PBM2,PN17",
     "x": 17256.999999999323,
     "y": -32460.999999999985
   },
@@ -147002,6 +147046,17 @@
     "title": "203C",
     "x": 17434.000000000084,
     "y": -33508.00000000014
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "DE8AB4B54CD3D4F2",
+    "value": 1,
+    "label": "康城站",
+    "shape": "hexagon",
+    "title": "PBM1",
+    "x": 26933.99999999997,
+    "y": -29680.000000000106
   },
   {
     "borderWidth": 0,
