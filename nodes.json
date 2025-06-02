@@ -136314,17 +136314,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "B83FDB494B1E7E31",
-    "value": 1,
-    "label": "啟德橋道",
-    "shape": "hexagon",
-    "title": "5R",
-    "x": 20588.999999999658,
-    "y": -31514.999999999916
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "B85641FDDED22352",
     "value": 5,
     "label": "天耀邨耀盛樓 (TN572)",
@@ -143905,10 +143894,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "D355B700FF30B3D7",
-    "value": 15,
+    "value": 13,
     "label": "長沙灣興華街 (X28) (SS229)",
     "shape": "hexagon",
-    "title": "234X,238X,296P,2A,2X,30X,33A,36A,36B,37,86C,936,936A,N122,N241",
+    "title": "234X,238X,296P,2A,2X,30X,33A,36A,36B,37,86C,N122,N241",
     "x": 15295.000000000415,
     "y": -33774.000000000015
   },
@@ -146474,6 +146463,17 @@
     "title": "2,2A,32",
     "x": 16239.000000000204,
     "y": -32694.000000000044
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "DBB2582C87F91983",
+    "value": 1,
+    "label": "香港兒童醫院 (KA531)",
+    "shape": "hexagon",
+    "title": "5R",
+    "x": 20951.99999999977,
+    "y": -31578.999999999978
   },
   {
     "borderWidth": 0,
@@ -151495,10 +151495,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "EE3B40DBD54D6708",
-    "value": 1,
+    "value": 2,
     "label": "石圍角邨石葵樓 (TW520)",
     "shape": "hexagon",
-    "title": "234C",
+    "title": "234C,936",
     "x": 12479.00000000044,
     "y": -37584.99999999998
   },
