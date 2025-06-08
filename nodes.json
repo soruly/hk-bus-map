@@ -9012,10 +9012,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001850",
-    "value": 4,
+    "value": 5,
     "label": "飛機維修區",
     "shape": "hexagon",
-    "title": "E21C,E22C,S52,S52A",
+    "title": "E21C,E22C,NP3,S52,S52A",
     "x": -10071.000000000651,
     "y": -30429.00000000017
   },
@@ -19131,6 +19131,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "002914",
+    "value": 2,
+    "label": "迪士尼樂園",
+    "shape": "hexagon",
+    "title": "NP1,NP2",
+    "x": 4403.000000000646,
+    "y": -31614.000000000076
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "002915",
     "value": 2,
     "label": "將軍澳天主教小學, 唐賢街",
@@ -23521,10 +23532,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003395",
-    "value": 2,
+    "value": 5,
     "label": "一號客運大樓(南), 暢達路",
     "shape": "hexagon",
-    "title": "S1,S56",
+    "title": "NP1,NP2,NP4,S1,S56",
     "x": -6350.0000000004775,
     "y": -31468.99999999988
   },
@@ -28158,6 +28169,61 @@
     "title": "20A,22,22M",
     "x": 20584.99999999981,
     "y": -31511.000000000065
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003892",
+    "value": 3,
+    "label": "香港迪士尼樂園酒店",
+    "shape": "hexagon",
+    "title": "NP1,NP2,NP5",
+    "x": 4394.999999999527,
+    "y": -30827.000000000025
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003893",
+    "value": 5,
+    "label": "昂坪纜車東涌站",
+    "shape": "hexagon",
+    "title": "NP1,NP2,NP3,NP4,NP5",
+    "x": -6135.9999999993415,
+    "y": -28995.000000000106
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003894",
+    "value": 1,
+    "label": "世茂喜來登及福朋喜來登酒店",
+    "shape": "hexagon",
+    "title": "NP1",
+    "x": -5361.999999999512,
+    "y": -29555.999999999825
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003895",
+    "value": 3,
+    "label": "迪士尼探索家度假酒店",
+    "shape": "hexagon",
+    "title": "NP1,NP2,NP5",
+    "x": 3901.9999999993615,
+    "y": -30806.000000000113
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003896",
+    "value": 3,
+    "label": "迪士尼好萊塢酒店",
+    "shape": "hexagon",
+    "title": "NP1,NP2,NP5",
+    "x": 3737.999999999886,
+    "y": -30925.999999999833
   },
   {
     "borderWidth": 0,
