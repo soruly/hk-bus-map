@@ -58709,17 +58709,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20009238",
-    "value": 1,
-    "label": "協調道, 近工業貿易大樓",
-    "shape": "hexagon",
-    "title": "88",
-    "x": 19799.000000000433,
-    "y": -33198.00000000015
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20009272",
     "value": 1,
     "label": "大涌橋路, 近河畔花園",
@@ -62940,17 +62929,6 @@
     "title": "88",
     "x": 20465.000000000087,
     "y": -33210.00000000005
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20012120",
-    "value": 1,
-    "label": "協調道, 近工業貿易大樓",
-    "shape": "hexagon",
-    "title": "88",
-    "x": 19803.00000000028,
-    "y": -33201.00000000004
   },
   {
     "borderWidth": 0,
@@ -90060,10 +90038,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20021400",
-    "value": 1,
+    "value": 2,
     "label": "協調道西行近沐元街",
     "shape": "hexagon",
-    "title": "88A",
+    "title": "88,88A",
     "x": 19920.00000000047,
     "y": -33250.99999999992
   },
@@ -91634,7 +91612,7 @@
     "borderWidthSelected": 1,
     "id": "2307DECBF51E9D7F",
     "value": 9,
-    "label": "MEGA Plus 數據中心 (TK303)",
+    "label": "日出康城領凱 (TK303)",
     "shape": "hexagon",
     "title": "290E,290X,298E,298F,298X,49,690S,98,N290",
     "x": 27373.000000000047,
@@ -102307,8 +102285,8 @@
     "label": "藍田分科診所 (LT530)",
     "shape": "hexagon",
     "title": "690,690P",
-    "x": 23349.00000000033,
-    "y": -31033.000000000044
+    "x": 23357.00000000003,
+    "y": -31041.000000000095
   },
   {
     "borderWidth": 0,
@@ -108156,7 +108134,7 @@
     "borderWidthSelected": 1,
     "id": "553E041377D7A0CE",
     "value": 1,
-    "label": "天耀總站 (TN920)",
+    "label": "天耀總站 (TN922)",
     "shape": "hexagon",
     "title": "69X",
     "x": 288.00000000046566,
@@ -128570,6 +128548,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "9DBFBF7A3CE5DF0A",
+    "value": 1,
+    "label": "粉嶺站轉車站-粉嶺站 (ND497)",
+    "shape": "hexagon",
+    "title": "R78",
+    "x": 13882.999999999867,
+    "y": -49238.00000000007
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "9DC117C78DBDB1A7",
     "value": 10,
     "label": "愛琴灣 (TM320)",
@@ -139669,6 +139658,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "C37E7CF06680272D",
+    "value": 1,
+    "label": "翠嶺路",
+    "shape": "hexagon",
+    "title": "91R",
+    "x": 25384.999999999993,
+    "y": -30472.999999999927
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "C39037A588387F32",
     "value": 5,
     "label": "紅磡南道 (HH635)",
@@ -144280,7 +144280,7 @@
     "borderWidthSelected": 1,
     "id": "D4377A1796E80098",
     "value": 2,
-    "label": "天耀總站 (TN922)",
+    "label": "天耀總站 (TN920)",
     "shape": "hexagon",
     "title": "264R,69P",
     "x": 301.0000000003288,
