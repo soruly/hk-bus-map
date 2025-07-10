@@ -29417,10 +29417,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "0524415976F284A4",
-    "value": 3,
+    "value": 4,
     "label": "柯士甸道西",
     "shape": "hexagon",
-    "title": "PB2A,PB2B,PBS2",
+    "title": "PB2A,PB2B,PBS2,PBW1",
     "x": 15961.00000000007,
     "y": -30262.0000000001
   },
@@ -69104,17 +69104,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20013826",
-    "value": 2,
-    "label": "振華道, 近樂華南邨",
-    "shape": "hexagon",
-    "title": "22A,22M",
-    "x": 22257.999999999356,
-    "y": -32095.999999999945
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20013827",
     "value": 2,
     "label": "康寧道遊樂場",
@@ -75909,17 +75898,6 @@
     "title": "48",
     "x": 22095.000000000196,
     "y": -32272.000000000033
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20015293",
-    "value": 1,
-    "label": "振華道, 近樂華南邨",
-    "shape": "hexagon",
-    "title": "48",
-    "x": 22257.00000000046,
-    "y": -32096.99999999991
   },
   {
     "borderWidth": 0,
@@ -89763,10 +89741,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20021325",
-    "value": 1,
-    "label": "振華道, 樂華社區中心",
+    "value": 4,
+    "label": "振華道, 樂華社區中心對面",
     "shape": "hexagon",
-    "title": "91",
+    "title": "22A,22M,48,91",
     "x": 22258.999999999673,
     "y": -32093.000000000062
   },
@@ -94983,6 +94961,17 @@
     "title": "101X,104,115,115P",
     "x": 18130.99999999963,
     "y": -28158.00000000017
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "2C02B3FE178DC965",
+    "value": 1,
+    "label": "柯士甸道",
+    "shape": "hexagon",
+    "title": "PBW1",
+    "x": 17104.000000000495,
+    "y": -30312.999999999945
   },
   {
     "borderWidth": 0,
@@ -113126,6 +113115,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "658F28C339443C17",
+    "value": 1,
+    "label": "奧運(海泓道)",
+    "shape": "hexagon",
+    "title": "PBW1",
+    "x": 16432.000000000357,
+    "y": -31436.000000000065
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "659365A8AB2B98E9",
     "value": 5,
     "label": "利東邨東興樓",
@@ -116268,6 +116268,17 @@
     "title": "613A",
     "x": 23355.99999999971,
     "y": -26949.000000000113
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "7033D904840D5F18",
+    "value": 1,
+    "label": "曼克頓山",
+    "shape": "hexagon",
+    "title": "PBW1",
+    "x": 14257.999999999527,
+    "y": -33411.99999999986
   },
   {
     "borderWidth": 0,
@@ -122575,6 +122586,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "875B01AC78127A53",
+    "value": 1,
+    "label": "荃灣馬頭壩道",
+    "shape": "hexagon",
+    "title": "PBW1",
+    "x": 11535.000000000651,
+    "y": -36685.999999999905
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "876057D899CE09C9",
     "value": 7,
     "label": "彩暉花園 (TM293)",
@@ -126436,6 +126458,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "95A40BF00DBAB2B8",
+    "value": 1,
+    "label": "星光大道",
+    "shape": "hexagon",
+    "title": "PBW1",
+    "x": 17718.999999999596,
+    "y": -29651.00000000014
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "95A8334E0385A5E7",
     "value": 6,
     "label": "葵芳邨 (KW107)",
@@ -126988,7 +127021,7 @@
     "borderWidthSelected": 1,
     "id": "97959A28795E3EFF",
     "value": 1,
-    "label": "啟德 (AIRSIDE)",
+    "label": "啟德沐元街 (AIRSIDE)",
     "shape": "hexagon",
     "title": "PB3A",
     "x": 19847.000000000036,
@@ -129374,10 +129407,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "A02CB1283981A937",
-    "value": 2,
+    "value": 3,
     "label": "港鐵荃灣西站",
     "shape": "hexagon",
-    "title": "331S,PBD2",
+    "title": "331S,PBD2,PBW1",
     "x": 11202.000000000113,
     "y": -36843.99999999996
   },
@@ -144146,6 +144179,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "D39BE9923B1C7294",
+    "value": 1,
+    "label": "美孚荔灣道",
+    "shape": "hexagon",
+    "title": "PBW1",
+    "x": 13893.0000000002,
+    "y": -33988.00000000009
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "D39CFEB43490567F",
     "value": 3,
     "label": "北葵涌街市 (KW225)",
@@ -148460,11 +148504,11 @@
     "borderWidthSelected": 1,
     "id": "E33098F43CF205B8",
     "value": 1,
-    "label": "啟德沐元街",
+    "label": "中環龍和道",
     "shape": "hexagon",
     "title": "PBD1",
-    "x": 19850.999999999884,
-    "y": -33182.000000000044
+    "x": 16397.999999999513,
+    "y": -28274.000000000044
   },
   {
     "borderWidth": 0,
@@ -151996,6 +152040,17 @@
     "title": "A30,NA30",
     "x": 14082.999999999402,
     "y": -36934.00000000011
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "EF8E1150891E5725",
+    "value": 1,
+    "label": "廣東道",
+    "shape": "hexagon",
+    "title": "PBW1",
+    "x": 16870.000000000116,
+    "y": -29876.000000000146
   },
   {
     "borderWidth": 0,
