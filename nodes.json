@@ -31286,17 +31286,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "0C8085DE147882C0",
-    "value": 1,
-    "label": "藍田 (茜發道)",
-    "shape": "hexagon",
-    "title": "PB3A",
-    "x": 23121.000000000437,
-    "y": -30699.99999999986
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "0C81107C4ABFCD56",
     "value": 2,
     "label": "利安巴士總站 (MA973)",
@@ -95295,17 +95284,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "2D3BD1583B26087F",
-    "value": 1,
-    "label": "九龍灣 (德福花園)",
-    "shape": "hexagon",
-    "title": "PB3A",
-    "x": 21291.999999999687,
-    "y": -32169.99999999999
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "2D3C0F18F9131DA2",
     "value": 3,
     "label": "觀塘碼頭 (KT934)",
@@ -100021,17 +99999,6 @@
     "title": "A37,E37,E37C,NA37,X36",
     "x": -79.99999999981355,
     "y": -46816.0000000001
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "3B5FBD10AE27C017",
-    "value": 1,
-    "label": "坑口 (名成街)",
-    "shape": "hexagon",
-    "title": "PB1B",
-    "x": 26533.000000000582,
-    "y": -31569.999999999964
   },
   {
     "borderWidth": 0,
@@ -118406,17 +118373,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "77D8D65A6BD868B3",
-    "value": 1,
-    "label": "石門站",
-    "shape": "hexagon",
-    "title": "PB2B",
-    "x": 20857.999999999778,
-    "y": -38749.99999999993
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "77FB32597CCD30F5",
     "value": 1,
     "label": "兆康苑總站 (TM900)",
@@ -123675,17 +123631,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "8BC3AB2E0CE7401A",
-    "value": 1,
-    "label": "調景嶺 (翠嶺路)",
-    "shape": "hexagon",
-    "title": "PB1B",
-    "x": 25386.00000000031,
-    "y": -30480.00000000002
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "8BCB786E1F1A2457",
     "value": 7,
     "label": "荔枝角站 (Y1) (SS465)",
@@ -125424,17 +125369,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "9252A494500A05C9",
-    "value": 1,
-    "label": "觀塘碼頭 (基業街)",
-    "shape": "hexagon",
-    "title": "PB3A",
-    "x": 22114.99999999944,
-    "y": -30918.000000000135
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "92540DF9CB08304C",
     "value": 6,
     "label": "彩虹轉車站 - 錦雲樓 (P3)",
@@ -126843,6 +126777,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "96E1024FD71C979F",
+    "value": 1,
+    "label": "荃灣南豐紗廠",
+    "shape": "hexagon",
+    "title": "PB2A",
+    "x": 11008.999999999958,
+    "y": -37446.999999999876
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "97",
     "value": 1,
     "label": "愉景灣隧道",
@@ -126993,17 +126938,6 @@
     "title": "331,331S,PBS1,PBS2",
     "x": 5984.999999999729,
     "y": -34728.00000000014
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "97959A28795E3EFF",
-    "value": 1,
-    "label": "啟德沐元街 (AIRSIDE)",
-    "shape": "hexagon",
-    "title": "PB3A",
-    "x": 19847.000000000036,
-    "y": -33188.000000000175
   },
   {
     "borderWidth": 0,
@@ -149933,10 +149867,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "E85A10E61A00CC09",
-    "value": 2,
+    "value": 1,
     "label": "北角匯",
     "shape": "hexagon",
-    "title": "PB3A,PB3B",
+    "title": "PB3B",
     "x": 20203.999999999665,
     "y": -29278.000000000047
   },
@@ -153470,6 +153404,17 @@
     "title": "60M",
     "x": -2403.9999999999395,
     "y": -39130.00000000011
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "F493236404A4FABF",
+    "value": 1,
+    "label": "元朗 形點",
+    "shape": "hexagon",
+    "title": "PB2A",
+    "x": 3737.999999999886,
+    "y": -44501.999999999956
   },
   {
     "borderWidth": 0,
@@ -157056,17 +157001,6 @@
     "title": "603,603A,603P,900",
     "x": 15536.000000000171,
     "y": -28513.99999999984
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "FFB9E8929671D06E",
-    "value": 1,
-    "label": "西貢北(西貢警署)",
-    "shape": "hexagon",
-    "title": "PB1B",
-    "x": 27248.00000000016,
-    "y": -38402.99999999992
   },
   {
     "borderWidth": 0,
