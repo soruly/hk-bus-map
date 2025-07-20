@@ -30725,17 +30725,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "0A98CAAFE2019AA0",
-    "value": 1,
-    "label": "曉翠街 (ED510)",
-    "shape": "hexagon",
-    "title": "613A",
-    "x": 24790.000000000135,
-    "y": -26458.999999999833
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "0A9E349E178D498C",
     "value": 2,
     "label": "太古坊",
@@ -92766,10 +92755,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "2567DBD44B8B1328",
-    "value": 1,
+    "value": 4,
     "label": "小西灣邨",
     "shape": "hexagon",
-    "title": "907D",
+    "title": "606,606X,907D,N118",
     "x": 24918.99999999987,
     "y": -26304.999999999978
   },
@@ -93470,10 +93459,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "27039EC5E64E6137",
-    "value": 1,
+    "value": 6,
     "label": "富欣花園",
     "shape": "hexagon",
-    "title": "907D",
+    "title": "118,118P,606,606X,907D,N118",
     "x": 24800.999999999363,
     "y": -26489.000000000116
   },
@@ -94378,17 +94367,6 @@
     "title": "291P,91,91M,91P",
     "x": 25854.99999999996,
     "y": -34017.00000000005
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "298976EDF9DF1004",
-    "value": 1,
-    "label": "小西灣運動場 (ED391)",
-    "shape": "hexagon",
-    "title": "613A",
-    "x": 24863.000000000568,
-    "y": -26639.000000000124
   },
   {
     "borderWidth": 0,
@@ -97914,10 +97892,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "339DE84A73768EDC",
-    "value": 1,
+    "value": 4,
     "label": "曉翠街",
     "shape": "hexagon",
-    "title": "907D",
+    "title": "118,118P,907D,N118",
     "x": 24790.000000000135,
     "y": -26458.999999999833
   },
@@ -100010,17 +99988,6 @@
     "title": "29M,6D,6P",
     "x": 20610.00000000064,
     "y": -33699.99999999997
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "3B39AD1240EB26A7",
-    "value": 2,
-    "label": "富欣花園",
-    "shape": "hexagon",
-    "title": "106,106P",
-    "x": 24809.00000000048,
-    "y": -26481.000000000065
   },
   {
     "borderWidth": 0,
@@ -111201,17 +111168,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "5FAF9DC59A28A8B1",
-    "value": 2,
-    "label": "小西灣邨",
-    "shape": "hexagon",
-    "title": "606,606X",
-    "x": 24929.0000000002,
-    "y": -26308.999999999825
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "5FB1FCAF80F3D97D",
     "value": 10,
     "label": "荃灣柴灣角街 (TW160)",
@@ -113496,17 +113452,6 @@
     "title": "82X",
     "x": 21622.999999999593,
     "y": -38139.99999999993
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "6679BFB738009E11",
-    "value": 2,
-    "label": "曉翠街",
-    "shape": "hexagon",
-    "title": "106,106P",
-    "x": 24797.999999999833,
-    "y": -26451.000000000135
   },
   {
     "borderWidth": 0,
@@ -116785,17 +116730,6 @@
     "title": "11D,23,268A,268C,269C,69C,74C,74D,74E,74F,74P,74X,80,80P,80X,83A,83X,93A",
     "x": 22388.999999999727,
     "y": -30977.000000000033
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "71E43F401421B1FD",
-    "value": 1,
-    "label": "小西灣邨",
-    "shape": "hexagon",
-    "title": "N118",
-    "x": 24918.99999999987,
-    "y": -26304.999999999978
   },
   {
     "borderWidth": 0,
@@ -123785,17 +123719,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "8C18FC659FC6E4CB",
-    "value": 1,
-    "label": "小西灣運動場 (ED392)",
-    "shape": "hexagon",
-    "title": "613A",
-    "x": 24890.99999999951,
-    "y": -26644.999999999898
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "8C21D2D96DA6D045",
     "value": 2,
     "label": "大埔中心總站 (TP908)",
@@ -127151,17 +127074,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "981A7F2220E8B3CA",
-    "value": 5,
-    "label": "富欣花園",
-    "shape": "hexagon",
-    "title": "118,118P,606,606X,N118",
-    "x": 24800.999999999363,
-    "y": -26489.000000000116
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "982E419BB26ED8AA",
     "value": 1,
     "label": "荃灣中心 (TW215)",
@@ -129479,17 +129391,6 @@
     "title": "103,170,619,619X,621,671,681,681P,690,690S,N170,N182,N619",
     "x": 18198.999999999898,
     "y": -27978.999999999844
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "A07D1CF3E65DA64F",
-    "value": 1,
-    "label": "富欣花園 (ED390)",
-    "shape": "hexagon",
-    "title": "613A",
-    "x": 24800.999999999363,
-    "y": -26489.000000000116
   },
   {
     "borderWidth": 0,
@@ -147563,17 +147464,6 @@
     "title": "241X,243M,249M,279S,41R,43,43A,43B,49,49A,N241,N243,R241,SP3",
     "x": 10356.000000000166,
     "y": -34898.000000000095
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "DFC05AAD7C3913C5",
-    "value": 3,
-    "label": "曉翠街",
-    "shape": "hexagon",
-    "title": "118,118P,N118",
-    "x": 24790.000000000135,
-    "y": -26458.999999999833
   },
   {
     "borderWidth": 0,
