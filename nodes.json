@@ -28778,6 +28778,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "02E56E932EDAFE8C",
+    "value": 2,
+    "label": "曉翠街",
+    "shape": "hexagon",
+    "title": "106,106P",
+    "x": 24797.999999999833,
+    "y": -26451.000000000135
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "02F9C16D5A3191D0",
     "value": 1,
     "label": "深水埗(欽州街)巴士總站 (SS970)",
@@ -45720,7 +45731,7 @@
     "borderWidthSelected": 1,
     "id": "20001564",
     "value": 8,
-    "label": "大涌橋路沙田第一城5座對出",
+    "label": "大涌橋路, 沙田第一城第五座外",
     "shape": "hexagon",
     "title": "803,804,810,810A,811,811A,811B,811S",
     "x": 20253.999999999905,
@@ -48426,7 +48437,7 @@
     "borderWidthSelected": 1,
     "id": "20002259",
     "value": 5,
-    "label": "銀城街, 沙田第一城外",
+    "label": "銀城街, 置富第一城•樂薈外",
     "shape": "hexagon",
     "title": "65S,804,811,811A,811P",
     "x": 20333.99999999972,
@@ -48448,7 +48459,7 @@
     "borderWidthSelected": 1,
     "id": "20002261",
     "value": 7,
-    "label": "銀城街2號第一城中心外",
+    "label": "銀城街, 置富第一城外",
     "shape": "hexagon",
     "title": "65S,804,806A,811,811A,813,813A",
     "x": 20364.99999999961,
@@ -48822,7 +48833,7 @@
     "borderWidthSelected": 1,
     "id": "20002327",
     "value": 4,
-    "label": "銀城街,沙田第一城外",
+    "label": "銀城街, 置富第一城•樂薈外",
     "shape": "hexagon",
     "title": "806A,811P,813,813A",
     "x": 20302.999999999825,
@@ -127668,6 +127679,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "9A8462FF5E76136B",
+    "value": 2,
+    "label": "富欣花園",
+    "shape": "hexagon",
+    "title": "106,106P",
+    "x": 24809.00000000048,
+    "y": -26481.000000000065
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "9A8927665842846F",
     "value": 1,
     "label": "海晏街",
@@ -127983,6 +128005,17 @@
     "title": "296M,93K,93M,93P",
     "x": 25607.99999999972,
     "y": -32704.000000000022
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "9BA030AD16EE2F52",
+    "value": 1,
+    "label": "曉翠街",
+    "shape": "hexagon",
+    "title": "613A",
+    "x": 24790.000000000135,
+    "y": -26458.999999999833
   },
   {
     "borderWidth": 0,
@@ -137381,6 +137414,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "BBAC36FF9C478647",
+    "value": 1,
+    "label": "富欣花園",
+    "shape": "hexagon",
+    "title": "613A",
+    "x": 24800.999999999363,
+    "y": -26489.000000000116
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "BBBDC092F96C0A41",
     "value": 5,
     "label": "寧波第二中學 (KT295)",
@@ -139680,6 +139724,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "C41D6E03AEFFA431",
+    "value": 1,
+    "label": "小西灣運動場",
+    "shape": "hexagon",
+    "title": "613A",
+    "x": 24890.99999999951,
+    "y": -26644.999999999898
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "C425164651C7EF52",
     "value": 1,
     "label": "安定邨 (TM611)",
@@ -139819,6 +139874,17 @@
     "title": "115",
     "x": 18035.000000000422,
     "y": -27700.000000000102
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "C498AA2390E7555F",
+    "value": 1,
+    "label": "小西灣運動場",
+    "shape": "hexagon",
+    "title": "613A",
+    "x": 24840.00000000037,
+    "y": -26641.000000000047
   },
   {
     "borderWidth": 0,
