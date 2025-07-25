@@ -70347,17 +70347,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20014153",
-    "value": 1,
-    "label": "安田街藍田聖保祿中學對面",
-    "shape": "hexagon",
-    "title": "60",
-    "x": 23772.999999999913,
-    "y": -30930.000000000036
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20014154",
     "value": 2,
     "label": "平田公共運輸交匯處",
@@ -90704,6 +90693,17 @@
     "title": "83B",
     "x": 21508.000000000036,
     "y": -32983.00000000012
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20021811",
+    "value": 1,
+    "label": "安田街, 藍田聖保祿中學對面",
+    "shape": "hexagon",
+    "title": "60",
+    "x": 23776.99999999976,
+    "y": -30891.00000000009
   },
   {
     "borderWidth": 0,
@@ -151462,10 +151462,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "EDE0D474E9C40EC2",
-    "value": 2,
+    "value": 1,
     "label": "沙田大會堂 (ST744)",
     "shape": "hexagon",
-    "title": "88,89",
+    "title": "89",
     "x": 18994.999999999607,
     "y": -38211.00000000009
   },
