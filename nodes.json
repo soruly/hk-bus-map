@@ -34113,6 +34113,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "13811ABFB6AF170A",
+    "value": 1,
+    "label": "沙田市中心 (ST749)",
+    "shape": "hexagon",
+    "title": "88",
+    "x": 18846.00000000063,
+    "y": -38182.00000000012
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "13824F71E7DB6109",
     "value": 2,
     "label": "寶石大廈 (TW560)",
