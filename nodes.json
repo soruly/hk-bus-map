@@ -6295,10 +6295,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001596",
-    "value": 6,
+    "value": 7,
     "label": "黃埔花園",
     "shape": "hexagon",
-    "title": "115,115P,E23,E23A,N23,NA20",
+    "title": "115,115P,A25,E23,E23A,N23,NA20",
     "x": 19078.00000000037,
     "y": -30499.99999999997
   },
@@ -24555,10 +24555,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003507",
-    "value": 4,
+    "value": 5,
     "label": "啟德 - 天寰, 沐安街",
     "shape": "hexagon",
-    "title": "20,20A,608,N20",
+    "title": "20,20A,608,A25,N20",
     "x": 20198.9999999995,
     "y": -32888.00000000016
   },
@@ -28108,10 +28108,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003880",
-    "value": 2,
+    "value": 3,
     "label": "啟德 - 港鐵 A 出口, 沐安街",
     "shape": "hexagon",
-    "title": "22D,22M",
+    "title": "22D,22M,A25",
     "x": 20109.999999999673,
     "y": -32973.00000000014
   },
@@ -28477,17 +28477,6 @@
     "title": "606,606X,641",
     "x": 20792.000000000146,
     "y": -32060.99999999985
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "017BCFA7DC246519",
-    "value": 1,
-    "label": "風釆中學 (ND421)",
-    "shape": "hexagon",
-    "title": "273A",
-    "x": 12448.000000000548,
-    "y": -49343.99999999996
   },
   {
     "borderWidth": 0,
@@ -30281,17 +30270,6 @@
     "title": "110",
     "x": 21971.00000000063,
     "y": -28061.999999999898
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "08A46530B241544D",
-    "value": 1,
-    "label": "風釆中學 (ND422)",
-    "shape": "hexagon",
-    "title": "273A",
-    "x": 12447.00000000023,
-    "y": -49361.00000000003
   },
   {
     "borderWidth": 0,
@@ -44158,7 +44136,7 @@
     "borderWidthSelected": 1,
     "id": "20001283",
     "value": 13,
-    "label": "青山公路 - 元朗段, 元朗東成里路",
+    "label": "青山公路－元朗段, 近東成里路",
     "shape": "hexagon",
     "title": "36,36A,37,38,601,601C,602,603,608,71,72,75,76",
     "x": 4358.999999999469,
@@ -67929,7 +67907,7 @@
     "borderWidthSelected": 1,
     "id": "20013528",
     "value": 2,
-    "label": "興芳路近智芳街",
+    "label": "興芳路, 近智芳街",
     "shape": "hexagon",
     "title": "313,407",
     "x": 12775.000000000602,
@@ -90713,7 +90691,7 @@
     "label": "安田街, 藍田聖保祿中學對面",
     "shape": "hexagon",
     "title": "60",
-    "x": 23776.99999999976,
+    "x": 23775.999999999443,
     "y": -30891.00000000009
   },
   {
@@ -90724,8 +90702,19 @@
     "label": "白田(白雲街)公共運輸交匯處",
     "shape": "hexagon",
     "title": "12",
-    "x": 16563.99999999962,
-    "y": -33629.000000000175
+    "x": 16562.999999999305,
+    "y": -33627.999999999854
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20021877",
+    "value": 1,
+    "label": "興芳路, 近興芳路遊樂場",
+    "shape": "hexagon",
+    "title": "407",
+    "x": 12909.9999999994,
+    "y": -36063.000000000044
   },
   {
     "borderWidth": 0,
@@ -116009,10 +115998,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "6F4C27D4E845432E",
-    "value": 2,
+    "value": 3,
     "label": "灣仔金紫荊廣場(2-3/8貓展限定)",
     "shape": "hexagon",
-    "title": "PB3A,PB3B",
+    "title": "PB3A,PB3B,PBS1",
     "x": 17396.99999999971,
     "y": -28426.999999999935
   },
@@ -128660,7 +128649,7 @@
     "borderWidthSelected": 1,
     "id": "9DCF59C5F17F780A",
     "value": 1,
-    "label": "北河街 (SS303)",
+    "label": "深水埗北河街 (SS303)",
     "shape": "hexagon",
     "title": "HK1",
     "x": 16455.999999999447,
