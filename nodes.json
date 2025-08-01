@@ -90709,10 +90709,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20021877",
-    "value": 1,
-    "label": "興芳路, 近興芳路遊樂場",
+    "value": 3,
+    "label": "興芳路,　近　興芳路遊樂場",
     "shape": "hexagon",
-    "title": "407",
+    "title": "313,407,87K",
     "x": 12909.9999999994,
     "y": -36063.000000000044
   },
@@ -98827,10 +98827,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "36AABE317D2F7A0B",
-    "value": 4,
+    "value": 6,
     "label": "油麻地碧街 (YT539)",
     "shape": "hexagon",
-    "title": "2,203S,6,9",
+    "title": "2,203S,6,9,N216,N241",
     "x": 17065.999999999804,
     "y": -31359.00000000014
   },
@@ -99878,17 +99878,6 @@
     "title": "36,43",
     "x": 12050.000000000693,
     "y": -36751.9999999999
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "3A9CDC9BA93346E2",
-    "value": 1,
-    "label": "九龍城轉車站-富豪東方酒店",
-    "shape": "hexagon",
-    "title": "HK1",
-    "x": 19070.000000000677,
-    "y": -32723.000000000015
   },
   {
     "borderWidth": 0,
@@ -118472,17 +118461,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "783CE18C333C6069",
-    "value": 11,
-    "label": "旺角站,旺角中心 (MK512)",
-    "shape": "hexagon",
-    "title": "268X,269X,35A,35X,41A,42A,60X,63X,69X,81,95",
-    "x": 16934.999999999432,
-    "y": -31982.99999999996
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "78419C6BD5AB7C34",
     "value": 1,
     "label": "太古城中心",
@@ -124746,7 +124724,7 @@
     "value": 2,
     "label": "九龍城轉車站-富豪東方酒店",
     "shape": "hexagon",
-    "title": "1A,9",
+    "title": "1A,95",
     "x": 19082.000000000222,
     "y": -32730.000000000102
   },
@@ -127037,17 +127015,6 @@
     "title": "917",
     "x": 8893.000000000484,
     "y": -44110.99999999983
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "97CE87CF035B0E10",
-    "value": 2,
-    "label": "油麻地碧街 (YT537)",
-    "shape": "hexagon",
-    "title": "N216,N241",
-    "x": 17065.999999999804,
-    "y": -31352.000000000047
   },
   {
     "borderWidth": 0,
@@ -144455,10 +144422,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "D477F40E64BFF7D8",
-    "value": 2,
+    "value": 1,
     "label": "九龍城轉車站-富豪東方酒店",
     "shape": "hexagon",
-    "title": "203E,95",
+    "title": "HK1",
     "x": 19092.000000000553,
     "y": -32735.999999999876
   },
@@ -150241,10 +150208,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "E9468D2AE13C3F39",
-    "value": 5,
+    "value": 7,
     "label": "九龍城轉車站-富豪東方酒店",
     "shape": "hexagon",
-    "title": "13D,16,298X,2A,98C",
+    "title": "13D,16,203E,298X,2A,9,98C",
     "x": 19110.99999999948,
     "y": -32747.00000000017
   },
