@@ -90708,6 +90708,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "20021910",
+    "value": 1,
+    "label": "耀興道, 東盛苑對面",
+    "shape": "hexagon",
+    "title": "65",
+    "x": 22616.99999999962,
+    "y": -27570.00000000005
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "201",
     "value": 1,
     "label": "鍾屋村輕鐵站",
@@ -94840,6 +94851,17 @@
     "title": "260X,58M,58P,960",
     "x": 1870.9999999998672,
     "y": -35855.0000000001
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "2B5E3DCF185BE85F",
+    "value": 1,
+    "label": "怡和大廈 (CW113)",
+    "shape": "hexagon",
+    "title": "600",
+    "x": 15927.000000000646,
+    "y": -28271.000000000156
   },
   {
     "borderWidth": 0,
@@ -108815,10 +108837,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "576538E1395C8508",
-    "value": 26,
+    "value": 27,
     "label": "尖東站 K11 MUSEA (YT215)",
     "shape": "hexagon",
-    "title": "12,12P,13X,203C,203S,208,230X,268B,269B,270A,270C,271A,28,280X,281B,281X,35A,35X,36X,41A,5,5A,81C,87C,92R,T270",
+    "title": "12,12P,13X,203C,203S,208,230X,268B,269B,270A,270C,271A,28,280X,281B,281X,35A,35X,36X,41A,5,5A,81C,87C,87D,92R,T270",
     "x": 17464.999999999975,
     "y": -29523.00000000001
   },
@@ -110641,10 +110663,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "5D75A800F823B45D",
-    "value": 11,
+    "value": 10,
     "label": "尖東站 K11 MUSEA (YT216)",
     "shape": "hexagon",
-    "title": "110,26,26X,5C,5P,70S,8,87D,8A,8P,9",
+    "title": "110,26,26X,5C,5P,70S,8,8A,8P,9",
     "x": 17439.000000000247,
     "y": -29514.999999999956
   },
@@ -121476,10 +121498,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "8379C4B1265C27F7",
-    "value": 15,
+    "value": 14,
     "label": "怡和大廈 (CW112)",
     "shape": "hexagon",
-    "title": "600,934,934A,935,936,936A,960,960C,960S,961,968,968A,N960,P960,P968",
+    "title": "934,934A,935,936,936A,960,960C,960S,961,968,968A,N960,P960,P968",
     "x": 15927.000000000646,
     "y": -28271.000000000156
   },
