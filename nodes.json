@@ -135489,17 +135489,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "B4E1E2C76F057999",
-    "value": 1,
-    "label": "漢口道巴士總站 (YT210)",
-    "shape": "hexagon",
-    "title": "8P",
-    "x": 17113.00000000051,
-    "y": -29526.999999999858
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "B4E25ABB1C5DE439",
     "value": 2,
     "label": "天賦海灣 (PA205)",
