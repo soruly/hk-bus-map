@@ -6218,10 +6218,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001586",
-    "value": 9,
+    "value": 4,
     "label": "柯士甸站, 佐敦道",
     "shape": "hexagon",
-    "title": "970,970X,971,973,A22,A25,E23,E23A,N11",
+    "title": "970,970X,971,973",
     "x": 16637.00000000006,
     "y": -30595.99999999989
   },
