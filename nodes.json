@@ -6222,8 +6222,8 @@
     "label": "柯士甸站, 佐敦道",
     "shape": "hexagon",
     "title": "970,970X,971,973",
-    "x": 16637.00000000006,
-    "y": -30595.99999999989
+    "x": 16468.000000000415,
+    "y": -30618.000000000124
   },
   {
     "borderWidth": 0,
@@ -28246,6 +28246,17 @@
     "title": "NP1,NP2,NP5",
     "x": 3737.999999999886,
     "y": -30925.999999999833
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003897",
+    "value": 5,
+    "label": "柯士甸站, 佐敦道",
+    "shape": "hexagon",
+    "title": "A22,A25,E23,E23A,N11",
+    "x": 16638.000000000375,
+    "y": -30596.99999999985
   },
   {
     "borderWidth": 0,
@@ -100729,17 +100740,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "3DA55A5A4970DBFE",
-    "value": 1,
-    "label": "元朗屏昌徑 (YL225)",
-    "shape": "hexagon",
-    "title": "69",
-    "x": 2290.0000000007026,
-    "y": -44757.999999999854
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "3DB9E473F29FCDEE",
     "value": 7,
     "label": "百德新街 (WC231)",
@@ -107440,10 +107440,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "52656E6A7D0EB9E4",
-    "value": 3,
+    "value": 2,
     "label": "元朗谷亭街 (N18) (YL379)",
     "shape": "hexagon",
-    "title": "69,B1,B9A",
+    "title": "B1,B9A",
     "x": 3118.0000000006203,
     "y": -44452.00000000007
   },
@@ -113314,10 +113314,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "65F591143DC7CF9C",
-    "value": 2,
+    "value": 1,
     "label": "元朗大橋村 (YL216)",
     "shape": "hexagon",
-    "title": "276C,69",
+    "title": "276C",
     "x": 2684.9999999996044,
     "y": -44744.99999999999
   },
@@ -118583,10 +118583,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "78AD2432201EF5EE",
-    "value": 8,
+    "value": 9,
     "label": "元朗大棠路 (S7) (YL251)",
     "shape": "hexagon",
-    "title": "264R,269D,269R,276,869,B1,N269,SP6",
+    "title": "264R,269D,269R,276,69,869,B1,N269,SP6",
     "x": 2832.9999999996858,
     "y": -44434.000000000044
   },
@@ -145984,10 +145984,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "D9CE618F99BAC2B6",
-    "value": 10,
+    "value": 11,
     "label": "元朗康樂路 (S10) (YL254)",
     "shape": "hexagon",
-    "title": "251C,269D,269R,276,276P,53,869,N269,N276,SP6",
+    "title": "251C,269D,269R,276,276P,53,69,869,N269,N276,SP6",
     "x": 2609.999999999957,
     "y": -44436.99999999993
   },
@@ -154102,10 +154102,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "F63C4B8B958E9830",
-    "value": 6,
+    "value": 7,
     "label": "元朗又新街 (S3) (YL247)",
     "shape": "hexagon",
-    "title": "264R,268X,269D,276P,68X,N276",
+    "title": "264R,268X,269D,276P,68X,69,N276",
     "x": 3096.999999999639,
     "y": -44429.99999999984
   },
@@ -154927,10 +154927,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "F87A56BD0A2640ED",
-    "value": 13,
+    "value": 12,
     "label": "元朗廣場 (N2) (YL360)",
     "shape": "hexagon",
-    "title": "276,276C,276P,64X,69,A36,E36,E36C,E36S,N276,N30,NA36,X36",
+    "title": "276,276C,276P,64X,A36,E36,E36C,E36S,N276,N30,NA36,X36",
     "x": 2387.000000000228,
     "y": -44468.000000000175
   },
