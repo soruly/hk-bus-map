@@ -31628,10 +31628,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "0D5759F7A4B185FE",
-    "value": 24,
+    "value": 25,
     "label": "港珠澳大橋旅檢大樓 (落客站)",
     "shape": "hexagon",
-    "title": "A30,A31,A32,A33X,A34,A36,A37,A38,A41,A41P,A42,A43,A46,A47X,NA30,NA31,NA32,NA33,NA36,NA37,NA40,NA41,NA43,NA47",
+    "title": "A30,A31,A32,A33X,A34,A36,A37,A38,A41,A41P,A42,A43,A43P,A46,A47X,NA30,NA31,NA32,NA33,NA36,NA37,NA40,NA41,NA43,NA47",
     "x": -4995.999999999867,
     "y": -31708.00000000007
   },
@@ -31705,10 +31705,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "0D9932C476D51576",
-    "value": 2,
+    "value": 6,
     "label": "觀塘碼頭 (KT935)",
     "shape": "hexagon",
-    "title": "74D,74P",
+    "title": "274X,74B,74C,74E,74X,T74",
     "x": 22172.999999999378,
     "y": -30809.99999999996
   },
@@ -32431,10 +32431,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "1001A444985DA59D",
-    "value": 2,
+    "value": 1,
     "label": "觀塘碼頭 (KT937)",
     "shape": "hexagon",
-    "title": "258X,259X",
+    "title": "93A",
     "x": 22186.000000000662,
     "y": -30780.999999999993
   },
@@ -33623,8 +33623,8 @@
     "label": "豐景園 (TM620)",
     "shape": "hexagon",
     "title": "263,263A,263B,263C,960B,961",
-    "x": -2718.0000000001314,
-    "y": -38382.00000000001
+    "x": -2635.999999999683,
+    "y": -38380.00000000008
   },
   {
     "borderWidth": 0,
@@ -36186,8 +36186,8 @@
     "label": "豐景園 (TM622)",
     "shape": "hexagon",
     "title": "A33X,E33,E37C,N30,NA33,R33",
-    "x": -2742.000000000644,
-    "y": -38383.99999999993
+    "x": -2635.999999999683,
+    "y": -38380.00000000008
   },
   {
     "borderWidth": 0,
@@ -36567,10 +36567,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "192BF77E794E87E1",
-    "value": 2,
+    "value": 3,
     "label": "港珠澳大橋香港口岸 (W5)",
     "shape": "hexagon",
-    "title": "A43,NA43",
+    "title": "A43,A43P,NA43",
     "x": -4957.000000000278,
     "y": -31607.99999999995
   },
@@ -91072,10 +91072,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "21466046C6868AA7",
-    "value": 22,
+    "value": 21,
     "label": "機場(地面運輸中心)巴士總站",
     "shape": "hexagon",
-    "title": "A31,A33,A33X,A34,A36,A37,A38,A41,A41P,A42,A43,A43P,A46,A47X,E33,E33P,E36,E36P,E36S,E37,E42,N31",
+    "title": "A31,A33,A33X,A34,A36,A37,A38,A41,A41P,A42,A43,A46,A47X,E33,E33P,E36,E36P,E36S,E37,E42,N31",
     "x": -6247.000000000469,
     "y": -31259.999999999978
   },
@@ -91435,10 +91435,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "2255A14989E8F149",
-    "value": 1,
+    "value": 3,
     "label": "觀塘碼頭 (KT930)",
     "shape": "hexagon",
-    "title": "11D",
+    "title": "258X,259S,259X",
     "x": 22163.000000000466,
     "y": -30820.999999999898
   },
@@ -92469,10 +92469,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "24BFA8C2C9E9F5DB",
-    "value": 2,
+    "value": 1,
     "label": "觀塘碼頭 (KT933)",
     "shape": "hexagon",
-    "title": "83A,83X",
+    "title": "16P",
     "x": 22169.999999999847,
     "y": -30814.000000000164
   },
@@ -95376,7 +95376,7 @@
     "value": 3,
     "label": "觀塘碼頭 (KT934)",
     "shape": "hexagon",
-    "title": "80,80P,X89D",
+    "title": "268A,268C,268P",
     "x": 22168.999999999527,
     "y": -30830.999999999876
   },
@@ -95768,17 +95768,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "2ED2AD0C19C9CAAB",
-    "value": 1,
-    "label": "觀塘碼頭 (KT940)",
-    "shape": "hexagon",
-    "title": "16P",
-    "x": 22144.00000000012,
-    "y": -30777.000000000142
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "2EEB9CB69FB6A58D",
     "value": 11,
     "label": "中港城 戲曲中心 (YT645)",
@@ -96121,10 +96110,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "2FCE924121B95FE8",
-    "value": 3,
+    "value": 2,
     "label": "觀塘碼頭 (KT942)",
     "shape": "hexagon",
-    "title": "269C,269S,69C",
+    "title": "83A,83X",
     "x": 22180.00000000018,
     "y": -30792.99999999989
   },
@@ -105662,8 +105651,8 @@
     "label": "豐景園 (TM623)",
     "shape": "hexagon",
     "title": "259R,260B,260C,60M,60X",
-    "x": -2733.9999999995257,
-    "y": -38383.99999999993
+    "x": -2635.999999999683,
+    "y": -38380.00000000008
   },
   {
     "borderWidth": 0,
@@ -107869,10 +107858,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "53FC6F95C61542C1",
-    "value": 3,
+    "value": 4,
     "label": "觀塘碼頭 (KT941)",
     "shape": "hexagon",
-    "title": "268A,268C,268P",
+    "title": "80,80A,80P,X89D",
     "x": 22182.99999999971,
     "y": -30784.99999999984
   },
@@ -116086,10 +116075,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "6F58AF0D366EB8CA",
-    "value": 1,
+    "value": 3,
     "label": "觀塘碼頭 (KT932)",
     "shape": "hexagon",
-    "title": "80X",
+    "title": "269C,269S,69C",
     "x": 22167.000000000313,
     "y": -30818.00000000001
   },
@@ -116097,10 +116086,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "6F666C5235BD859B",
-    "value": 6,
+    "value": 3,
     "label": "觀塘碼頭 (KT936)",
     "shape": "hexagon",
-    "title": "274X,74C,74E,74F,74X,T74",
+    "title": "74D,74F,74P",
     "x": 22172.999999999378,
     "y": -30809.99999999996
   },
@@ -116727,7 +116716,7 @@
     "value": 1,
     "label": "觀塘碼頭 (KT943)",
     "shape": "hexagon",
-    "title": "23",
+    "title": "40P",
     "x": 22190.999999999407,
     "y": -30773.9999999999
   },
@@ -124093,17 +124082,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "8D0555A78A132018",
-    "value": 21,
-    "label": "觀塘碼頭 (落客站) (KT939)",
-    "shape": "hexagon",
-    "title": "11D,23,258X,259S,259X,74B,74C,74D,74E,74F,74P,74X,80,80A,80P,80X,83A,83X,93A,T74,X89D",
-    "x": 22168.000000000633,
-    "y": -30743.00000000001
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "8D05916401FE8BCB",
     "value": 4,
     "label": "美麗閣",
@@ -125099,8 +125077,8 @@
     "label": "豐景園 (TM621)",
     "shape": "hexagon",
     "title": "259S,61X,62P,62X,N260",
-    "x": -2725.9999999998286,
-    "y": -38382.99999999996
+    "x": -2635.999999999683,
+    "y": -38380.00000000008
   },
   {
     "borderWidth": 0,
@@ -129407,10 +129385,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "A02CB1283981A937",
-    "value": 4,
+    "value": 5,
     "label": "港鐵荃灣西站",
     "shape": "hexagon",
-    "title": "331S,PB1A,PBD2,PBW1",
+    "title": "331S,PB1A,PB2B,PBD2,PBW1",
     "x": 11202.000000000113,
     "y": -36843.99999999996
   },
@@ -130342,10 +130320,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "A31DD8C4FD6740D4",
-    "value": 2,
+    "value": 3,
     "label": "青衣SPCA",
     "shape": "hexagon",
-    "title": "PB2A,PBS1",
+    "title": "PB2A,PB2B,PBS1",
     "x": 11190.000000000566,
     "y": -34644.00000000012
   },
@@ -139640,7 +139618,7 @@
     "value": 1,
     "label": "觀塘碼頭 (KT938)",
     "shape": "hexagon",
-    "title": "93A",
+    "title": "23",
     "x": 22194.000000000357,
     "y": -30782.999999999916
   },
@@ -143677,7 +143655,7 @@
     "value": 1,
     "label": "觀塘碼頭 (KT931)",
     "shape": "hexagon",
-    "title": "40P",
+    "title": "80X",
     "x": 22180.00000000018,
     "y": -30799.99999999998
   },
@@ -148987,10 +148965,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "E48E4C46F64FFB0E",
-    "value": 10,
+    "value": 11,
     "label": "航天城交匯處 (CL326)",
     "shape": "hexagon",
-    "title": "A30,A31,A32,A33,A34,A37,A41P,A47X,S1,S64X",
+    "title": "A30,A31,A32,A33,A34,A37,A41P,A43P,A47X,S1,S64X",
     "x": -5658.999999999992,
     "y": -31717.000000000084
   },
