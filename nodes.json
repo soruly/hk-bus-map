@@ -19334,8 +19334,8 @@
     "label": "靈實醫院, 靈康路",
     "shape": "hexagon",
     "title": "796P,E22A,E22S",
-    "x": 25763.000000000604,
-    "y": -31410.999999999945
+    "x": 25763.999999999498,
+    "y": -31411.999999999905
   },
   {
     "borderWidth": 0,
@@ -94691,10 +94691,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "29A07F043B4D5919",
-    "value": 1,
+    "value": 2,
     "label": "坑口站 (TK941)",
     "shape": "hexagon",
-    "title": "91M",
+    "title": "91B,91M",
     "x": 26480.99999999971,
     "y": -31534.99999999987
   },
@@ -114534,6 +114534,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "68DF1DA183CDFCF2",
+    "value": 1,
+    "label": "科大(逸夫演藝中心) (SK941)",
+    "shape": "hexagon",
+    "title": "91B",
+    "x": 26300.000000000524,
+    "y": -33380.00000000001
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "68DF2B78CD2B9C76",
     "value": 6,
     "label": "尖沙咀東（麼地道） (YT922)",
@@ -125457,6 +125468,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "9183F3104902B748",
+    "value": 1,
+    "label": "科大(羅桂祥樓) (SK940)",
+    "shape": "hexagon",
+    "title": "91B",
+    "x": 26265.99999999968,
+    "y": -33631.0000000001
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "91929D42214F3D7F",
     "value": 9,
     "label": "鴻福街 (KC770)",
@@ -130590,17 +130612,6 @@
     "title": "918",
     "x": 7264.999999999589,
     "y": -42738.999999999905
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "A31DD8C4FD6740D4",
-    "value": 2,
-    "label": "青衣SPCA",
-    "shape": "hexagon",
-    "title": "PBS1,PBS2",
-    "x": 11190.000000000566,
-    "y": -34644.00000000012
   },
   {
     "borderWidth": 0,
@@ -153596,10 +153607,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "F39F638D34947E40",
-    "value": 9,
+    "value": 10,
     "label": "葵涌交滙處 (KW101)",
     "shape": "hexagon",
-    "title": "240X,272P,33A,36A,37,38A,40,42A,44",
+    "title": "240X,272P,33A,36A,37,38A,40,42A,43C,44",
     "x": 13155.000000000427,
     "y": -34054.00000000007
   },
@@ -155367,10 +155378,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "F88EE882E4B77399",
-    "value": 4,
+    "value": 3,
     "label": "長亨巴士總站 (TY991)",
     "shape": "hexagon",
-    "title": "242X,43C,N241,R241",
+    "title": "242X,N241,R241",
     "x": 9762.999999999522,
     "y": -35553.00000000017
   },
