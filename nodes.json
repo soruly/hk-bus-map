@@ -38713,7 +38713,7 @@
     "borderWidthSelected": 1,
     "id": "20000012",
     "value": 7,
-    "label": "薄扶林道, 近香港大學賽馬會第一舍堂村何東夫人紀念堂",
+    "label": "薄扶林道, 寶翠園外",
     "shape": "hexagon",
     "title": "13,22,22S,22X,28,28M,28S",
     "x": 13357.000000000597,
@@ -90499,17 +90499,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20021760",
-    "value": 1,
-    "label": "薄扶林道, 何東夫人紀念堂外",
-    "shape": "hexagon",
-    "title": "55",
-    "x": 13354.999999999962,
-    "y": -28422.000000000124
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20021761",
     "value": 1,
     "label": "域多利皇后街, 中環街市對面",
@@ -90946,6 +90935,17 @@
     "title": "52B",
     "x": 14552.999999999372,
     "y": -49972.999999999956
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20022141",
+    "value": 1,
+    "label": "薄扶林道, 寶翠園外",
+    "shape": "hexagon",
+    "title": "55",
+    "x": 13478.99999999953,
+    "y": -28434.000000000025
   },
   {
     "borderWidth": 0,
@@ -131508,10 +131508,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "A60AE774B09A5E44",
-    "value": 8,
+    "value": 7,
     "label": "荃灣大河道 (TW572)",
     "shape": "hexagon",
-    "title": "279S,33R,40,40P,43B,48P,51,66M",
+    "title": "279S,33R,40,43B,48P,51,66M",
     "x": 11499.000000000593,
     "y": -37152.00000000003
   },
