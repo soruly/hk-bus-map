@@ -111488,10 +111488,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "5F60283656DF3016",
-    "value": 7,
+    "value": 6,
     "label": "廣東道,新港中心 (YT205)",
     "shape": "hexagon",
-    "title": "12,12P,203C,296D,37X,T270,W4",
+    "title": "12,12P,203C,296D,37X,T270",
     "x": 16898.00000000048,
     "y": -29748.99999999998
   },
