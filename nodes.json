@@ -28294,6 +28294,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "003907",
+    "value": 2,
+    "label": "承景街, 承豐道",
+    "shape": "hexagon",
+    "title": "22D,22M",
+    "x": 21110.000000000186,
+    "y": -30900.000000000106
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "003D1263A14908F6",
     "value": 3,
     "label": "荃灣富華街 (TW143)",
@@ -46500,10 +46511,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20001815",
-    "value": 3,
+    "value": 4,
     "label": "葵福路, 葵涌運動場對面",
     "shape": "hexagon",
-    "title": "91,94,94A",
+    "title": "404M,91,94,94A",
     "x": 12391.999999999825,
     "y": -35792
   },
@@ -46533,10 +46544,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20001818",
-    "value": 3,
+    "value": 4,
     "label": "葵福路葵喜街休憩處對面",
     "shape": "hexagon",
-    "title": "91,94,94A",
+    "title": "404M,91,94,94A",
     "x": 12469.000000000107,
     "y": -35754.00000000002
   },
@@ -89274,28 +89285,6 @@
     "title": "404M",
     "x": 11872.999999999935,
     "y": -35775.9999999999
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20020756",
-    "value": 1,
-    "label": "永順街, 海事處藍巴勒海峽公眾貨物裝卸區外",
-    "shape": "hexagon",
-    "title": "404M",
-    "x": 11594.9999999998,
-    "y": -35561.999999999825
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20020757",
-    "value": 1,
-    "label": "永順街, 海事處藍巴勒海峽公眾貨物裝卸區對面",
-    "shape": "hexagon",
-    "title": "404M",
-    "x": 11607.999999999663,
-    "y": -35561.999999999825
   },
   {
     "borderWidth": 0,
