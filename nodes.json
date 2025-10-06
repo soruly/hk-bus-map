@@ -111579,7 +111579,7 @@
     "value": 6,
     "label": "尚城 (YL269)",
     "shape": "hexagon",
-    "title": "258P,276P,68A,68X,960P,960X",
+    "title": "258P,68A,960P,960X,A34,NA37",
     "x": 37.00000000037562,
     "y": -43541.000000000095
   },
@@ -130216,17 +130216,6 @@
     "title": "32H,34",
     "x": 12147.000000000218,
     "y": -36187.999999999935
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "A1843D30B9F347DE",
-    "value": 2,
-    "label": "尚城",
-    "shape": "hexagon",
-    "title": "A34,NA37",
-    "x": 37.00000000037562,
-    "y": -43541.000000000095
   },
   {
     "borderWidth": 0,
@@ -160228,6 +160217,50 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "K53*-U010",
+    "value": 1,
+    "label": "屯門站 (輕鐵屯門站)",
+    "shape": "hexagon",
+    "title": "K53*",
+    "x": -2664.000000000044,
+    "y": -39422.000000000065
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "K53*-U020",
+    "value": 1,
+    "label": "天后路",
+    "shape": "hexagon",
+    "title": "K53*",
+    "x": -2845.0000000006526,
+    "y": -39167.00000000013
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "K53*-U030",
+    "value": 1,
+    "label": "業旺邨",
+    "shape": "hexagon",
+    "title": "K53*",
+    "x": -2984.9999999996157,
+    "y": -38813.99999999999
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "K53*-U040",
+    "value": 1,
+    "label": "屯門站 (輕鐵屯門站)",
+    "shape": "hexagon",
+    "title": "K53*",
+    "x": -2664.000000000044,
+    "y": -39422.000000000065
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "K53-D010",
     "value": 1,
     "label": "掃管笏 (鄭任安夫人千禧小學)",
@@ -160411,39 +160444,6 @@
     "title": "K53",
     "x": -2491.99999999945,
     "y": -39211.99999999985
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "K53-D170",
-    "value": 1,
-    "label": "屯門站 (輕鐵屯門站)",
-    "shape": "hexagon",
-    "title": "K53",
-    "x": -2664.000000000044,
-    "y": -39422.000000000065
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "K53-D180",
-    "value": 1,
-    "label": "天后路(服務時間請參考路綫圖)",
-    "shape": "hexagon",
-    "title": "K53",
-    "x": -2845.0000000006526,
-    "y": -39167.00000000013
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "K53-D190",
-    "value": 1,
-    "label": "業旺邨(服務時間請參考路綫圖)",
-    "shape": "hexagon",
-    "title": "K53",
-    "x": -2984.9999999996157,
-    "y": -38813.99999999999
   },
   {
     "borderWidth": 0,
