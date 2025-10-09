@@ -23906,10 +23906,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003445",
-    "value": 3,
+    "value": 2,
     "label": "半島酒店",
     "shape": "hexagon",
-    "title": "H1,H2,H2K",
+    "title": "H1,H2",
     "x": 17121.000000000207,
     "y": -29532.999999999985
   },
