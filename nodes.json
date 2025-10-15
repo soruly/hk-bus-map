@@ -31660,17 +31660,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "0D6A59BA601131AD",
-    "value": 1,
-    "label": "多石街 (ST660)",
-    "shape": "hexagon",
-    "title": "A42",
-    "x": 20172.999999999774,
-    "y": -37744.99999999996
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "0D7A1D0AECA1D999",
     "value": 9,
     "label": "大欖隧道轉車站 (B3) (YL234)",
@@ -120915,10 +120904,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "808CA5FECCC6646D",
-    "value": 7,
+    "value": 8,
     "label": "多石街 (ST660)",
     "shape": "hexagon",
-    "title": "182X,47A,83A,83X,89S,982X,N283",
+    "title": "182X,47A,83A,83X,89S,982X,A42,N283",
     "x": 20172.999999999774,
     "y": -37744.99999999996
   },
