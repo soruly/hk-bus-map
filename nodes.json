@@ -46885,10 +46885,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20001974",
-    "value": 3,
+    "value": 2,
     "label": "銀澳路, 近煜明苑熹明閣",
     "shape": "hexagon",
-    "title": "102,102B,113",
+    "title": "102B,113",
     "x": 26671.000000000335,
     "y": -31456.999999999978
   },
@@ -56873,10 +56873,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20007736",
-    "value": 5,
+    "value": 4,
     "label": "寶寧路, 近明德邨明道樓",
     "shape": "hexagon",
-    "title": "101M,102,102B,103,15A",
+    "title": "101M,102B,103,15A",
     "x": 26882.000000000517,
     "y": -31746.00000000005
   },
@@ -74814,10 +74814,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20015071",
-    "value": 2,
+    "value": 3,
     "label": "曉光街, 近曉麗苑曉順閣",
     "shape": "hexagon",
-    "title": "76B,91",
+    "title": "13,76B,91",
     "x": 22952.99999999969,
     "y": -31903.00000000015
   },
@@ -75452,10 +75452,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20015224",
-    "value": 3,
+    "value": 2,
     "label": "將軍澳道, 觀塘遊樂場外",
     "shape": "hexagon",
-    "title": "103,10M,13",
+    "title": "103,10M",
     "x": 23113.999999999636,
     "y": -31058.000000000164
   },
@@ -77025,10 +77025,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20015558",
-    "value": 2,
+    "value": 1,
     "label": "鯉魚門道, 觀塘游泳池外",
     "shape": "hexagon",
-    "title": "10M,13",
+    "title": "10M",
     "x": 22947.00000000063,
     "y": -31046.99999999987
   },
@@ -89675,10 +89675,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20021328",
-    "value": 1,
+    "value": 2,
     "label": "曉光街, 曉光閣對面",
     "shape": "hexagon",
-    "title": "91",
+    "title": "13,91",
     "x": 23069.99999999988,
     "y": -31828.000000000146
   },
@@ -90946,6 +90946,61 @@
     "title": "404M",
     "x": 11939.999999999884,
     "y": -36188.99999999989
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20022273",
+    "value": 1,
+    "label": "協和街, 曉光街體育館對面",
+    "shape": "hexagon",
+    "title": "13",
+    "x": 22724.999999999796,
+    "y": -31966.999999999858
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20022274",
+    "value": 1,
+    "label": "曉光街, 曉光街兒童遊樂場對面",
+    "shape": "hexagon",
+    "title": "13",
+    "x": 22795.0000000007,
+    "y": -32049.999999999913
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20022275",
+    "value": 1,
+    "label": "曉光街, 曉光街遊樂場對面",
+    "shape": "hexagon",
+    "title": "13",
+    "x": 23166.00000000051,
+    "y": -31682.99999999995
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20022276",
+    "value": 1,
+    "label": "曉光街, 梁式芝書院對面",
+    "shape": "hexagon",
+    "title": "13",
+    "x": 23372.000000000524,
+    "y": -31494.999999999964
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20022277",
+    "value": 1,
+    "label": "曉光街, 近秀茂坪南邨秀德樓",
+    "shape": "hexagon",
+    "title": "13",
+    "x": 23548.999999999865,
+    "y": -31493.000000000036
   },
   {
     "borderWidth": 0,
@@ -97694,10 +97749,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "329",
-    "value": 2,
+    "value": 3,
     "label": "裕雅苑",
     "shape": "hexagon",
-    "title": "37A,37M",
+    "title": "36M,37A,37M",
     "x": -5154.00000000028,
     "y": -29654.999999999985
   },
@@ -97903,10 +97958,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "331",
-    "value": 2,
+    "value": 1,
     "label": "裕雅苑",
     "shape": "hexagon",
-    "title": "36M,37A",
+    "title": "37A",
     "x": -5151.999999999645,
     "y": -29655.99999999995
   },
@@ -98446,8 +98501,8 @@
     "label": "翔東邨翔月樓",
     "shape": "hexagon",
     "title": "36M,37A",
-    "x": -4721.000000000686,
-    "y": -29935.000000000044
+    "x": -4608.000000000346,
+    "y": -29796.99999999994
   },
   {
     "borderWidth": 0,
@@ -98468,8 +98523,8 @@
     "label": "翔東邨翔月樓",
     "shape": "hexagon",
     "title": "37A",
-    "x": -4721.000000000686,
-    "y": -29935.000000000044
+    "x": -4600.000000000648,
+    "y": -29786.999999999964
   },
   {
     "borderWidth": 0,
