@@ -11146,10 +11146,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002062",
-    "value": 6,
+    "value": 7,
     "label": "天頌苑頌棋閣, 天華路",
     "shape": "hexagon",
-    "title": "967,967X,969C,969N,969X,N969",
+    "title": "967,967X,969B,969C,969N,969X,N969",
     "x": -9.000000000014552,
     "y": -46187.00000000011
   },
@@ -11157,10 +11157,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002063",
-    "value": 2,
+    "value": 3,
     "label": "天頌苑頌恩閣, 天瑞路",
     "shape": "hexagon",
-    "title": "969C,969X",
+    "title": "969B,969C,969X",
     "x": -279.0000000004511,
     "y": -46037.00000000011
   },
@@ -28261,6 +28261,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "003911",
+    "value": 2,
+    "label": "中電總部, 承啟道",
+    "shape": "hexagon",
+    "title": "608,A25",
+    "x": 19503.00000000027,
+    "y": -32288.00000000014
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "003D1263A14908F6",
     "value": 3,
     "label": "荃灣富華街 (TW143)",
@@ -29836,7 +29847,7 @@
     "borderWidthSelected": 1,
     "id": "067F57DA0477D026",
     "value": 1,
-    "label": "寶田轉車站 - 寶田總站 (P2)",
+    "label": "寶田轉車站 - 寶田總站 (TM922)",
     "shape": "hexagon",
     "title": "258D",
     "x": -3316.9999999998367,
@@ -31007,6 +31018,17 @@
     "title": "77K",
     "x": 11710.999999999673,
     "y": -49018.99999999983
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "0B65879637B5161E",
+    "value": 1,
+    "label": "中電總部，啟德體育園 (KA513)",
+    "shape": "hexagon",
+    "title": "5D",
+    "x": 19496.999999999785,
+    "y": -32270.00000000011
   },
   {
     "borderWidth": 0,
@@ -89218,7 +89240,7 @@
     "shape": "hexagon",
     "title": "404M",
     "x": 11594.9999999998,
-    "y": -35561.999999999825
+    "y": -35560.99999999986
   },
   {
     "borderWidth": 0,
@@ -89228,8 +89250,8 @@
     "label": "永順街, 海事處藍巴勒海峽公眾貨物裝卸區對面",
     "shape": "hexagon",
     "title": "404M",
-    "x": 11607.999999999663,
-    "y": -35561.999999999825
+    "x": 11606.999999999345,
+    "y": -35560.99999999986
   },
   {
     "borderWidth": 0,
@@ -90884,17 +90906,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20022141",
-    "value": 1,
-    "label": "薄扶林道, 寶翠園外",
-    "shape": "hexagon",
-    "title": "55",
-    "x": 13478.99999999953,
-    "y": -28434.000000000025
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20022174",
     "value": 2,
     "label": "穗禾路沙田小學對面",
@@ -90922,8 +90933,8 @@
     "label": "牛皮沙街, 近愉翠商場",
     "shape": "hexagon",
     "title": "65X",
-    "x": 20552.000000000702,
-    "y": -38209.00000000016
+    "x": 20551.000000000386,
+    "y": -38207.99999999984
   },
   {
     "borderWidth": 0,
@@ -90944,8 +90955,8 @@
     "label": "永基路, 嘉里（荃灣）貨倉對面",
     "shape": "hexagon",
     "title": "404M",
-    "x": 11939.999999999884,
-    "y": -36188.99999999989
+    "x": 11938.999999999567,
+    "y": -36187.999999999935
   },
   {
     "borderWidth": 0,
@@ -90967,7 +90978,7 @@
     "shape": "hexagon",
     "title": "13",
     "x": 22795.0000000007,
-    "y": -32049.999999999913
+    "y": -32048.99999999995
   },
   {
     "borderWidth": 0,
@@ -90978,7 +90989,7 @@
     "shape": "hexagon",
     "title": "13",
     "x": 23166.00000000051,
-    "y": -31682.99999999995
+    "y": -31681.99999999999
   },
   {
     "borderWidth": 0,
@@ -90988,8 +90999,8 @@
     "label": "曉光街, 梁式芝書院對面",
     "shape": "hexagon",
     "title": "13",
-    "x": 23372.000000000524,
-    "y": -31494.999999999964
+    "x": 23371.000000000207,
+    "y": -31494
   },
   {
     "borderWidth": 0,
@@ -90999,8 +91010,19 @@
     "label": "曉光街, 近秀茂坪南邨秀德樓",
     "shape": "hexagon",
     "title": "13",
-    "x": 23548.999999999865,
+    "x": 23547.99999999955,
     "y": -31493.000000000036
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20022306",
+    "value": 1,
+    "label": "薄扶林道, 何東夫人紀念堂外",
+    "shape": "hexagon",
+    "title": "55",
+    "x": 13352.999999999327,
+    "y": -28415.999999999996
   },
   {
     "borderWidth": 0,
@@ -91282,7 +91304,7 @@
     "borderWidthSelected": 1,
     "id": "210978D525EEDF4F",
     "value": 7,
-    "label": "紅橋 (K5) (TM710)",
+    "label": "紅橋 (TM710)",
     "shape": "hexagon",
     "title": "A36,E36A,E37C,E43,N30,NA36,NA37",
     "x": -2249.9999999993747,
@@ -96232,7 +96254,7 @@
     "borderWidthSelected": 1,
     "id": "2F5F973821A594A9",
     "value": 3,
-    "label": "寶田轉車站 - 寶田 (T1) (TM191)",
+    "label": "寶田轉車站 - 寶田 (TM191)",
     "shape": "hexagon",
     "title": "260R,58X,N260",
     "x": -3293.9999999996417,
@@ -96430,7 +96452,7 @@
     "borderWidthSelected": 1,
     "id": "2FD7EBBD4AF78A93",
     "value": 2,
-    "label": "紅橋 (K2) (TM713)",
+    "label": "紅橋 (TM713)",
     "shape": "hexagon",
     "title": "58X,63X",
     "x": -2250.999999999692,
@@ -97112,7 +97134,7 @@
     "borderWidthSelected": 1,
     "id": "315BE0CA231DCD4F",
     "value": 10,
-    "label": "寶田轉車站 - 寶田 (T2) (TM190)",
+    "label": "寶田轉車站 - 寶田 (TM190)",
     "shape": "hexagon",
     "title": "258D,258X,58M,960,960A,960B,960C,960X,N960,P960",
     "x": -3296.0000000002765,
@@ -103349,7 +103371,7 @@
     "borderWidthSelected": 1,
     "id": "448D42252303EC00",
     "value": 4,
-    "label": "寶田轉車站 - 盈豐園(S1)",
+    "label": "寶田轉車站 - 盈豐園 (TM581)",
     "shape": "hexagon",
     "title": "A34,E33P,E36C,NA33",
     "x": -3273.0000000000814,
@@ -109806,7 +109828,7 @@
     "borderWidthSelected": 1,
     "id": "594A765BE3A43C73",
     "value": 13,
-    "label": "寶田轉車站 - 盈豐園 (S1)",
+    "label": "寶田轉車站 - 盈豐園 (TM580)",
     "shape": "hexagon",
     "title": "258D,258X,261S,58M,58P,58X,960,960B,960C,N260,N960,P960,SP5A",
     "x": -3271.999999999764,
@@ -110279,7 +110301,7 @@
     "borderWidthSelected": 1,
     "id": "5B3258C7E0856895",
     "value": 1,
-    "label": "寶田轉車站 - 寶田總站 (P3)",
+    "label": "寶田轉車站 - 寶田總站 (TM923)",
     "shape": "hexagon",
     "title": "260X",
     "x": -3306.999999999505,
@@ -116560,7 +116582,7 @@
     "borderWidthSelected": 1,
     "id": "6FB7BC1E5BC1E4EE",
     "value": 4,
-    "label": "紅橋 (K3) (TM712)",
+    "label": "紅橋 (TM712)",
     "shape": "hexagon",
     "title": "258A,258S,260X,261X",
     "x": -2258.9999999993893,
@@ -124216,7 +124238,7 @@
     "borderWidthSelected": 1,
     "id": "8C32D9DDB85891A6",
     "value": 3,
-    "label": "紅橋 (K4) (TM711)",
+    "label": "紅橋 (TM711)",
     "shape": "hexagon",
     "title": "58M,68A,N260",
     "x": -2258.000000000493,
@@ -125998,7 +126020,7 @@
     "borderWidthSelected": 1,
     "id": "92DFA68888DB615D",
     "value": 1,
-    "label": "寶田轉車站 - 寶田總站 (P4)",
+    "label": "寶田轉車站 - 寶田總站 (TM924)",
     "shape": "hexagon",
     "title": "67A",
     "x": -3283.0000000004134,
@@ -129584,7 +129606,7 @@
     "borderWidthSelected": 1,
     "id": "9F5B57C2FE7E786D",
     "value": 3,
-    "label": "寶田轉車站 - 寶田總站 (P1)",
+    "label": "寶田轉車站 - 寶田總站 (TM921)",
     "shape": "hexagon",
     "title": "258X,261S,58M",
     "x": -3316.9999999998367,
@@ -135271,7 +135293,7 @@
     "borderWidthSelected": 1,
     "id": "B26245505565A1E0",
     "value": 5,
-    "label": "寶田轉車站 - 寶田 (T1) (TM192)",
+    "label": "寶田轉車站 - 寶田 (TM192)",
     "shape": "hexagon",
     "title": "A34,E33P,E36C,NA33,X33",
     "x": -3297.000000000594,
@@ -147492,7 +147514,7 @@
     "borderWidthSelected": 1,
     "id": "DD56DC2336C878C1",
     "value": 6,
-    "label": "紅橋 (K1) (TM714)",
+    "label": "紅橋 (TM714)",
     "shape": "hexagon",
     "title": "960,960C,960P,960X,N960,P960",
     "x": -2250.999999999692,
