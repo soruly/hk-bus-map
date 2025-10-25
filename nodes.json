@@ -8818,8 +8818,8 @@
     "label": "煜明苑, 昭信路",
     "shape": "hexagon",
     "title": "N691",
-    "x": 26847.999999999673,
-    "y": -31456.00000000002
+    "x": 26846.00000000046,
+    "y": -31454.000000000095
   },
   {
     "borderWidth": 0,
@@ -30187,10 +30187,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "07F45B3B36DFDDAE",
-    "value": 1,
+    "value": 2,
     "label": "青富苑 (TY106)",
     "shape": "hexagon",
-    "title": "49",
+    "title": "49,948B",
     "x": 10694.999999999765,
     "y": -34129.00000000007
   },
@@ -38052,10 +38052,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "1E29A8A8D3F6BABB",
-    "value": 5,
+    "value": 6,
     "label": "深水埗北河街 (SS488)",
     "shape": "hexagon",
-    "title": "118,118P,171,N118,N171",
+    "title": "102,102P,112,171,N122,N171",
     "x": 16232.99999999972,
     "y": -33087.00000000009
   },
@@ -96377,7 +96377,7 @@
     "value": 1,
     "label": "青富苑 (TY105)",
     "shape": "hexagon",
-    "title": "948B",
+    "title": "X42C",
     "x": 10694.999999999765,
     "y": -34129.00000000007
   },
@@ -107406,17 +107406,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "5159E5E97EA88D9D",
-    "value": 4,
-    "label": "深水埗北河街 (SS487)",
-    "shape": "hexagon",
-    "title": "102,102P,112,N122",
-    "x": 16225.000000000022,
-    "y": -33093.999999999825
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "515ECE2791A22276",
     "value": 1,
     "label": "心誠中學 (ND245)",
@@ -109783,10 +109772,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "591FA32FB4B53682",
-    "value": 7,
+    "value": 8,
     "label": "形點 I (YL405)",
     "shape": "hexagon",
-    "title": "968,968A,968X,B9,N269,N368,P968",
+    "title": "968,968A,968X,B9,N269,N276,N368,P968",
     "x": 3645.000000000209,
     "y": -44506.00000000016
   },
@@ -113369,10 +113358,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "652BD65D62F807DE",
-    "value": 2,
+    "value": 5,
     "label": "深水埗北河街 (SS489)",
     "shape": "hexagon",
-    "title": "904,905",
+    "title": "118,118P,904,905,N118",
     "x": 16239.000000000204,
     "y": -33081.99999999992
   },
@@ -117648,10 +117637,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "73CDC61EBA1C9431",
-    "value": 12,
+    "value": 11,
     "label": "形點 I (YL408)",
     "shape": "hexagon",
-    "title": "251C,264R,265S,276,276C,276P,54,64K,64X,76K,77K,N276",
+    "title": "251C,264R,265S,276,276C,276P,54,64K,64X,76K,77K",
     "x": 3645.000000000209,
     "y": -44506.00000000016
   },
@@ -120448,6 +120437,17 @@
     "title": "47X,80X",
     "x": 18612.00000000025,
     "y": -37089.99999999989
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "7E97DE06FCADF324",
+    "value": 7,
+    "label": "長青邨青梅樓",
+    "shape": "hexagon",
+    "title": "241X,243M,249M,42C,43B,49,49A",
+    "x": 10689.000000000704,
+    "y": -35003.99999999999
   },
   {
     "borderWidth": 0,
