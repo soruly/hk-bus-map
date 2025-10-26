@@ -118417,6 +118417,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "76441824D4E31948",
+    "value": 1,
+    "label": "龍鼓灘",
+    "shape": "hexagon",
+    "title": "52S",
+    "x": -7968.999999999937,
+    "y": -38905.0000000001
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "76457B949CBCDE7B",
     "value": 1,
     "label": "灣景花園總站 (TW989)",
@@ -121020,6 +121031,17 @@
     "title": "58M,68A",
     "x": -2222.0000000004347,
     "y": -39169.00000000005
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "808560798B6F771E",
+    "value": 1,
+    "label": "火炭(山尾街)總站 (FT950)",
+    "shape": "hexagon",
+    "title": "73A",
+    "x": 19428.99999999952,
+    "y": -39635.000000000175
   },
   {
     "borderWidth": 0,
