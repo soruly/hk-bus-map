@@ -30187,10 +30187,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "07F45B3B36DFDDAE",
-    "value": 2,
+    "value": 3,
     "label": "青富苑 (TY106)",
     "shape": "hexagon",
-    "title": "49,948B",
+    "title": "49,948B,X42C",
     "x": 10694.999999999765,
     "y": -34129.00000000007
   },
@@ -96369,17 +96369,6 @@
     "title": "240X,82C,83K,83S,83X,85A,86,89S,90,N182,N283",
     "x": 21372.999999999818,
     "y": -38178.999999999876
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "2FAF68030407DC8F",
-    "value": 1,
-    "label": "青富苑 (TY105)",
-    "shape": "hexagon",
-    "title": "X42C",
-    "x": 10694.999999999765,
-    "y": -34129.00000000007
   },
   {
     "borderWidth": 0,
