@@ -32045,17 +32045,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "0EB21C27E769261B",
-    "value": 10,
-    "label": "黃大仙轉車站-黃大仙廟 (WT715)",
-    "shape": "hexagon",
-    "title": "290,290A,290E,290X,33,33B,38,38P,40P,N290",
-    "x": 19536.999999999694,
-    "y": -34147.0000000001
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "0ECA7118ADB9577B",
     "value": 1,
     "label": "會議道 (WC180)",
@@ -37156,17 +37145,6 @@
     "title": "259S,960B",
     "x": -2607.999999999322,
     "y": -39410.00000000017
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "1B38FC0124479B7F",
-    "value": 4,
-    "label": "砵典乍街 (CW777)",
-    "shape": "hexagon",
-    "title": "600,603,603S,673P",
-    "x": 15730.000000000644,
-    "y": -28358.000000000062
   },
   {
     "borderWidth": 0,
@@ -100366,17 +100344,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "3B05BCDB33F79D39",
-    "value": 2,
-    "label": "怡和街 (WC652)",
-    "shape": "hexagon",
-    "title": "936,936A",
-    "x": 18536.000000000284,
-    "y": -27981.000000000124
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "3B16EE96D0A7BA72",
     "value": 1,
     "label": "欣明苑 (TK438)",
@@ -105284,10 +105251,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "4AA350AD8FFF4786",
-    "value": 4,
+    "value": 8,
     "label": "砵典乍街 (CW776)",
     "shape": "hexagon",
-    "title": "960A,960C,960P,960S",
+    "title": "600,603,603S,673P,960A,960C,960P,960S",
     "x": 15757.000000000688,
     "y": -28325.99999999985
   },
@@ -112566,10 +112533,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "62A1C8EFAC876BDB",
-    "value": 9,
+    "value": 19,
     "label": "黃大仙轉車站-黃大仙廟 (WT714)",
     "shape": "hexagon",
-    "title": "214,214P,234D,2F,3C,40,42C,N214,X42C",
+    "title": "214,214P,234D,290,290A,290E,290X,2F,33,33B,38,38P,3C,40,40P,42C,N214,N290,X42C",
     "x": 19536.999999999694,
     "y": -34147.0000000001
   },
@@ -138031,10 +137998,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "BBFDDE87E6A6DD13",
-    "value": 9,
+    "value": 11,
     "label": "怡和街 (WC651)",
     "shape": "hexagon",
-    "title": "673,673A,960C,960P,960S,961,968,N368,P968",
+    "title": "673,673A,936,936A,960C,960P,960S,961,968,N368,P968",
     "x": 18536.000000000284,
     "y": -27981.000000000124
   },
