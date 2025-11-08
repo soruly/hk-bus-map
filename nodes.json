@@ -29505,10 +29505,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "0524415976F284A4",
-    "value": 4,
+    "value": 3,
     "label": "柯士甸道西",
     "shape": "hexagon",
-    "title": "PB2A,PB2B,PBS1,PBW1",
+    "title": "PB2A,PB2B,PBS1",
     "x": 15961.00000000007,
     "y": -30262.0000000001
   },
@@ -89939,10 +89939,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20021418",
-    "value": 1,
+    "value": 2,
     "label": "攸壆路簡約公屋（南）",
     "shape": "hexagon",
-    "title": "36A",
+    "title": "36,36A",
     "x": 5066.999999999666,
     "y": -47559.000000000044
   },
@@ -90990,6 +90990,17 @@
     "title": "55",
     "x": 13352.00000000043,
     "y": -28415.999999999996
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20022339",
+    "value": 1,
+    "label": "攸壆路簡約公屋（北）",
+    "shape": "hexagon",
+    "title": "36",
+    "x": 5342.000000000269,
+    "y": -47955.999999999935
   },
   {
     "borderWidth": 0,
@@ -95328,17 +95339,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "2C02B3FE178DC965",
-    "value": 1,
-    "label": "柯士甸道",
-    "shape": "hexagon",
-    "title": "PBW1",
-    "x": 17104.000000000495,
-    "y": -30312.999999999945
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "2C09A04B7BEC82F9",
     "value": 1,
     "label": "杏花邨總站",
@@ -96924,10 +96924,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "31005C82D70F6B09",
-    "value": 12,
+    "value": 6,
     "label": "彩蒲苑彩碧閣 (ND105)",
     "shape": "hexagon",
-    "title": "261X,270R,276A,276B,276C,76,76K,978,978A,N373,N73,T270",
+    "title": "261X,276A,978,978A,N373,N73",
     "x": 12470.000000000426,
     "y": -50292.99999999992
   },
@@ -113523,10 +113523,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "658F28C339443C17",
-    "value": 2,
+    "value": 1,
     "label": "奧運(海泓道)",
     "shape": "hexagon",
-    "title": "PB2B,PBW1",
+    "title": "PB2B",
     "x": 16432.000000000357,
     "y": -31436.000000000065
   },
@@ -116680,10 +116680,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "7033D904840D5F18",
-    "value": 2,
+    "value": 1,
     "label": "曼克頓山",
     "shape": "hexagon",
-    "title": "PBS1,PBW1",
+    "title": "PBS1",
     "x": 14257.999999999527,
     "y": -33411.99999999986
   },
@@ -123026,17 +123026,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "875B01AC78127A53",
-    "value": 1,
-    "label": "荃灣馬頭壩道",
-    "shape": "hexagon",
-    "title": "PBW1",
-    "x": 11535.000000000651,
-    "y": -36685.999999999905
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "876057D899CE09C9",
     "value": 7,
     "label": "彩暉花園 (TM293)",
@@ -126843,17 +126832,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "95A40BF00DBAB2B8",
-    "value": 1,
-    "label": "星光大道",
-    "shape": "hexagon",
-    "title": "PBW1",
-    "x": 17718.999999999596,
-    "y": -29651.00000000014
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "95A8334E0385A5E7",
     "value": 6,
     "label": "葵芳邨 (KW107)",
@@ -129814,10 +129792,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "A02CB1283981A937",
-    "value": 4,
+    "value": 3,
     "label": "港鐵荃灣西站",
     "shape": "hexagon",
-    "title": "331S,PB1A,PBD2,PBW1",
+    "title": "331S,PB1A,PBD2",
     "x": 11202.000000000113,
     "y": -36843.99999999996
   },
@@ -144619,17 +144597,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "D39BE9923B1C7294",
-    "value": 1,
-    "label": "美孚荔灣道",
-    "shape": "hexagon",
-    "title": "PBW1",
-    "x": 13893.0000000002,
-    "y": -33988.00000000009
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "D39CFEB43490567F",
     "value": 3,
     "label": "北葵涌街市 (KW225)",
@@ -152572,17 +152539,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "EF8E1150891E5725",
-    "value": 1,
-    "label": "廣東道",
-    "shape": "hexagon",
-    "title": "PBW1",
-    "x": 16870.000000000116,
-    "y": -29876.000000000146
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "EFA71508B2EBD9B9",
     "value": 1,
     "label": "怡泰街 (ED386)",
@@ -152782,10 +152738,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "F050648C108571ED",
-    "value": 4,
+    "value": 3,
     "label": "香港故宮文化博物館",
     "shape": "hexagon",
-    "title": "PB2A,PB2B,PBS1,PBW1",
+    "title": "PB2A,PB2B,PBS1",
     "x": 15601.999999999805,
     "y": -30152.999999999964
   },
