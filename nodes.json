@@ -5239,10 +5239,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001495",
-    "value": 8,
+    "value": 9,
     "label": "創紀之城, 觀塘道",
     "shape": "hexagon",
-    "title": "55,A22,A29,E22,E22S,E22X,N29,NA29",
+    "title": "55,78C,A22,A29,E22,E22S,E22X,N29,NA29",
     "x": 22087.999999999396,
     "y": -31431.99999999986
   },
@@ -19242,10 +19242,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002925",
-    "value": 2,
+    "value": 3,
     "label": "駿才街",
     "shape": "hexagon",
-    "title": "795,796X",
+    "title": "793,795,796X",
     "x": 27379.00000000053,
     "y": -28353.999999999858
   },
@@ -19253,10 +19253,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002926",
-    "value": 2,
+    "value": 3,
     "label": "駿盈街",
     "shape": "hexagon",
-    "title": "795,796X",
+    "title": "793,795,796X",
     "x": 27373.000000000047,
     "y": -28431.00000000014
   },
@@ -28119,10 +28119,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003886",
-    "value": 2,
+    "value": 4,
     "label": "西沙灣",
     "shape": "hexagon",
-    "title": "580,586",
+    "title": "580,581,582,586",
     "x": 26703.99999999944,
     "y": -42633.00000000001
   },
@@ -91391,10 +91391,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "21466046C6868AA7",
-    "value": 22,
+    "value": 23,
     "label": "機場(地面運輸中心)巴士總站",
     "shape": "hexagon",
-    "title": "A31,A33,A33X,A34,A36,A37,A38,A41,A42,A43,A43P,A46,A47X,E33,E33P,E36,E36P,E36S,E37,E42,N31,NA36",
+    "title": "A31,A33,A33X,A34,A36,A37,A38,A41,A41P,A42,A43,A43P,A46,A47X,E33,E33P,E36,E36P,E36S,E37,E42,N31,NA36",
     "x": -6247.000000000469,
     "y": -31259.999999999978
   },
@@ -95428,10 +95428,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "2C5CA5F47FB6EB3F",
-    "value": 11,
+    "value": 12,
     "label": "樟木頭帝琴灣 (SK300)",
     "shape": "hexagon",
-    "title": "287,289R,299X,33R,40E,74R,85P,87E,99,99R,X89D",
+    "title": "287,289R,299X,33R,40E,74R,85P,87E,99,99R,A41P,X89D",
     "x": 25096.999999999527,
     "y": -43021.99999999985
   },
@@ -102171,10 +102171,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "40C9465E380F04C5",
-    "value": 7,
+    "value": 8,
     "label": "輋下 (SK302)",
     "shape": "hexagon",
-    "title": "287,289R,299X,33R,74R,99,99R",
+    "title": "287,289R,299X,33R,74R,99,99R,A41P",
     "x": 26086.999999999705,
     "y": -42892.00000000015
   },
@@ -110807,7 +110807,7 @@
     "borderWidthSelected": 1,
     "id": "5CA7841E84D52C8A",
     "value": 23,
-    "label": "旺角街市 (MK627)",
+    "label": "旺角街市, 地區康健中心 (MK627)",
     "shape": "hexagon",
     "title": "13,13D,16,16P,16X,18,241X,242X,265B,270B,270E,27X,32,33A,37,41A,43C,904,905,93P,N283,N293,N41X",
     "x": 16697.999999999523,
@@ -115327,10 +115327,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "6B775855F6FB16D9",
-    "value": 7,
+    "value": 8,
     "label": "泥涌 (SK301)",
     "shape": "hexagon",
-    "title": "287,289R,299X,33R,74R,99,99R",
+    "title": "287,289R,299X,33R,74R,99,99R,A41P",
     "x": 25682.000000000473,
     "y": -43062.00000000011
   },
@@ -116334,6 +116334,17 @@
     "title": "74K",
     "x": 20547.999999999432,
     "y": -45870.99999999999
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "6F03615DDC0F7502",
+    "value": 1,
+    "label": "輋下 (SK218a)",
+    "shape": "hexagon",
+    "title": "A41P",
+    "x": 26130.99999999946,
+    "y": -42798.00000000016
   },
   {
     "borderWidth": 0,
@@ -117962,6 +117973,17 @@
     "title": "104,2D,6D,6E,6P",
     "x": 17194.00000000064,
     "y": -33066.000000000175
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "74775F172FABD878",
+    "value": 1,
+    "label": "西沙灣交通交匯處 (SK981)",
+    "shape": "hexagon",
+    "title": "A41P",
+    "x": 26703.99999999944,
+    "y": -42639.00000000014
   },
   {
     "borderWidth": 0,
@@ -119618,7 +119640,7 @@
     "borderWidthSelected": 1,
     "id": "7ADC6D521E6BECE6",
     "value": 16,
-    "label": "旺角街市 (MK626)",
+    "label": "旺角街市, 地區康健中心 (MK626)",
     "shape": "hexagon",
     "title": "268X,269X,272E,272X,281E,287D,287X,52P,52X,63X,66X,68X,72X,87B,887,N368",
     "x": 16701.999999999374,
@@ -120360,6 +120382,17 @@
     "title": "86K,86S,89S,99,99R",
     "x": 23178.000000000055,
     "y": -42460.00000000017
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "7E289B9FFDF77CAE",
+    "value": 1,
+    "label": "田寮 (SK217a)",
+    "shape": "hexagon",
+    "title": "A41P",
+    "x": 26250.000000000284,
+    "y": -42559.999999999935
   },
   {
     "borderWidth": 0,
@@ -124061,10 +124094,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "8AD4B244D6A50BDB",
-    "value": 1,
+    "value": 2,
     "label": "西沙 GO PARK (SK205)",
     "shape": "hexagon",
-    "title": "287",
+    "title": "287,A41P",
     "x": 26578.999999999553,
     "y": -42702.99999999985
   },
@@ -130975,6 +131008,17 @@
     "title": "68A,X42P",
     "x": 10742.99999999937,
     "y": -36029.999999999876
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "A39754C80FFB1590",
+    "value": 1,
+    "label": "樟木頭帝琴灣 (SK220a)",
+    "shape": "hexagon",
+    "title": "A41P",
+    "x": 25117.00000000019,
+    "y": -43009.99999999995
   },
   {
     "borderWidth": 0,
@@ -140957,10 +141001,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "C67E139743E66D71",
-    "value": 7,
+    "value": 8,
     "label": "馬牯纜 (SK303)",
     "shape": "hexagon",
-    "title": "287,289R,299X,33R,74R,99,99R",
+    "title": "287,289R,299X,33R,74R,99,99R,A41P",
     "x": 26273.999999999374,
     "y": -42573.00000000015
   },
@@ -147112,6 +147156,17 @@
     "title": "116,203E,2P,3B,3D,3M,5,N116,N3D",
     "x": 20722.000000000662,
     "y": -33979.00000000007
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "DB78ADF2386771E5",
+    "value": 1,
+    "label": "西澳 (SK219a)",
+    "shape": "hexagon",
+    "title": "A41P",
+    "x": 25414.999999999567,
+    "y": -43073.00000000005
   },
   {
     "borderWidth": 0,
