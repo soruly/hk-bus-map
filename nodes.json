@@ -28173,6 +28173,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "003888",
+    "value": 1,
+    "label": "德福大廈, 偉業街",
+    "shape": "hexagon",
+    "title": "589",
+    "x": 21134.0000000007,
+    "y": -32301.999999999964
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "003890",
     "value": 2,
     "label": "維港．灣畔, 承豐道",
@@ -28301,6 +28312,17 @@
     "title": "20A,22,22D,22M",
     "x": 21110.000000000186,
     "y": -30900.000000000106
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003908",
+    "value": 1,
+    "label": "德福廣場, 偉業街",
+    "shape": "hexagon",
+    "title": "589",
+    "x": 21160.99999999932,
+    "y": -32298.000000000116
   },
   {
     "borderWidth": 0,
@@ -98837,17 +98859,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "35462A8C97E8A506",
-    "value": 1,
-    "label": "何文田佛光街",
-    "shape": "hexagon",
-    "title": "PB3A",
-    "x": 18032.99999999979,
-    "y": -31685.999999999836
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "3546486D807D1FF5",
     "value": 1,
     "label": "大窩村",
@@ -105488,17 +105499,6 @@
     "title": "274,286C,40E,40X,680,680X,85P,86C,87E,87R,89D,89S,97,980X,N287,X89D",
     "x": 23851.00000000051,
     "y": -42395.00000000014
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "4B63964A12D91E2A",
-    "value": 2,
-    "label": "葵芳興寧路",
-    "shape": "hexagon",
-    "title": "PB1A,PBS2",
-    "x": 12726.999999999578,
-    "y": -35792.99999999996
   },
   {
     "borderWidth": 0,
@@ -128736,10 +128736,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "9C9F817064169CE7",
-    "value": 20,
+    "value": 19,
     "label": "機場博覽館 (CL320)",
     "shape": "hexagon",
-    "title": "A30,A31,A32,A33,A33X,A34,A36,A37,A41,A41P,A43P,A47X,S1,S64X,X1,X33,X36,X40,X43,X47",
+    "title": "A30,A31,A32,A33,A34,A36,A37,A41,A41P,A43P,A47X,S1,S64X,X1,X33,X36,X40,X43,X47",
     "x": -5955.000000000155,
     "y": -31941.00000000013
   },
@@ -135280,17 +135280,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "B1F2121578803972",
-    "value": 2,
-    "label": "銅鑼灣興發街",
-    "shape": "hexagon",
-    "title": "PB3A,PB3B",
-    "x": 19113.000000000113,
-    "y": -28359.000000000022
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "B20A1163984772C9",
     "value": 4,
     "label": "八鄉新馬路 (YL657)",
@@ -140373,17 +140362,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "C460A691CD8212DF",
-    "value": 1,
-    "label": "九龍塘多福道",
-    "shape": "hexagon",
-    "title": "PB3A",
-    "x": 17655.999999999494,
-    "y": -33599.999999999854
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "C466F7104D101BED",
     "value": 1,
     "label": "力寶中心",
@@ -142547,17 +142525,6 @@
     "title": "A33X,E33P",
     "x": -1764.00000000001,
     "y": -40977.000000000175
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "CC43907C8D4CED33",
-    "value": 1,
-    "label": "香港黃金海岸",
-    "shape": "hexagon",
-    "title": "PB2B",
-    "x": -1042.9999999999495,
-    "y": -37256
   },
   {
     "borderWidth": 0,
@@ -145994,17 +145961,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "D807FB5CE82945A2",
-    "value": 1,
-    "label": "旺角MOKO",
-    "shape": "hexagon",
-    "title": "PB3A",
-    "x": 17256.999999999323,
-    "y": -32460.999999999985
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "D813C93D9AD1C45B",
     "value": 12,
     "label": "景湖居 (TN240)",
@@ -147193,17 +147149,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "DBC89D4632BE523C",
-    "value": 1,
-    "label": "深井(麗都花園)",
-    "shape": "hexagon",
-    "title": "PB2B",
-    "x": 5871.999999999389,
-    "y": -36639.99999999987
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "DBD6820299653B4E",
     "value": 1,
     "label": "屯門站總站 (V5) (TM956)",
@@ -147816,17 +147761,6 @@
     "title": "600",
     "x": 19938.999999999396,
     "y": -29085.999999999858
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "DEB240F39E92A5B9",
-    "value": 1,
-    "label": "深井(海韻花園)",
-    "shape": "hexagon",
-    "title": "PB2B",
-    "x": 6077.999999999406,
-    "y": -36777.000000000015
   },
   {
     "borderWidth": 0,
@@ -150549,10 +150483,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "E85A10E61A00CC09",
-    "value": 2,
+    "value": 1,
     "label": "北角匯",
     "shape": "hexagon",
-    "title": "PB3A,PB3B",
+    "title": "PB3B",
     "x": 20203.999999999665,
     "y": -29278.000000000047
   },
@@ -154086,6 +154020,17 @@
     "title": "60M",
     "x": -2403.9999999999395,
     "y": -39130.00000000011
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "F493236404A4FABF",
+    "value": 1,
+    "label": "元朗 形點",
+    "shape": "hexagon",
+    "title": "PB2A",
+    "x": 3737.999999999886,
+    "y": -44501.999999999956
   },
   {
     "borderWidth": 0,
