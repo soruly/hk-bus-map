@@ -5613,10 +5613,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001529",
-    "value": 14,
+    "value": 13,
     "label": "亞皆老街遊樂場, 馬頭涌道",
     "shape": "hexagon",
-    "title": "101,101R,106,106P,107,111,116,20A,796X,A22,E23,E23A,N121,N23",
+    "title": "101,101R,106,106P,107,111,116,796X,A22,E23,E23A,N121,N23",
     "x": 18953.99999999938,
     "y": -32642.999999999844
   },
@@ -28294,6 +28294,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "003901",
+    "value": 2,
+    "label": "啟德橋道",
+    "shape": "hexagon",
+    "title": "20A,22M",
+    "x": 20598.99999999999,
+    "y": -31496.999999999887
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "003907",
     "value": 4,
     "label": "承景街, 承豐道",
@@ -28356,6 +28367,50 @@
     "title": "55",
     "x": 22566.99999999938,
     "y": -30812.999999999847
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003917",
+    "value": 2,
+    "label": "深水埗公園, 通州街",
+    "shape": "hexagon",
+    "title": "701,701S",
+    "x": 15498.999999999796,
+    "y": -33046.999999999825
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003932",
+    "value": 1,
+    "label": "宋皇臺站, 世運道",
+    "shape": "hexagon",
+    "title": "20A",
+    "x": 19056.999999999392,
+    "y": -32687.999999999916
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003933",
+    "value": 1,
+    "label": "啟德簡約公屋, 世運道",
+    "shape": "hexagon",
+    "title": "20A",
+    "x": 19431.000000000153,
+    "y": -33004.99999999999
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003935",
+    "value": 1,
+    "label": "宋皇臺站, 世運道",
+    "shape": "hexagon",
+    "title": "20A",
+    "x": 19026.999999999818,
+    "y": -32601.000000000015
   },
   {
     "borderWidth": 0,
