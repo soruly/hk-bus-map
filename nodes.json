@@ -5613,10 +5613,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001529",
-    "value": 13,
+    "value": 14,
     "label": "亞皆老街遊樂場, 馬頭涌道",
     "shape": "hexagon",
-    "title": "101,101R,106,106P,107,111,116,796X,A22,E23,E23A,N121,N23",
+    "title": "101,101R,106,106P,107,111,116,20A,796X,A22,E23,E23A,N121,N23",
     "x": 18953.99999999938,
     "y": -32642.999999999844
   },
@@ -13170,10 +13170,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002275",
-    "value": 3,
+    "value": 4,
     "label": "赤柱警署, 赤柱村道",
     "shape": "hexagon",
-    "title": "14,314,H4",
+    "title": "14,314,H3,H4",
     "x": 21300.9999999997,
     "y": -21852.00000000016
   },
@@ -13478,10 +13478,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002305",
-    "value": 7,
+    "value": 8,
     "label": "赤柱監獄, 東頭灣道",
     "shape": "hexagon",
-    "title": "14,260,314,6,63,6X,73",
+    "title": "14,260,314,6,63,6X,73,H3",
     "x": 21765.99999999951,
     "y": -21550.999999999833
   },
@@ -38289,17 +38289,6 @@
     "title": "1,113,12A,1A,42,6D,6E,6P,7B",
     "x": 18558.000000000164,
     "y": -32738.000000000156
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "1E5B31D284632D4B",
-    "value": 1,
-    "label": "維多利亞公園",
-    "shape": "hexagon",
-    "title": "PN7",
-    "x": 18685.99999999958,
-    "y": -28044.999999999833
   },
   {
     "borderWidth": 0,
@@ -83668,17 +83657,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20016993",
-    "value": 1,
-    "label": "明愛醫院小巴總站",
-    "shape": "hexagon",
-    "title": "45M",
-    "x": 15328.999999999836,
-    "y": -34105.99999999988
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20016996",
     "value": 1,
     "label": "東京街, 近美寧中心",
@@ -87107,17 +87085,6 @@
     "title": "507",
     "x": 14244.999999999663,
     "y": -50068.999999999876
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20019006",
-    "value": 4,
-    "label": "黃大仙公共小型巴士(專線)服務總站",
-    "shape": "hexagon",
-    "title": "18M,37A,37M,38M",
-    "x": 19517.999999999345,
-    "y": -34296.000000000146
   },
   {
     "borderWidth": 0,
@@ -91142,8 +91109,8 @@
     "label": "明愛醫院小巴總站",
     "shape": "hexagon",
     "title": "45M",
-    "x": 15227.000000000146,
-    "y": -34083.000000000044
+    "x": 15225.999999999829,
+    "y": -34082.00000000008
   },
   {
     "borderWidth": 0,
@@ -91154,7 +91121,7 @@
     "shape": "hexagon",
     "title": "45M",
     "x": 15738.00000000034,
-    "y": -33915.00000000001
+    "y": -33914.000000000044
   },
   {
     "borderWidth": 0,
@@ -91164,7 +91131,7 @@
     "label": "欽州街，西九龍中心對面",
     "shape": "hexagon",
     "title": "45M",
-    "x": 16004.999999999825,
+    "x": 16003.999999999507,
     "y": -33053.99999999992
   },
   {
@@ -91175,8 +91142,8 @@
     "label": "欽州街, 近西九龍中心",
     "shape": "hexagon",
     "title": "45M",
-    "x": 16048.000000000684,
-    "y": -33136.00000000001
+    "x": 16047.000000000367,
+    "y": -33135.00000000005
   },
   {
     "borderWidth": 0,
@@ -91186,7 +91153,7 @@
     "label": "長沙灣道, 近怡靖苑寧靜閣",
     "shape": "hexagon",
     "title": "45M",
-    "x": 15952.000000000055,
+    "x": 15950.999999999738,
     "y": -33275.00000000008
   },
   {
@@ -91208,7 +91175,7 @@
     "label": "永明街, 近天主教南華中學",
     "shape": "hexagon",
     "title": "45M",
-    "x": 15155.00000000003,
+    "x": 15153.999999999713,
     "y": -34068.99999999986
   },
   {
@@ -91220,7 +91187,29 @@
     "shape": "hexagon",
     "title": "68",
     "x": 21434.999999999603,
-    "y": -32458.0000000001
+    "y": -32457.000000000135
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20022570",
+    "value": 1,
+    "label": "明愛醫院小巴總站",
+    "shape": "hexagon",
+    "title": "45M",
+    "x": 15345.999999999549,
+    "y": -34109.000000000124
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20022571",
+    "value": 4,
+    "label": "黃大仙公共小型巴士(專線)服務總站",
+    "shape": "hexagon",
+    "title": "18M,37A,37M,38M",
+    "x": 19531.000000000633,
+    "y": -34328.99999999996
   },
   {
     "borderWidth": 0,
@@ -92337,10 +92326,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "232DC1B2BE92C86F",
-    "value": 2,
+    "value": 1,
     "label": "灣仔海濱",
     "shape": "hexagon",
-    "title": "PB2A,PN7",
+    "title": "PB2A",
     "x": 17929.999999999778,
     "y": -28286.999999999905
   },
@@ -97645,17 +97634,6 @@
     "title": "37A,37H",
     "x": -6153.999999999371,
     "y": -28885.000000000004
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "321060BAE1447BEE",
-    "value": 1,
-    "label": "荃灣站",
-    "shape": "hexagon",
-    "title": "PN7",
-    "x": 11929.000000000655,
-    "y": -37274.99999999999
   },
   {
     "borderWidth": 0,
@@ -105697,17 +105675,6 @@
     "title": "274,286C,40E,40X,680,680X,85P,86C,87E,87R,89D,89S,97,980X,N287,X89D",
     "x": 23851.00000000051,
     "y": -42395.00000000014
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "4B63964A12D91E2A",
-    "value": 1,
-    "label": "葵芳葵富路",
-    "shape": "hexagon",
-    "title": "PN7",
-    "x": -220532.00000000003,
-    "y": -35821.999999999935
   },
   {
     "borderWidth": 0,
@@ -114997,10 +114964,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "693C1DEE3AEEEE51",
-    "value": 2,
+    "value": 1,
     "label": "軒尼詩道",
     "shape": "hexagon",
-    "title": "945,PN7",
+    "title": "945",
     "x": 17242.000000000247,
     "y": -27757.000000000076
   },
@@ -130210,10 +130177,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "A02CB1283981A937",
-    "value": 5,
+    "value": 4,
     "label": "港鐵荃灣西站",
     "shape": "hexagon",
-    "title": "331S,PB2B,PBD2,PBW5,PN7",
+    "title": "331S,PB2B,PBD2,PBW5",
     "x": 11202.000000000113,
     "y": -36843.99999999996
   },
@@ -131668,6 +131635,17 @@
     "title": "945",
     "x": 19109.000000000266,
     "y": -28346.00000000016
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "A4F1BEF1EEAD0910",
+    "value": 6,
+    "label": "錦上路站停車場 (YL673)",
+    "shape": "hexagon",
+    "title": "251B,251C,268,A36,E36,NA36",
+    "x": 6229.999999999336,
+    "y": -43394.99999999994
   },
   {
     "borderWidth": 0,
@@ -134682,6 +134660,17 @@
     "title": "2B,2F,3C,75X",
     "x": 18497.999999999593,
     "y": -34084
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "AECF334FEF4E73C5",
+    "value": 3,
+    "label": "錦上路站停車場 (YL708)",
+    "shape": "hexagon",
+    "title": "251B,251C,268",
+    "x": 6225.000000000591,
+    "y": -43393.000000000015
   },
   {
     "borderWidth": 0,
@@ -138433,6 +138422,17 @@
     "title": "74K",
     "x": 21052.000000000247,
     "y": -45719.000000000065
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "BC05332A477AB8F9",
+    "value": 3,
+    "label": "大窩村 (YL661a)",
+    "shape": "hexagon",
+    "title": "251A,64K,E36P",
+    "x": 7580.000000000098,
+    "y": -42455
   },
   {
     "borderWidth": 0,
@@ -142210,6 +142210,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "C9C4CEEC13D20879",
+    "value": 3,
+    "label": "錦上路站停車場",
+    "shape": "hexagon",
+    "title": "A36,E36,NA36",
+    "x": 6225.000000000591,
+    "y": -43393.000000000015
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "C9E264A3F9D4CEB3",
     "value": 17,
     "label": "大窩口轉車站 -大窩口站 (KW394)",
@@ -142442,10 +142453,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "CAB927254C5D8892",
-    "value": 6,
+    "value": 7,
     "label": "大埔大昌街 (TP675)",
     "shape": "hexagon",
-    "title": "263C,265S,72A,73F,74F,96",
+    "title": "263C,265S,274P,72A,73F,74F,96",
     "x": 18685.99999999958,
     "y": -45717.00000000014
   },
@@ -147693,8 +147704,8 @@
     "label": "天水圍公園 (TN510)",
     "shape": "hexagon",
     "title": "269D",
-    "x": -11400000,
-    "y": 2200000
+    "x": 297.0000000004802,
+    "y": -45447.00000000006
   },
   {
     "borderWidth": 0,
@@ -155730,10 +155741,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "F7EA40235ECCBA38",
-    "value": 1,
+    "value": 2,
     "label": "朗屏站總站 (YL930)",
     "shape": "hexagon",
-    "title": "268C",
+    "title": "268C,268P",
     "x": 2706.999999999482,
     "y": -44932.000000000015
   },
