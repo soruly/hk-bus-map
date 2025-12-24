@@ -39878,10 +39878,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20000240",
-    "value": 11,
-    "label": "黃竹坑道, 英基工業中心",
+    "value": 13,
+    "label": "黃竹坑道 49號",
     "shape": "hexagon",
-    "title": "35M,39M,4A,4B,4C,5,59B,69,N4A,N4C,N4X",
+    "title": "29,35M,39M,4A,4B,4C,5,52,59B,69,N4A,N4C,N4X",
     "x": 16769.99999999964,
     "y": -24935.999999999935
   },
@@ -65980,17 +65980,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20012870",
-    "value": 1,
-    "label": "黃竹坑道, 近塘邊徑",
-    "shape": "hexagon",
-    "title": "52",
-    "x": 16777.00000000044,
-    "y": -24936.999999999898
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20012871",
     "value": 1,
     "label": "淺水灣道, 近麗景道",
@@ -89080,17 +89069,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20020558",
-    "value": 1,
-    "label": "黃竹坑道49號",
-    "shape": "hexagon",
-    "title": "29",
-    "x": 16782.000000000608,
-    "y": -24938.99999999982
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20020590",
     "value": 1,
     "label": "天葵路, 慧景軒對面",
@@ -91199,6 +91177,17 @@
     "title": "18M,37A,37M,38M",
     "x": 19530.000000000313,
     "y": -34328
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20022603",
+    "value": 1,
+    "label": "松嶺路近銅鑼灣山路",
+    "shape": "hexagon",
+    "title": "481B",
+    "x": 17991.00000000067,
+    "y": -37793.99999999988
   },
   {
     "borderWidth": 0,
