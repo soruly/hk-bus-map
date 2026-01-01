@@ -16854,6 +16854,28 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "002662",
+    "value": 1,
+    "label": "聖安當女書院, 鯉魚門道",
+    "shape": "hexagon",
+    "title": "R22",
+    "x": 23852.999999999724,
+    "y": -30017.00000000014
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "002663",
+    "value": 1,
+    "label": "油塘邨, 鯉魚門道",
+    "shape": "hexagon",
+    "title": "R22",
+    "x": 23936.999999999385,
+    "y": -29775.000000000062
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "002664",
     "value": 1,
     "label": "迪欣湖活動中心",
@@ -28977,10 +28999,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "029C4172D953DAF5",
-    "value": 3,
+    "value": 4,
     "label": "啟德(沐元街)",
     "shape": "hexagon",
-    "title": "PB3B,PBD1,PBW4",
+    "title": "PB3B,PBD1,PBW4,PN13",
     "x": 19850.999999999884,
     "y": -33182.000000000044
   },
@@ -29483,10 +29505,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "045FB4EAE4FE52D6",
-    "value": 2,
+    "value": 3,
     "label": "南昌站 (V WALK)",
     "shape": "hexagon",
-    "title": "PB1B,PB2B",
+    "title": "PB1B,PB2B,PN15",
     "x": 15367.999999999427,
     "y": -32800.999999999905
   },
@@ -38294,10 +38316,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "1E5B31D284632D4B",
-    "value": 1,
+    "value": 4,
     "label": "維多利亞公園",
     "shape": "hexagon",
-    "title": "PN9",
+    "title": "PN11,PN13,PN15,PN9",
     "x": 18685.99999999958,
     "y": -28044.999999999833
   },
@@ -92315,10 +92337,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "232DC1B2BE92C86F",
-    "value": 2,
+    "value": 5,
     "label": "灣仔海濱",
     "shape": "hexagon",
-    "title": "PB2A,PN9",
+    "title": "PB2A,PN11,PN13,PN15,PN9",
     "x": 17929.999999999778,
     "y": -28286.999999999905
   },
@@ -111784,6 +111806,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "5F32C53A90CDEB52",
+    "value": 1,
+    "label": "中環 (港澳碼頭)",
+    "shape": "hexagon",
+    "title": "PN11",
+    "x": 15001.999999999782,
+    "y": -28809.00000000004
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "5F60283656DF3016",
     "value": 8,
     "label": "廣東道,新港中心 (YT205)",
@@ -116185,10 +116218,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "6DED9BB3FAD04626",
-    "value": 2,
+    "value": 5,
     "label": "軒尼詩道",
     "shape": "hexagon",
-    "title": "945,PN9",
+    "title": "945,PN11,PN13,PN15,PN9",
     "x": 17239.99999999961,
     "y": -27738.000000000084
   },
@@ -116955,10 +116988,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "7033D904840D5F18",
-    "value": 1,
+    "value": 2,
     "label": "曼克頓山",
     "shape": "hexagon",
-    "title": "PBW5",
+    "title": "PBW5,PN15",
     "x": 14257.999999999527,
     "y": -33411.99999999986
   },
@@ -125787,6 +125820,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "90F0F685E42CC10D",
+    "value": 1,
+    "label": "中環碼頭(民光街)",
+    "shape": "hexagon",
+    "title": "PN11",
+    "x": 16116.999999999847,
+    "y": -28603.000000000022
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "91",
     "value": 1,
     "label": "赤立角新村",
@@ -126212,6 +126256,17 @@
     "title": "76",
     "x": 5075.999999999681,
     "y": -47560.99999999996
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "9252A494500A05C9",
+    "value": 1,
+    "label": "觀塘碼頭 (基業街)",
+    "shape": "hexagon",
+    "title": "PN13",
+    "x": 22114.99999999944,
+    "y": -30918.000000000135
   },
   {
     "borderWidth": 0,
@@ -128192,6 +128247,17 @@
     "title": "33,33X,49,74,T74,T80",
     "x": 21492.000000000644,
     "y": -31589.99999999992
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "993431C67E83B130",
+    "value": 1,
+    "label": "堅尼地城 (科士街)",
+    "shape": "hexagon",
+    "title": "PN11",
+    "x": 12669.99999999996,
+    "y": -28124.000000000036
   },
   {
     "borderWidth": 0,
