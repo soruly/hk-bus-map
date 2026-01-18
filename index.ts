@@ -1,6 +1,6 @@
 import fs from "node:fs/promises";
 
-const getDistance = (a, b) => {
+const getDistance = (a: Location, b: Location) => {
   const R = 6371e3; // metres
   const φ1 = (a.lat * Math.PI) / 180; // φ, λ in radians
   const φ2 = (b.lat * Math.PI) / 180;
@@ -14,7 +14,46 @@ const getDistance = (a, b) => {
   return R * c; // in metres
 };
 
-const { routeList, stopList } = await fetch(
+interface Location {
+  lat: number;
+  lng: number;
+}
+
+interface RouteFareList {
+  holidays: string[];
+  routeList: {
+    [routeId: string]: {
+      name: {
+        zh: string;
+        en: string;
+      };
+      operator: string;
+      type: string;
+      fares: {
+        [direction: string]: {
+          [fareType: string]: number;
+        };
+      };
+      stops: {
+        [operator: string]: string[];
+      };
+    };
+  };
+  stopList: {
+    [stopId: string]: {
+      name: {
+        zh: string;
+        en: string;
+      };
+      location: {
+        lat: number;
+        lng: number;
+      };
+    };
+  };
+}
+
+const { routeList, stopList }: RouteFareList = await fetch(
   "https://hkbus.github.io/hk-bus-crawling/routeFareList.min.json",
 ).then((r) => r.json());
 // const { routeList, stopList } = JSON.parse(await fs.readFile("routeFareList.min.json", "utf-8"));
