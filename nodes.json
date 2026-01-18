@@ -36215,10 +36215,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "17EC583ACAB167BE",
-    "value": 1,
+    "value": 4,
     "label": "啟翔苑 (WT980)",
     "shape": "hexagon",
-    "title": "19",
+    "title": "74A,74B,74X,89B",
     "x": 20332.999999999403,
     "y": -33812.999999999956
   },
@@ -100828,17 +100828,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "3C34422AC69920E7",
-    "value": 1,
-    "label": "啟翔苑 (WT976)",
-    "shape": "hexagon",
-    "title": "74A",
-    "x": 20307.999999999993,
-    "y": -33784.999999999956
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "3C3AFAA5179D7F6D",
     "value": 1,
     "label": "掃管笏 (TM369)",
@@ -106560,10 +106549,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "4EA9AA1416D2A374",
-    "value": 2,
+    "value": 1,
     "label": "咖啡灣 (TM223)",
     "shape": "hexagon",
-    "title": "A33,NA52",
+    "title": "A33",
     "x": -1309.9999999994338,
     "y": -37465.99999999987
   },
@@ -113375,17 +113364,6 @@
     "title": "106,302A,948E,N122",
     "x": 21671.999999999513,
     "y": -28449.000000000167
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "645CC2C9E1C90E69",
-    "value": 1,
-    "label": "啟翔苑 (WT977)",
-    "shape": "hexagon",
-    "title": "89B",
-    "x": 20292.000000000597,
-    "y": -33783.00000000003
   },
   {
     "borderWidth": 0,
@@ -153314,8 +153292,8 @@
     "label": "香港故宮文化博物館",
     "shape": "hexagon",
     "title": "PB1B,PB2A,PB2B,PB3B,PBS1,PBS2,PBW4,PBW5,PN10",
-    "x": 15601.999999999805,
-    "y": -30152.999999999964
+    "x": 15617.000000000302,
+    "y": -30146.999999999836
   },
   {
     "borderWidth": 0,
@@ -157171,10 +157149,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "FC343F5E57B07FBE",
-    "value": 2,
+    "value": 1,
     "label": "啟翔苑 (WT975)",
     "shape": "hexagon",
-    "title": "74B,74X",
+    "title": "19",
     "x": 20320.999999999854,
     "y": -33787.99999999984
   },
