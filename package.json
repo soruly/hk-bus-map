@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/soruly/hk-bus-map#readme",
   "devDependencies": {
-    "prettier": "^3.8.0"
+    "prettier": "^3.8.1"
   },
   "dependencies": {
     "@types/node": "^25.0.9"
