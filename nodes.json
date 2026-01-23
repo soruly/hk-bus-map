@@ -31023,10 +31023,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "0A8E2BA2F75E472E",
-    "value": 5,
+    "value": 6,
     "label": "大埔超級城 (TP390)",
     "shape": "hexagon",
-    "title": "73,74R,96,SP7,W3",
+    "title": "63R,73,74R,96,SP7,W3",
     "x": 17009.000000000186,
     "y": -45100.00000000005
   },
@@ -100103,10 +100103,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "399EF919E10C7F33",
-    "value": 8,
+    "value": 9,
     "label": "太和站 (TP981)",
     "shape": "hexagon",
-    "title": "264R,64K,64X,65K,65X,74C,74D,T74",
+    "title": "264R,63R,64K,64X,65K,65X,74C,74D,T74",
     "x": 16101.000000000455,
     "y": -45086.99999999983
   },
@@ -102067,6 +102067,17 @@
     "title": "16,16P,16X,265B,33A,72X,887,93P,N293",
     "x": 16143.99999999989,
     "y": -31813.999999999964
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "405F3262B401825B",
+    "value": 1,
+    "label": "警犬隊總部 (ND611)",
+    "shape": "hexagon",
+    "title": "73K",
+    "x": 12510.000000000331,
+    "y": -52380.00000000014
   },
   {
     "borderWidth": 0,
@@ -104096,10 +104107,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "46604706EE6CC765",
-    "value": 10,
+    "value": 11,
     "label": "大埔墟站巴士總站 (TP935)",
     "shape": "hexagon",
-    "title": "264R,275R,64K,71A,71K,71S,72C,74K,75K,75P",
+    "title": "264R,275R,63R,64K,71A,71K,71S,72C,74K,75K,75P",
     "x": 16971.99999999981,
     "y": -44361.99999999993
   },
@@ -105428,7 +105439,7 @@
     "borderWidthSelected": 1,
     "id": "4B03758AF99951A6",
     "value": 4,
-    "label": "山西街",
+    "label": "山西街 (HH179)",
     "shape": "hexagon",
     "title": "275X,75X,85,N121",
     "x": 18694.999999999596,
@@ -107374,10 +107385,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "512C07C3D131AB5A",
-    "value": 11,
+    "value": 12,
     "label": "大埔超級城 (TP317)",
     "shape": "hexagon",
-    "title": "271,271B,271X,275X,73,73B,73D,73X,75X,96,W3",
+    "title": "271,271B,271X,275X,63R,73,73B,73D,73X,75X,96,W3",
     "x": 16989.99999999984,
     "y": -45119.000000000044
   },
@@ -118065,6 +118076,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "74A3A3037E047C81",
+    "value": 1,
+    "label": "林村許願樹 (TP860)",
+    "shape": "hexagon",
+    "title": "63R",
+    "x": 14293.000000000688,
+    "y": -45766.000000000065
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "74C0E91D535648A2",
     "value": 1,
     "label": "蓮塘尾 (ND343)",
@@ -122763,10 +122785,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "8581908CE476D2CF",
-    "value": 1,
+    "value": 2,
     "label": "大埔墟站巴士總站 (TP940)",
     "shape": "hexagon",
-    "title": "264R",
+    "title": "264R,63R",
     "x": 16921.000000000673,
     "y": -44367.00000000009
   },
@@ -126590,6 +126612,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "942DAC2706D66A09",
+    "value": 1,
+    "label": "有機回收中心二期 (ND217)",
+    "shape": "hexagon",
+    "title": "73K",
+    "x": 12993.000000000166,
+    "y": -52474.00000000013
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "942E95B4336BDFA7",
     "value": 8,
     "label": "白虹樓 (WT230)",
@@ -128093,6 +128126,17 @@
     "title": "600",
     "x": 20099.000000000444,
     "y": -29120.999999999953
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "9952B8BC5B1655E7",
+    "value": 1,
+    "label": "警犬隊總部 (ND218)",
+    "shape": "hexagon",
+    "title": "73K",
+    "x": 12658.999999999309,
+    "y": -52522.00000000009
   },
   {
     "borderWidth": 0,
@@ -133389,10 +133433,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "AA6F0A2661759A49",
-    "value": 11,
+    "value": 10,
     "label": "牛池灣轉車站-丹鳳樓 (WT702)",
     "shape": "hexagon",
-    "title": "252X,258D,258P,259D,267X,268C,269C,62X,69C,N121,N216",
+    "title": "252X,258D,258P,259D,267X,268C,269C,62X,69C,N216",
     "x": 20754.999999999767,
     "y": -33536.000000000146
   },
@@ -134022,6 +134066,17 @@
     "title": "68A,960,960C,960P,960S,961,961P,961S,N960",
     "x": 1597.9999999998995,
     "y": -36243.99999999994
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "ACC30E66CCF123BC",
+    "value": 1,
+    "label": "有機回收中心二期 (ND612)",
+    "shape": "hexagon",
+    "title": "73K",
+    "x": 12842.000000000553,
+    "y": -52631.99999999983
   },
   {
     "borderWidth": 0,
@@ -138515,10 +138570,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "BCC83D8C953DC504",
-    "value": 3,
+    "value": 4,
     "label": "坑下甫 (TP195)",
     "shape": "hexagon",
-    "title": "64K,65K,T74",
+    "title": "63R,64K,65K,T74",
     "x": 14414.999999999622,
     "y": -45745.000000000146
   },
@@ -142970,10 +143025,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "CCC4773031BC0FD8",
-    "value": 5,
+    "value": 6,
     "label": "太和廣場 (TP336)",
     "shape": "hexagon",
-    "title": "264R,64K,64P,N73,T74",
+    "title": "264R,63R,64K,64P,N73,T74",
     "x": 16071.999999999774,
     "y": -45073.99999999997
   },
@@ -156913,6 +156968,17 @@
     "title": "107,13X,24,28B,5D,74A,N213",
     "x": 20865.00000000058,
     "y": -32651.999999999858
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "FC119E7F0F340385",
+    "value": 1,
+    "label": "缸瓦甫香港警察學院 (ND613)",
+    "shape": "hexagon",
+    "title": "73K",
+    "x": 13269.999999999982,
+    "y": -52511.00000000015
   },
   {
     "borderWidth": 0,
