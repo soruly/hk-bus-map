@@ -32914,6 +32914,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "101D11C1C433CEC5",
+    "value": 1,
+    "label": "粉嶺公路轉車站(A3) (TP101)",
+    "shape": "hexagon",
+    "title": "W3",
+    "x": 15270.999999999902,
+    "y": -48478.000000000065
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "101E821CA2F6D853",
     "value": 2,
     "label": "大窩口轉車站 -大窩口站 (KW395)",
@@ -150296,10 +150307,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "E6022594DB48E35B",
-    "value": 9,
+    "value": 8,
     "label": "粉嶺公路轉車站(A3) (TP101)",
     "shape": "hexagon",
-    "title": "270A,270B,270C,270D,270P,278A,278X,78S,W3",
+    "title": "270A,270B,270C,270D,270P,278A,278X,78S",
     "x": 15270.999999999902,
     "y": -48478.000000000065
   },
