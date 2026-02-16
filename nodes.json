@@ -114975,10 +114975,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "6A4B371546D489BF",
-    "value": 14,
+    "value": 13,
     "label": "形點 I (YL242)",
     "shape": "hexagon",
-    "title": "251C,264R,54,64K,68,68E,68F,68M,76K,77K,869,B9,N269,N368",
+    "title": "251C,264R,54,64K,68,68E,68F,68M,76K,77K,869,N269,N368",
     "x": 3597.9999999995016,
     "y": -44432.00000000012
   },
