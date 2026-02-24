@@ -2,29 +2,27 @@
   "name": "hk-bus-map",
   "version": "1.0.0",
   "description": "",
-  "main": "index.ts",
-  "type": "module",
-  "scripts": {
-    "build": "node index.ts",
-    "prettier": "prettier",
-    "format": "prettier --write \"**/*.ts\"",
-    "lint": "prettier --check \"**/*.ts\"",
-    "test": "prettier --check \"**/*.ts\""
+  "homepage": "https://github.com/soruly/hk-bus-map#readme",
+  "bugs": {
+    "url": "https://github.com/soruly/hk-bus-map/issues"
   },
+  "license": "MIT",
+  "author": "soruly",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/soruly/hk-bus-map.git"
   },
-  "author": "soruly",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/soruly/hk-bus-map/issues"
+  "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "build": "node index.ts",
+    "oxfmt": "oxfmt",
+    "format": "oxfmt --write \"**/*.*\"",
+    "lint": "oxfmt --check \"**/*.*\"",
+    "test": "oxfmt --check \"**/*.*\""
   },
-  "homepage": "https://github.com/soruly/hk-bus-map#readme",
   "devDependencies": {
-    "prettier": "^3.8.1"
-  },
-  "dependencies": {
-    "@types/node": "^25.3.0"
+    "@types/node": "^25.3.0",
+    "oxfmt": "^0.35.0"
   }
 }
