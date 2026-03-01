@@ -38293,17 +38293,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "1E5278D8C44ACD9E",
-    "value": 1,
-    "label": "東華三院東蒲",
-    "shape": "hexagon",
-    "title": "PB2",
-    "x": 19952.00000000068,
-    "y": -33528.000000000095
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "1E58DF8CAD59712E",
     "value": 9,
     "label": "聖德肋撒醫院 (KC245)",
@@ -38311,17 +38300,6 @@
     "title": "1,113,12A,1A,42,6D,6E,6P,7B",
     "x": 18558.000000000164,
     "y": -32738.000000000156
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "1E5B31D284632D4B",
-    "value": 1,
-    "label": "維多利亞公園",
-    "shape": "hexagon",
-    "title": "PN11",
-    "x": 18685.99999999958,
-    "y": -28044.999999999833
   },
   {
     "borderWidth": 0,
@@ -92062,10 +92040,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "232DC1B2BE92C86F",
-    "value": 2,
+    "value": 1,
     "label": "灣仔海濱",
     "shape": "hexagon",
-    "title": "PB3,PN11",
+    "title": "PB3",
     "x": 17929.999999999778,
     "y": -28286.999999999905
   },
@@ -111520,17 +111498,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "5F32C53A90CDEB52",
-    "value": 1,
-    "label": "中環 (港澳碼頭)",
-    "shape": "hexagon",
-    "title": "PN11",
-    "x": 15001.999999999782,
-    "y": -28809.00000000004
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "5F60283656DF3016",
     "value": 8,
     "label": "廣東道,新港中心 (YT205)",
@@ -113522,17 +113489,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "658F28C339443C17",
-    "value": 1,
-    "label": "奧運(海泓道)",
-    "shape": "hexagon",
-    "title": "PN10",
-    "x": 16432.000000000357,
-    "y": -31436.000000000065
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "659365A8AB2B98E9",
     "value": 3,
     "label": "利東邨東興樓",
@@ -114605,8 +114561,8 @@
     "label": "管翠路8號 (TM415)",
     "shape": "hexagon",
     "title": "252,61P",
-    "x": 39.99999999990678,
-    "y": -37359.99999999997
+    "x": -65.99999999963302,
+    "y": -37387.000000000015
   },
   {
     "borderWidth": 0,
@@ -115921,10 +115877,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "6DED9BB3FAD04626",
-    "value": 2,
+    "value": 1,
     "label": "軒尼詩道",
     "shape": "hexagon",
-    "title": "945,PN11",
+    "title": "945",
     "x": 17239.99999999961,
     "y": -27738.000000000084
   },
@@ -121299,17 +121255,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "8125708E7EC47977",
-    "value": 1,
-    "label": "半島酒店",
-    "shape": "hexagon",
-    "title": "PN10",
-    "x": 17123.999999999738,
-    "y": -29498.999999999854
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "81293E4174C24FD5",
     "value": 8,
     "label": "頌雅路 (TP374)",
@@ -125578,17 +125523,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "90F0F685E42CC10D",
-    "value": 1,
-    "label": "中環碼頭(民光街)",
-    "shape": "hexagon",
-    "title": "PN11",
-    "x": 16116.999999999847,
-    "y": -28603.000000000022
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "91",
     "value": 1,
     "label": "赤立角新村",
@@ -127063,17 +126997,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "95A40BF00DBAB2B8",
-    "value": 1,
-    "label": "星光大道",
-    "shape": "hexagon",
-    "title": "PN10",
-    "x": 17718.999999999596,
-    "y": -29651.00000000014
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "95A8334E0385A5E7",
     "value": 6,
     "label": "葵芳邨 (KW107)",
@@ -128038,17 +127961,6 @@
     "title": "33,33X,49,74,T74,T80",
     "x": 21492.000000000644,
     "y": -31589.99999999992
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "993431C67E83B130",
-    "value": 1,
-    "label": "堅尼地城 (科士街)",
-    "shape": "hexagon",
-    "title": "PN11",
-    "x": 12669.99999999996,
-    "y": -28124.000000000036
   },
   {
     "borderWidth": 0,
@@ -132823,17 +132735,6 @@
     "title": "13,13X,1A,N293",
     "x": 23291.000000000393,
     "y": -31555.00000000018
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "A8DC6F85E7043234",
-    "value": 1,
-    "label": "青衣站",
-    "shape": "hexagon",
-    "title": "PN10",
-    "x": 10775.999999999896,
-    "y": -35974.999999999825
   },
   {
     "borderWidth": 0,
@@ -153222,10 +153123,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "F050648C108571ED",
-    "value": 5,
+    "value": 4,
     "label": "香港故宮文化博物館",
     "shape": "hexagon",
-    "title": "PB2,PB3,PB4,PB5,PN10",
+    "title": "PB2,PB3,PB4,PB5",
     "x": 15617.000000000302,
     "y": -30146.999999999836
   },
@@ -159207,11 +159108,11 @@
     "borderWidthSelected": 1,
     "id": "K51A-D040",
     "value": 1,
-    "label": "管翠路18號",
+    "label": "管翠路8號",
     "shape": "hexagon",
     "title": "K51A",
-    "x": 101.99999999969123,
-    "y": -37387.000000000015
+    "x": -48.99999999992133,
+    "y": -37369.99999999995
   },
   {
     "borderWidth": 0,
@@ -159713,11 +159614,11 @@
     "borderWidthSelected": 1,
     "id": "K51A-U240",
     "value": 1,
-    "label": "管翠路18號",
+    "label": "管翠路8號",
     "shape": "hexagon",
     "title": "K51A",
-    "x": 101.99999999969123,
-    "y": -37387.000000000015
+    "x": -48.99999999992133,
+    "y": -37369.99999999995
   },
   {
     "borderWidth": 0,
@@ -161110,11 +161011,11 @@
     "borderWidthSelected": 1,
     "id": "K53-D020",
     "value": 1,
-    "label": "管翠路18號",
+    "label": "管翠路8號",
     "shape": "hexagon",
     "title": "K53",
-    "x": 101.99999999969123,
-    "y": -37387.000000000015
+    "x": -48.99999999992133,
+    "y": -37369.99999999995
   },
   {
     "borderWidth": 0,
@@ -161781,11 +161682,11 @@
     "borderWidthSelected": 1,
     "id": "K58-D004",
     "value": 1,
-    "label": "管翠路18號",
+    "label": "管翠路8號",
     "shape": "hexagon",
     "title": "K58",
-    "x": 101.99999999969123,
-    "y": -37387.000000000015
+    "x": -48.99999999992133,
+    "y": -37369.99999999995
   },
   {
     "borderWidth": 0,
@@ -162463,11 +162364,11 @@
     "borderWidthSelected": 1,
     "id": "K58-U310",
     "value": 1,
-    "label": "管翠路18號",
+    "label": "管翠路8號",
     "shape": "hexagon",
     "title": "K58",
-    "x": 101.99999999969123,
-    "y": -37387.000000000015
+    "x": -48.99999999992133,
+    "y": -37369.99999999995
   },
   {
     "borderWidth": 0,
