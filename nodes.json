@@ -109310,10 +109310,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "57DFE7792042405B",
-    "value": 6,
+    "value": 8,
     "label": "浙江街遊樂場 (HH735)",
     "shape": "hexagon",
-    "title": "26,5,5A,5P,93K,N121",
+    "title": "11,14,26,5,5A,5P,93K,N121",
     "x": 18765.999999999396,
     "y": -31456.00000000002
   },
@@ -111173,8 +111173,8 @@
     "label": "天祐苑 (TN591)",
     "shape": "hexagon",
     "title": "269D,69M,69X",
-    "x": 611.9999999995684,
-    "y": -45032.00000000014
+    "x": 620.0000000006867,
+    "y": -45039.99999999983
   },
   {
     "borderWidth": 0,
@@ -120079,10 +120079,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "7CC8FC8889FF1596",
-    "value": 5,
+    "value": 7,
     "label": "新柳街 (HH737)",
     "shape": "hexagon",
-    "title": "26,5,5A,5P,93K",
+    "title": "11,14,26,5,5A,5P,93K",
     "x": 18640.99999999951,
     "y": -31228.000000000124
   },
@@ -134378,17 +134378,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "AE5E397C3B5B4EFF",
-    "value": 2,
-    "label": "浙江街遊樂場 (HH735)",
-    "shape": "hexagon",
-    "title": "11,14",
-    "x": 18765.999999999396,
-    "y": -31456.00000000002
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "AE6C9CC13AAF157D",
     "value": 1,
     "label": "觀塘(裕民坊)總站 (KT926)",
@@ -142767,17 +142756,6 @@
     "title": "249X,42",
     "x": 9978.99999999987,
     "y": -34963.000000000124
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "CC3C40EFC7971AEF",
-    "value": 2,
-    "label": "新柳街 (HH737)",
-    "shape": "hexagon",
-    "title": "11,14",
-    "x": 18640.99999999951,
-    "y": -31228.000000000124
   },
   {
     "borderWidth": 0,
