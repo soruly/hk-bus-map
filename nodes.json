@@ -32355,7 +32355,7 @@
     "borderWidthSelected": 1,
     "id": "0F3FA9B7D07A91F3",
     "value": 15,
-    "label": "塘坑 (ND450)",
+    "label": "k (ND450)",
     "shape": "hexagon",
     "title": "261X,270C,270R,276C,277A,277X,278A,279X,373,673,673A,70K,73B,78B,T270",
     "x": 14561.999999999387,
@@ -101554,17 +101554,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "3F3636D9F8608572",
-    "value": 2,
-    "label": "咖啡灣 (TM311)",
-    "shape": "hexagon",
-    "title": "A33,NA52",
-    "x": -1370.0000000000045,
-    "y": -37547
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "3F3DBD185AC10BBE",
     "value": 7,
     "label": "炮台山站",
@@ -130885,7 +130874,7 @@
     "label": "青衣SPCA",
     "shape": "hexagon",
     "title": "PB5",
-    "x": 11190.000000000566,
+    "x": 11189.00000000025,
     "y": -34644.00000000012
   },
   {
@@ -133114,10 +133103,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "A9D85812EAEE6C17",
-    "value": 9,
+    "value": 11,
     "label": "咖啡灣 (TM310)",
     "shape": "hexagon",
-    "title": "252B,252S,252X,261B,261X,52X,53,61A,61M",
+    "title": "252B,252S,252X,261B,261X,52X,53,61A,61M,A33,NA52",
     "x": -1370.0000000000045,
     "y": -37547
   },
