@@ -32355,7 +32355,7 @@
     "borderWidthSelected": 1,
     "id": "0F3FA9B7D07A91F3",
     "value": 15,
-    "label": "k (ND450)",
+    "label": "塘坑 (ND450)",
     "shape": "hexagon",
     "title": "261X,270C,270R,276C,277A,277X,278A,279X,373,673,673A,70K,73B,78B,T270",
     "x": 14561.999999999387,
@@ -104118,10 +104118,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "46D78D8886A71B3B",
-    "value": 5,
+    "value": 7,
     "label": "恒順園 (TM301)",
     "shape": "hexagon",
-    "title": "252B,252S,252X,261X,52X",
+    "title": "252B,252S,252X,261X,52X,A33,NA52",
     "x": -1913.9999999993051,
     "y": -38733.999999999825
   },
@@ -112654,10 +112654,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "630AA1866C5372B6",
-    "value": 8,
+    "value": 10,
     "label": "恒豐園 (TM302)",
     "shape": "hexagon",
-    "title": "252B,252S,252X,261X,52X,53,61A,61M",
+    "title": "252B,252S,252X,261X,52X,53,61A,61M,A33,NA52",
     "x": -1903.0000000000769,
     "y": -38476.99999999996
   },
@@ -113430,17 +113430,6 @@
     "title": "16,74S,889",
     "x": 23551.0000000005,
     "y": -30825.000000000102
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "657953124B200983",
-    "value": 2,
-    "label": "恆順園 (TM300)",
-    "shape": "hexagon",
-    "title": "A33,NA52",
-    "x": -1913.9999999993051,
-    "y": -38733.999999999825
   },
   {
     "borderWidth": 0,
@@ -150753,17 +150742,6 @@
     "title": "673,673A",
     "x": 16351.000000000226,
     "y": -27854.99999999992
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "E8138A1EEE8FF3C9",
-    "value": 2,
-    "label": "恆豐園 (TM303)",
-    "shape": "hexagon",
-    "title": "A33,NA52",
-    "x": -1903.0000000000769,
-    "y": -38476.99999999996
   },
   {
     "borderWidth": 0,
