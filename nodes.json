@@ -30835,6 +30835,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "09A5D5C90F15C08C",
+    "value": 2,
+    "label": "龍鼓灘",
+    "shape": "hexagon",
+    "title": "52S,56S",
+    "x": -7968.999999999937,
+    "y": -38905.0000000001
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "09AC1B6D147CA643",
     "value": 2,
     "label": "顯徑巴士總站 (TA932)",
@@ -91270,10 +91281,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "212BFF5737D0116C",
-    "value": 1,
+    "value": 2,
     "label": "屯門公路轉車站 (A9) (TM741)",
     "shape": "hexagon",
-    "title": "252",
+    "title": "252,52S",
     "x": 1614.9999999996112,
     "y": -36229.00000000015
   },
@@ -97854,6 +97865,17 @@
     "title": "101,101R,101X,11,111,111P,116,14,26,26X,28,296D,5,5A,5P,92R,93K,93P,98D,98P,N116,N121",
     "x": 18381.99999999972,
     "y": -30931.99999999996
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "330D7A880DF41606",
+    "value": 2,
+    "label": "饒宗頤文化館",
+    "shape": "hexagon",
+    "title": "PB4,PB5",
+    "x": 14212.999999999454,
+    "y": -33716.00000000008
   },
   {
     "borderWidth": 0,
@@ -107660,10 +107682,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "5238463F47B490D6",
-    "value": 2,
+    "value": 3,
     "label": "新墟街市 (TM715)",
     "shape": "hexagon",
-    "title": "261X,N260",
+    "title": "261X,61S,N260",
     "x": -2346.0000000000036,
     "y": -39645.00000000015
   },
@@ -109486,10 +109508,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "584E6744385F6463",
-    "value": 3,
+    "value": 4,
     "label": "屯門站總站 (V5) (TM955)",
     "shape": "hexagon",
-    "title": "263A,263B,263C",
+    "title": "263A,263B,263C,56S",
     "x": -2660.0000000001955,
     "y": -39497.00000000007
   },
@@ -110905,10 +110927,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "5D14B75687F60509",
-    "value": 7,
+    "value": 8,
     "label": "屯門公園 (TM167)",
     "shape": "hexagon",
-    "title": "263,263A,263B,263C,60M,960B,961",
+    "title": "263,263A,263B,263C,56S,60M,960B,961",
     "x": -2487.0000000007053,
     "y": -39211.99999999985
   },
@@ -116482,10 +116504,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "6FB7BC1E5BC1E4EE",
-    "value": 4,
+    "value": 5,
     "label": "紅橋 (TM712)",
     "shape": "hexagon",
-    "title": "258A,258S,260X,261X",
+    "title": "258A,258S,260X,261X,61S",
     "x": -2258.9999999993893,
     "y": -40176.999999999905
   },
@@ -118373,6 +118395,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "76441824D4E31948",
+    "value": 2,
+    "label": "龍鼓灘",
+    "shape": "hexagon",
+    "title": "52S,56S",
+    "x": -7968.999999999937,
+    "y": -38905.0000000001
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "76457B949CBCDE7B",
     "value": 1,
     "label": "灣景花園總站 (TW989)",
@@ -119529,10 +119562,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "7AC6625D894BA101",
-    "value": 7,
+    "value": 8,
     "label": "新墟街市 (TM130)",
     "shape": "hexagon",
-    "title": "261X,63X,68A,960A,960C,960P,960X",
+    "title": "261X,61S,63X,68A,960A,960C,960P,960X",
     "x": -2348.0000000006385,
     "y": -39885.99999999991
   },
@@ -122774,10 +122807,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "8660BDF2C013FAC2",
-    "value": 2,
+    "value": 3,
     "label": "屯門市中心總站 (TM967)",
     "shape": "hexagon",
-    "title": "260B,868",
+    "title": "260B,61S,868",
     "x": -2419.0000000004375,
     "y": -39119.00000000017
   },
@@ -133246,10 +133279,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "AA5CBDB0758443A9",
-    "value": 1,
+    "value": 2,
     "label": "和合石 (ND883)",
     "shape": "hexagon",
-    "title": "74S",
+    "title": "61S,74S",
     "x": 14321.999999999945,
     "y": -48244.000000000044
   },
@@ -139780,10 +139813,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "C1BF4509359B0895",
-    "value": 7,
+    "value": 8,
     "label": "屯門市中心總站 (TM976)",
     "shape": "hexagon",
-    "title": "259R,259S,261X,960B,961,961P,N260",
+    "title": "259R,259S,261X,56S,960B,961,961P,N260",
     "x": -2443.9999999998463,
     "y": -39151.00000000002
   },
@@ -142629,10 +142662,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "CBE54DB551C24A02",
-    "value": 16,
+    "value": 17,
     "label": "紅橋 (TM133)",
     "shape": "hexagon",
-    "title": "260R,260X,261X,58M,58X,63X,68A,960,960A,960C,960P,960X,N260,N960,P960,SP5A",
+    "title": "260R,260X,261X,58M,58X,61S,63X,68A,960,960A,960C,960P,960X,N260,N960,P960,SP5A",
     "x": -2285.0000000005366,
     "y": -40243.999999999854
   },
@@ -143889,6 +143922,17 @@
     "title": "673,673A,936,936A,960C,960P,960S,961,968,N368,P968",
     "x": 18044.999999999334,
     "y": -27891.999999999938
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "D0937674DF369B23",
+    "value": 1,
+    "label": "屯門公路轉車站 (C1) (TM113)",
+    "shape": "hexagon",
+    "title": "52S",
+    "x": 1910.999999999774,
+    "y": -35848.99999999998
   },
   {
     "borderWidth": 0,
@@ -145627,6 +145671,17 @@
     "title": "373,603,603A,603P,673,673A,961P,961S,N368,N373",
     "x": 15990.999999999643,
     "y": -28069.99999999995
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "D6001B758148778A",
+    "value": 1,
+    "label": "曾咀 (TM876)",
+    "shape": "hexagon",
+    "title": "52S",
+    "x": -7863.000000000397,
+    "y": -41938.99999999999
   },
   {
     "borderWidth": 0,
@@ -151825,10 +151880,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "EC49B6F5634BC0C2",
-    "value": 2,
+    "value": 3,
     "label": "屯門市廣場 (TM123)",
     "shape": "hexagon",
-    "title": "260X,261X",
+    "title": "260X,261X,61S",
     "x": -2315.0000000001114,
     "y": -39302.999999999956
   },
@@ -155010,6 +155065,17 @@
     "title": "287,289R,299X,33R,40E,74R,85P,87E,980X,99,99R,X89D",
     "x": 25117.00000000019,
     "y": -43009.99999999995
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "F64076F7E14E38D4",
+    "value": 1,
+    "label": "曾咀 (TM875)",
+    "shape": "hexagon",
+    "title": "56S",
+    "x": -7863.000000000397,
+    "y": -41938.99999999999
   },
   {
     "borderWidth": 0,
