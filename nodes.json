@@ -32190,7 +32190,7 @@
     "borderWidthSelected": 1,
     "id": "0E8140AF4317BDAE",
     "value": 1,
-    "label": "將藍隧道轉車站(A1) (LT551)",
+    "label": "將藍隧道轉車站 (LT551)",
     "shape": "hexagon",
     "title": "96",
     "x": 23085.00000000038,
@@ -121728,6 +121728,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "825B78271286D8DE",
+    "value": 1,
+    "label": "深井(南行)",
+    "shape": "hexagon",
+    "title": "PB4",
+    "x": 5871.000000000493,
+    "y": -36645.00000000004
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "82867084F4E7B92E",
     "value": 5,
     "label": "長沙灣政府合署 (SS181)",
@@ -150484,7 +150495,7 @@
     "borderWidthSelected": 1,
     "id": "E721A2E3853D636D",
     "value": 2,
-    "label": "將藍隧道轉車站(A2) (LT550)",
+    "label": "將藍隧道轉車站 (LT550)",
     "shape": "hexagon",
     "title": "290E,298X",
     "x": 23103.000000000407,
@@ -156374,6 +156385,17 @@
     "title": "265S,271A,274P,307P,72A,72K,72X,73,74,74C,75K,907C,96",
     "x": 16801.99999999985,
     "y": -45696.99999999983
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "F9D89A6B45DFD0A0",
+    "value": 1,
+    "label": "黃金泳灘",
+    "shape": "hexagon",
+    "title": "PB4",
+    "x": -875.9999999995216,
+    "y": -37352.99999999988
   },
   {
     "borderWidth": 0,
