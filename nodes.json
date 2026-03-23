@@ -67487,17 +67487,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20013066",
-    "value": 1,
-    "label": "馬草壟路,　近　東華三院馬草壟營地",
-    "shape": "hexagon",
-    "title": "51B",
-    "x": 9906.999999999754,
-    "y": -51098.99999999996
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20013099",
     "value": 1,
     "label": "新豐路,近石湖墟郵政局",
@@ -109816,10 +109805,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "5971529D89929BEA",
-    "value": 2,
+    "value": 1,
     "label": "迪欣湖活動中心 (TW630)",
     "shape": "hexagon",
-    "title": "R33,R8",
+    "title": "R33",
     "x": 3771.9999999993092,
     "y": -31854.999999999833
   },
@@ -121768,17 +121757,6 @@
     "title": "272X,72X,73",
     "x": 16930.999999999585,
     "y": -45315.00000000008
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "825B78271286D8DE",
-    "value": 1,
-    "label": "深井(南行)",
-    "shape": "hexagon",
-    "title": "PB4",
-    "x": 5871.000000000493,
-    "y": -36645.00000000004
   },
   {
     "borderWidth": 0,
@@ -156429,17 +156407,6 @@
     "title": "265S,271A,274P,307P,72A,72K,72X,73,74,74C,75K,907C,96",
     "x": 16801.99999999985,
     "y": -45696.99999999983
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "F9D89A6B45DFD0A0",
-    "value": 1,
-    "label": "黃金泳灘",
-    "shape": "hexagon",
-    "title": "PB4",
-    "x": -875.9999999995216,
-    "y": -37352.99999999988
   },
   {
     "borderWidth": 0,
