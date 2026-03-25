@@ -109805,10 +109805,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "5971529D89929BEA",
-    "value": 1,
+    "value": 2,
     "label": "迪欣湖活動中心 (TW630)",
     "shape": "hexagon",
-    "title": "R33",
+    "title": "R33,R8",
     "x": 3771.9999999993092,
     "y": -31854.999999999833
   },
@@ -118006,17 +118006,6 @@
     "title": "106,106A,106P,116,N122",
     "x": 21120.000000000517,
     "y": -28590.00000000016
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "74CBD919F18ACF61",
-    "value": 1,
-    "label": "油塘(鯉魚門道)",
-    "shape": "hexagon",
-    "title": "14S",
-    "x": 23870.999999999753,
-    "y": -29980.000000000116
   },
   {
     "borderWidth": 0,
@@ -142563,10 +142552,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "CB4BB0008A87E4FC",
-    "value": 17,
+    "value": 18,
     "label": "油塘邨 (LT368)",
     "shape": "hexagon",
-    "title": "14B,14D,215R,259D,33,33B,33X,603,603A,603P,613,62P,62X,6E,74,889,88X",
+    "title": "14B,14D,14S,215R,259D,33,33B,33X,603,603A,603P,613,62P,62X,6E,74,889,88X",
     "x": 23923.000000000626,
     "y": -29814.000000000007
   },
