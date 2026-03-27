@@ -59193,17 +59193,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20009634",
-    "value": 1,
-    "label": "葵涌醫院",
-    "shape": "hexagon",
-    "title": "90A",
-    "x": 13451.00000000059,
-    "y": -34187.99999999997
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20009667",
     "value": 1,
     "label": "棠蔭街,聖道弘爵國際學校外",
@@ -86420,7 +86409,7 @@
     "borderWidthSelected": 1,
     "id": "20018643",
     "value": 1,
-    "label": "瑪嘉列醫院",
+    "label": "瑪嘉烈醫院",
     "shape": "hexagon",
     "title": "313",
     "x": 13477.000000000317,
@@ -90577,10 +90566,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20022405",
-    "value": 3,
-    "label": "百勝角路, 香港中醫醫院外",
+    "value": 2,
+    "label": "香港中醫醫院",
     "shape": "hexagon",
-    "title": "116,116H,116M",
+    "title": "116,116H",
     "x": 27343.000000000473,
     "y": -30366.00000000007
   },
@@ -90990,6 +90979,28 @@
     "title": "88",
     "x": 20386.99999999949,
     "y": -33240.99999999994
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20022801",
+    "value": 1,
+    "label": "百勝角路, 香港中醫醫院外",
+    "shape": "hexagon",
+    "title": "116M",
+    "x": 27407.99999999979,
+    "y": -30416.999999999916
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20022834",
+    "value": 2,
+    "label": "葵涌醫院",
+    "shape": "hexagon",
+    "title": "410,90A",
+    "x": 13285.00000000048,
+    "y": -34290.999999999985
   },
   {
     "borderWidth": 0,
@@ -151241,6 +151252,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "E9BD263C719AFEC6",
+    "value": 1,
+    "label": "西方寺 (TW730)",
+    "shape": "hexagon",
+    "title": "32P",
+    "x": 12421.9999999994,
+    "y": -38141.999999999854
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "E9CA5B9AFBBDADBA",
     "value": 1,
     "label": "富景花園",
@@ -152689,6 +152711,17 @@
     "title": "270B,270D,272E,286C,286D,286P,286X,293S,298X,70S,86,98C,98E,98S",
     "x": 15109.999999999956,
     "y": -33814.99999999988
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "EEBC9C001FC420B8",
+    "value": 1,
+    "label": "上角山路 (TW470)",
+    "shape": "hexagon",
+    "title": "32P",
+    "x": 12454.999999999927,
+    "y": -38117.00000000009
   },
   {
     "borderWidth": 0,
