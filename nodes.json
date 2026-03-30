@@ -59193,17 +59193,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20009634",
-    "value": 1,
-    "label": "葵涌醫院",
-    "shape": "hexagon",
-    "title": "90A",
-    "x": 13451.00000000059,
-    "y": -34187.99999999997
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20009667",
     "value": 1,
     "label": "棠蔭街,聖道弘爵國際學校外",
@@ -86418,17 +86407,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20018643",
-    "value": 1,
-    "label": "瑪嘉烈醫院",
-    "shape": "hexagon",
-    "title": "313",
-    "x": 13477.000000000317,
-    "y": -34141.99999999994
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20018676",
     "value": 1,
     "label": "大河道36號外",
@@ -86513,17 +86491,6 @@
     "title": "33",
     "x": 21020.00000000004,
     "y": -28721.000000000175
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20018775",
-    "value": 2,
-    "label": "百勝角路(北行)",
-    "shape": "hexagon",
-    "title": "116,116M",
-    "x": 27456.99999999971,
-    "y": -30583.000000000025
   },
   {
     "borderWidth": 0,
@@ -90577,10 +90544,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20022405",
-    "value": 2,
+    "value": 1,
     "label": "香港中醫醫院",
     "shape": "hexagon",
-    "title": "116,116H",
+    "title": "116H",
     "x": 27343.000000000473,
     "y": -30366.00000000007
   },
@@ -90995,12 +90962,45 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20022801",
-    "value": 1,
+    "value": 3,
     "label": "百勝角路, 香港中醫醫院外",
     "shape": "hexagon",
-    "title": "116M",
+    "title": "116,116H,116M",
     "x": 27407.99999999979,
     "y": -30416.999999999916
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20022802",
+    "value": 3,
+    "label": "百勝角路, 消防處百勝角已婚人員宿舍對面",
+    "shape": "hexagon",
+    "title": "116,116H,116M",
+    "x": 27451.99999999954,
+    "y": -30562.000000000113
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20022834",
+    "value": 4,
+    "label": "葵涌醫院",
+    "shape": "hexagon",
+    "title": "313,410,413,90A",
+    "x": 13285.00000000048,
+    "y": -34290.999999999985
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20022900",
+    "value": 1,
+    "label": "興貴街NOVO WALK外",
+    "shape": "hexagon",
+    "title": "40",
+    "x": -3188.000000000102,
+    "y": -41111.00000000007
   },
   {
     "borderWidth": 0,
