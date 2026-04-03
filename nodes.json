@@ -19198,10 +19198,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "002917",
-    "value": 17,
+    "value": 18,
     "label": "調景嶺站",
     "shape": "hexagon",
-    "title": "694,694S,792M,793,795X,796P,796R,796S,796X,797,798,A28,A28X,E22A,E22C,E22S,SP9",
+    "title": "694,694S,792M,793,795X,796P,796R,796S,796X,797,798,A28,A28X,E22A,E22C,E22S,SP9,X797",
     "x": 25162.000000000262,
     "y": -30489.000000000033
   },
@@ -23945,6 +23945,17 @@
     "title": "E11A,E11B,E11S,E21A,E21D,E21X,E22S,E23A,N21A,S52A,S56",
     "x": -4953.999999999325,
     "y": -29439.999999999956
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003444",
+    "value": 1,
+    "label": "消防及救護學院",
+    "shape": "hexagon",
+    "title": "X797",
+    "x": 27463.000000000193,
+    "y": -30634.999999999836
   },
   {
     "borderWidth": 0,
