@@ -14,10 +14,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "000CFEE2F92DC17B",
-    "value": 14,
+    "value": 11,
     "label": "粉嶺樓 (ND261)",
     "shape": "hexagon",
-    "title": "261,270C,270R,277A,277X,278A,278K,279X,673,673A,70K,78A,78K,N78",
+    "title": "261,270C,270R,277A,278A,278K,673,673A,70K,78A,N78",
     "x": 14158.00000000047,
     "y": -49597.99999999994
   },
