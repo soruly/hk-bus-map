@@ -30846,17 +30846,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "09A5D5C90F15C08C",
-    "value": 2,
-    "label": "龍鼓灘",
-    "shape": "hexagon",
-    "title": "52S,56S",
-    "x": -7968.999999999937,
-    "y": -38905.0000000001
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "09AC1B6D147CA643",
     "value": 2,
     "label": "顯徑巴士總站 (TA932)",
@@ -91347,10 +91336,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "212BFF5737D0116C",
-    "value": 3,
+    "value": 2,
     "label": "屯門公路轉車站 (A9) (TM741)",
     "shape": "hexagon",
-    "title": "252,52S,63",
+    "title": "252,63",
     "x": 1614.9999999996112,
     "y": -36229.00000000015
   },
@@ -109574,10 +109563,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "584E6744385F6463",
-    "value": 4,
+    "value": 3,
     "label": "屯門站總站 (V5) (TM955)",
     "shape": "hexagon",
-    "title": "263A,263B,263C,56S",
+    "title": "263A,263B,263C",
     "x": -2660.0000000001955,
     "y": -39497.00000000007
   },
@@ -111004,10 +110993,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "5D14B75687F60509",
-    "value": 8,
+    "value": 7,
     "label": "屯門公園 (TM167)",
     "shape": "hexagon",
-    "title": "263,263A,263B,263C,56S,60M,960B,961",
+    "title": "263,263A,263B,263C,60M,960B,961",
     "x": -2487.0000000007053,
     "y": -39211.99999999985
   },
@@ -118479,17 +118468,6 @@
     "title": "40X,89D,89P,89S,97",
     "x": 22272.999999999854,
     "y": -40703.999999999854
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "76441824D4E31948",
-    "value": 2,
-    "label": "龍鼓灘",
-    "shape": "hexagon",
-    "title": "52S,56S",
-    "x": -7968.999999999937,
-    "y": -38905.0000000001
   },
   {
     "borderWidth": 0,
@@ -139234,8 +139212,8 @@
     "label": "朗天苑 (YL844)",
     "shape": "hexagon",
     "title": "63",
-    "x": 1623.9999999996257,
-    "y": -44291.000000000124
+    "x": 1570.9999999998558,
+    "y": -44143.000000000044
   },
   {
     "borderWidth": 0,
@@ -139934,10 +139912,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "C1BF4509359B0895",
-    "value": 8,
+    "value": 7,
     "label": "屯門市中心總站 (TM976)",
     "shape": "hexagon",
-    "title": "259R,259S,261X,56S,960B,961,961P,N260",
+    "title": "259R,259S,261X,960B,961,961P,N260",
     "x": -2443.9999999998463,
     "y": -39151.00000000002
   },
@@ -144058,17 +144036,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "D0937674DF369B23",
-    "value": 1,
-    "label": "屯門公路轉車站 (C1) (TM113)",
-    "shape": "hexagon",
-    "title": "52S",
-    "x": 1910.999999999774,
-    "y": -35848.99999999998
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "D09590C6061D9FE7",
     "value": 3,
     "label": "鳴琴站 (TM586)",
@@ -145803,17 +145770,6 @@
     "title": "373,603,603A,603P,673,673A,961P,961S,N368,N373",
     "x": 15990.999999999643,
     "y": -28069.99999999995
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "D6001B758148778A",
-    "value": 1,
-    "label": "曾咀 (TM876)",
-    "shape": "hexagon",
-    "title": "52S",
-    "x": -7863.000000000397,
-    "y": -41938.99999999999
   },
   {
     "borderWidth": 0,
@@ -151397,7 +151353,7 @@
     "borderWidthSelected": 1,
     "id": "E9F5F6ED88ED3616",
     "value": 1,
-    "label": "金沙花園 (YL304)",
+    "label": "金莎花園 (YL304)",
     "shape": "hexagon",
     "title": "63",
     "x": 1166.000000000622,
@@ -155230,17 +155186,6 @@
     "title": "287,289R,299X,33R,40E,74R,85P,87E,980X,99,99R,X89D",
     "x": 25117.00000000019,
     "y": -43009.99999999995
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "F64076F7E14E38D4",
-    "value": 1,
-    "label": "曾咀 (TM875)",
-    "shape": "hexagon",
-    "title": "56S",
-    "x": -7863.000000000397,
-    "y": -41938.99999999999
   },
   {
     "borderWidth": 0,
