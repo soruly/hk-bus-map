@@ -42011,6 +42011,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "20000693",
+    "value": 1,
+    "label": "佐敦道, 近渡船街",
+    "shape": "hexagon",
+    "title": "74",
+    "x": 16603.99999999953,
+    "y": -30628.0000000001
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "20000694",
     "value": 3,
     "label": "渡船街, 近文英樓",
