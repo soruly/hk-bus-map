@@ -29020,6 +29020,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "02B95C981F16C906",
+    "value": 1,
+    "label": "廣東道,港威酒店 (YT204a)",
+    "shape": "hexagon",
+    "title": "HK2",
+    "x": 16881.999999999665,
+    "y": -29824.999999999945
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "02CF8D1FE31E9A09",
     "value": 7,
     "label": "帝逸酒店 (ST606)",
@@ -35070,6 +35081,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "151F6BD0D37CA555",
+    "value": 1,
+    "label": "西隧轉車站 - 雅翔道 (YT302)",
+    "shape": "hexagon",
+    "title": "HK2",
+    "x": 15980.000000000417,
+    "y": -30356.000000000095
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "152",
     "value": 5,
     "label": "深圳灣口岸",
@@ -38553,6 +38575,17 @@
     "title": "103,104,117,118,118P,N118",
     "x": 18007.000000000062,
     "y": -30639.00000000004
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "1F170F80E7CB2C2E",
+    "value": 1,
+    "label": "佐敦道,高鐵站 (YT675a)",
+    "shape": "hexagon",
+    "title": "HK2",
+    "x": 16443.9999999999,
+    "y": -30634.999999999836
   },
   {
     "borderWidth": 0,
@@ -46270,7 +46303,7 @@
     "borderWidthSelected": 1,
     "id": "20001656",
     "value": 2,
-    "label": "大白田街, 近北葵涌診療所",
+    "label": "大白田街, 近北葵涌家庭醫學診所",
     "shape": "hexagon",
     "title": "401,406",
     "x": 14043.999999999813,
@@ -46490,7 +46523,7 @@
     "borderWidthSelected": 1,
     "id": "20001732",
     "value": 4,
-    "label": "青綠街, 近青衣市區普通科門診診所",
+    "label": "青綠街, 青衣市區家庭醫學診所外",
     "shape": "hexagon",
     "title": "409,409K,409S,413",
     "x": 10603.999999999303,
@@ -92743,6 +92776,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "24AA3CCF69A6572D",
+    "value": 1,
+    "label": "九龍站,高鐵站 (YT947)",
+    "shape": "hexagon",
+    "title": "HK2",
+    "x": 16289.000000000442,
+    "y": -30501.999999999894
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "24AD2532770CF399",
     "value": 5,
     "label": "盈順樓 (KT407)",
@@ -92755,10 +92799,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "24AD31E3F8DF42AE",
-    "value": 1,
+    "value": 2,
     "label": "中港城 戲曲中心 (YT646)",
     "shape": "hexagon",
-    "title": "HK1",
+    "title": "HK1,HK2",
     "x": 16809.00000000065,
     "y": -30033.99999999985
   },
@@ -108759,6 +108803,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "55852875C9223A6C",
+    "value": 1,
+    "label": "佐敦道,高鐵站 (YT674a)",
+    "shape": "hexagon",
+    "title": "HK2",
+    "x": 16637.00000000006,
+    "y": -30594.999999999927
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "558599642E78BB9B",
     "value": 10,
     "label": "香港理工大學 (YT620)",
@@ -108909,6 +108964,17 @@
     "title": "1,2,3M,4,7S,A35,N35",
     "x": -601.0000000003402,
     "y": -25932.99999999985
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "5612949E7487F309",
+    "value": 1,
+    "label": "廣東道,北京道 (YT208)",
+    "shape": "hexagon",
+    "title": "HK2",
+    "x": 16935.999999999753,
+    "y": -29561.999999999956
   },
   {
     "borderWidth": 0,
@@ -114222,6 +114288,17 @@
     "title": "213D,24,27,293S,92R,N293",
     "x": 19070.000000000677,
     "y": -32723.000000000015
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "677BBB37FFCA0FAD",
+    "value": 1,
+    "label": "柯士甸道 戲曲中心 (YT202a)",
+    "shape": "hexagon",
+    "title": "HK2",
+    "x": 16812.000000000182,
+    "y": -30205.000000000127
   },
   {
     "borderWidth": 0,
@@ -145968,6 +146045,17 @@
     "title": "260C,265M,269M,269P,57M,58M,61M,67M,68A,69M,69P",
     "x": 11297.000000000424,
     "y": -37499.00000000004
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "D6D0F24D89C90323",
+    "value": 1,
+    "label": "渡船街, 油麻地警署 (YT325a)",
+    "shape": "hexagon",
+    "title": "HK2",
+    "x": 16750.999999999294,
+    "y": -30725.99999999994
   },
   {
     "borderWidth": 0,
