@@ -124071,6 +124071,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "89F019B78B7D8304",
+    "value": 2,
+    "label": "紅樂道 (HH650)",
+    "shape": "hexagon",
+    "title": "15,7B",
+    "x": 18564.000000000648,
+    "y": -30230.99999999985
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "89F6B64B28A21D34",
     "value": 8,
     "label": "深水埗基隆街 (SS183)",
