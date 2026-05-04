@@ -99377,10 +99377,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "36F7DCE4723C2C44",
-    "value": 9,
+    "value": 7,
     "label": "紅樂道 (HH300)",
     "shape": "hexagon",
-    "title": "107P,115,115P,12A,15,297,30X,7B,8A",
+    "title": "107P,115,115P,12A,297,30X,8A",
     "x": 18547.999999999833,
     "y": -30274.999999999964
   },
@@ -124067,17 +124067,6 @@
     "title": "619,619X,681P,907C,982X,N619",
     "x": 15542.999999999553,
     "y": -28508.000000000065
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "89F019B78B7D8304",
-    "value": 2,
-    "label": "紅樂道 (HH650)",
-    "shape": "hexagon",
-    "title": "15,7B",
-    "x": 18564.000000000648,
-    "y": -30230.99999999985
   },
   {
     "borderWidth": 0,
