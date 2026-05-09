@@ -102775,6 +102775,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "42932FFDE5C281AD",
+    "value": 1,
+    "label": "良景邨總站 (TM938)",
+    "shape": "hexagon",
+    "title": "58X",
+    "x": -3588.0000000005907,
+    "y": -40694.99999999984
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "42A5DBE7D21EADE3",
     "value": 6,
     "label": "廣福道轉車站 - 寶鄉街 (TP546)",
