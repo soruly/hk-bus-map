@@ -115029,17 +115029,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "6A0B2E48433AE858",
-    "value": 1,
-    "label": "中環(林士街)總站 (CW900)",
-    "shape": "hexagon",
-    "title": "600",
-    "x": 15448.999999999558,
-    "y": -28677.000000000062
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "6A1A50A9E228AAA3",
     "value": 1,
     "label": "川龍 (TW776)",
@@ -148613,10 +148602,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "DFAA70BC93BC9108",
-    "value": 4,
+    "value": 2,
     "label": "安麗苑 (AN605)",
     "shape": "hexagon",
-    "title": "13,19,213E,600",
+    "title": "19,600",
     "x": 23676.000000000386,
     "y": -32308.00000000009
   },
