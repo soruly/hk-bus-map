@@ -131430,6 +131430,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "A4384F66C9DD2BDE",
+    "value": 1,
+    "label": "大學站 (ST907)",
+    "shape": "hexagon",
+    "title": "287",
+    "x": 21084.00000000046,
+    "y": -41260.00000000012
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "A4455CCA999A234C",
     "value": 5,
     "label": "華明邨康明樓 (ND376)",
