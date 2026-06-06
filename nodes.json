@@ -34432,6 +34432,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "13BC4506ABF349C7",
+    "value": 4,
+    "label": "威爾斯親王醫院 (ST859)",
+    "shape": "hexagon",
+    "title": "73A,80K,82K,89S",
+    "x": 20116.000000000156,
+    "y": -38122.99999999986
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "13C75FFFA2BB060D",
     "value": 4,
     "label": "興發街",
@@ -99662,6 +99673,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "387ABDCA2814CA84",
+    "value": 3,
+    "label": "川龍街 (TW555a)",
+    "shape": "hexagon",
+    "title": "30,49A,848",
+    "x": 11620.00000000063,
+    "y": -37006.99999999983
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "38807E0A7C24085C",
     "value": 2,
     "label": "香港輔助警察隊總部 (KT107)",
@@ -125336,17 +125358,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "9001559964CBF493",
-    "value": 2,
-    "label": "黃泥頭巴士總站 (ST893)",
-    "shape": "hexagon",
-    "title": "240X,86",
-    "x": 21771.999999999993,
-    "y": -38228.00000000015
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "9013CD4C1D5BFF3E",
     "value": 1,
     "label": "郵政總局",
@@ -129369,6 +129380,17 @@
     "title": "102,102P,171,904,905,N171",
     "x": 15460.000000000207,
     "y": -33683.99999999987
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "9DB1F8ED716CD77E",
+    "value": 2,
+    "label": "黃泥頭巴士總站 (ST893)",
+    "shape": "hexagon",
+    "title": "A42,NA41",
+    "x": 21771.999999999993,
+    "y": -38228.00000000015
   },
   {
     "borderWidth": 0,
@@ -146265,6 +146287,17 @@
     "title": "A33X,NA33,R33,X33",
     "x": -2660.0000000001955,
     "y": -39497.00000000007
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "D75CEF6318A515DE",
+    "value": 2,
+    "label": "黃泥頭巴士總站 (ST894)",
+    "shape": "hexagon",
+    "title": "240X,86",
+    "x": 21771.999999999993,
+    "y": -38228.00000000015
   },
   {
     "borderWidth": 0,
