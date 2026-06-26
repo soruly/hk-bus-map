@@ -49118,10 +49118,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20002366",
-    "value": 4,
-    "label": "錦上路站公共運輸交滙處",
+    "value": 1,
+    "label": "錦上路站公共運輸交匯處",
     "shape": "hexagon",
-    "title": "608,71,71A,72",
+    "title": "71A",
     "x": 6494.999999999607,
     "y": -43480.99999999988
   },
@@ -82899,10 +82899,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20016894",
-    "value": 3,
+    "value": 2,
     "label": "錦上路站公共運輸交匯處",
     "shape": "hexagon",
-    "title": "608S,78,78A",
+    "title": "608S,78A",
     "x": 6490.999999999758,
     "y": -43462.999999999854
   },
@@ -85528,10 +85528,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20017686",
-    "value": 2,
+    "value": 1,
     "label": "錦上路站公共運輸交匯處",
     "shape": "hexagon",
-    "title": "601B,602",
+    "title": "601B",
     "x": 6488.000000000227,
     "y": -43442.9999999999
   },
@@ -85539,10 +85539,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20017687",
-    "value": 2,
+    "value": 1,
     "label": "錦上路站公共運輸交匯處",
     "shape": "hexagon",
-    "title": "602C,620",
+    "title": "602C",
     "x": 6465.000000000032,
     "y": -43431
   },
@@ -85550,10 +85550,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20017688",
-    "value": 4,
+    "value": 1,
     "label": "錦上路站公共運輸交匯處",
     "shape": "hexagon",
-    "title": "602,71,71A,72",
+    "title": "71A",
     "x": 6467.000000000667,
     "y": -43451.99999999991
   },
@@ -91023,6 +91023,17 @@
     "title": "46",
     "x": 20109.999999999673,
     "y": -33455.99999999998
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20023032",
+    "value": 6,
+    "label": "錦上路站公共運輸交匯處",
+    "shape": "hexagon",
+    "title": "602,608,620,71,72,78",
+    "x": 6340.0000000001455,
+    "y": -43342.00000000017
   },
   {
     "borderWidth": 0,
@@ -97485,10 +97496,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "3221A3FF8CA898FF",
-    "value": 4,
+    "value": 5,
     "label": "觀塘駿業里 (KT631)",
     "shape": "hexagon",
-    "title": "80X,83X,88X,89C",
+    "title": "80X,83X,88X,89C,89X",
     "x": 22361.999999999683,
     "y": -31319.999999999836
   },
@@ -103915,17 +103926,6 @@
     "title": "108",
     "x": 19498.000000000106,
     "y": -28321.00000000004
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "45C2286729E1475B",
-    "value": 12,
-    "label": "裕民坊 (KT556)",
-    "shape": "hexagon",
-    "title": "13D,13M,14B,16M,28B,606,606A,606X,641,89,89X,95M",
-    "x": 22507.000000000233,
-    "y": -31340.000000000146
   },
   {
     "borderWidth": 0,
@@ -124336,10 +124336,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "8B8DDE8FC3A125B8",
-    "value": 7,
+    "value": 1,
     "label": "觀塘(裕民坊)總站 (KT919)",
     "shape": "hexagon",
-    "title": "101,101R,101X,16M,17,3D,N3D",
+    "title": "101R",
     "x": 22486.999999999567,
     "y": -31483.000000000062
   },
@@ -137117,17 +137117,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "B7773ED8D2FC08E5",
-    "value": 2,
-    "label": "裕民坊 (KT557)",
-    "shape": "hexagon",
-    "title": "13P,1A",
-    "x": 22404.000000000226,
-    "y": -31381.999999999978
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "B78076CC8F628B2B",
     "value": 1,
     "label": "太和總站 (TP984)",
@@ -143262,17 +143251,6 @@
     "title": "249X,72,81,89,N271",
     "x": 18715.00000000026,
     "y": -37957.00000000011
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "CCD89A67612BB17B",
-    "value": 2,
-    "label": "裕民坊 (KT555)",
-    "shape": "hexagon",
-    "title": "23M,619",
-    "x": 22489.000000000204,
-    "y": -31346.99999999988
   },
   {
     "borderWidth": 0,
