@@ -6833,17 +6833,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "001647",
-    "value": 6,
-    "label": "裕民坊",
-    "shape": "hexagon",
-    "title": "606,606A,606X,619,641,N619",
-    "x": 22463.999999999374,
-    "y": -31359.00000000014
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "001648",
     "value": 8,
     "label": "牛頭角站, 牛頭角道",
@@ -29570,6 +29559,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "04BED071257A601F",
+    "value": 3,
+    "label": "觀塘(裕民坊)總站 (KT924)",
+    "shape": "hexagon",
+    "title": "13D,13P,1A",
+    "x": 22491.999999999734,
+    "y": -31430.999999999898
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "04C4E5AE4F8F21E1",
     "value": 9,
     "label": "顯徑商場 (TA549)",
@@ -48194,10 +48194,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20002191",
-    "value": 2,
+    "value": 1,
     "label": "裕民坊,近裕民大廈",
     "shape": "hexagon",
-    "title": "501S,62S",
+    "title": "501S",
     "x": 22408.000000000073,
     "y": -31380.00000000005
   },
@@ -62560,10 +62560,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20012060",
-    "value": 3,
+    "value": 1,
     "label": "裕民坊公共運輸交匯處",
     "shape": "hexagon",
-    "title": "22A,62S,63",
+    "title": "22A",
     "x": 22508.999999999447,
     "y": -31437.99999999999
   },
@@ -77003,10 +77003,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20015557",
-    "value": 2,
+    "value": 6,
     "label": "裕民坊公共運輸交匯處",
     "shape": "hexagon",
-    "title": "10M,13",
+    "title": "10M,13,23B,23M,62S,63",
     "x": 22508.999999999447,
     "y": -31437.99999999999
   },
@@ -82949,28 +82949,6 @@
     "title": "23C",
     "x": 22929.0000000006,
     "y": -29932.00000000016
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20016899",
-    "value": 1,
-    "label": "裕民坊公共運輸交匯處",
-    "shape": "hexagon",
-    "title": "23B",
-    "x": 22508.999999999447,
-    "y": -31437.99999999999
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20016900",
-    "value": 1,
-    "label": "裕民坊公共運輸交匯處",
-    "shape": "hexagon",
-    "title": "23M",
-    "x": 22508.999999999447,
-    "y": -31437.99999999999
   },
   {
     "borderWidth": 0,
@@ -91027,6 +91005,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "20022999",
+    "value": 1,
+    "label": "協和街, 觀景閣對面",
+    "shape": "hexagon",
+    "title": "62S",
+    "x": 22624.000000000422,
+    "y": -31331.00000000013
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "20023032",
     "value": 6,
     "label": "錦上路站公共運輸交匯處",
@@ -98562,17 +98551,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "344",
-    "value": 1,
-    "label": "翔東邨翔月樓",
-    "shape": "hexagon",
-    "title": "37A",
-    "x": -4600.000000000648,
-    "y": -29786.999999999964
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "3465CA4854929709",
     "value": 2,
     "label": "屯門赤鱲角隧道轉車站 (TM513)",
@@ -98591,6 +98569,17 @@
     "title": "281X,286C,286D,299X,40X,43X,81C,85K,86C,86K,86S,87D,N281",
     "x": 21599.999999999396,
     "y": -40220.00000000006
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "349",
+    "value": 2,
+    "label": "翔東邨",
+    "shape": "hexagon",
+    "title": "36M,37A",
+    "x": -4788.9999999995325,
+    "y": -29713.999999999884
   },
   {
     "borderWidth": 0,
@@ -98734,6 +98723,17 @@
     "title": "1,11,11A,2,23,N1",
     "x": -8393.999999999834,
     "y": -22156.000000000022
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "350",
+    "value": 1,
+    "label": "翔東邨",
+    "shape": "hexagon",
+    "title": "37A",
+    "x": -4788.9999999995325,
+    "y": -29713.999999999884
   },
   {
     "borderWidth": 0,
@@ -104900,7 +104900,7 @@
     "borderWidthSelected": 1,
     "id": "49229D04FCA51B61",
     "value": 7,
-    "label": "物華街 (KT250)",
+    "label": "物華街, 裕民坊 (KT250)",
     "shape": "hexagon",
     "title": "13D,14B,23M,28B,89,89X,N293",
     "x": 22509.999999999764,
@@ -125028,6 +125028,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "8E9B6657E38443D6",
+    "value": 1,
+    "label": "觀塘(裕民坊)總站 (KT920)",
+    "shape": "hexagon",
+    "title": "89",
+    "x": 22518.999999999778,
+    "y": -31469.999999999844
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "8EA1F6CDA69E539C",
     "value": 4,
     "label": "担水坑 (ND287)",
@@ -128852,6 +128863,17 @@
     "title": "A31,E31,E32,N31,NA31,X40",
     "x": 10277.999999999565,
     "y": -36145.00000000014
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "9BABE6579EB241FA",
+    "value": 6,
+    "label": "協和街, 裕民坊 (KT254)",
+    "shape": "hexagon",
+    "title": "14B,16M,606,606A,606X,641",
+    "x": 22620.99999999947,
+    "y": -31326.999999999927
   },
   {
     "borderWidth": 0,
@@ -136679,7 +136701,7 @@
     "borderWidthSelected": 1,
     "id": "B5CB3F0D26BBBD03",
     "value": 7,
-    "label": "觀塘同仁街 (KT538)",
+    "label": "協和街, 裕民坊 (KT538)",
     "shape": "hexagon",
     "title": "14B,213B,23,26M,601,601P,93A",
     "x": 22641.000000000135,
