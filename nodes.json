@@ -5287,8 +5287,8 @@
     "label": "德福花園, 觀塘道",
     "shape": "hexagon",
     "title": "A22,E22,E22X,N29",
-    "x": 21432.000000000073,
-    "y": -32199.999999999916
+    "x": 21438.000000000557,
+    "y": -32152.99999999992
   },
   {
     "borderWidth": 0,
@@ -28389,6 +28389,28 @@
     "title": "E18,E28",
     "x": -4845.000000000255,
     "y": -29895.00000000014
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003966",
+    "value": 4,
+    "label": "裕民坊, 協和街",
+    "shape": "hexagon",
+    "title": "606,606A,606X,641",
+    "x": 22616.99999999962,
+    "y": -31342.00000000007
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003967",
+    "value": 2,
+    "label": "裕民坊, 物華街",
+    "shape": "hexagon",
+    "title": "619,N619",
+    "x": 22504.999999999596,
+    "y": -31502.00000000005
   },
   {
     "borderWidth": 0,
@@ -64519,11 +64541,22 @@
     "borderWidthSelected": 1,
     "id": "20012430",
     "value": 2,
-    "label": "窩打老道, 近天主教會聖若望英文書院英文小學暨英文幼稚園部",
+    "label": "窩打老道, 近仁園",
     "shape": "hexagon",
     "title": "25B,616S",
     "x": 17870.00000000063,
     "y": -33342.00000000003
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20012431",
+    "value": 1,
+    "label": "新深路",
+    "shape": "hexagon",
+    "title": "616S",
+    "x": 7838.999999999885,
+    "y": -50487.00000000004
   },
   {
     "borderWidth": 0,
@@ -91533,6 +91566,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "21D795EEFB43255D",
+    "value": 2,
+    "label": "機場(地面運輸中心)巴士總站",
+    "shape": "hexagon",
+    "title": "E36,E36S",
+    "x": -6238.000000000455,
+    "y": -31399.000000000044
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "21DA1E33BF580B96",
     "value": 9,
     "label": "元點 (YL244)",
@@ -101753,10 +101797,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "3F64427262A691C1",
-    "value": 3,
+    "value": 2,
     "label": "安楹苑 (AN620)",
     "shape": "hexagon",
-    "title": "13,19,600",
+    "title": "13,19",
     "x": 23318.999999999334,
     "y": -32667.999999999964
   },
@@ -115029,6 +115073,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "6A0B2E48433AE858",
+    "value": 1,
+    "label": "中環(林士街)總站 (CW900)",
+    "shape": "hexagon",
+    "title": "600",
+    "x": 15448.999999999558,
+    "y": -28677.000000000062
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "6A1A50A9E228AAA3",
     "value": 1,
     "label": "川龍 (TW776)",
@@ -115377,6 +115432,17 @@
     "title": "15A,2F,2P,3C,3M,3X",
     "x": 19929.99999999938,
     "y": -35062.99999999989
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "6B689FA123E9E1A6",
+    "value": 2,
+    "label": "機場(地面運輸中心)巴士總站",
+    "shape": "hexagon",
+    "title": "A47X,NA47",
+    "x": -6238.000000000455,
+    "y": -31399.000000000044
   },
   {
     "borderWidth": 0,
@@ -122113,6 +122179,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "833FF184B120B167",
+    "value": 1,
+    "label": "翔東邨",
+    "shape": "hexagon",
+    "title": "S64P",
+    "x": -4779.000000000622,
+    "y": -29726.000000000142
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "834CC2324AAFB567",
     "value": 4,
     "label": "銀幕街",
@@ -126586,6 +126663,17 @@
     "title": "113,214,214P,268A,268C,269C,2F,3C,69C,75X,84M,N214",
     "x": 19159.9999999994,
     "y": -34157.00000000008
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "93DD7DA7A8D5BFE7",
+    "value": 4,
+    "label": "機場(地面運輸中心)巴士總站",
+    "shape": "hexagon",
+    "title": "A43,A43P,N42A,NA43",
+    "x": -6251.000000000317,
+    "y": -31382.999999999938
   },
   {
     "borderWidth": 0,
@@ -133582,6 +133670,17 @@
     "title": "81K,82K",
     "x": 19508.99999999933,
     "y": -37730.000000000175
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "AA858B587381ED16",
+    "value": 1,
+    "label": "機場(地面運輸中心)巴士總站",
+    "shape": "hexagon",
+    "title": "E37",
+    "x": -6238.000000000455,
+    "y": -31399.000000000044
   },
   {
     "borderWidth": 0,
@@ -144740,6 +144839,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "D23DB06513E5F202",
+    "value": 2,
+    "label": "機場(地面運輸中心)巴士總站",
+    "shape": "hexagon",
+    "title": "A41P,NA40",
+    "x": -6251.000000000317,
+    "y": -31382.999999999938
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "D2425B7147B58E1D",
     "value": 6,
     "label": "美湖居 (TN535)",
@@ -145467,10 +145577,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "D456864A2E0933B2",
-    "value": 3,
+    "value": 2,
     "label": "安楹苑 (AN400)",
     "shape": "hexagon",
-    "title": "13,19,600",
+    "title": "13,19",
     "x": 23362.000000000193,
     "y": -32612.999999999913
   },
@@ -150087,10 +150197,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "E48E4C46F64FFB0E",
-    "value": 10,
+    "value": 11,
     "label": "航天城交匯處 (CL326)",
     "shape": "hexagon",
-    "title": "A30,A31,A32,A33,A34,A37,A41P,A43P,S1,S64X",
+    "title": "A30,A31,A32,A33,A34,A37,A41P,A43P,A47X,S1,S64X",
     "x": -5658.999999999992,
     "y": -31717.000000000084
   },
