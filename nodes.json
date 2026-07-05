@@ -22685,10 +22685,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003304",
-    "value": 4,
+    "value": 1,
     "label": "香港天際萬豪酒店, 航天城東路",
     "shape": "hexagon",
-    "title": "A26,A28,A29,S1",
+    "title": "S1",
     "x": -5679.9999999995525,
     "y": -31823.99999999994
   },
@@ -166015,10 +166015,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "LR001",
-    "value": 9,
+    "value": 3,
     "label": "屯門碼頭",
     "shape": "hexagon",
-    "title": "506P*,507,507P*,610,614,614P,615,615P,751*",
+    "title": "506P*,507P*,751*",
     "x": -3288.0000000005793,
     "y": -37271.000000000146
   },
@@ -166026,10 +166026,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "LR010",
-    "value": 4,
+    "value": 1,
     "label": "美樂",
     "shape": "hexagon",
-    "title": "506P*,610,615,615P",
+    "title": "506P*",
     "x": -3888.9999999994984,
     "y": -37505.00000000017
   },
@@ -166037,10 +166037,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "LR015",
-    "value": 4,
+    "value": 1,
     "label": "蝴蝶",
     "shape": "hexagon",
-    "title": "506P*,610,615,615P",
+    "title": "506P*",
     "x": -3834.000000000515,
     "y": -37817.00000000008
   },
@@ -166048,10 +166048,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "LR020",
-    "value": 4,
+    "value": 1,
     "label": "輕鐵車廠",
     "shape": "hexagon",
-    "title": "506P*,610,615,615P",
+    "title": "506P*",
     "x": -3658.0000000000723,
     "y": -38181.00000000015
   },
@@ -166059,10 +166059,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "LR030",
-    "value": 4,
+    "value": 1,
     "label": "龍門",
     "shape": "hexagon",
-    "title": "506P*,610,615,615P",
+    "title": "506P*",
     "x": -3502.0000000002938,
     "y": -38525.99999999988
   },
@@ -166070,10 +166070,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "LR040",
-    "value": 4,
+    "value": 1,
     "label": "青山村",
     "shape": "hexagon",
-    "title": "506P*,610,615,615P",
+    "title": "506P*",
     "x": -3303.9999999999736,
     "y": -39039.99999999996
   },
@@ -166081,10 +166081,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "LR050",
-    "value": 4,
+    "value": 1,
     "label": "青雲",
     "shape": "hexagon",
-    "title": "506P*,610,615,615P",
+    "title": "506P*",
     "x": -3260.0000000002183,
     "y": -39433.99999999997
   },
@@ -166092,10 +166092,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "LR060",
-    "value": 2,
+    "value": 1,
     "label": "建安",
     "shape": "hexagon",
-    "title": "505,506P*",
+    "title": "506P*",
     "x": -3109.999999999502,
     "y": -39513.000000000175
   },
@@ -166103,10 +166103,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "LR070",
-    "value": 4,
+    "value": 2,
     "label": "河田",
     "shape": "hexagon",
-    "title": "507,507P*,751*,751",
+    "title": "507P*,751*",
     "x": -2687.000000000239,
     "y": -39737.999999999825
   },
@@ -166114,10 +166114,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "LR075",
-    "value": 4,
+    "value": 2,
     "label": "蔡意橋",
     "shape": "hexagon",
-    "title": "507,507P*,751*,751",
+    "title": "507P*,751*",
     "x": -2582.999999999913,
     "y": -39993.000000000124
   },
@@ -166125,10 +166125,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "LR080",
-    "value": 3,
+    "value": 1,
     "label": "澤豐",
     "shape": "hexagon",
-    "title": "610,751*,751",
+    "title": "751*",
     "x": -2410.9999999993192,
     "y": -40349.000000000146
   },
@@ -166136,12 +166136,34 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "LR090",
-    "value": 3,
+    "value": 1,
     "label": "屯門醫院",
     "shape": "hexagon",
-    "title": "610,751*,751",
+    "title": "751*",
     "x": -2285.0000000005366,
     "y": -40776.99999999993
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "LR1",
+    "value": 6,
+    "label": "屯門碼頭",
+    "shape": "hexagon",
+    "title": "507,610,614,614P,615,615P",
+    "x": -3288.0000000005793,
+    "y": -37271.000000000146
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "LR10",
+    "value": 3,
+    "label": "美樂",
+    "shape": "hexagon",
+    "title": "610,615,615P",
+    "x": -3888.9999999994984,
+    "y": -37505.00000000017
   },
   {
     "borderWidth": 0,
@@ -166201,6 +166223,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "LR15",
+    "value": 3,
+    "label": "蝴蝶",
+    "shape": "hexagon",
+    "title": "610,615,615P",
+    "x": -3834.000000000515,
+    "y": -37817.00000000008
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "LR150",
     "value": 5,
     "label": "良景",
@@ -166252,6 +166285,17 @@
     "title": "505",
     "x": -3401.9999999998163,
     "y": -39661.99999999986
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "LR20",
+    "value": 3,
+    "label": "輕鐵車廠",
+    "shape": "hexagon",
+    "title": "610,615,615P",
+    "x": -3658.0000000000723,
+    "y": -38181.00000000015
   },
   {
     "borderWidth": 0,
@@ -166313,11 +166357,11 @@
     "borderWidthSelected": 1,
     "id": "LR250",
     "value": 5,
-    "label": "屯門泳池",
+    "label": "海皇路",
     "shape": "hexagon",
     "title": "507,507P*,614,614P,751*",
-    "x": -2958.9999999998895,
-    "y": -38116.00000000013
+    "x": -2937.000000000012,
+    "y": -38440.999999999905
   },
   {
     "borderWidth": 0,
@@ -166384,6 +166428,17 @@
     "title": "505,506P*,507,507P*,751*,751",
     "x": -2669.00000000021,
     "y": -39371.99999999983
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "LR30",
+    "value": 3,
+    "label": "龍門",
+    "shape": "hexagon",
+    "title": "610,615,615P",
+    "x": -3502.0000000002938,
+    "y": -38525.99999999988
   },
   {
     "borderWidth": 0,
@@ -166494,6 +166549,17 @@
     "title": "610,614,615,761P",
     "x": 704.0000000003488,
     "y": -44011.000000000065
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "LR40",
+    "value": 3,
+    "label": "青山村",
+    "shape": "hexagon",
+    "title": "610,615,615P",
+    "x": -3303.9999999999736,
+    "y": -39039.99999999996
   },
   {
     "borderWidth": 0,
@@ -166630,6 +166696,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "LR50",
+    "value": 3,
+    "label": "青雲",
+    "shape": "hexagon",
+    "title": "610,615,615P",
+    "x": -3260.0000000002183,
+    "y": -39433.99999999997
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "LR500",
     "value": 7,
     "label": "天榮",
@@ -166740,6 +166817,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "LR60",
+    "value": 1,
+    "label": "建安",
+    "shape": "hexagon",
+    "title": "505",
+    "x": -3109.999999999502,
+    "y": -39513.000000000175
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "LR600",
     "value": 4,
     "label": "元朗",
@@ -166747,6 +166835,50 @@
     "title": "610,614,615,761P",
     "x": 3436.999999999557,
     "y": -44572.000000000146
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "LR70",
+    "value": 2,
+    "label": "河田",
+    "shape": "hexagon",
+    "title": "507,751",
+    "x": -2687.000000000239,
+    "y": -39737.999999999825
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "LR75",
+    "value": 2,
+    "label": "蔡意橋",
+    "shape": "hexagon",
+    "title": "507,751",
+    "x": -2582.999999999913,
+    "y": -39993.000000000124
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "LR80",
+    "value": 2,
+    "label": "澤豐",
+    "shape": "hexagon",
+    "title": "610,751",
+    "x": -2410.9999999993192,
+    "y": -40349.000000000146
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "LR90",
+    "value": 2,
+    "label": "屯門醫院",
+    "shape": "hexagon",
+    "title": "610,751",
+    "x": -2285.0000000005366,
+    "y": -40776.99999999993
   },
   {
     "borderWidth": 0,
