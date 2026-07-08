@@ -9100,10 +9100,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "001859",
-    "value": 10,
+    "value": 12,
     "label": "富東廣場, 達東路",
     "shape": "hexagon",
-    "title": "E11,E11A,E11B,E21,E21B,E23,E23A,N11,N21,N21A",
+    "title": "E11,E11A,E11B,E21,E21B,E22,E22A,E23,E23A,N11,N21,N21A",
     "x": -5798.000000000058,
     "y": -28888.999999999854
   },
@@ -9293,17 +9293,6 @@
     "title": "E11A,E11B,E11S,E21A,E21D,E21X,E22S,E23A,N21A,S52A,S56",
     "x": -4819.000000000528,
     "y": -29337.99999999991
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "001884",
-    "value": 2,
-    "label": "東薈城, 達東路",
-    "shape": "hexagon",
-    "title": "E22,E22A",
-    "x": -5817.000000000406,
-    "y": -28984.000000000164
   },
   {
     "borderWidth": 0,
