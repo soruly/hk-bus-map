@@ -33134,6 +33134,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "107E0EAD1E4D0CF5",
+    "value": 1,
+    "label": "洲頭村",
+    "shape": "hexagon",
+    "title": "B1",
+    "x": 7998.000000000616,
+    "y": -50638.99999999997
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "108",
     "value": 3,
     "label": "藍天海岸",
@@ -36655,10 +36666,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "18FB32A8BE19CB57",
-    "value": 5,
+    "value": 4,
     "label": "新圍軍營 (ND267)",
     "shape": "hexagon",
-    "title": "277A,78K,79K,N78,R78",
+    "title": "277A,78K,79K,N78",
     "x": 15497.000000000582,
     "y": -50748.0000000001
   },
@@ -48211,17 +48222,6 @@
     "title": "501S",
     "x": 21571.00000000014,
     "y": -32062.000000000167
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20002191",
-    "value": 1,
-    "label": "裕民坊,近裕民大廈",
-    "shape": "hexagon",
-    "title": "501S",
-    "x": 22408.000000000073,
-    "y": -31380.00000000005
   },
   {
     "borderWidth": 0,
@@ -83679,17 +83679,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20017031",
-    "value": 2,
-    "label": "太子道西, 近科發道",
-    "shape": "hexagon",
-    "title": "70,70A",
-    "x": 18644.999999999356,
-    "y": -32706.99999999991
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20017032",
     "value": 2,
     "label": "太子道西, 愛華閣第二期外",
@@ -83708,17 +83697,6 @@
     "title": "70,70A",
     "x": 17269.00000000029,
     "y": -32466.00000000015
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20017034",
-    "value": 2,
-    "label": "太子道西, 維景酒店外",
-    "shape": "hexagon",
-    "title": "70,70A",
-    "x": 16725.999999999884,
-    "y": -32369.999999999876
   },
   {
     "borderWidth": 0,
@@ -83923,7 +83901,7 @@
     "borderWidthSelected": 1,
     "id": "20017053",
     "value": 2,
-    "label": "汝州街, 永泰樓對面",
+    "label": "砵蘭街, 近汝州街",
     "shape": "hexagon",
     "title": "70,70A",
     "x": 16742.999999999596,
@@ -83933,10 +83911,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20017054",
-    "value": 2,
+    "value": 1,
     "label": "界限街, 恆順大樓外",
     "shape": "hexagon",
-    "title": "70,70A",
+    "title": "70A",
     "x": 16679.999999999494,
     "y": -32650.999999999898
   },
@@ -84016,17 +83994,6 @@
     "title": "70,70A",
     "x": 17981.000000000335,
     "y": -32707.99999999987
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20017062",
-    "value": 2,
-    "label": "界限街, 碧華花園第6座外",
-    "shape": "hexagon",
-    "title": "70,70A",
-    "x": 18205.000000000382,
-    "y": -32717.999999999847
   },
   {
     "borderWidth": 0,
@@ -91039,10 +91006,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20022999",
-    "value": 1,
+    "value": 2,
     "label": "協和街, 觀景閣對面",
     "shape": "hexagon",
-    "title": "62S",
+    "title": "501S,62S",
     "x": 22623.000000000106,
     "y": -31331.00000000013
   },
@@ -91056,6 +91023,50 @@
     "title": "602,608,620,71,72,78",
     "x": 6338.999999999828,
     "y": -43342.00000000017
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20023098",
+    "value": 2,
+    "label": "太子道西, 近科發道",
+    "shape": "hexagon",
+    "title": "70,70A",
+    "x": 18608.0000000004,
+    "y": -32698.999999999854
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20023099",
+    "value": 2,
+    "label": "太子道西135號",
+    "shape": "hexagon",
+    "title": "70,70A",
+    "x": 16758.000000000095,
+    "y": -32374.00000000008
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20023100",
+    "value": 1,
+    "label": "界限街, 恆順大樓外",
+    "shape": "hexagon",
+    "title": "70",
+    "x": 16697.999999999523,
+    "y": -32651.999999999858
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20023101",
+    "value": 2,
+    "label": "界限街, 碧華花園第6座外",
+    "shape": "hexagon",
+    "title": "70,70A",
+    "x": 18156.999999999356,
+    "y": -32714.99999999996
   },
   {
     "borderWidth": 0,
@@ -100828,6 +100839,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "3CB02010AEC23403",
+    "value": 1,
+    "label": "落馬洲站 ‧ 福田口岸",
+    "shape": "hexagon",
+    "title": "B1",
+    "x": 6641.999999999371,
+    "y": -51545.00000000013
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "3CB360C4C4AA1098",
     "value": 1,
     "label": "泓景臺 (SS700)",
@@ -104927,6 +104949,17 @@
     "title": "1,11,21,N1",
     "x": -12117.99999999954,
     "y": -24202.999999999975
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "49024ADB07E7BB54",
+    "value": 1,
+    "label": "元朗又新街",
+    "shape": "hexagon",
+    "title": "B1",
+    "x": 3114.999999999668,
+    "y": -44427.99999999991
   },
   {
     "borderWidth": 0,
@@ -117504,6 +117537,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "727851F159B388F0",
+    "value": 1,
+    "label": "下灣村",
+    "shape": "hexagon",
+    "title": "B1",
+    "x": 7389.000000000578,
+    "y": -51328.000000000175
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "727AA8B21AB74300",
     "value": 2,
     "label": "沙田第一城 (ST145)",
@@ -119139,6 +119183,17 @@
     "title": "251B,54",
     "x": 9798.99999999958,
     "y": -43795.00000000007
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "7857F114E84F09F6",
+    "value": 1,
+    "label": "元朗警署",
+    "shape": "hexagon",
+    "title": "B1",
+    "x": 2370.000000000516,
+    "y": -44435
   },
   {
     "borderWidth": 0,
@@ -121262,6 +121317,17 @@
     "title": "N241",
     "x": 17154.999999999633,
     "y": -30755.999999999873
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "807DAA4D6A6F5F08",
+    "value": 1,
+    "label": "水邊村",
+    "shape": "hexagon",
+    "title": "B1",
+    "x": 2078.000000000202,
+    "y": -44437.99999999989
   },
   {
     "borderWidth": 0,
@@ -129534,17 +129600,6 @@
     "title": "1,113,1A,213D,24,27,95,N216",
     "x": 18316.000000000087,
     "y": -32647.000000000047
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "9DBFBF7A3CE5DF0A",
-    "value": 1,
-    "label": "粉嶺站轉車站-粉嶺站 (ND497)",
-    "shape": "hexagon",
-    "title": "R78",
-    "x": 13882.999999999867,
-    "y": -49238.00000000007
   },
   {
     "borderWidth": 0,
@@ -138789,6 +138844,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "BCB9FCB25902BDC5",
+    "value": 1,
+    "label": "元朗大棠路",
+    "shape": "hexagon",
+    "title": "B1",
+    "x": 2854.000000000667,
+    "y": -44434.000000000044
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "BCC6E5BA6810FED6",
     "value": 7,
     "label": "水邊圍邨 (YL358)",
@@ -139434,6 +139500,17 @@
     "title": "268,76K",
     "x": 5098.999999999876,
     "y": -45271.999999999935
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "BF5D3D148FD00837",
+    "value": 1,
+    "label": "新田運輸交匯處",
+    "shape": "hexagon",
+    "title": "B1",
+    "x": 8177.000000000589,
+    "y": -50308.000000000065
   },
   {
     "borderWidth": 0,
@@ -146181,6 +146258,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "D67C0DD6278C8755",
+    "value": 1,
+    "label": "元點",
+    "shape": "hexagon",
+    "title": "B1",
+    "x": 3436.999999999557,
+    "y": -44431.00000000015
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "D693BB486419666B",
     "value": 3,
     "label": "長青邨青槐樓 (TY325)",
@@ -150416,6 +150504,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "E54EB610E4DABDAE",
+    "value": 1,
+    "label": "元朗公園",
+    "shape": "hexagon",
+    "title": "B1",
+    "x": 1896.0000000006971,
+    "y": -44408.99999999992
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "E553B839AD6A8C3D",
     "value": 13,
     "label": "深水埗楓樹街 (SS494)",
@@ -153310,10 +153409,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "EF78DD9F765C6565",
-    "value": 10,
+    "value": 9,
     "label": "粉嶺站轉車站 - 祥華邨 (ND184)",
     "shape": "hexagon",
-    "title": "270C,277X,278A,279X,373,673,673P,70K,N78,R78",
+    "title": "270C,277X,278A,279X,373,673,673P,70K,N78",
     "x": 14038.999999999647,
     "y": -49247.00000000009
   },
@@ -158134,6 +158233,17 @@
     "title": "E33P",
     "x": -2346.0000000000036,
     "y": -41012.999999999876
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "FEE90C6EEAAC8E4B",
+    "value": 1,
+    "label": "下灣漁民新村",
+    "shape": "hexagon",
+    "title": "B1",
+    "x": 7855.0000000007,
+    "y": -50993.000000000065
   },
   {
     "borderWidth": 0,
