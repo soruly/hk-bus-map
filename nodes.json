@@ -120265,17 +120265,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "7C855FDC7F8621AA",
-    "value": 1,
-    "label": "牛池灣轉車站-紅萼樓",
-    "shape": "hexagon",
-    "title": "N121",
-    "x": 20597.999999999673,
-    "y": -33707.000000000065
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "7C88601B99189BD4",
     "value": 1,
     "label": "勵德邨德全樓 (ED265)",
@@ -133719,10 +133708,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "AA6F0A2661759A49",
-    "value": 10,
+    "value": 11,
     "label": "牛池灣轉車站-丹鳳樓 (WT702)",
     "shape": "hexagon",
-    "title": "252X,258D,258P,259D,267X,268C,269C,62X,69C,N216",
+    "title": "252X,258D,258P,259D,267X,268C,269C,62X,69C,N121,N216",
     "x": 20754.999999999767,
     "y": -33536.000000000146
   },
