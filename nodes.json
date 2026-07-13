@@ -91192,6 +91192,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "20023065",
+    "value": 1,
+    "label": "興華街近元州街",
+    "shape": "hexagon",
+    "title": "75X",
+    "x": 15488.999999999465,
+    "y": -33907.99999999991
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "20023098",
     "value": 2,
     "label": "太子道西, 近科發道",
