@@ -76850,7 +76850,7 @@
     "borderWidthSelected": 1,
     "id": "20015513",
     "value": 1,
-    "label": "啓樂街,啓業邨啓樂樓外",
+    "label": "啓樂街,啓業邨啓樂樓熟食中心對面",
     "shape": "hexagon",
     "title": "51M",
     "x": 20946.999999999603,
@@ -76877,17 +76877,6 @@
     "title": "29,29A",
     "x": 16562.999999999305,
     "y": -24467.99999999989
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20015517",
-    "value": 1,
-    "label": "啓樂街,啓業邨啓樂樓熟食中心對面",
-    "shape": "hexagon",
-    "title": "51M",
-    "x": 20852.99999999961,
-    "y": -32772.9999999999
   },
   {
     "borderWidth": 0,
@@ -81073,10 +81062,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20016602",
-    "value": 1,
+    "value": 2,
     "label": "協和街, 近華峰園",
     "shape": "hexagon",
-    "title": "50",
+    "title": "50,91",
     "x": 22669.000000000495,
     "y": -32066.999999999978
   },
@@ -91243,6 +91232,17 @@
     "title": "70,70A",
     "x": 18156.999999999356,
     "y": -32714
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20023164",
+    "value": 1,
+    "label": "啓樂街,啓業邨啓樂樓外",
+    "shape": "hexagon",
+    "title": "51M",
+    "x": 20971.000000000116,
+    "y": -32782.999999999876
   },
   {
     "borderWidth": 0,
