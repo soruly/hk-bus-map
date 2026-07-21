@@ -22213,7 +22213,7 @@
     "borderWidthSelected": 1,
     "id": "003256",
     "value": 1,
-    "label": "保良局莊啟程第二小學, 青田路",
+    "label": "大興北休憩處, 青田路",
     "shape": "hexagon",
     "title": "B3A",
     "x": -3113.9999999993506,
@@ -28323,6 +28323,17 @@
     "title": "20A",
     "x": 19026.999999999818,
     "y": -32601.000000000015
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "003938",
+    "value": 1,
+    "label": "宏緻苑, 宏照道",
+    "shape": "hexagon",
+    "title": "22M",
+    "x": 20763.99999999978,
+    "y": -33036.99999999985
   },
   {
     "borderWidth": 0,
@@ -36974,10 +36985,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "19B569A51034271F",
-    "value": 7,
+    "value": 8,
     "label": "石排站 (TM584)",
     "shape": "hexagon",
-    "title": "261S,960,960B,961P,961S,N260,N960",
+    "title": "261S,960,960B,961P,961S,N260,N960,SP5A",
     "x": -3195.999999999799,
     "y": -40202.00000000003
   },
@@ -140253,10 +140264,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "C192BEF2264E0CC6",
-    "value": 7,
+    "value": 6,
     "label": "石排站 (TM188)",
     "shape": "hexagon",
-    "title": "258S,260R,960,960B,N260,N960,SP5A",
+    "title": "258S,260R,960,960B,N260,N960",
     "x": -3212.9999999995107,
     "y": -40191.00000000009
   },
