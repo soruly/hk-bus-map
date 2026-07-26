@@ -28383,10 +28383,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003968",
-    "value": 1,
+    "value": 3,
     "label": "香港仔隧道巴士轉乘站",
     "shape": "hexagon",
-    "title": "770",
+    "title": "37B,37X,770",
     "x": 17835.999999999785,
     "y": -25150.999999999967
   },
@@ -28394,10 +28394,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003969",
-    "value": 1,
+    "value": 3,
     "label": "香港仔隧道巴士轉乘站",
     "shape": "hexagon",
-    "title": "770",
+    "title": "170,37A,770",
     "x": 17775.00000000032,
     "y": -25124.999999999887
   },
@@ -34142,17 +34142,6 @@
     "title": "1R",
     "x": 16787.99999999967,
     "y": -32582.000000000022
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "1310CE826AAD8F50",
-    "value": 1,
-    "label": "舊薄扶林狗房",
-    "shape": "hexagon",
-    "title": "107P",
-    "x": 13542.999999999949,
-    "y": -25608.000000000076
   },
   {
     "borderWidth": 0,
@@ -92028,17 +92017,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "225E8FAE869B3308",
-    "value": 10,
-    "label": "黃竹坑醫院",
-    "shape": "hexagon",
-    "title": "107,107P,170,171,171A,171P,671,671X,N170,N171",
-    "x": 17606.000000000677,
-    "y": -25005.000000000167
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "225F00F550C301AE",
     "value": 4,
     "label": "新山道 (KC725)",
@@ -101957,6 +101935,17 @@
     "title": "234D,48P,52X,53,N252",
     "x": 4465.999999999326,
     "y": -36145.00000000014
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "3F463A541D165B44",
+    "value": 10,
+    "label": "香港仔隧道",
+    "shape": "hexagon",
+    "title": "107,107P,170,171,171A,171P,671,671X,N170,N171",
+    "x": 17807.000000000528,
+    "y": -25180.999999999898
   },
   {
     "borderWidth": 0,
@@ -113204,10 +113193,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "636F6AAF3B891E82",
-    "value": 2,
+    "value": 4,
     "label": "荔枝角巴士總站 (SS980)",
     "shape": "hexagon",
-    "title": "171,32H",
+    "title": "171,171A,171P,32H",
     "x": 13669.000000000153,
     "y": -34158.000000000044
   },
@@ -117511,17 +117500,6 @@
     "title": "281,82K,85B,87B",
     "x": 18555.999999999527,
     "y": -37294.99999999994
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "719B6A48C203AFBA",
-    "value": 7,
-    "label": "黃竹坑醫院",
-    "shape": "hexagon",
-    "title": "107,107P,170,171,671,N170,N171",
-    "x": 17529.99999999929,
-    "y": -24973.99999999992
   },
   {
     "borderWidth": 0,
@@ -131364,6 +131342,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "A2ED007C8CD070A0",
+    "value": 3,
+    "label": "香港仔隧道",
+    "shape": "hexagon",
+    "title": "171,671,N171",
+    "x": 17812.99999999959,
+    "y": -25125.999999999847
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "A30F5B94F215CCBA",
     "value": 1,
     "label": "石田路",
@@ -143278,10 +143267,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "CC0EA05EEADFA481",
-    "value": 1,
+    "value": 2,
     "label": "鑽石山站巴士總站 (WT965)",
     "shape": "hexagon",
-    "title": "671",
+    "title": "671,671X",
     "x": 20162.999999999443,
     "y": -34084.99999999996
   },
@@ -149257,6 +149246,17 @@
     "title": "296A,296C,296P,91S,98,98S,X90",
     "x": 24062.000000000695,
     "y": -31542.99999999992
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "E0C452A539D57317",
+    "value": 4,
+    "label": "香港仔隧道",
+    "shape": "hexagon",
+    "title": "107,107P,170,N170",
+    "x": 17828.000000000087,
+    "y": -25142.999999999916
   },
   {
     "borderWidth": 0,
