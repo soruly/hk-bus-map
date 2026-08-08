@@ -29141,6 +29141,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "038116DE4624B0DF",
+    "value": 1,
+    "label": "彩虹轉車站 - 彩虹總站 (WT997)",
+    "shape": "hexagon",
+    "title": "89B",
+    "x": 20431.999999999563,
+    "y": -33568
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "0389A57B9FCD3AB5",
     "value": 2,
     "label": "紅磡(紅鸞道) 嘉里酒店 (HH901)",
@@ -37744,10 +37755,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "1C958B99EB171940",
-    "value": 5,
+    "value": 2,
     "label": "迎禧路裕雅苑 (TC150)",
     "shape": "hexagon",
-    "title": "E32A,E36A,E42P,E43,N31",
+    "title": "E42P,E43",
     "x": -5209.000000000686,
     "y": -29425.000000000167
   },
@@ -104151,10 +104162,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "45D0CFA28B3FEFE5",
-    "value": 16,
+    "value": 15,
     "label": "獅子山隧道 (ST100)",
     "shape": "hexagon",
-    "title": "170,270A,270C,72X,74A,80,81C,85,85A,87B,87D,89,N170,N182,N271,N281",
+    "title": "170,270A,270C,72X,74A,81C,85,85A,87B,87D,89,N170,N182,N271,N281",
     "x": 17345.000000000255,
     "y": -35872.00000000017
   },
@@ -126216,17 +126227,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "91DBF92544F472E6",
-    "value": 3,
-    "label": "迎東邨 (TC991)",
-    "shape": "hexagon",
-    "title": "E32A,E36A,N31",
-    "x": -4742.000000000246,
-    "y": -29704.99999999987
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "91E946260F8BCBE8",
     "value": 3,
     "label": "皇后山總站 (ND970)",
@@ -129050,17 +129050,6 @@
     "title": "281A",
     "x": 20251.000000000375,
     "y": -38605.00000000009
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "9B90BAE383F14AD3",
-    "value": 4,
-    "label": "英明苑",
-    "shape": "hexagon",
-    "title": "296M,93K,93M,93P",
-    "x": 25607.99999999972,
-    "y": -32704.000000000022
   },
   {
     "borderWidth": 0,
@@ -134093,10 +134082,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "AB63C9E8465C6002",
-    "value": 5,
+    "value": 2,
     "label": "東環 (TC151)",
     "shape": "hexagon",
-    "title": "E32A,E36A,E42P,E43,N31",
+    "title": "E42P,E43",
     "x": -4967.000000000609,
     "y": -29456.00000000006
   },
@@ -149922,10 +149911,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "E34E3D48842C9B66",
-    "value": 18,
+    "value": 17,
     "label": "獅子山隧道 (ST780)",
     "shape": "hexagon",
-    "title": "170,270A,281B,281X,72X,74A,80,81C,85,85A,87B,87C,87D,89,N170,N182,N271,N281",
+    "title": "170,270A,281B,281X,72X,74A,81C,85,85A,87B,87C,87D,89,N170,N182,N271,N281",
     "x": 17467.999999999505,
     "y": -35884.00000000007
   },
@@ -158150,10 +158139,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "FE6D5955F777E39C",
-    "value": 5,
+    "value": 2,
     "label": "迎禧路 (TC230)",
     "shape": "hexagon",
-    "title": "E32A,E36A,E42P,E43,N31",
+    "title": "E42P,E43",
     "x": -4948.000000000264,
     "y": -29448.99999999997
   },
