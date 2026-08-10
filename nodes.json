@@ -28393,6 +28393,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "003972",
+    "value": 1,
+    "label": "冠暉苑, 佛光街",
+    "shape": "hexagon",
+    "title": "A20",
+    "x": 18160.00000000031,
+    "y": -31408.00000000006
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "003D1263A14908F6",
     "value": 3,
     "label": "荃灣富華街 (TW143)",
@@ -32239,6 +32250,17 @@
     "title": "265B",
     "x": 435.00000000022965,
     "y": -46104.00000000006
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "0EB1DDFEBF0D09E0",
+    "value": 3,
+    "label": "裕雅苑雅盛閣 (TC240)",
+    "shape": "hexagon",
+    "title": "E32A,E36A,N31",
+    "x": -5150.999999999329,
+    "y": -29648.999999999858
   },
   {
     "borderWidth": 0,
@@ -36485,17 +36507,6 @@
     "title": "213D,27,27X",
     "x": 16995.000000000004,
     "y": -32110.000000000127
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "18785E68EAD3D9B8",
-    "value": 1,
-    "label": "彩園總站 (ND922)",
-    "shape": "hexagon",
-    "title": "273A",
-    "x": 12561.999999999785,
-    "y": -50084.99999999998
   },
   {
     "borderWidth": 0,
@@ -97155,10 +97166,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "31005C82D70F6B09",
-    "value": 5,
+    "value": 4,
     "label": "彩蒲苑彩碧閣 (ND105)",
     "shape": "hexagon",
-    "title": "273A,978,978A,N373,N73",
+    "title": "978,978A,N373,N73",
     "x": 12470.000000000426,
     "y": -50292.99999999992
   },
@@ -100780,6 +100791,17 @@
     "title": "111,111P,11C,302,302A,671,6D,89B,89C,89X",
     "x": 20489.0000000006,
     "y": -33551.99999999989
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "3BE0B584549B365D",
+    "value": 4,
+    "label": "英明苑 (TK443)",
+    "shape": "hexagon",
+    "title": "296M,93K,93M,93P",
+    "x": 25621.9999999999,
+    "y": -32702.0000000001
   },
   {
     "borderWidth": 0,
@@ -121454,10 +121476,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "80C387D87AFBCE3E",
-    "value": 2,
+    "value": 1,
     "label": "彩石邨 (ND104)",
     "shape": "hexagon",
-    "title": "273A,79K",
+    "title": "79K",
     "x": 12179.00000000043,
     "y": -50407.99999999983
   },
@@ -126531,6 +126553,17 @@
     "title": "76K",
     "x": 11637.000000000342,
     "y": -50197
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "92E674C6961B07CA",
+    "value": 3,
+    "label": "匯東街",
+    "shape": "hexagon",
+    "title": "E32A,E36A,N31",
+    "x": -4837.0000000005575,
+    "y": -29898.999999999985
   },
   {
     "borderWidth": 0,
@@ -142430,6 +142463,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "C9479F7A9B2C43CE",
+    "value": 1,
+    "label": "翔東邨 (TC955)",
+    "shape": "hexagon",
+    "title": "E36A",
+    "x": -4779.000000000622,
+    "y": -29726.000000000142
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "C95751DB2112F279",
     "value": 9,
     "label": "石蔭東邨 (KW340)",
@@ -147963,6 +148007,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "DBC287AE0C58AEC0",
+    "value": 2,
+    "label": "匯東街",
+    "shape": "hexagon",
+    "title": "E32A,N31",
+    "x": -4841.999999999302,
+    "y": -29914.00000000013
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "DBD6820299653B4E",
     "value": 1,
     "label": "屯門站總站 (V5) (TM956)",
@@ -150819,6 +150874,17 @@
     "title": "72,86",
     "x": 16137.999999999409,
     "y": -33464.99999999999
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "E6AD97BD84D3C0BC",
+    "value": 2,
+    "label": "翔東邨 (TC954)",
+    "shape": "hexagon",
+    "title": "E32A,N31",
+    "x": -4779.000000000622,
+    "y": -29726.000000000142
   },
   {
     "borderWidth": 0,
