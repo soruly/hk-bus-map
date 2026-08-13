@@ -120769,26 +120769,6 @@
         "max": 8
       }
     },
-    "from": "1AB800949FF1203B",
-    "to": "B28798C421AB2D6B",
-    "value": 3,
-    "title": "278K",
-    "label": "94",
-    "color": "red"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
     "from": "1AB934EFE0E1470A",
     "to": "E74202351AF7F37D",
     "value": 1,
@@ -365405,26 +365385,6 @@
       }
     },
     "from": "879A98CD29D9433F",
-    "to": "1AB800949FF1203B",
-    "value": 3,
-    "title": "278K",
-    "label": "116",
-    "color": "red"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "879A98CD29D9433F",
     "to": "7EFB60ED247B4316",
     "value": 1,
     "title": "277X",
@@ -497357,7 +497317,7 @@
     "to": "LR250",
     "value": 3,
     "title": "507,614,614P",
-    "label": "1089"
+    "label": "750"
   },
   {
     "arrows": {
@@ -497395,7 +497355,7 @@
     "to": "LR260",
     "value": 3,
     "title": "507,614,614P",
-    "label": "273"
+    "label": "354"
   },
   {
     "arrows": {
@@ -497414,7 +497374,7 @@
     "to": "LR240",
     "value": 5,
     "title": "507,507P*,614,614P,751*",
-    "label": "1089"
+    "label": "750"
   },
   {
     "arrows": {
@@ -497452,7 +497412,7 @@
     "to": "LR250",
     "value": 5,
     "title": "507,507P*,614,614P,751*",
-    "label": "273"
+    "label": "354"
   },
   {
     "arrows": {
