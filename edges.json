@@ -94873,10 +94873,10 @@
       }
     },
     "from": "029C4172D953DAF5",
-    "to": "9252A494500A05C9",
-    "value": 2,
+    "to": "E7E757D7EF91AEC6",
+    "value": 1,
     "title": "PB2",
-    "label": "3429",
+    "label": "3151",
     "color": "red"
   },
   {
@@ -97614,8 +97614,8 @@
     },
     "from": "057B2DCE8BE58FFA",
     "to": "4A91A327C9FC745E",
-    "value": 6,
-    "title": "290X,600,613,613A,R603",
+    "value": 7,
+    "title": "290X,600,600X,613,613A,R603",
     "label": "426",
     "color": "red"
   },
@@ -98394,7 +98394,7 @@
     },
     "from": "064B06C60E5EE126",
     "to": "8B9E121BB71771F4",
-    "value": 2,
+    "value": 1,
     "title": "PB2",
     "label": "4747",
     "color": "red"
@@ -98414,7 +98414,7 @@
     },
     "from": "064B06C60E5EE126",
     "to": "06CC6423AA236B72",
-    "value": 2,
+    "value": 1,
     "title": "PB2",
     "label": "9067",
     "color": "red"
@@ -98673,26 +98673,6 @@
       }
     },
     "from": "0678C85600B1A019",
-    "to": "321060BAE1447BEE",
-    "value": 1,
-    "title": "PB4",
-    "label": "15161",
-    "color": "red"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "0678C85600B1A019",
     "to": "C6F1D1D8DF180508",
     "value": 1,
     "title": "PB4",
@@ -98714,7 +98694,7 @@
     },
     "from": "0678C85600B1A019",
     "to": "F493236404A4FABF",
-    "value": 2,
+    "value": 1,
     "title": "PB4",
     "label": "8561",
     "color": "red"
@@ -98894,7 +98874,7 @@
     },
     "from": "06CC6423AA236B72",
     "to": "064B06C60E5EE126",
-    "value": 2,
+    "value": 1,
     "title": "PB2",
     "label": "9067",
     "color": "red"
@@ -98913,10 +98893,10 @@
       }
     },
     "from": "06CC6423AA236B72",
-    "to": "9252A494500A05C9",
-    "value": 2,
+    "to": "8C26363C85EF7405",
+    "value": 1,
     "title": "PB2",
-    "label": "4200",
+    "label": "652",
     "color": "red"
   },
   {
@@ -103213,6 +103193,26 @@
       }
     },
     "from": "0B8392BEB388E9E7",
+    "to": "42E86F97FAC8F719",
+    "value": 1,
+    "title": "600X",
+    "label": "340",
+    "color": "red"
+  },
+  {
+    "arrows": {
+      "to": {
+        "enabled": true,
+        "scaleFactor": 0.5
+      }
+    },
+    "scaling": {
+      "label": {
+        "min": 8,
+        "max": 8
+      }
+    },
+    "from": "0B8392BEB388E9E7",
     "to": "678E66E67D8F1989",
     "value": 1,
     "title": "600",
@@ -103434,8 +103434,8 @@
     },
     "from": "0BACBE7BF15833EC",
     "to": "CABB1AAE412C6049",
-    "value": 5,
-    "title": "13,19,213E,600",
+    "value": 6,
+    "title": "13,19,213E,600,600X",
     "label": "236",
     "color": "red"
   },
@@ -109651,8 +109651,8 @@
     },
     "from": "10D72CAA8930BA36",
     "to": "D456864A2E0933B2",
-    "value": 1,
-    "title": "600",
+    "value": 2,
+    "title": "600,600X",
     "label": "333",
     "color": "red"
   },
@@ -110691,8 +110691,8 @@
     },
     "from": "11CE1FD8440A89D3",
     "to": "4AA350AD8FFF4786",
-    "value": 7,
-    "title": "600,603,603S,673P,960C,960P,960S",
+    "value": 8,
+    "title": "600,600X,603,603S,673P,960C,960P,960S",
     "label": "300",
     "color": "red"
   },
@@ -123631,8 +123631,8 @@
     },
     "from": "1DB8D58C023AFD4D",
     "to": "DFAA70BC93BC9108",
-    "value": 2,
-    "title": "19,600",
+    "value": 3,
+    "title": "19,600,600X",
     "label": "83",
     "color": "red"
   },
@@ -125651,8 +125651,8 @@
     },
     "from": "1FA045AFCD07D796",
     "to": "0BACBE7BF15833EC",
-    "value": 2,
-    "title": "19,600",
+    "value": 3,
+    "title": "19,600,600X",
     "label": "83",
     "color": "red"
   },
@@ -125851,8 +125851,8 @@
     },
     "from": "1FBAAE29AF1CA50E",
     "to": "466BC4C1908A1A06",
-    "value": 16,
-    "title": "11X,13,213D,213E,213M,213S,214,293S,600,613,88,N213,N214,N293,N691",
+    "value": 17,
+    "title": "11X,13,213D,213E,213M,213S,214,293S,600,600X,613,88,N213,N214,N293,N691",
     "label": "192",
     "color": "red"
   },
@@ -126011,8 +126011,8 @@
     },
     "from": "1FE4FBC2DB90CF80",
     "to": "1FA045AFCD07D796",
-    "value": 2,
-    "title": "19,600",
+    "value": 3,
+    "title": "19,600,600X",
     "label": "407",
     "color": "red"
   },
@@ -262508,7 +262508,7 @@
     "to": "90C2A33012A6F44E",
     "value": 1,
     "title": "PB3",
-    "label": "2578",
+    "label": "2423",
     "color": "red"
   },
   {
@@ -265426,8 +265426,8 @@
     },
     "from": "25863CD2A364E72F",
     "to": "5BDD5F9F4C89D3E1",
-    "value": 1,
-    "title": "600",
+    "value": 2,
+    "title": "600,600X",
     "label": "1054",
     "color": "red"
   },
@@ -266506,8 +266506,8 @@
     },
     "from": "2641DD1F88AF7A01",
     "to": "B241331CC87A36D4",
-    "value": 1,
-    "title": "600",
+    "value": 2,
+    "title": "600,600X",
     "label": "243",
     "color": "red"
   },
@@ -271825,28 +271825,8 @@
       }
     },
     "from": "2B011CC82C51D518",
-    "to": "F02A1646BD4FC0E2",
-    "value": 1,
-    "title": "PB1",
-    "label": "8027",
-    "color": "red"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "2B011CC82C51D518",
     "to": "B1882202E2B36620",
-    "value": 2,
+    "value": 1,
     "title": "PB1",
     "label": "4386",
     "color": "red"
@@ -274546,8 +274526,8 @@
     },
     "from": "2EF9764BE18FC290",
     "to": "ED8812E232F6958A",
-    "value": 5,
-    "title": "600,613A,619X,690,N691",
+    "value": 6,
+    "title": "600,600X,613A,619X,690,N691",
     "label": "661",
     "color": "red"
   },
@@ -279325,28 +279305,8 @@
       }
     },
     "from": "321060BAE1447BEE",
-    "to": "0678C85600B1A019",
-    "value": 1,
-    "title": "PB4",
-    "label": "15161",
-    "color": "red"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "321060BAE1447BEE",
     "to": "F050648C108571ED",
-    "value": 2,
+    "value": 1,
     "title": "PB4",
     "label": "8774",
     "color": "red"
@@ -286046,8 +286006,8 @@
     },
     "from": "389B25932AD10BA3",
     "to": "FF68304E8C1FF0B1",
-    "value": 4,
-    "title": "213A,213D,213M,600",
+    "value": 5,
+    "title": "213A,213D,213M,600,600X",
     "label": "330",
     "color": "red"
   },
@@ -287266,8 +287226,8 @@
     },
     "from": "39AB774DC35311C0",
     "to": "25863CD2A364E72F",
-    "value": 4,
-    "title": "213M,213S,600,93M",
+    "value": 5,
+    "title": "213M,213S,600,600X,93M",
     "label": "261",
     "color": "red"
   },
@@ -293266,8 +293226,8 @@
     },
     "from": "3F64427262A691C1",
     "to": "10D72CAA8930BA36",
-    "value": 1,
-    "title": "600",
+    "value": 2,
+    "title": "600,600X",
     "label": "272",
     "color": "red"
   },
@@ -293946,8 +293906,8 @@
     },
     "from": "3FCC00D1D01ACD28",
     "to": "A056B01075AF64CD",
-    "value": 1,
-    "title": "600",
+    "value": 2,
+    "title": "600,600X",
     "label": "677",
     "color": "red"
   },
@@ -297326,8 +297286,8 @@
     },
     "from": "42E86F97FAC8F719",
     "to": "D678B3364437D16B",
-    "value": 1,
-    "title": "603",
+    "value": 2,
+    "title": "600X,603",
     "label": "4717",
     "color": "red"
   },
@@ -301786,8 +301746,8 @@
     },
     "from": "466BC4C1908A1A06",
     "to": "AA52228890817D12",
-    "value": 9,
-    "title": "11X,213M,213S,213X,600,613,613A,N213",
+    "value": 10,
+    "title": "11X,213M,213S,213X,600,600X,613,613A,N213",
     "label": "200",
     "color": "red"
   },
@@ -305666,8 +305626,8 @@
     },
     "from": "4A91A327C9FC745E",
     "to": "39AB774DC35311C0",
-    "value": 5,
-    "title": "213D,600,613,613A,88",
+    "value": 6,
+    "title": "213D,600,600X,613,613A,88",
     "label": "410",
     "color": "red"
   },
@@ -305686,8 +305646,8 @@
     },
     "from": "4AA350AD8FFF4786",
     "to": "B8FBAC0A201E0F2C",
-    "value": 8,
-    "title": "600,603,603S,673P,960A,960C,960P,960S",
+    "value": 9,
+    "title": "600,600X,603,603S,673P,960A,960C,960P,960S",
     "label": "450",
     "color": "red"
   },
@@ -315980,8 +315940,8 @@
     },
     "from": "55371F963B58DC5B",
     "to": "11CE1FD8440A89D3",
-    "value": 2,
-    "title": "600,673P",
+    "value": 3,
+    "title": "600,600X,673P",
     "label": "618",
     "color": "red"
   },
@@ -322139,10 +322099,10 @@
       }
     },
     "from": "5BDD5F9F4C89D3E1",
-    "to": "DBF0C952CAA654B5",
-    "value": 1,
-    "title": "641",
-    "label": "731",
+    "to": "9535298A652873DB",
+    "value": 9,
+    "title": "606,606A,606X,613A,N619,N691",
+    "label": "759",
     "color": "red"
   },
   {
@@ -322159,10 +322119,10 @@
       }
     },
     "from": "5BDD5F9F4C89D3E1",
-    "to": "9535298A652873DB",
-    "value": 9,
-    "title": "606,606A,606X,613A,N619,N691",
-    "label": "759",
+    "to": "DBF0C952CAA654B5",
+    "value": 2,
+    "title": "600X,641",
+    "label": "731",
     "color": "red"
   },
   {
@@ -361780,8 +361740,8 @@
     },
     "from": "8379C4B1265C27F7",
     "to": "EFFD42714E298795",
-    "value": 1,
-    "title": "600",
+    "value": 2,
+    "title": "600,600X",
     "label": "216",
     "color": "red"
   },
@@ -368720,29 +368680,9 @@
     },
     "from": "8B9E121BB71771F4",
     "to": "064B06C60E5EE126",
-    "value": 2,
+    "value": 1,
     "title": "PB2",
     "label": "4747",
-    "color": "red"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "8B9E121BB71771F4",
-    "to": "8C90768E30E981C6",
-    "value": 1,
-    "title": "PB1",
-    "label": "9222",
     "color": "red"
   },
   {
@@ -369163,6 +369103,46 @@
     "value": 2,
     "title": "275X,75X",
     "label": "198",
+    "color": "red"
+  },
+  {
+    "arrows": {
+      "to": {
+        "enabled": true,
+        "scaleFactor": 0.5
+      }
+    },
+    "scaling": {
+      "label": {
+        "min": 8,
+        "max": 8
+      }
+    },
+    "from": "8C26363C85EF7405",
+    "to": "06CC6423AA236B72",
+    "value": 1,
+    "title": "PB2",
+    "label": "652",
+    "color": "red"
+  },
+  {
+    "arrows": {
+      "to": {
+        "enabled": true,
+        "scaleFactor": 0.5
+      }
+    },
+    "scaling": {
+      "label": {
+        "min": 8,
+        "max": 8
+      }
+    },
+    "from": "8C26363C85EF7405",
+    "to": "E7E757D7EF91AEC6",
+    "value": 1,
+    "title": "PB2",
+    "label": "3910",
     "color": "red"
   },
   {
@@ -369599,26 +369579,6 @@
       }
     },
     "from": "8C90768E30E981C6",
-    "to": "8B9E121BB71771F4",
-    "value": 1,
-    "title": "PB1",
-    "label": "9222",
-    "color": "red"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "8C90768E30E981C6",
     "to": "AE77FAE78AB50667",
     "value": 1,
     "title": "PB1",
@@ -369640,7 +369600,7 @@
     },
     "from": "8C90768E30E981C6",
     "to": "B1882202E2B36620",
-    "value": 2,
+    "value": 1,
     "title": "PB1",
     "label": "5500",
     "color": "red"
@@ -370700,8 +370660,8 @@
     },
     "from": "8DA8A378C47A1371",
     "to": "9CC30C6EE35D0CE8",
-    "value": 1,
-    "title": "600",
+    "value": 2,
+    "title": "600,600X",
     "label": "326",
     "color": "red"
   },
@@ -373222,7 +373182,7 @@
     "to": "E33098F43CF205B8",
     "value": 1,
     "title": "PB3",
-    "label": "4065",
+    "label": "3906",
     "color": "red"
   },
   {
@@ -373242,7 +373202,7 @@
     "to": "9397AF37FDBD2908",
     "value": 1,
     "title": "PB3",
-    "label": "916",
+    "label": "1043",
     "color": "red"
   },
   {
@@ -373502,7 +373462,7 @@
     "to": "90C2A33012A6F44E",
     "value": 1,
     "title": "PB3",
-    "label": "829",
+    "label": "961",
     "color": "red"
   },
   {
@@ -374943,46 +374903,6 @@
     "value": 1,
     "title": "76",
     "label": "463",
-    "color": "red"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "9252A494500A05C9",
-    "to": "06CC6423AA236B72",
-    "value": 2,
-    "title": "PB2",
-    "label": "4200",
-    "color": "red"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "9252A494500A05C9",
-    "to": "029C4172D953DAF5",
-    "value": 2,
-    "title": "PB2",
-    "label": "3429",
     "color": "red"
   },
   {
@@ -385900,8 +385820,8 @@
     },
     "from": "9CC30C6EE35D0CE8",
     "to": "057B2DCE8BE58FFA",
-    "value": 1,
-    "title": "600",
+    "value": 2,
+    "title": "600,600X",
     "label": "255",
     "color": "red"
   },
@@ -389920,8 +389840,8 @@
     },
     "from": "A056B01075AF64CD",
     "to": "2641DD1F88AF7A01",
-    "value": 1,
-    "title": "600",
+    "value": 2,
+    "title": "600,600X",
     "label": "255",
     "color": "red"
   },
@@ -390640,8 +390560,8 @@
     },
     "from": "A0E544B7B849C7CC",
     "to": "AAD91FB98A0825DF",
-    "value": 1,
-    "title": "600",
+    "value": 2,
+    "title": "600,600X",
     "label": "369",
     "color": "red"
   },
@@ -401060,8 +400980,8 @@
     },
     "from": "AA52228890817D12",
     "to": "389B25932AD10BA3",
-    "value": 2,
-    "title": "213M,600",
+    "value": 3,
+    "title": "213M,600,600X",
     "label": "350",
     "color": "red"
   },
@@ -401860,8 +401780,8 @@
     },
     "from": "AAD91FB98A0825DF",
     "to": "0B8392BEB388E9E7",
-    "value": 1,
-    "title": "600",
+    "value": 2,
+    "title": "600,600X",
     "label": "432",
     "color": "red"
   },
@@ -408770,7 +408690,7 @@
     },
     "from": "B1882202E2B36620",
     "to": "8C90768E30E981C6",
-    "value": 2,
+    "value": 1,
     "title": "PB1",
     "label": "5500",
     "color": "red"
@@ -408790,7 +408710,7 @@
     },
     "from": "B1882202E2B36620",
     "to": "2B011CC82C51D518",
-    "value": 2,
+    "value": 1,
     "title": "PB1",
     "label": "4386",
     "color": "red"
@@ -409190,8 +409110,8 @@
     },
     "from": "B241331CC87A36D4",
     "to": "B4F3F0D547580CE2",
-    "value": 6,
-    "title": "600,603,603A,673,673A,N373",
+    "value": 7,
+    "title": "600,600X,603,603A,673,673A,N373",
     "label": "307",
     "color": "red"
   },
@@ -411310,8 +411230,8 @@
     },
     "from": "B4F3F0D547580CE2",
     "to": "A0E544B7B849C7CC",
-    "value": 1,
-    "title": "600",
+    "value": 2,
+    "title": "600,600X",
     "label": "331",
     "color": "red"
   },
@@ -411350,8 +411270,8 @@
     },
     "from": "B500B9F38691F5AB",
     "to": "55371F963B58DC5B",
-    "value": 2,
-    "title": "373,603",
+    "value": 3,
+    "title": "373,600X,603",
     "label": "592",
     "color": "red"
   },
@@ -413610,8 +413530,8 @@
     },
     "from": "B7F8CCEBD9365739",
     "to": "B500B9F38691F5AB",
-    "value": 4,
-    "title": "373,603,603S",
+    "value": 5,
+    "title": "373,600X,603,603S",
     "label": "424",
     "color": "red"
   },
@@ -414810,8 +414730,8 @@
     },
     "from": "B8FBAC0A201E0F2C",
     "to": "6A0B2E48433AE858",
-    "value": 1,
-    "title": "600",
+    "value": 2,
+    "title": "600,600X",
     "label": "65",
     "color": "red"
   },
@@ -431408,8 +431328,8 @@
     },
     "from": "CABB1AAE412C6049",
     "to": "3F64427262A691C1",
-    "value": 4,
-    "title": "13,19,213E,600",
+    "value": 5,
+    "title": "13,19,213E,600,600X",
     "label": "324",
     "color": "red"
   },
@@ -440877,8 +440797,8 @@
     },
     "from": "D456864A2E0933B2",
     "to": "FA9F1DB955870000",
-    "value": 4,
-    "title": "13,19,213E,600",
+    "value": 5,
+    "title": "13,19,213E,600,600X",
     "label": "288",
     "color": "red"
   },
@@ -442517,8 +442437,8 @@
     },
     "from": "D678B3364437D16B",
     "to": "2EF9764BE18FC290",
-    "value": 14,
-    "title": "600,601,601P,606,606A,606X,613A,619,619X,621,641,671,671X,N619",
+    "value": 15,
+    "title": "600,600X,601,601P,606,606A,606X,613A,619,619X,621,641,671,671X,N619",
     "label": "491",
     "color": "red"
   },
@@ -448156,6 +448076,26 @@
       }
     },
     "from": "DBF0C952CAA654B5",
+    "to": "F948129B464BB963",
+    "value": 1,
+    "title": "600X",
+    "label": "5675",
+    "color": "red"
+  },
+  {
+    "arrows": {
+      "to": {
+        "enabled": true,
+        "scaleFactor": 0.5
+      }
+    },
+    "scaling": {
+      "label": {
+        "min": 8,
+        "max": 8
+      }
+    },
+    "from": "DBF0C952CAA654B5",
     "to": "B7F8CCEBD9365739",
     "value": 4,
     "title": "373,603,603S",
@@ -451037,8 +450977,8 @@
     },
     "from": "DFAA70BC93BC9108",
     "to": "8DA8A378C47A1371",
-    "value": 2,
-    "title": "19,600",
+    "value": 3,
+    "title": "19,600,600X",
     "label": "405",
     "color": "red"
   },
@@ -459170,6 +459110,46 @@
         "max": 8
       }
     },
+    "from": "E7E757D7EF91AEC6",
+    "to": "8C26363C85EF7405",
+    "value": 1,
+    "title": "PB2",
+    "label": "3910",
+    "color": "red"
+  },
+  {
+    "arrows": {
+      "to": {
+        "enabled": true,
+        "scaleFactor": 0.5
+      }
+    },
+    "scaling": {
+      "label": {
+        "min": 8,
+        "max": 8
+      }
+    },
+    "from": "E7E757D7EF91AEC6",
+    "to": "029C4172D953DAF5",
+    "value": 1,
+    "title": "PB2",
+    "label": "3151",
+    "color": "red"
+  },
+  {
+    "arrows": {
+      "to": {
+        "enabled": true,
+        "scaleFactor": 0.5
+      }
+    },
+    "scaling": {
+      "label": {
+        "min": 8,
+        "max": 8
+      }
+    },
     "from": "E7EEC8527FE110F4",
     "to": "E9CA5B9AFBBDADBA",
     "value": 1,
@@ -460352,8 +460332,8 @@
     },
     "from": "E959938F3B4FF318",
     "to": "8379C4B1265C27F7",
-    "value": 1,
-    "title": "600",
+    "value": 2,
+    "title": "600,600X",
     "label": "667",
     "color": "red"
   },
@@ -464112,8 +464092,8 @@
     },
     "from": "ED8812E232F6958A",
     "to": "1FBAAE29AF1CA50E",
-    "value": 9,
-    "title": "213E,213M,213S,600,619X,98A,N691",
+    "value": 10,
+    "title": "213E,213M,213S,600,600X,619X,98A,N691",
     "label": "843",
     "color": "red"
   },
@@ -466732,8 +466712,8 @@
     },
     "from": "EFFD42714E298795",
     "to": "3FCC00D1D01ACD28",
-    "value": 1,
-    "title": "600",
+    "value": 2,
+    "title": "600,600X",
     "label": "521",
     "color": "red"
   },
@@ -467067,26 +467047,6 @@
       }
     },
     "from": "F02A1646BD4FC0E2",
-    "to": "2B011CC82C51D518",
-    "value": 1,
-    "title": "PB1",
-    "label": "8027",
-    "color": "red"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "F02A1646BD4FC0E2",
     "to": "01775517BE76284E",
     "value": 1,
     "title": "PB1",
@@ -467188,7 +467148,7 @@
     },
     "from": "F050648C108571ED",
     "to": "321060BAE1447BEE",
-    "value": 2,
+    "value": 1,
     "title": "PB4",
     "label": "8774",
     "color": "red"
@@ -471308,7 +471268,7 @@
     },
     "from": "F493236404A4FABF",
     "to": "0678C85600B1A019",
-    "value": 2,
+    "value": 1,
     "title": "PB4",
     "label": "8561",
     "color": "red"
@@ -477187,6 +477147,26 @@
       }
     },
     "from": "F948129B464BB963",
+    "to": "B7F8CCEBD9365739",
+    "value": 1,
+    "title": "600X",
+    "label": "770",
+    "color": "red"
+  },
+  {
+    "arrows": {
+      "to": {
+        "enabled": true,
+        "scaleFactor": 0.5
+      }
+    },
+    "scaling": {
+      "label": {
+        "min": 8,
+        "max": 8
+      }
+    },
+    "from": "F948129B464BB963",
     "to": "73D995FCB1FFF157",
     "value": 2,
     "title": "108",
@@ -478308,8 +478288,8 @@
     },
     "from": "FA9F1DB955870000",
     "to": "1DB8D58C023AFD4D",
-    "value": 5,
-    "title": "13,19,213E,600",
+    "value": 6,
+    "title": "13,19,213E,600,600X",
     "label": "285",
     "color": "red"
   },
@@ -482666,8 +482646,8 @@
     },
     "from": "FF68304E8C1FF0B1",
     "to": "1FE4FBC2DB90CF80",
-    "value": 1,
-    "title": "600",
+    "value": 2,
+    "title": "600,600X",
     "label": "287",
     "color": "red"
   },
