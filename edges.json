@@ -134535,7 +134535,7 @@
     },
     "from": "20000566",
     "to": "20001117",
-    "value": 7,
+    "value": 8,
     "title": "1,11,11S,1A,1S",
     "label": "655"
   },
@@ -140938,8 +140938,8 @@
     },
     "from": "20001112",
     "to": "20001113",
-    "value": 2,
-    "title": "1,1S",
+    "value": 3,
+    "title": "1,1A,1S",
     "label": "2355"
   },
   {
@@ -140957,7 +140957,7 @@
     },
     "from": "20001113",
     "to": "20009421",
-    "value": 9,
+    "value": 10,
     "title": "101M,12,1A,1S,2",
     "label": "899"
   },
@@ -141223,7 +141223,7 @@
     },
     "from": "20001117",
     "to": "20001119",
-    "value": 4,
+    "value": 5,
     "title": "1A,1S",
     "label": "536"
   },
@@ -141299,7 +141299,7 @@
     },
     "from": "20001119",
     "to": "20019105",
-    "value": 4,
+    "value": 5,
     "title": "1A,1S",
     "label": "147"
   },
@@ -141793,9 +141793,28 @@
     },
     "from": "20001145",
     "to": "20001994",
-    "value": 5,
+    "value": 6,
     "title": "104,1A,1S",
     "label": "531"
+  },
+  {
+    "arrows": {
+      "to": {
+        "enabled": true,
+        "scaleFactor": 0.5
+      }
+    },
+    "scaling": {
+      "label": {
+        "min": 8,
+        "max": 8
+      }
+    },
+    "from": "20001146",
+    "to": "20004215",
+    "value": 1,
+    "title": "1A",
+    "label": "1587"
   },
   {
     "arrows": {
@@ -155644,7 +155663,7 @@
     },
     "from": "20001993",
     "to": "20001145",
-    "value": 5,
+    "value": 6,
     "title": "104,1A,1S",
     "label": "831"
   },
@@ -155685,6 +155704,25 @@
     "value": 4,
     "title": "1A,1S",
     "label": "590"
+  },
+  {
+    "arrows": {
+      "to": {
+        "enabled": true,
+        "scaleFactor": 0.5
+      }
+    },
+    "scaling": {
+      "label": {
+        "min": 8,
+        "max": 8
+      }
+    },
+    "from": "20001994",
+    "to": "20001146",
+    "value": 1,
+    "title": "1A",
+    "label": "703"
   },
   {
     "arrows": {
@@ -157487,8 +157525,8 @@
     },
     "from": "20002102",
     "to": "20022834",
-    "value": 1,
-    "title": "413",
+    "value": 2,
+    "title": "313S,413",
     "label": "218"
   },
   {
@@ -173542,7 +173580,7 @@
     },
     "from": "20004215",
     "to": "20000566",
-    "value": 5,
+    "value": 6,
     "title": "11S,1A,1S",
     "label": "684"
   },
@@ -173599,7 +173637,7 @@
     },
     "from": "20004217",
     "to": "20001993",
-    "value": 4,
+    "value": 5,
     "title": "1A,1S",
     "label": "437"
   },
@@ -188286,7 +188324,7 @@
     },
     "from": "20009421",
     "to": "20004217",
-    "value": 2,
+    "value": 3,
     "title": "1A,1S",
     "label": "2009"
   },
@@ -218039,6 +218077,25 @@
       }
     },
     "from": "20014651",
+    "to": "20015021",
+    "value": 1,
+    "title": "69",
+    "label": "179"
+  },
+  {
+    "arrows": {
+      "to": {
+        "enabled": true,
+        "scaleFactor": 0.5
+      }
+    },
+    "scaling": {
+      "label": {
+        "min": 8,
+        "max": 8
+      }
+    },
+    "from": "20014651",
     "to": "20014198",
     "value": 1,
     "title": "46",
@@ -222446,9 +222503,28 @@
         "max": 8
       }
     },
+    "from": "20015013",
+    "to": "20015014",
+    "value": 1,
+    "title": "69",
+    "label": "168"
+  },
+  {
+    "arrows": {
+      "to": {
+        "enabled": true,
+        "scaleFactor": 0.5
+      }
+    },
+    "scaling": {
+      "label": {
+        "min": 8,
+        "max": 8
+      }
+    },
     "from": "20015014",
     "to": "20015015",
-    "value": 4,
+    "value": 5,
     "title": "69,69A",
     "label": "247"
   },
@@ -222505,7 +222581,7 @@
     },
     "from": "20015015",
     "to": "20015016",
-    "value": 3,
+    "value": 4,
     "title": "69,69A",
     "label": "4089"
   },
@@ -222545,6 +222621,25 @@
     "to": "20015017",
     "value": 2,
     "title": "69,69A",
+    "label": "573"
+  },
+  {
+    "arrows": {
+      "to": {
+        "enabled": true,
+        "scaleFactor": 0.5
+      }
+    },
+    "scaling": {
+      "label": {
+        "min": 8,
+        "max": 8
+      }
+    },
+    "from": "20015016",
+    "to": "20015302",
+    "value": 1,
+    "title": "69",
     "label": "573"
   },
   {
@@ -222600,7 +222695,7 @@
     },
     "from": "20015018",
     "to": "20015019",
-    "value": 3,
+    "value": 4,
     "title": "69,69A",
     "label": "433"
   },
@@ -222655,10 +222750,29 @@
         "max": 8
       }
     },
+    "from": "20015019",
+    "to": "20015020",
+    "value": 1,
+    "title": "69",
+    "label": "240"
+  },
+  {
+    "arrows": {
+      "to": {
+        "enabled": true,
+        "scaleFactor": 0.5
+      }
+    },
+    "scaling": {
+      "label": {
+        "min": 8,
+        "max": 8
+      }
+    },
     "from": "20015020",
     "to": "20014651",
-    "value": 2,
-    "title": "2,2A",
+    "value": 3,
+    "title": "2,2A,69",
     "label": "179"
   },
   {
@@ -222676,7 +222790,7 @@
     },
     "from": "20015021",
     "to": "20015022",
-    "value": 1,
+    "value": 2,
     "title": "69",
     "label": "215"
   },
@@ -226156,6 +226270,25 @@
     "value": 1,
     "title": "49",
     "label": "1366"
+  },
+  {
+    "arrows": {
+      "to": {
+        "enabled": true,
+        "scaleFactor": 0.5
+      }
+    },
+    "scaling": {
+      "label": {
+        "min": 8,
+        "max": 8
+      }
+    },
+    "from": "20015302",
+    "to": "20015018",
+    "value": 1,
+    "title": "69",
+    "label": "816"
   },
   {
     "arrows": {
@@ -257635,6 +257768,25 @@
       }
     },
     "from": "20022834",
+    "to": "20023296",
+    "value": 1,
+    "title": "313S",
+    "label": "844"
+  },
+  {
+    "arrows": {
+      "to": {
+        "enabled": true,
+        "scaleFactor": 0.5
+      }
+    },
+    "scaling": {
+      "label": {
+        "min": 8,
+        "max": 8
+      }
+    },
+    "from": "20022834",
     "to": "20018643",
     "value": 1,
     "title": "313",
@@ -258513,6 +258665,25 @@
     "value": 1,
     "title": "57K",
     "label": "1268"
+  },
+  {
+    "arrows": {
+      "to": {
+        "enabled": true,
+        "scaleFactor": 0.5
+      }
+    },
+    "scaling": {
+      "label": {
+        "min": 8,
+        "max": 8
+      }
+    },
+    "from": "20023296",
+    "to": "20002102",
+    "value": 1,
+    "title": "313S",
+    "label": "1061"
   },
   {
     "arrows": {
