@@ -106433,29 +106433,9 @@
       }
     },
     "from": "0EB1DDFEBF0D09E0",
-    "to": "92E674C6961B07CA",
-    "value": 1,
-    "title": "E36A",
-    "label": "426",
-    "color": "red"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "0EB1DDFEBF0D09E0",
     "to": "DBC287AE0C58AEC0",
-    "value": 3,
-    "title": "E32A,E42P,N31",
+    "value": 4,
+    "title": "E32A,E36A,E42P,N31",
     "label": "433",
     "color": "red"
   },
@@ -376222,26 +376202,6 @@
       }
     },
     "from": "92E674C6961B07CA",
-    "to": "7F8BF075DDF6231A",
-    "value": 1,
-    "title": "E36A",
-    "label": "236",
-    "color": "red"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "92E674C6961B07CA",
     "to": "D153D63F650C1D36",
     "value": 4,
     "title": "E32A,E36A,E42P,N31",
@@ -448320,8 +448280,8 @@
     },
     "from": "DBC287AE0C58AEC0",
     "to": "7F8BF075DDF6231A",
-    "value": 3,
-    "title": "E32A,E42P,N31",
+    "value": 4,
+    "title": "E32A,E36A,E42P,N31",
     "label": "254",
     "color": "red"
   },
