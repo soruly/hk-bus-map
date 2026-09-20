@@ -63109,17 +63109,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20012122",
-    "value": 2,
-    "label": "馬適路, 近逸峯",
-    "shape": "hexagon",
-    "title": "503,503K",
-    "x": 14645.000000000153,
-    "y": -50163.99999999983
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20012123",
     "value": 1,
     "label": "天平路, 近天平邨天朗樓",
@@ -85451,10 +85440,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20017455",
-    "value": 1,
+    "value": 3,
     "label": "粉嶺和睦路西行海聯廣聯廣場巴士站",
     "shape": "hexagon",
-    "title": "505",
+    "title": "503,503K,505",
     "x": 14240.999999999814,
     "y": -50071.00000000015
   },
@@ -86705,10 +86694,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "20018948",
-    "value": 3,
+    "value": 5,
     "label": "沙頭角公路近安樂村",
     "shape": "hexagon",
-    "title": "506,507,54K",
+    "title": "503,503K,506,507,54K",
     "x": 14589.999999999747,
     "y": -50003.99999999985
   },
@@ -91419,6 +91408,17 @@
     "title": "65K",
     "x": 20252.99999999959,
     "y": -38888.99999999999
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20023395",
+    "value": 2,
+    "label": "聯安街西行近聯和道的停車灣",
+    "shape": "hexagon",
+    "title": "503,503K",
+    "x": 14396.999999999593,
+    "y": -49930.00000000016
   },
   {
     "borderWidth": 0,
