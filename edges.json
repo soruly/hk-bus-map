@@ -106734,7 +106734,7 @@
     },
     "from": "0F3FA9B7D07A91F3",
     "to": "C837C3C549793472",
-    "value": 16,
+    "value": 15,
     "title": "261X,270C,270R,276C,277X,278A,279X,373,673,673A,70K,73B,77,T270",
     "label": "345",
     "color": "red"
@@ -120351,7 +120351,7 @@
     },
     "from": "1A0BF02F827F6A20",
     "to": "9FDEEC09AD1B601B",
-    "value": 6,
+    "value": 5,
     "title": "307D,307P,73B,N307",
     "label": "538",
     "color": "red"
@@ -297987,7 +297987,7 @@
     },
     "from": "43531EDD45A4B0C1",
     "to": "1A0BF02F827F6A20",
-    "value": 3,
+    "value": 2,
     "title": "73B",
     "label": "391",
     "color": "red"
@@ -331961,7 +331961,7 @@
     },
     "from": "650809D260BC7C6E",
     "to": "F81DACC5F39E6D53",
-    "value": 5,
+    "value": 4,
     "title": "73B,79K",
     "label": "318",
     "color": "red"
@@ -385340,26 +385340,6 @@
       }
     },
     "from": "9BE3D659E4C144D2",
-    "to": "650809D260BC7C6E",
-    "value": 1,
-    "title": "73B",
-    "label": "915",
-    "color": "red"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "9BE3D659E4C144D2",
     "to": "B6C8902A10BA6EFC",
     "value": 3,
     "title": "673,673A,70K",
@@ -389640,26 +389620,6 @@
       }
     },
     "from": "9FDEEC09AD1B601B",
-    "to": "0F3FA9B7D07A91F3",
-    "value": 1,
-    "title": "73B",
-    "label": "4719",
-    "color": "red"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "9FDEEC09AD1B601B",
     "to": "2A86FE3FCDB9760B",
     "value": 6,
     "title": "73,73A,73B,74D",
@@ -392004,26 +391964,6 @@
     "value": 1,
     "title": "73F",
     "label": "1263",
-    "color": "red"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "A1A1CE1BACE1973D",
-    "to": "43531EDD45A4B0C1",
-    "value": 1,
-    "title": "73B",
-    "label": "2901",
     "color": "red"
   },
   {
@@ -429171,7 +429111,7 @@
     },
     "from": "C837C3C549793472",
     "to": "9BE3D659E4C144D2",
-    "value": 7,
+    "value": 6,
     "title": "373,673,673A,70K,73B",
     "label": "317",
     "color": "red"
@@ -440858,7 +440798,7 @@
     },
     "from": "D417A444017171C6",
     "to": "D876A83244ECB838",
-    "value": 6,
+    "value": 5,
     "title": "270,73B",
     "label": "259",
     "color": "red"
@@ -475629,7 +475569,7 @@
     },
     "from": "F81DACC5F39E6D53",
     "to": "D417A444017171C6",
-    "value": 4,
+    "value": 3,
     "title": "73B",
     "label": "386",
     "color": "red"
