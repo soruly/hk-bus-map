@@ -28503,6 +28503,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "003999",
+    "value": 2,
+    "label": "啟德醫院專科門診大樓, 承昌道",
+    "shape": "hexagon",
+    "title": "20X,22S",
+    "x": 20665.99999999994,
+    "y": -31831.999999999993
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "003D1263A14908F6",
     "value": 3,
     "label": "荃灣富華街 (TW143)",
@@ -28510,6 +28521,17 @@
     "title": "234A,234B,53",
     "x": 11571.999999999605,
     "y": -37353.99999999984
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "004000",
+    "value": 1,
+    "label": "啟德醫院腫瘤科大樓, 承昌道",
+    "shape": "hexagon",
+    "title": "20X",
+    "x": 20736.999999999738,
+    "y": -31760.99999999984
   },
   {
     "borderWidth": 0,
@@ -159293,28 +159315,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "K18-U020",
-    "value": 1,
-    "label": "宏福苑",
-    "shape": "hexagon",
-    "title": "K18",
-    "x": 17472.999999999673,
-    "y": -44753.000000000044
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "K18-U030",
-    "value": 1,
-    "label": "廣福",
-    "shape": "hexagon",
-    "title": "K18",
-    "x": 17440.000000000568,
-    "y": -44869.999999999876
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "K51-D010",
     "value": 1,
     "label": "大欖",
@@ -159366,6 +159366,17 @@
     "title": "K51",
     "x": 552.0000000004188,
     "y": -36609.99999999994
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "K51-D055",
+    "value": 1,
+    "label": "青發街簡約公屋",
+    "shape": "hexagon",
+    "title": "K51",
+    "x": -7.999999999697138,
+    "y": -36362.000000000095
   },
   {
     "borderWidth": 0,
@@ -159465,17 +159476,6 @@
     "title": "K51",
     "x": -2091.000000000065,
     "y": -38120.99999999994
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "K51-D150",
-    "value": 1,
-    "label": "恆福花園 (輕鐵三聖站)",
-    "shape": "hexagon",
-    "title": "K51",
-    "x": -2285.0000000005366,
-    "y": -38205.99999999992
   },
   {
     "borderWidth": 0,
@@ -159689,13 +159689,13 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "K51-U060",
+    "id": "K51-U065",
     "value": 1,
-    "label": "井財街",
+    "label": "景峰花園",
     "shape": "hexagon",
     "title": "K51",
-    "x": -2240.000000000464,
-    "y": -40204.99999999991
+    "x": -2044.9999999996749,
+    "y": -40358.00000000016
   },
   {
     "borderWidth": 0,

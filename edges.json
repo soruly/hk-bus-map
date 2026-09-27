@@ -83193,10 +83193,10 @@
       }
     },
     "from": "003520",
-    "to": "003521",
+    "to": "003999",
     "value": 1,
     "title": "20X",
-    "label": "491",
+    "label": "721",
     "color": "#d9d100"
   },
   {
@@ -92193,9 +92193,29 @@
       }
     },
     "from": "003891",
+    "to": "003999",
+    "value": 1,
+    "title": "22S",
+    "label": "366",
+    "color": "#d9d100"
+  },
+  {
+    "arrows": {
+      "to": {
+        "enabled": true,
+        "scaleFactor": 0.5
+      }
+    },
+    "scaling": {
+      "label": {
+        "min": 8,
+        "max": 8
+      }
+    },
+    "from": "003891",
     "to": "003521",
-    "value": 4,
-    "title": "22,22M,22S",
+    "value": 3,
+    "title": "22,22M",
     "label": "420",
     "color": "#d9d100"
   },
@@ -92213,9 +92233,29 @@
       }
     },
     "from": "003891",
+    "to": "004000",
+    "value": 1,
+    "title": "20X",
+    "label": "318",
+    "color": "#d9d100"
+  },
+  {
+    "arrows": {
+      "to": {
+        "enabled": true,
+        "scaleFactor": 0.5
+      }
+    },
+    "scaling": {
+      "label": {
+        "min": 8,
+        "max": 8
+      }
+    },
+    "from": "003891",
     "to": "003534",
-    "value": 3,
-    "title": "20A,20X",
+    "value": 2,
+    "title": "20A",
     "label": "383",
     "color": "#d9d100"
   },
@@ -93232,6 +93272,26 @@
         "max": 8
       }
     },
+    "from": "003999",
+    "to": "003521",
+    "value": 3,
+    "title": "20X,22S",
+    "label": "436",
+    "color": "#d9d100"
+  },
+  {
+    "arrows": {
+      "to": {
+        "enabled": true,
+        "scaleFactor": 0.5
+      }
+    },
+    "scaling": {
+      "label": {
+        "min": 8,
+        "max": 8
+      }
+    },
     "from": "003D1263A14908F6",
     "to": "2E1348C8174BDE09",
     "value": 1,
@@ -93258,6 +93318,26 @@
     "title": "234A,234B",
     "label": "763",
     "color": "red"
+  },
+  {
+    "arrows": {
+      "to": {
+        "enabled": true,
+        "scaleFactor": 0.5
+      }
+    },
+    "scaling": {
+      "label": {
+        "min": 8,
+        "max": 8
+      }
+    },
+    "from": "004000",
+    "to": "003534",
+    "value": 1,
+    "title": "20X",
+    "label": "296",
+    "color": "#d9d100"
   },
   {
     "arrows": {
@@ -484667,29 +484747,10 @@
       }
     },
     "from": "K18-U010",
-    "to": "K18-U020",
+    "to": "K18-D010",
     "value": 1,
     "title": "K18",
-    "label": "642"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "K18-U020",
-    "to": "K18-U030",
-    "value": 1,
-    "title": "K18",
-    "label": "134"
+    "label": "695"
   },
   {
     "arrows": {
@@ -484781,10 +484842,29 @@
       }
     },
     "from": "K51-D050",
+    "to": "K51-D055",
+    "value": 1,
+    "title": "K51",
+    "label": "638"
+  },
+  {
+    "arrows": {
+      "to": {
+        "enabled": true,
+        "scaleFactor": 0.5
+      }
+    },
+    "scaling": {
+      "label": {
+        "min": 8,
+        "max": 8
+      }
+    },
+    "from": "K51-D055",
     "to": "K51-D060",
     "value": 1,
     "title": "K51",
-    "label": "404"
+    "label": "371"
   },
   {
     "arrows": {
@@ -484952,29 +485032,10 @@
       }
     },
     "from": "K51-D140",
-    "to": "K51-D150",
-    "value": 1,
-    "title": "K51",
-    "label": "220"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "K51-D150",
     "to": "K51-D160",
     "value": 1,
     "title": "K51",
-    "label": "298"
+    "label": "286"
   },
   {
     "arrows": {
@@ -485313,10 +485374,10 @@
       }
     },
     "from": "K51-U050",
-    "to": "K51-U060",
+    "to": "K51-U065",
     "value": 1,
     "title": "K51",
-    "label": "917"
+    "label": "748"
   },
   {
     "arrows": {
@@ -485331,11 +485392,11 @@
         "max": 8
       }
     },
-    "from": "K51-U060",
+    "from": "K51-U065",
     "to": "K51-U070",
     "value": 1,
     "title": "K51",
-    "label": "480"
+    "label": "734"
   },
   {
     "arrows": {
