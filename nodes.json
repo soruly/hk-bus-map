@@ -25270,10 +25270,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003588",
-    "value": 3,
+    "value": 4,
     "label": "民航處總部, 東耀路",
     "shape": "hexagon",
-    "title": "E22P,E22X,S1",
+    "title": "A12,E22P,E22X,S1",
     "x": -6041.999999999348,
     "y": -30405.000000000015
   },
@@ -28503,11 +28503,22 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "003989",
+    "value": 1,
+    "label": "青發街簡約公屋",
+    "shape": "hexagon",
+    "title": "952P",
+    "x": -15.999999999394277,
+    "y": -36365.99999999994
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "003999",
-    "value": 3,
+    "value": 5,
     "label": "啟德醫院專科門診大樓, 承昌道",
     "shape": "hexagon",
-    "title": "20X,22M,22S",
+    "title": "20A,20X,22,22M,22S",
     "x": 20665.99999999994,
     "y": -31831.999999999993
   },
@@ -28526,10 +28537,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "004000",
-    "value": 2,
+    "value": 4,
     "label": "啟德醫院腫瘤科大樓, 承昌道",
     "shape": "hexagon",
-    "title": "20X,22M",
+    "title": "20A,20X,22,22M",
     "x": 20736.999999999738,
     "y": -31760.99999999984
   },
@@ -29758,10 +29769,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "0513406BAC1F8881",
-    "value": 1,
+    "value": 2,
     "label": "香港兒童醫院 (KA151)",
     "shape": "hexagon",
-    "title": "X6C",
+    "title": "15A,X6C",
     "x": 20987.99999999983,
     "y": -31579.99999999994
   },
@@ -33223,10 +33234,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "1064E673770C38BC",
-    "value": 6,
+    "value": 7,
     "label": "豪景花園 (TW332)",
     "shape": "hexagon",
-    "title": "234D,261B,48P,52P,52X,53",
+    "title": "234C,234D,261B,48P,52P,52X,53",
     "x": 4228.00000000052,
     "y": -36079.00000000015
   },
@@ -38426,10 +38437,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "1E4E9FB5763C3436",
-    "value": 7,
+    "value": 8,
     "label": "馬灣碼頭 (TW192)",
     "shape": "hexagon",
-    "title": "234A,234B,234D,48P,52X,53,N252",
+    "title": "234A,234B,234C,234D,48P,52X,53,N252",
     "x": 5670.999999999538,
     "y": -36533.99999999998
   },
@@ -91341,7 +91352,7 @@
     "shape": "hexagon",
     "title": "313S",
     "x": 12663.999999999476,
-    "y": -34787.00000000004
+    "y": -34786.00000000007
   },
   {
     "borderWidth": 0,
@@ -91351,7 +91362,7 @@
     "label": "彩石邨專線小巴總站",
     "shape": "hexagon",
     "title": "59B",
-    "x": 12301.99999999968,
+    "x": 12300.999999999363,
     "y": -50576.999999999825
   },
   {
@@ -91362,8 +91373,8 @@
     "label": "龍琛路（東行）（近龍運街）",
     "shape": "hexagon",
     "title": "59B",
-    "x": 12875.999999999976,
-    "y": -50298.00000000009
+    "x": 12874.999999999658,
+    "y": -50297.000000000124
   },
   {
     "borderWidth": 0,
@@ -91384,7 +91395,7 @@
     "label": "智昌路（南行）（近東華三院港九電器商聯會小學）",
     "shape": "hexagon",
     "title": "59B",
-    "x": 13219.999999999744,
+    "x": 13218.999999999425,
     "y": -50056.99999999997
   },
   {
@@ -91395,8 +91406,8 @@
     "label": "新運路（西行）（近上水站D2出口）",
     "shape": "hexagon",
     "title": "59B",
-    "x": 12801.00000000033,
-    "y": -50156.00000000013
+    "x": 12800.000000000011,
+    "y": -50155.000000000175
   },
   {
     "borderWidth": 0,
@@ -91406,7 +91417,7 @@
     "label": "彩石邨專線小巴總站",
     "shape": "hexagon",
     "title": "59B",
-    "x": 12301.99999999968,
+    "x": 12300.999999999363,
     "y": -50576.999999999825
   },
   {
@@ -91428,7 +91439,7 @@
     "label": "聯安街西行近聯和道的停車灣",
     "shape": "hexagon",
     "title": "503,503K",
-    "x": 14396.999999999593,
+    "x": 14396.000000000697,
     "y": -49930.00000000016
   },
   {
@@ -91439,7 +91450,7 @@
     "label": "紫麟路小巴總站",
     "shape": "hexagon",
     "title": "40A",
-    "x": -2561.0000000000355,
+    "x": -2562.000000000353,
     "y": -41357.99999999996
   },
   {
@@ -91451,7 +91462,7 @@
     "shape": "hexagon",
     "title": "40A",
     "x": -2741.0000000003265,
-    "y": -41328.99999999999
+    "y": -41328.00000000003
   },
   {
     "borderWidth": 0,
@@ -91472,7 +91483,7 @@
     "label": "欣寶路, NOVO LAND對面",
     "shape": "hexagon",
     "title": "40A",
-    "x": -2980.999999999767,
+    "x": -2982.0000000000846,
     "y": -41209.99999999988
   },
   {
@@ -91483,8 +91494,8 @@
     "label": "欣寶路, 近紫田村",
     "shape": "hexagon",
     "title": "40A",
-    "x": -2612.999999999488,
-    "y": -41443.999999999905
+    "x": -2613.9999999998054,
+    "y": -41442.99999999994
   },
   {
     "borderWidth": 0,
@@ -91494,7 +91505,7 @@
     "label": "紫麟路小巴總站",
     "shape": "hexagon",
     "title": "40A",
-    "x": -2561.0000000000355,
+    "x": -2562.000000000353,
     "y": -41357.99999999996
   },
   {
@@ -95769,10 +95780,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "2BC21AC371639FC3",
-    "value": 1,
+    "value": 2,
     "label": "啟德醫院 (KA532)",
     "shape": "hexagon",
-    "title": "5R",
+    "title": "15A,5R",
     "x": 20741.999999999905,
     "y": -31758.999999999916
   },
@@ -96363,10 +96374,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "2DFE2D85D53C1114",
-    "value": 7,
+    "value": 8,
     "label": "青龍頭村 (TW333)",
     "shape": "hexagon",
-    "title": "234A,234D,261B,48P,52P,52X,53",
+    "title": "234A,234C,234D,261B,48P,52P,52X,53",
     "x": 4618.999999999573,
     "y": -36149.99999999995
   },
@@ -96418,10 +96429,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "2E1127BAF33B34F7",
-    "value": 5,
+    "value": 6,
     "label": "豪景花園商場 (TW200)",
     "shape": "hexagon",
-    "title": "234D,48P,52X,53,N252",
+    "title": "234C,234D,48P,52X,53,N252",
     "x": 4318.000000000666,
     "y": -36096.999999999825
   },
@@ -97386,10 +97397,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "30DD3451F8D64883",
-    "value": 6,
+    "value": 7,
     "label": "浪翠園第三期 (TW337)",
     "shape": "hexagon",
-    "title": "234D,261B,48P,52P,52X,53",
+    "title": "234C,234D,261B,48P,52P,52X,53",
     "x": 5437.00000000058,
     "y": -36402
   },
@@ -99740,10 +99751,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "36A5F6842C55126E",
-    "value": 2,
+    "value": 3,
     "label": "香港兒童醫院 (KA530)",
     "shape": "hexagon",
-    "title": "5R,X6C",
+    "title": "15A,5R,X6C",
     "x": 20963.000000000422,
     "y": -31569.000000000004
   },
@@ -102204,10 +102215,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "3F41CA34634CC20C",
-    "value": 5,
+    "value": 6,
     "label": "豪景花園 (TW199)",
     "shape": "hexagon",
-    "title": "234D,48P,52X,53,N252",
+    "title": "234C,234D,48P,52X,53,N252",
     "x": 4465.999999999326,
     "y": -36145.00000000014
   },
@@ -107099,10 +107110,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "4F64DA53415F3128",
-    "value": 10,
+    "value": 11,
     "label": "嘉和里村 (TM316)",
     "shape": "hexagon",
-    "title": "252,252B,252S,252X,261B,52P,52X,53,61M,61P",
+    "title": "252,252B,252S,252X,261B,261X,52P,52X,53,61M,61P",
     "x": -458.00000000042473,
     "y": -36938.99999999992
   },
@@ -108573,10 +108584,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "531B557CFBFFD232",
-    "value": 8,
+    "value": 9,
     "label": "龍珠島 (TM217)",
     "shape": "hexagon",
-    "title": "252,252S,252X,52X,53,61M,61P,N252",
+    "title": "252,252S,252X,261X,52X,53,61M,61P,N252",
     "x": -370.99999999981037,
     "y": -36792.00000000016
   },
@@ -109470,6 +109481,17 @@
     "title": "1,2,3M,4,7S,A35,N35",
     "x": -601.0000000003402,
     "y": -25932.99999999985
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "562DC5FB6008797C",
+    "value": 1,
+    "label": "青發街簡約公屋總站 (TM871)",
+    "shape": "hexagon",
+    "title": "261X",
+    "x": -24.0000000005125,
+    "y": -36358.999999999854
   },
   {
     "borderWidth": 0,
@@ -113215,10 +113237,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "62A1C8EFAC876BDB",
-    "value": 18,
+    "value": 19,
     "label": "黃大仙轉車站-黃大仙廟 (WT714)",
     "shape": "hexagon",
-    "title": "214,214P,290,290A,290E,290X,2F,33,33B,38,38P,3C,40,40P,42C,N214,N290,X42C",
+    "title": "214,214P,234C,290,290A,290E,290X,2F,33,33B,38,38P,3C,40,40P,42C,N214,N290,X42C",
     "x": 19536.999999999694,
     "y": -34147.0000000001
   },
@@ -115646,10 +115668,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "6A93E2E9F1A3F421",
-    "value": 5,
+    "value": 6,
     "label": "青龍頭村 (TW198)",
     "shape": "hexagon",
-    "title": "234D,48P,52X,53,N252",
+    "title": "234C,234D,48P,52X,53,N252",
     "x": 4747.000000000412,
     "y": -36093.999999999935
   },
@@ -118792,10 +118814,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "75957EA713E84A37",
-    "value": 9,
+    "value": 10,
     "label": "坪石邨 (WT306)",
     "shape": "hexagon",
-    "title": "107,16P,296C,296P,297,5M,93K,N121,N293",
+    "title": "107,15A,16P,296C,296P,297,5M,93K,N121,N293",
     "x": 20713.000000000648,
     "y": -33323.00000000004
   },
@@ -124776,10 +124798,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "8AFF8B43EC3E547F",
-    "value": 8,
+    "value": 9,
     "label": "馬灣碼頭 (TW339)",
     "shape": "hexagon",
-    "title": "234A,234B,234D,261B,48P,52P,52X,53",
+    "title": "234A,234B,234C,234D,261B,48P,52P,52X,53",
     "x": 5657.999999999674,
     "y": -36550.00000000008
   },
@@ -125387,6 +125409,17 @@
     "title": "1A",
     "x": 16919.00000000004,
     "y": -29431.9999999999
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "8D82E683FA753CC8",
+    "value": 3,
+    "label": "啟德醫院 (KA533)",
+    "shape": "hexagon",
+    "title": "15A,5R,X6C",
+    "x": 20655.999999999607,
+    "y": -31838.00000000012
   },
   {
     "borderWidth": 0,
@@ -127999,10 +128032,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "96A6FE5F07BDF203",
-    "value": 19,
+    "value": 20,
     "label": "黃大仙轉車站-沙田坳道 (WT210)",
     "shape": "hexagon",
-    "title": "268A,268C,269C,33,33B,40,40A,40B,40P,61X,69C,74A,74S,75X,80,80A,80P,84M,889",
+    "title": "234C,268A,268C,269C,33,33B,40,40A,40B,40P,61X,69C,74A,74S,75X,80,80A,80P,84M,889",
     "x": 19527.99999999968,
     "y": -34186.00000000005
   },
@@ -130089,10 +130122,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "9DE875FD17C67097",
-    "value": 9,
+    "value": 10,
     "label": "鑽石山站 (WT191)",
     "shape": "hexagon",
-    "title": "214,38,40,40A,40B,40P,80,80P,89",
+    "title": "214,234C,38,40,40A,40B,40P,80,80P,89",
     "x": 20274.000000000568,
     "y": -33954.99999999991
   },
@@ -130243,10 +130276,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "9E4653BA0F25F731",
-    "value": 5,
+    "value": 6,
     "label": "浪翠園第四期 (TW196)",
     "shape": "hexagon",
-    "title": "234D,48P,52X,53,N252",
+    "title": "234C,234D,48P,52X,53,N252",
     "x": 5151.999999999645,
     "y": -36270.00000000002
   },
@@ -137206,10 +137239,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "B5BB97F8CB889AB7",
-    "value": 5,
+    "value": 6,
     "label": "浪翠園第三期 (TW194)",
     "shape": "hexagon",
-    "title": "234D,48P,52X,53,N252",
+    "title": "234C,234D,48P,52X,53,N252",
     "x": 5437.999999999476,
     "y": -36368.99999999983
   },
@@ -137569,10 +137602,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "B714B480F96C22D5",
-    "value": 8,
+    "value": 9,
     "label": "小秀上村 (TM215)",
     "shape": "hexagon",
-    "title": "252,252S,252X,52X,53,61M,61P,N252",
+    "title": "252,252S,252X,261X,52X,53,61M,61P,N252",
     "x": -73.99999999933016,
     "y": -36798.99999999989
   },
@@ -139879,10 +139912,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "BF7FD3BC4994EBE5",
-    "value": 10,
+    "value": 11,
     "label": "小秀村 (TM318)",
     "shape": "hexagon",
-    "title": "252,252B,252S,252X,261B,52P,52X,53,61M,61P",
+    "title": "252,252B,252S,252X,261B,261X,52P,52X,53,61M,61P",
     "x": -132.99999999958345,
     "y": -36801.000000000175
   },
@@ -141518,10 +141551,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "C4E03BB27317AF35",
-    "value": 7,
+    "value": 8,
     "label": "浪翠園第四期 (TW335)",
     "shape": "hexagon",
-    "title": "234A,234D,261B,48P,52P,52X,53",
+    "title": "234A,234C,234D,261B,48P,52P,52X,53",
     "x": 5073.000000000149,
     "y": -36236.999999999854
   },
@@ -145488,6 +145521,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "D3071E4C5434ADE7",
+    "value": 1,
+    "label": "青發街簡約公屋總站 (TM874)",
+    "shape": "hexagon",
+    "title": "52P",
+    "x": -24.0000000005125,
+    "y": -36358.999999999854
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "D3139CF35C894BC8",
     "value": 3,
     "label": "紅磡邨 (HH351)",
@@ -146138,10 +146182,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "D4CE0ED4DF009B66",
-    "value": 8,
+    "value": 9,
     "label": "愛琴灣 (TM213)",
     "shape": "hexagon",
-    "title": "252,252S,252X,52X,53,61M,61P,N252",
+    "title": "252,252S,252X,261X,52X,53,61M,61P,N252",
     "x": 151.99999999992997,
     "y": -36637.99999999995
   },
@@ -159861,6 +159905,17 @@
     "title": "K51",
     "x": -90.00000000014552,
     "y": -36816.99999999992
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "K51-U205",
+    "value": 1,
+    "label": "青發街簡約公屋",
+    "shape": "hexagon",
+    "title": "K51",
+    "x": -7.999999999697138,
+    "y": -36362.000000000095
   },
   {
     "borderWidth": 0,
