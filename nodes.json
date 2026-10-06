@@ -28547,6 +28547,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "004004",
+    "value": 8,
+    "label": "菁田邨",
+    "shape": "hexagon",
+    "title": "50,50R,55,950,955,B3A,N50,SP5B",
+    "x": -2769.0000000006876,
+    "y": -41309.000000000044
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "00408DDF35401A43",
     "value": 1,
     "label": "友愛邨 (TM165)",
@@ -75473,6 +75484,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "20015215",
+    "value": 1,
+    "label": "觀塘道, 新城工商中心外",
+    "shape": "hexagon",
+    "title": "103",
+    "x": 22870.000000000346,
+    "y": -31052.000000000036
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "20015216",
     "value": 1,
     "label": "開源道62號",
@@ -91573,17 +91595,6 @@
     "title": "90B",
     "x": 20756.000000000087,
     "y": -31730.99999999991
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "20023626",
-    "value": 1,
-    "label": "觀塘道, 新城工商中心外",
-    "shape": "hexagon",
-    "title": "103",
-    "x": 22745.999999999356,
-    "y": -31127.000000000036
   },
   {
     "borderWidth": 0,
@@ -121102,10 +121113,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "7E2611CD03F9450A",
-    "value": 5,
+    "value": 4,
     "label": "馬鞍山市中心 (MA307)",
     "shape": "hexagon",
-    "title": "86K,86S,89S,99,99R",
+    "title": "86K,89S,99,99R",
     "x": 23178.000000000055,
     "y": -42460.00000000017
   },
@@ -143223,10 +143234,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "CA7CE166F4E6677F",
-    "value": 3,
+    "value": 4,
     "label": "馬鞍山市中心 (MA308)",
     "shape": "hexagon",
-    "title": "286C,85M,86C",
+    "title": "286C,85M,86C,86S",
     "x": 23172.999999999887,
     "y": -42458.99999999985
   },
