@@ -26942,10 +26942,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "003760",
-    "value": 11,
+    "value": 8,
     "label": "菁田邨",
     "shape": "hexagon",
-    "title": "50,50M,50R,55,56,56A,950,955,B3A,N50,SP5B",
+    "title": "50,50M,55,56,56A,950,955,N50",
     "x": -2777.0000000003847,
     "y": -41294.99999999986
   },
@@ -75473,17 +75473,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "20015215",
-    "value": 1,
-    "label": "觀塘道, 官塘工業中心外",
-    "shape": "hexagon",
-    "title": "103",
-    "x": 22870.000000000346,
-    "y": -31052.000000000036
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "20015216",
     "value": 1,
     "label": "開源道62號",
@@ -85683,7 +85672,7 @@
     "borderWidthSelected": 1,
     "id": "20017917",
     "value": 1,
-    "label": "承昌道, 近香港兒童醫院臨床服務大樓",
+    "label": "香港兒童醫院",
     "shape": "hexagon",
     "title": "90B",
     "x": 20904.000000000167,
@@ -89511,7 +89500,7 @@
     "borderWidthSelected": 1,
     "id": "20021392",
     "value": 1,
-    "label": "承昌道近香港兒童醫院",
+    "label": "香港兒童醫院",
     "shape": "hexagon",
     "title": "88A",
     "x": 20929.999999999894,
@@ -89626,6 +89615,17 @@
     "title": "88A",
     "x": 19581.999999999767,
     "y": -33931.00000000011
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20021403",
+    "value": 1,
+    "label": "黃大仙巴士總站",
+    "shape": "hexagon",
+    "title": "88A",
+    "x": 19483.999999999924,
+    "y": -34078.99999999984
   },
   {
     "borderWidth": 0,
@@ -91529,6 +91529,61 @@
     "title": "103",
     "x": 22745.00000000046,
     "y": -31130.999999999887
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20023494",
+    "value": 1,
+    "label": "啟德醫院",
+    "shape": "hexagon",
+    "title": "88A",
+    "x": 20647.999999999913,
+    "y": -31825.999999999865
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20023527",
+    "value": 4,
+    "label": "啟德醫院",
+    "shape": "hexagon",
+    "title": "86,88A,90A,90B",
+    "x": 20632.000000000517,
+    "y": -31831.999999999993
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20023560",
+    "value": 1,
+    "label": "啟德醫院",
+    "shape": "hexagon",
+    "title": "90A",
+    "x": 20763.99999999978,
+    "y": -31735.000000000113
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20023593",
+    "value": 1,
+    "label": "啟德醫院",
+    "shape": "hexagon",
+    "title": "90B",
+    "x": 20756.000000000087,
+    "y": -31730.99999999991
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
+    "id": "20023626",
+    "value": 1,
+    "label": "觀塘道, 新城工商中心外",
+    "shape": "hexagon",
+    "title": "103",
+    "x": 22745.999999999356,
+    "y": -31127.000000000036
   },
   {
     "borderWidth": 0,
