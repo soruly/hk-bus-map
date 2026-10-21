@@ -315550,26 +315550,6 @@
       }
     },
     "from": "5238463F47B490D6",
-    "to": "8660BDF2C013FAC2",
-    "value": 1,
-    "title": "61S",
-    "label": "589",
-    "color": "red"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "5238463F47B490D6",
     "to": "C1BF4509359B0895",
     "value": 2,
     "title": "261X,N260",
@@ -345731,8 +345711,8 @@
     },
     "from": "6FB7BC1E5BC1E4EE",
     "to": "5238463F47B490D6",
-    "value": 2,
-    "title": "261X,61S",
+    "value": 1,
+    "title": "261X",
     "label": "598",
     "color": "red"
   },
@@ -356351,8 +356331,8 @@
     },
     "from": "7AC6625D894BA101",
     "to": "CBE54DB551C24A02",
-    "value": 8,
-    "title": "261X,61S,63X,68A,960A,960C,960P,960X",
+    "value": 7,
+    "title": "261X,63X,68A,960A,960C,960P,960X",
     "label": "403",
     "color": "red"
   },
@@ -367054,26 +367034,6 @@
     "value": 3,
     "title": "A33X,NA33",
     "label": "1392",
-    "color": "red"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "8660BDF2C013FAC2",
-    "to": "EC49B6F5634BC0C2",
-    "value": 1,
-    "title": "61S",
-    "label": "230",
     "color": "red"
   },
   {
@@ -404129,26 +404089,6 @@
         "max": 8
       }
     },
-    "from": "AA5CBDB0758443A9",
-    "to": "6FB7BC1E5BC1E4EE",
-    "value": 1,
-    "title": "61S",
-    "label": "19257",
-    "color": "red"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
     "from": "AA5DA45828958EAE",
     "to": "876057D899CE09C9",
     "value": 8,
@@ -435838,26 +435778,6 @@
       }
     },
     "from": "CBE54DB551C24A02",
-    "to": "AA5CBDB0758443A9",
-    "value": 1,
-    "title": "61S",
-    "label": "19246",
-    "color": "red"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "CBE54DB551C24A02",
     "to": "0C677A6B6266DB52",
     "value": 2,
     "title": "58M,58X",
@@ -466303,8 +466223,8 @@
     },
     "from": "EC49B6F5634BC0C2",
     "to": "7AC6625D894BA101",
-    "value": 2,
-    "title": "261X,61S",
+    "value": 1,
+    "title": "261X",
     "label": "649",
     "color": "red"
   },
