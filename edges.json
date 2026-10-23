@@ -298075,26 +298075,6 @@
         "max": 8
       }
     },
-    "from": "414AD39F5040C30F",
-    "to": "3106E04BB81D74A8",
-    "value": 1,
-    "title": "SP12",
-    "label": "23075",
-    "color": "red"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
     "from": "4167D2781EB3027C",
     "to": "551DEE0C7120DECD",
     "value": 1,
