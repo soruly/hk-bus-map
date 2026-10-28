@@ -115090,6 +115090,26 @@
       }
     },
     "from": "145515B1D2C60CAF",
+    "to": "FC3C8F9B155E41DE",
+    "value": 1,
+    "title": "265B",
+    "label": "88",
+    "color": "red"
+  },
+  {
+    "arrows": {
+      "to": {
+        "enabled": true,
+        "scaleFactor": 0.5
+      }
+    },
+    "scaling": {
+      "label": {
+        "min": 8,
+        "max": 8
+      }
+    },
+    "from": "145515B1D2C60CAF",
     "to": "173B9ED2BF5D995C",
     "value": 5,
     "title": "16,16P,16X,93P",
@@ -297076,29 +297096,9 @@
       }
     },
     "from": "405DE12B9200AD9F",
-    "to": "FC3C8F9B155E41DE",
-    "value": 1,
-    "title": "265B",
-    "label": "310",
-    "color": "red"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "405DE12B9200AD9F",
     "to": "145515B1D2C60CAF",
-    "value": 8,
-    "title": "16,16P,16X,33A,72X,887,93P",
+    "value": 9,
+    "title": "16,16P,16X,265B,33A,72X,887,93P",
     "label": "329",
     "color": "red"
   },
