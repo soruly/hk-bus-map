@@ -130598,8 +130598,8 @@
     },
     "from": "20000215",
     "to": "20002787",
-    "value": 2,
-    "title": "68,69",
+    "value": 1,
+    "title": "69",
     "label": "192"
   },
   {
@@ -145437,7 +145437,7 @@
     },
     "from": "20001228",
     "to": "20002225",
-    "value": 2,
+    "value": 1,
     "title": "811B",
     "label": "162"
   },
@@ -152429,7 +152429,7 @@
     },
     "from": "20001564",
     "to": "20015773",
-    "value": 3,
+    "value": 2,
     "title": "811B,811S",
     "label": "1564"
   },
@@ -160333,7 +160333,7 @@
     },
     "from": "20002225",
     "to": "20002320",
-    "value": 6,
+    "value": 5,
     "title": "807C,810,811B,811S",
     "label": "321"
   },
@@ -160371,7 +160371,7 @@
     },
     "from": "20002226",
     "to": "20002288",
-    "value": 6,
+    "value": 5,
     "title": "808,808P,811B",
     "label": "746"
   },
@@ -160447,7 +160447,7 @@
     },
     "from": "20002228",
     "to": "20015651",
-    "value": 5,
+    "value": 4,
     "title": "810,811B,811S",
     "label": "977"
   },
@@ -162290,7 +162290,7 @@
     },
     "from": "20002288",
     "to": "20002228",
-    "value": 7,
+    "value": 6,
     "title": "806B,808,808P,811B",
     "label": "711"
   },
@@ -162898,7 +162898,7 @@
     },
     "from": "20002320",
     "to": "20002226",
-    "value": 3,
+    "value": 2,
     "title": "811B,811S",
     "label": "1248"
   },
@@ -165941,25 +165941,6 @@
     "value": 1,
     "title": "69",
     "label": "141"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "20002787",
-    "to": "20012991",
-    "value": 1,
-    "title": "68",
-    "label": "449"
   },
   {
     "arrows": {
@@ -206236,105 +206217,10 @@
       }
     },
     "from": "20012985",
-    "to": "20012986",
-    "value": 1,
-    "title": "68",
-    "label": "176"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "20012985",
     "to": "20012971",
     "value": 2,
     "title": "66,66A",
     "label": "40"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "20012986",
-    "to": "20012987",
-    "value": 1,
-    "title": "68",
-    "label": "325"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "20012987",
-    "to": "20012988",
-    "value": 1,
-    "title": "68",
-    "label": "696"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "20012988",
-    "to": "20012989",
-    "value": 1,
-    "title": "68",
-    "label": "307"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "20012989",
-    "to": "20012990",
-    "value": 1,
-    "title": "68",
-    "label": "504"
   },
   {
     "arrows": {
@@ -206354,63 +206240,6 @@
     "value": 1,
     "title": "32A",
     "label": "108"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "20012990",
-    "to": "20000215",
-    "value": 1,
-    "title": "68",
-    "label": "289"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "20012991",
-    "to": "20012992",
-    "value": 1,
-    "title": "68",
-    "label": "509"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "20012992",
-    "to": "20012985",
-    "value": 1,
-    "title": "68",
-    "label": "714"
   },
   {
     "arrows": {
@@ -230747,7 +230576,7 @@
     },
     "from": "20015651",
     "to": "20001564",
-    "value": 6,
+    "value": 5,
     "title": "810,810A,811B,811S",
     "label": "523"
   },
@@ -232571,7 +232400,7 @@
     },
     "from": "20015772",
     "to": "20001228",
-    "value": 2,
+    "value": 1,
     "title": "811B",
     "label": "293"
   },
@@ -287129,8 +286958,8 @@
     },
     "from": "376B94FDBA371A25",
     "to": "9E42D981C59B5762",
-    "value": 1,
-    "title": "B10",
+    "value": 2,
+    "title": "B10,B10S",
     "label": "2208",
     "color": "red"
   },
@@ -390543,8 +390372,8 @@
     },
     "from": "9E42D981C59B5762",
     "to": "E16B85415973C1A2",
-    "value": 1,
-    "title": "B10",
+    "value": 2,
+    "title": "B10,B10S",
     "label": "8066",
     "color": "red"
   },
@@ -455455,8 +455284,8 @@
     },
     "from": "E16B85415973C1A2",
     "to": "C9A6689E84F83D1A",
-    "value": 1,
-    "title": "B10",
+    "value": 2,
+    "title": "B10,B10S",
     "label": "11445",
     "color": "red"
   },
