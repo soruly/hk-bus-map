@@ -115040,17 +115040,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "667E322246C6F7FA",
-    "value": 3,
-    "label": "湖景邨湖畔樓 (TM453)",
-    "shape": "hexagon",
-    "title": "259D,259X,59X",
-    "x": -3426.000000000329,
-    "y": -37390.99999999986
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "667FDF4DEF4D2BAE",
     "value": 7,
     "label": "長沙灣站 (SS681)",
@@ -141143,17 +141132,6 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
-    "id": "C1A148BD237E4438",
-    "value": 2,
-    "label": "東薈城 (TC416)",
-    "shape": "hexagon",
-    "title": "E31,E43",
-    "x": -5821.000000000254,
-    "y": -28994.000000000142
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
     "id": "C1A67D37CF256C9E",
     "value": 1,
     "label": "沙田圍巴士總站 (ST958)",
@@ -144329,17 +144307,6 @@
     "title": "49P,49X",
     "x": 18806.999999999618,
     "y": -38176.99999999995
-  },
-  {
-    "borderWidth": 0,
-    "borderWidthSelected": 1,
-    "id": "CCA79246B85CE408",
-    "value": 1,
-    "label": "東薈城 (TC415)",
-    "shape": "hexagon",
-    "title": "E41",
-    "x": -5831.000000000586,
-    "y": -29001.99999999984
   },
   {
     "borderWidth": 0,
@@ -155499,10 +155466,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "F2F74DC6ADD35CFF",
-    "value": 5,
+    "value": 6,
     "label": "富東廣場 (TC419)",
     "shape": "hexagon",
-    "title": "E31,E32,E42,E43,N31",
+    "title": "E31,E32,E41,E42,E43,N31",
     "x": -5803.000000000225,
     "y": -28874.000000000065
   },
