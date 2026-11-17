@@ -91577,6 +91577,17 @@
   {
     "borderWidth": 0,
     "borderWidthSelected": 1,
+    "id": "20023827",
+    "value": 1,
+    "label": "宏照道, 近宏緻苑",
+    "shape": "hexagon",
+    "title": "87",
+    "x": 20771.99999999948,
+    "y": -33035.99999999989
+  },
+  {
+    "borderWidth": 0,
+    "borderWidthSelected": 1,
     "id": "201",
     "value": 1,
     "label": "鍾屋村輕鐵站",
@@ -140407,10 +140418,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "BEFD9F22518EC452",
-    "value": 3,
+    "value": 1,
     "label": "聖保祿醫院",
     "shape": "hexagon",
-    "title": "108,936,936A",
+    "title": "108",
     "x": 18814.00000000042,
     "y": -27890.999999999978
   },
@@ -141144,10 +141155,10 @@
     "borderWidth": 0,
     "borderWidthSelected": 1,
     "id": "C175ACB534E8C15C",
-    "value": 11,
+    "value": 10,
     "label": "尖沙咀麼地道",
     "shape": "hexagon",
-    "title": "14X,213E,215X,26,26X,41A,5C,5P,8,98D,98P",
+    "title": "14X,215X,26,26X,41A,5C,5P,8,98D,98P",
     "x": 17543.000000000575,
     "y": -29782.000000000153
   },
