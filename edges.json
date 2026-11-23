@@ -398127,10 +398127,10 @@
       }
     },
     "from": "A71457854D13E9DE",
-    "to": "AC1E2BBDC663717F",
+    "to": "A07CC0A6D462A579",
     "value": 3,
     "title": "103,621,N182",
-    "label": "264",
+    "label": "645",
     "color": "red"
   },
   {
@@ -403931,26 +403931,6 @@
     "value": 1,
     "title": "261P",
     "label": "15009",
-    "color": "red"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "AC1E2BBDC663717F",
-    "to": "A07CC0A6D462A579",
-    "value": 3,
-    "title": "103,621,N182",
-    "label": "381",
     "color": "red"
   },
   {
