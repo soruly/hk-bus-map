@@ -496853,220 +496853,11 @@
         "max": 8
       }
     },
-    "from": "LR001",
-    "to": "LR010",
-    "value": 1,
-    "title": "506P*",
-    "label": "670"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "LR010",
-    "to": "LR015",
-    "value": 1,
-    "title": "506P*",
-    "label": "351"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "LR015",
-    "to": "LR020",
-    "value": 1,
-    "title": "506P*",
-    "label": "443"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "LR020",
-    "to": "LR030",
-    "value": 1,
-    "title": "506P*",
-    "label": "415"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "LR030",
-    "to": "LR040",
-    "value": 1,
-    "title": "506P*",
-    "label": "606"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "LR040",
-    "to": "LR050",
-    "value": 1,
-    "title": "506P*",
-    "label": "440"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "LR050",
-    "to": "LR060",
-    "value": 1,
-    "title": "506P*",
-    "label": "177"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "LR060",
-    "to": "LR295",
-    "value": 1,
-    "title": "506P*",
-    "label": "479"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "LR070",
-    "to": "LR295",
-    "value": 2,
-    "title": "507P*,751*",
-    "label": "407"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "LR075",
-    "to": "LR070",
-    "value": 2,
-    "title": "507P*,751*",
-    "label": "303"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "LR080",
-    "to": "LR075",
-    "value": 1,
-    "title": "751*",
-    "label": "433"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "LR090",
-    "to": "LR080",
-    "value": 1,
-    "title": "751*",
-    "label": "493"
+    "from": "LR1",
+    "to": "LR240",
+    "value": 3,
+    "title": "507,614,614P",
+    "label": "282"
   },
   {
     "arrows": {
@@ -497083,28 +496874,9 @@
     },
     "from": "LR1",
     "to": "LR10",
-    "value": 3,
-    "title": "610,615,615P",
+    "value": 4,
+    "title": "506P*,610,615,615P",
     "label": "670"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "LR1",
-    "to": "LR240",
-    "value": 3,
-    "title": "507,614,614P",
-    "label": "282"
   },
   {
     "arrows": {
@@ -497140,28 +496912,9 @@
     },
     "from": "LR10",
     "to": "LR15",
-    "value": 3,
-    "title": "610,615,615P",
+    "value": 4,
+    "title": "506P*,610,615,615P",
     "label": "351"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "LR100",
-    "to": "LR090",
-    "value": 1,
-    "title": "751*",
-    "label": "472"
   },
   {
     "arrows": {
@@ -497216,8 +496969,8 @@
     },
     "from": "LR100",
     "to": "LR90",
-    "value": 3,
-    "title": "610,610P*,751",
+    "value": 4,
+    "title": "610,610P*,751*,751",
     "label": "472"
   },
   {
@@ -497463,8 +497216,8 @@
     },
     "from": "LR15",
     "to": "LR20",
-    "value": 3,
-    "title": "610,615,615P",
+    "value": 4,
+    "title": "506P*,610,615,615P",
     "label": "443"
   },
   {
@@ -497691,8 +497444,8 @@
     },
     "from": "LR20",
     "to": "LR30",
-    "value": 3,
-    "title": "610,615,615P",
+    "value": 4,
+    "title": "506P*,610,615,615P",
     "label": "415"
   },
   {
@@ -497880,25 +497633,6 @@
       }
     },
     "from": "LR230",
-    "to": "LR075",
-    "value": 1,
-    "title": "507P*",
-    "label": "282"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "LR230",
     "to": "LR220",
     "value": 3,
     "title": "507,610,610P*",
@@ -497919,27 +497653,8 @@
     },
     "from": "LR230",
     "to": "LR75",
-    "value": 1,
-    "title": "507",
-    "label": "282"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "LR240",
-    "to": "LR001",
     "value": 2,
-    "title": "507P*,751*",
+    "title": "507,507P*",
     "label": "282"
   },
   {
@@ -497976,8 +497691,8 @@
     },
     "from": "LR240",
     "to": "LR1",
-    "value": 3,
-    "title": "507,614,614P",
+    "value": 5,
+    "title": "507,507P*,614,614P,751*",
     "label": "282"
   },
   {
@@ -498356,8 +498071,8 @@
     },
     "from": "LR30",
     "to": "LR40",
-    "value": 3,
-    "title": "610,615,615P",
+    "value": 4,
+    "title": "506P*,610,615,615P",
     "label": "606"
   },
   {
@@ -498812,8 +498527,8 @@
     },
     "from": "LR40",
     "to": "LR50",
-    "value": 3,
-    "title": "610,615,615P",
+    "value": 4,
+    "title": "506P*,610,615,615P",
     "label": "440"
   },
   {
@@ -499418,6 +499133,25 @@
         "max": 8
       }
     },
+    "from": "LR50",
+    "to": "LR60",
+    "value": 1,
+    "title": "506P*",
+    "label": "177"
+  },
+  {
+    "arrows": {
+      "to": {
+        "enabled": true,
+        "scaleFactor": 0.5
+      }
+    },
+    "scaling": {
+      "label": {
+        "min": 8,
+        "max": 8
+      }
+    },
     "from": "LR500",
     "to": "LR490",
     "value": 2,
@@ -499819,8 +499553,8 @@
     },
     "from": "LR60",
     "to": "LR295",
-    "value": 1,
-    "title": "505",
+    "value": 2,
+    "title": "505,506P*",
     "label": "479"
   },
   {
@@ -499895,8 +499629,8 @@
     },
     "from": "LR70",
     "to": "LR295",
-    "value": 2,
-    "title": "507,751",
+    "value": 4,
+    "title": "507,507P*,751*,751",
     "label": "407"
   },
   {
@@ -499952,8 +499686,8 @@
     },
     "from": "LR75",
     "to": "LR70",
-    "value": 2,
-    "title": "507,751",
+    "value": 4,
+    "title": "507,507P*,751*,751",
     "label": "303"
   },
   {
@@ -499971,8 +499705,8 @@
     },
     "from": "LR80",
     "to": "LR75",
-    "value": 1,
-    "title": "751",
+    "value": 2,
+    "title": "751*,751",
     "label": "433"
   },
   {
@@ -500028,8 +499762,8 @@
     },
     "from": "LR90",
     "to": "LR80",
-    "value": 3,
-    "title": "610,610P*,751",
+    "value": 4,
+    "title": "610,610P*,751*,751",
     "label": "493"
   },
   {
