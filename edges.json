@@ -126711,8 +126711,8 @@
     },
     "from": "1FFFFBAE28F48D03",
     "to": "A07CC0A6D462A579",
-    "value": 2,
-    "title": "690,690S",
+    "value": 5,
+    "title": "103,621,690,690S,N182",
     "label": "372",
     "color": "red"
   },
@@ -398087,26 +398087,6 @@
       }
     },
     "from": "A71457854D13E9DE",
-    "to": "1FFFFBAE28F48D03",
-    "value": 2,
-    "title": "690,690S",
-    "label": "274",
-    "color": "red"
-  },
-  {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 0.5
-      }
-    },
-    "scaling": {
-      "label": {
-        "min": 8,
-        "max": 8
-      }
-    },
-    "from": "A71457854D13E9DE",
     "to": "2B9DA1FE14596F2E",
     "value": 3,
     "title": "619,619X,N619",
@@ -398127,10 +398107,10 @@
       }
     },
     "from": "A71457854D13E9DE",
-    "to": "A07CC0A6D462A579",
-    "value": 3,
-    "title": "103,621,N182",
-    "label": "645",
+    "to": "1FFFFBAE28F48D03",
+    "value": 5,
+    "title": "103,621,690,690S,N182",
+    "label": "274",
     "color": "red"
   },
   {
